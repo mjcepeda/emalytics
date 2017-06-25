@@ -1,0 +1,991 @@
+business_name;rank;review_count;categories;rating;address;longitude;latitude;price_range;url
+Bar Nancy;1;35;Cocktail Bars;4.5;2007 SW 8th St Miami, FL 33135;25.76576;-80.228279;2;https://www.yelp.com/biz/bar-nancy-miami
+SHOTS Miami;2;189;Dance Clubs,Bars,American (New);4.0;311 NW 23rd St Miami, FL 33127;25.799683;-80.201511;2;https://www.yelp.com/biz/shots-miami-miami
+Lilt Lounge;3;71;Lounges,Venues & Event Spaces,Cocktail Bars;4.5;270 Biscayne Boulevard Way Miami, FL 33131;25.7702990617159;-80.1890780165329;2;https://www.yelp.com/biz/lilt-lounge-miami
+E11EVEN MIAMI;4;189;Dance Clubs;3.0;29 NE 11th St Miami, FL 33132;25.7849662;-80.193544;3;https://www.yelp.com/biz/e11even-miami-miami-5
+Tabiza Nightclub Hospitality;5;6;Dance Clubs,Party & Event Planning;5.0;1621 Collins Ave Miami Beach, FL 33139;25.789912;-80.129104;2;https://www.yelp.com/biz/tabiza-nightclub-hospitality-miami-beach-2
+Lagniappe;6;545;Barbeque,Music Venues,Wine Bars;4.5;3425 NE 2nd Ave Miami, FL 33137;25.8090801239014;-80.191162109375;2;https://www.yelp.com/biz/lagniappe-miami-3
+Blackbird Ordinary;7;456;Cocktail Bars;4.0;729 SW 1st Ave Miami, FL 33130;25.766520161458;-80.1951742168062;2;https://www.yelp.com/biz/blackbird-ordinary-miami
+Hookita Lounge;8;30;Hookah Bars,Coffee & Tea,Lounges;5.0;14232 SW 8th St Miami, FL 33184;25.7608617;-80.4255586;1;https://www.yelp.com/biz/hookita-lounge-miami
+The Comedy Inn;9;16;Comedy Clubs,Performing Arts;5.0;14501 S Dixie Hwy Miami, FL 33176;25.634922;-80.337614;2;https://www.yelp.com/biz/the-comedy-inn-miami
+The Wynwood Yard;10;138;Bars,Food Trucks,Music Venues;4.5;;25.803639;-80.196274;2;https://www.yelp.com/biz/the-wynwood-yard-miami
+Floyd Miami;12;3;Cocktail Bars,Music Venues,Lounges;5.0;34 NE 11th St Miami, FL 33132;25.7844757;-80.1931356;2;https://www.yelp.com/biz/floyd-miami-miami
+Green Spot Botanicals;13;14;Cocktail Bars;5.0;5855 Bird Rd Miami, FL 33155;25.7341460863441;-80.2900970785389;1;https://www.yelp.com/biz/green-spot-botanicals-miami
+Sidebar;14;59;Lounges,Music Venues,Venues & Event Spaces;3.5;337 SW 8th St Miami, FL 33130;25.7665815;-80.1998829;2;https://www.yelp.com/biz/sidebar-miami-2
+Ball & Chain;15;500;Music Venues,Bars,Tapas/Small Plates;4.0;1513 SW 8th St Miami, FL 33135;25.7658649;-80.2197635;2;https://www.yelp.com/biz/ball-and-chain-miami-2
+The Bend Liquor Lounge;16;99;Cocktail Bars,Lounges;4.5;6844 NW 169th St Miami, FL 33015;25.9254190468578;-80.3110476259993;1;https://www.yelp.com/biz/the-bend-liquor-lounge-miami-2
+Amor di Pasta;17;47;Pizza,Italian,Wine Bars;5.0;536 NW 57th Ave Miami, FL 33126;25.7768358;-80.2886574;2;https://www.yelp.com/biz/amor-di-pasta-miami-3
+MO Bar + Lounge;18;26;Lounges,Cocktail Bars;4.5;500 Brickell Key Dr Miami, FL 33131;25.765208794953;-80.1853515380287;2;https://www.yelp.com/biz/mo-bar-lounge-miami
+The Room 316;19;1;Cocktail Bars;5.0;1750 NW 107th Ave Miami, FL 33172;25.7903386;-80.3692968;2;https://www.yelp.com/biz/the-room-316-miami
+Rooftop Bar at 1 Hotel;20;19;Lounges;4.0;2341 Collins Ave Miami Beach, FL 33139;25.7991505920703;-80.1271524263234;3;https://www.yelp.com/biz/rooftop-bar-at-1-hotel-miami-beach
+Booby Trap On The River;21;2;Bars,Dance Clubs,Adult Entertainment;3.5;3615 NW S River Dr Miami, FL 33142;25.8028896;-80.2550465;2;https://www.yelp.com/biz/booby-trap-on-the-river-miami
+Komodo;22;314;Asian Fusion,Lounges;3.5;801 Brickell Ave Miami, FL 33131;25.7653468682438;-80.1906713264588;3;https://www.yelp.com/biz/komodo-miami-2
+ROOFTOP AT E11EVEN;23;127;Lounges,Tapas/Small Plates,Tacos;3.5;15 NE 11th St Miami, FL 33132;25.7850011;-80.193509;3;https://www.yelp.com/biz/rooftop-at-e11even-miami-4
+Siboney Discoteca;24;2;Dance Clubs,Lounges;4.5;6051 SW 8th St Miami, FL 33144;25.7633726034668;-80.2941022623165;3;https://www.yelp.com/biz/siboney-discoteca-miami
+Heart Nightclub;25;35;Dance Clubs,Bars;3.5;50 NE 11th St Miami, FL 33132;25.7845364;-80.1928506;2;https://www.yelp.com/biz/heart-nightclub-miami-2
+Copper 29 Bar;26;135;Cocktail Bars,Gastropubs;4.0;206 Miracle Mile Coral Gables, FL 33134;25.749512;-80.2590376;2;https://www.yelp.com/biz/copper-29-bar-coral-gables
+Brick;27;201;Beer Gardens,Gastropubs,Music Venues;3.5;187 NW 28th St Miami, FL 33127;25.803187;-80.198855;2;https://www.yelp.com/biz/brick-miami-2
+A Party Hall;28;2;Dance Clubs,Venues & Event Spaces;5.0;10957 SW 186th St Miami, FL 33157;25.595866;-80.366265;2;https://www.yelp.com/biz/a-party-hall-miami
+Bululu Miami;29;36;Beer Bar,Tapas Bars,Gastropubs;4.5;1701 NW 112th Ave Miami, FL 33172;25.7898637164108;-80.3764858469367;2;https://www.yelp.com/biz/bululu-miami-miami
+Level One;30;7;Lounges,Cocktail Bars,Gastropubs;3.5;1110 S Miami Ave Miami, FL 33130;25.7631624;-80.1931864;2;https://www.yelp.com/biz/level-one-miami
+Blume;31;6;Dance Clubs,Lounges;3.5;1421 South Miami Ave Miami, FL 33131;25.7606523735009;-80.1935460906218;3;https://www.yelp.com/biz/blume-miami
+EDUKOS;32;15;Gastropubs,Beer Bar,Venezuelan;5.0;1701 W Flagler St Miami, FL 33135;25.7734666;-80.2231434;2;https://www.yelp.com/biz/edukos-miami
+Redbar Brickell;33;67;Lounges;4.0;52 SW 10th St Miami, FL 33130;25.7643524;-80.1942249;2;https://www.yelp.com/biz/redbar-brickell-miami
+Wynwood 5th Ave;34;5;Cocktail Bars,Lounges;4.0;2451 NW 5th Ave Miami, FL 33127;25.800432;-80.202827;2;https://www.yelp.com/biz/wynwood-5th-ave-miami
+Erotica Cabaret;35;4;Champagne Bars,Adult Entertainment,Cocktail Bars;3.0;1795 W Okeechobee Rd Hialeah, FL 33010;25.8378781;-80.3003959;1;https://www.yelp.com/biz/erotica-cabaret-hialeah
+Station 28;36;64;Sandwiches,Peruvian,Sports Bars;4.5;91 SE 2nd St Miami, FL 33131;25.7728914339146;-80.1921365315806;1;https://www.yelp.com/biz/station-28-miami-3
+Prohibition Restaurant and Speakeasy;37;537;Tapas/Small Plates,Lounges,Cocktail Bars;4.0;3404 N Miami Ave Miami, FL 33127;25.8084208;-80.1953745;2;https://www.yelp.com/biz/prohibition-restaurant-and-speakeasy-miami
+Sherwoods Bistro & Bar;38;22;Bars,American (Traditional);4.5;8281 NE 2nd Ave Miami, FL 33138;25.8512659;-80.1925955;2;https://www.yelp.com/biz/sherwoods-bistro-and-bar-miami
+Miami Light Project;39;4;Music Venues;5.0;404 NW 26th St Miami, FL 33127;25.8012185;-80.2024718;2;https://www.yelp.com/biz/miami-light-project-miami
+Bitter Truth;40;32;Cocktail Bars,Music Venues;4.0;3252 1st Ave Miami, FL 33137;25.806905;-80.19371;2;https://www.yelp.com/biz/bitter-truth-miami
+Oxygen Hookah Lounge;41;26;Hookah Bars;4.0;901 S Miami Ave Miami, FL 33130;25.7649186555196;-80.1928737888161;2;https://www.yelp.com/biz/oxygen-hookah-lounge-miami-4
+FIFTY Ultra Lounge;42;86;Lounges;2.5;485 Brickell Ave Miami, FL 33131;25.7687617;-80.1889081;3;https://www.yelp.com/biz/fifty-ultra-lounge-miami
+LIV;43;546;Dance Clubs,Lounges;3.0;4441 Collins Ave Miami Beach, FL 33141;25.817974;-80.122305;4;https://www.yelp.com/biz/liv-miami-beach-4
+Jada Coles;44;29;Cocktail Bars,Music Venues;4.0;2845 Coral Way Miami, FL 33145;25.7504946;-80.2402618;2;https://www.yelp.com/biz/jada-coles-miami-3
+Wood Tavern;45;517;Bars,American (Traditional);4.0;2531 NW 2nd Ave Miami, FL 33127;25.8013582;-80.1989863;1;https://www.yelp.com/biz/wood-tavern-miami
+Fusse Studios;46;7;Art Galleries,Venues & Event Spaces,Music Venues;4.5;327 NE 59th Ter Miami, FL 33137;25.8306412;-80.1900387;3;https://www.yelp.com/biz/fusse-studios-miami-4
+Eddie’s Place;47;14;Pubs;4.0;12606 SW 8th St Miami, FL 33184;25.7605668289954;-80.3999983682617;1;https://www.yelp.com/biz/eddies-place-miami
+Vacancy Bar;48;1;Cocktail Bars;5.0;13700 SW 139th Ct Miami, FL 33186;25.6395031678421;-80.420398535026;2;https://www.yelp.com/biz/vacancy-bar-miami
+BARRIO MOJITO BAR & LOUNGE;49;5;Lounges,Cocktail Bars;4.0;299 NW 23rd St Miami, FL 33127;25.7994628;-80.2010875;2;https://www.yelp.com/biz/barrio-mojito-bar-and-lounge-miami
+Sugar;50;157;Cocktail Bars;3.0;788 Brickell Plz Miami, FL 33131;25.766551;-80.192162;3;https://www.yelp.com/biz/sugar-miami-2
+Pawn Broker;51;144;Cocktail Bars;4.0;121 SE 1st St Miami, FL 33131;25.773637;-80.1914089;2;https://www.yelp.com/biz/pawn-broker-miami
+Club Space;52;201;Dance Clubs,Bars;3.0;34 NE 11th St Miami, FL 33132;25.7844757;-80.1931356;3;https://www.yelp.com/biz/club-space-miami
+Black Market Miami;53;24;Sports Bars,American (New);3.5;168 SE 1st St Miami, FL 33131;25.7732501;-80.1905033;2;https://www.yelp.com/biz/black-market-miami-miami
+Second Saturday;54;83;Art Galleries,Food Trucks,Music Venues;4.5;Wynwood Art Walk Miami, FL 33137;25.7984229470265;-80.198746919632;1;https://www.yelp.com/biz/second-saturday-miami-3
+Acme Lounge;55;20;Cocktail Bars,Lounges,Pizza;4.5;70 NE 17th St Miami, FL 33132;25.791517;-80.19292;2;https://www.yelp.com/biz/acme-lounge-miami
+Biltmore Bar;56;19;Bars;4.0;1200 Anastasia Ave Coral Gables, FL 33134;25.740819;-80.2795994;3;https://www.yelp.com/biz/biltmore-bar-coral-gables-2
+Wasska Lounge;57;9;Cocktail Bars,Lounges,Wine Bars;4.0;105 NE 3rd Ave Miami, FL 33132;25.7756423036425;-80.1885296249111;2;https://www.yelp.com/biz/wasska-lounge-miami
+Ventanas Restaurant Bar & Lounge;58;8;Latin American,Bars;4.5;3861 SW 40th St Miami, FL 33146;25.7349585;-80.2573934;2;https://www.yelp.com/biz/ventanas-restaurant-bar-and-lounge-miami
+Gramps;59;227;Bars,Music Venues,Comedy Clubs;4.0;176 NW 24th St Miami, FL 33127;25.7996102;-80.1982861;2;https://www.yelp.com/biz/gramps-miami
+DWNTWN Miami Concert Series;60;6;Festivals,Music Venues;5.0;301 N Biscayne Blvd Miami, FL 33131;25.765925;-80.191087;1;https://www.yelp.com/biz/dwntwn-miami-concert-series-miami
+Brasas y Vinos Restaurante;61;6;Peruvian,Argentine,Wine Bars;4.0;235 Park Blvd Miami, FL 33126;25.7726453;-80.3264641;2;https://www.yelp.com/biz/brasas-y-vinos-restaurante-miami
+W XYZ Bar;62;15;Lounges,Cocktail Bars;4.0;3265 NW 107th Ave Doral, FL 33172;25.8035293926083;-80.3686591610312;2;https://www.yelp.com/biz/w-xyz-bar-doral
+New World Events LLC;63;54;Party & Event Planning,Dance Clubs;5.0;1340 Lincoln Rd Miami Beach, FL 33139;25.790085;-80.143261;2;https://www.yelp.com/biz/new-world-events-llc-miami-beach
+Club Bailo;64;7;Dance Clubs,Gay Bars,Music Venues;3.0;7020 NW 72nd Ave Miami, FL 33166;25.8377874;-80.314703;2;https://www.yelp.com/biz/club-bailo-miami
+La Shangrila Karaoke;65;58;Karaoke,Bars;4.0;10720 W Flagler St Miami, FL 33174;25.7671333;-80.369692;2;https://www.yelp.com/biz/la-shangrila-karaoke-miami-4
+Hookah Village;66;25;Hookah Bars;4.5;9457 SW 56th St Miami, FL 33165;25.7167813867073;-80.3474202811713;2;https://www.yelp.com/biz/hookah-village-miami
+La Gitana;67;2;Sports Bars;5.0;5 SW 55th Ave Rd Coral Gables, FL 33134;25.7707644;-80.2843293;1;https://www.yelp.com/biz/la-gitana-coral-gables-2
+Hookah Palace;68;4;Hookah Bars;5.0;11865 SW 26th St Miami, FL 33175;25.7478589;-80.3883374;1;https://www.yelp.com/biz/hookah-palace-miami
+Casa De Montecristo by Prime Cigar & Whiskey Bar;69;34;Tobacco Shops,Whiskey Bars,Cocktail Bars;5.0;1106 S Miami Ave Miami, FL 33130;25.763224;-80.193432;3;https://www.yelp.com/biz/casa-de-montecristo-by-prime-cigar-and-whiskey-bar-miami
+LaBare Miami;70;9;Adult Entertainment;4.0;5325 NW 77th Ave Miami, FL 33166;25.8220126178137;-80.3208713796928;2;https://www.yelp.com/biz/labare-miami-miami
+Labios Bar;71;1;Dive Bars;5.0;1042 W Flagler St Miami, FL 33130;25.7735831;-80.2122888;1;https://www.yelp.com/biz/labios-bar-miami
+Key Hole;72;3;Bars,Music Venues;4.5;200 Crandon Blvd Key Biscayne, FL 33149;25.697655;-80.163677;2;https://www.yelp.com/biz/key-hole-key-biscayne-2
+Astor Social Club;73;15;Dance Clubs,Lounges;4.5;956 Washington Ave Miami Beach, FL 33139;25.7805366;-80.1332795;3;https://www.yelp.com/biz/astor-social-club-miami-beach
+Spazio Nightclub;74;17;Dance Clubs,Lounges;2.5;1421 S Miami Ave Miami, FL 33130;25.7602404;-80.1936043;3;https://www.yelp.com/biz/spazio-nightclub-miami
+Blue Martini Lounge;75;146;Lounges,American (New);3.0;8405 Mills Dr Miami, FL 33183;25.6892664;-80.3861056;2;https://www.yelp.com/biz/blue-martini-lounge-miami-2
+Kara-O-King DJ and Karaoke Entertainment;76;3;Karaoke,DJs;5.0;26521 SW 128th Ct Miami, FL 33155;25.5208109;-80.399402;2;https://www.yelp.com/biz/kara-o-king-dj-and-karaoke-entertainment-miami
+The Arketekt by Aficionados;77;13;American (New),Cocktail Bars;4.5;1200 Brickell Bay Dr Miami, FL 33131;25.7617386;-80.1903853;2;https://www.yelp.com/biz/the-arketekt-by-aficionados-miami
+El Divino;78;5;Karaoke,Cuban,Italian;5.0;835 NW 37th Ave Miami, FL 33125;25.7804977841898;-80.2552520111203;2;https://www.yelp.com/biz/el-divino-miami
+Blue Lamb Cuisine & Lounge;79;2;Lounges,American (New),Arts & Entertainment;5.0;3138 Coral Way Coral Gables, FL 33145;25.7499234;-80.244114;2;https://www.yelp.com/biz/blue-lamb-cuisine-and-lounge-coral-gables
+Villain Theater;80;27;Comedy Clubs;5.0;176 NW 24th St Miami, FL 33138;25.8517374282479;-80.1923709735274;1;https://www.yelp.com/biz/villain-theater-miami-2
+Stefano’s Lounge;81;1;Lounges;5.0;328 Crandon Blvd Key Biscayne, FL 33149;25.6954787;-80.1636455;2;https://www.yelp.com/biz/stefanos-lounge-key-biscayne
+Let’s Make a Daiquiri at Bayside;82;1;Cocktail Bars;4.0;401 Biscayne Blvd Miami, FL 33132;25.7781799432697;-80.1864946223606;0;https://www.yelp.com/biz/lets-make-a-daiquiri-at-bayside-miami
+Gravity Brewlab;83;2;Dive Bars,Pubs;5.0;2300 NW 2nd Ave Miami, FL 33127;25.799676;-80.19984;1;https://www.yelp.com/biz/gravity-brewlab-miami
+NiDo Caffe;84;367;Italian,Bars,American (Traditional);4.5;7295 Biscayne Blvd Miami, FL 33138;25.8423746;-80.184029;2;https://www.yelp.com/biz/nido-caffe-miami-3
+Baby Jane;85;81;Cocktail Bars,American (New);4.0;500 Brickell Ave Miami, FL 33131;25.7683404;-80.1906946;2;https://www.yelp.com/biz/baby-jane-miami-2
+The Bar at 1306;86;14;Bars,Venues & Event Spaces;4.0;1306 N Miami Ave Miami, FL 33136;25.787263;-80.194324;2;https://www.yelp.com/biz/the-bar-at-1306-miami-2
+Hole In the Wall;87;69;Sports Bars,American (Traditional);3.5;8002 SW 81st Dr Miami, FL 33143;25.694236005858;-80.3236081643362;2;https://www.yelp.com/biz/hole-in-the-wall-miami-4
+The Bar;88;230;Bars,American (Traditional);4.0;172 Giralda Ave Coral Gables, FL 33134;25.7511298;-80.2581816;2;https://www.yelp.com/biz/the-bar-coral-gables
+Mango’s Tropical Cafe;89;1061;Dance Clubs,Latin American,American (Traditional);3.5;900 Ocean Dr Miami Beach, FL 33139;25.7794108;-80.1311706;2;https://www.yelp.com/biz/mangos-tropical-cafe-miami-beach
+Backroom Live;90;2;Jazz & Blues,Music Venues;3.5;100TH Ave Sw 56 St Miami, FL 33165;25.715346;-80.35737;2;https://www.yelp.com/biz/backroom-live-miami-3
+Beaker & Gray;91;488;Cocktail Bars,American (New),Tapas/Small Plates;4.5;2637 N Miami Ave Miami, FL 33127;25.802335;-80.194733;2;https://www.yelp.com/biz/beaker-and-gray-miami
+Old’s Havana Cuban Bar & Cocina;92;118;Cuban,Bars;4.5;1442 SW 8th St Miami, FL 33135;25.7655942148975;-80.2192383373502;2;https://www.yelp.com/biz/olds-havana-cuban-bar-and-cocina-miami
+Conga Bar;93;2;Bars;4.5;401 Biscayne Blvd S Miami, FL 33132;25.7771510368439;-80.1847153421111;2;https://www.yelp.com/biz/conga-bar-miami
+The Awa Kava Lounge;94;8;Lounges,Venues & Event Spaces;5.0;3930 NW 2nd Ave Miami, FL 33137;25.8131792068609;-80.1997058913675;2;https://www.yelp.com/biz/the-awa-kava-lounge-miami-3
+Kukaramakara;95;5;Bars,American (New),Music Venues;2.0;8601 SW 124th Ave Miami, FL 33183;25.6881188;-80.3920289;0;https://www.yelp.com/biz/kukaramakara-miami-3
+Purdy Lounge;96;271;Dance Clubs;4.0;1811 Purdy Ave Miami Beach, FL 33139;25.7938805;-80.1441299;2;https://www.yelp.com/biz/purdy-lounge-miami-beach
+Therapy Miami;97;8;Dance Clubs;3.5;60 NE 11th St Miami, FL 33132;25.78458;-80.1927318;2;https://www.yelp.com/biz/therapy-miami-miami-2
+Blind Pig Miami;98;9;Cocktail Bars;3.5;28 NE 14th St Miami, FL 33132;25.7881933;-80.1936716;1;https://www.yelp.com/biz/blind-pig-miami-miami
+Deja VU;99;3;Dance Clubs;2.5;5757 SW 8th St Miami, FL 33144;25.763614;-80.2892331;2;https://www.yelp.com/biz/deja-vu-miami
+Hoy Como Ayer;100;39;Bars,Music Venues;4.0;2212 SW 8th St Miami, FL 33135;25.7652008;-80.2311047;2;https://www.yelp.com/biz/hoy-como-ayer-miami
+The Bar at Level 25;101;32;Lounges,American (New);3.5;1395 Brickell Ave Miami, FL 33131;25.7608893753058;-80.1917336001755;3;https://www.yelp.com/biz/the-bar-at-level-25-miami-2
+The Electric Pickle;102;128;Lounges,Music Venues;3.5;2826 N Miami Ave Miami, FL 33127;25.8036702;-80.1953112;2;https://www.yelp.com/biz/the-electric-pickle-miami
+The Persian P.;103;1;Adult Entertainment;5.0;NW 39th St Miami, FL;25.8119298640096;-80.1954991017573;2;https://www.yelp.com/biz/the-persian-p-miami
+Miami Studio City District;104;5;Recording & Rehearsal Studios,Video/Film Production,Music Venues;5.0;1933-43 NE 148th St Miami, FL 33181;25.9123657;-80.1603632;2;https://www.yelp.com/biz/miami-studio-city-district-miami-7
+Taberna Las Rosas;105;9;Dive Bars;4.5;2898 NW 7th Ave Miami, FL 33127;25.8034329;-80.207565;2;https://www.yelp.com/biz/taberna-las-rosas-miami
+Fat Tuesday;106;63;Bars;3.0;3015 Grand Ave Miami, FL 33133;25.7283681;-80.2419366;2;https://www.yelp.com/biz/fat-tuesday-miami
+Wynwood 5th Gyros;107;14;Greek,Mediterranean,Bars;4.5;2451 NW 5th Ave Miami, FL 33127;25.8005127;-80.2028067;2;https://www.yelp.com/biz/wynwood-5th-gyros-miami-3
+Providores & Publicans;108;15;Tapas Bars,Supper Clubs,Cocktail Bars;3.5;141 SW 7th St Miami, FL 33130;25.7675239;-80.1960334;2;https://www.yelp.com/biz/providores-and-publicans-miami
+Foxxy Lady Cabaret;109;4;Adult Entertainment;3.5;1792 NW 79th St Miami, FL 33147;25.8462077;-80.227201;1;https://www.yelp.com/biz/foxxy-lady-cabaret-miami-2
+Secret’s Bar;110;3;Dance Clubs,Dive Bars,Pool Halls;3.0;1750 NW 7th St Miami, FL 33125;25.779622;-80.224064;2;https://www.yelp.com/biz/secrets-bar-miami
+Bobbie’s Roundtable Lounge;111;2;Lounges;4.5;11205 NW 7th Ave Miami, FL 33168;25.8775147;-80.2101234;1;https://www.yelp.com/biz/bobbies-roundtable-lounge-miami
+Karaoke Plus;112;3;Karaoke,DJs;5.0;;25.7038331;-80.360297;0;https://www.yelp.com/biz/karaoke-plus-miami
+The Vault Lounge;113;;Dance Clubs,Lounges;0;139 NE 1st St Miami, FL 33132;25.775463104248;-80.1911315917969;3;https://www.yelp.com/biz/the-vault-lounge-miami
+Cava Flamenco Lounge Restaurant;114;96;Lounges,Spanish,Tapas Bars;3.5;3850 S W 8th St Coral Gables, FL 33134;25.764919;-80.258456;2;https://www.yelp.com/biz/cava-flamenco-lounge-restaurant-coral-gables
+Clevelander South Beach Hotel and Bar;115;939;Hotels,Sports Bars;3.5;1020 Ocean Dr Miami Beach, FL 33139;25.7807361;-80.1308866;2;https://www.yelp.com/biz/clevelander-south-beach-hotel-and-bar-miami-beach-2
+Round Table;116;6;Sports Bars,Lounges;4.5;11205 NW 7th Ave Miami, FL 33168;25.877563;-80.210083;1;https://www.yelp.com/biz/round-table-miami
+El Tucán;117;102;Cuban,Latin American,Lounges;3.5;1111 1st Ave Miami, FL 33130;25.763335;-80.194854;4;https://www.yelp.com/biz/el-tuc%C3%A1n-miami
+Extacy South;118;1;Dance Clubs,Adult Entertainment;5.0;23101 S Dixie Hwy Miami, FL 33170;25.5521760943473;-80.3949900716543;2;https://www.yelp.com/biz/extacy-south-miami
+55th Street Station;119;1;Restaurants,Lounges;5.0;5582 NE 4th Ct Miami, FL 33137;25.8276111;-80.1874041;0;https://www.yelp.com/biz/55th-street-station-miami
+El Mencey Restaurante;120;25;Spanish,Wine Bars;5.0;1001 SW 67th Ave Miami, FL 33144;25.7611884800325;-80.3037942945957;2;https://www.yelp.com/biz/el-mencey-restaurante-miami
+Bodega;121;780;Bars,Tacos;4.0;1220 16th St Miami Beaach, FL 33139;25.7886732;-80.1416061;2;https://www.yelp.com/biz/bodega-miami-beaach
+The Chill Concept;122;1;Music Venues,Museums;5.0;114 NE 20th Ter Miami, FL 33137;25.795958;-80.192457;2;https://www.yelp.com/biz/the-chill-concept-miami
+The Bohemia Room;123;5;Music Venues,Performing Arts;4.5;697 N Miami Ave Miami, FL 33136;25.7806919;-80.1936088;2;https://www.yelp.com/biz/the-bohemia-room-miami
+Caleb Auditorium;124;1;Music Venues;5.0;5400 NW 22nd Ave Miami, FL 33142;25.8247243;-80.2334124;0;https://www.yelp.com/biz/caleb-auditorium-miami
+Trade;125;25;Dance Clubs,Music Venues;4.5;1439 Washington Ave Miami Beach, FL 33139;25.7867765;-80.1314715;2;https://www.yelp.com/biz/trade-miami-beach
+SheLife;126;;Gay Bars,Dance Clubs;0;7335 NW 36th St Miami, FL 33166;25.8103453;-80.3157419;0;https://www.yelp.com/biz/shelife-miami-3
+Tucandela Bar;127;4;Dance Clubs,Lounges;4.0;1200 Brickell Bay Dr Miami, FL 33131;25.7618233;-80.190499;0;https://www.yelp.com/biz/tucandela-bar-miami-2
+El Patio Wynwood;128;180;Bars;2.5;167 NW 23rd St Miami, FL 33127;25.7993081;-80.1982503;2;https://www.yelp.com/biz/el-patio-wynwood-miami-3
+Better Days Miami;129;92;American (New),Lounges;3.5;500 Brickell Bldg Miami, FL 33131;25.7683001935229;-80.1913084834814;2;https://www.yelp.com/biz/better-days-miami-miami
+Tap 42;130;341;Gastropubs,Breakfast & Brunch,Beer Bar;4.0;301 Giralda Ave Coral Gables, FL 33134;25.7511526879356;-80.2609388498841;2;https://www.yelp.com/biz/tap-42-coral-gables-2
+The Anderson;131;100;Cocktail Bars,American (Traditional),Music Venues;4.0;709 NE 79th St Miami, FL 33138;25.8480887;-80.1822517;2;https://www.yelp.com/biz/the-anderson-miami
+White Glove International;132;1;Stadiums & Arenas,Music Venues,Ticket Sales;5.0;350 Biscayne Blvd Miami, FL 33132;25.7780742;-80.188822;0;https://www.yelp.com/biz/white-glove-international-miami
+El Capo Brickell;133;13;Cocktail Bars,Mexican;3.0;1250 S Miami Ave Miami, FL 33130;25.7621891519271;-80.1932182163;3;https://www.yelp.com/biz/el-capo-brickell-miami
+Bankers Club;134;2;Nightlife;3.0;1 Biscayne Tower Miami, FL 33131;25.76528;-80.1847167;1;https://www.yelp.com/biz/bankers-club-miami
+Zhantra Entertainment;135;3;Nightlife,Party & Event Planning;5.0;6711 NE 4th Ave Miami, FL 33138;25.8367135;-80.1890923;3;https://www.yelp.com/biz/zhantra-entertainment-miami-2
+Sr Ceviche - Aventura;136;86;Peruvian,Music Venues;4.0;2576 NE Miami Gardens Dr Miami, FL 33180;25.9473649;-80.1496614;2;https://www.yelp.com/biz/sr-ceviche-aventura-miami
+Kings Miami - Doral;137;30;American (Traditional),Bowling,Cocktail Bars;4.0;3450 NW 83rd Ave Doral, FL 33122;25.8073304098391;-80.3313092275635;2;https://www.yelp.com/biz/kings-miami-doral-doral
+Blue Martini Lounge;138;319;Lounges,American (New);3.0;900 S Miami Ave Miami, FL 33130;25.765364;-80.193363;2;https://www.yelp.com/biz/blue-martini-lounge-miami
+Seven Seas;139;66;Dive Bars,Karaoke,Sports Bars;3.5;2200 SW 57th Ave Miami, FL 33155;25.7501905541387;-80.2876140340382;1;https://www.yelp.com/biz/seven-seas-miami-3
+Area 31;140;521;Seafood,American (New),Cocktail Bars;3.5;270 Biscayne Boulevard Way Miami, FL 33131;25.7702253553012;-80.1896206576721;3;https://www.yelp.com/biz/area-31-miami
+Ebar;141;8;Coffee & Tea,Internet Cafes;3.5;7239 N Kendall Dr Miami, FL 33156;25.6897194;-80.3102279;2;https://www.yelp.com/biz/ebar-miami
+Tea & Poets;142;45;Coffee & Tea,Music Venues;5.0;5701 Sunset Dr South Miami, FL 33143;25.705662;-80.286362;1;https://www.yelp.com/biz/tea-and-poets-south-miami
+Wonderland Miami;143;33;American (New),Adult Entertainment;3.5;7770 Biscayne Blvd Miami, FL 33138;25.8468999;-80.1849927;3;https://www.yelp.com/biz/wonderland-miami-miami-3
+Twelve Miami;144;10;Dance Clubs;1.0;7335 NW 36th St Miami, FL 33166;25.810349;-80.3157317;2;https://www.yelp.com/biz/twelve-miami-miami
+Havana Jewel Cigars;145;9;Hookah Bars,Tobacco Shops;5.0;7313 SW 107th Ave Miami, FL 33173;25.6993074;-80.3661222;1;https://www.yelp.com/biz/havana-jewel-cigars-miami-2
+Open Stage Club;146;51;Bars,Music Venues,American (New);3.0;2325 Galiano St Coral Gables, FL 33134;25.7508552435874;-80.2566709567352;2;https://www.yelp.com/biz/open-stage-club-coral-gables
+G5IVE Miami;147;5;Adult Entertainment,Lounges;2.5;337 NW 170th St Miami, FL 33169;25.9308218;-80.2073047;3;https://www.yelp.com/biz/g5ive-miami-miami-2
+SoCal Cantina;148;25;Cocktail Bars,Tacos,Vegetarian;4.5;1000 S Miami Ave Miami, FL 33130;25.7642846;-80.1935585;2;https://www.yelp.com/biz/socal-cantina-miami
+Zucca;149;36;Italian,Lounges;4.0;162 Alcazar Ave Coral Gables, FL 33134;25.7528858184814;-80.2584686279297;3;https://www.yelp.com/biz/zucca-coral-gables
+Miami Beach SoundScape;150;35;Music Venues,Local Flavor;5.0;400 17th St Miami Beach, FL 33139;25.7916888384298;-80.1327570160774;1;https://www.yelp.com/biz/miami-beach-soundscape-miami-beach
+Bardot;151;221;Bars,Music Venues;3.0;3456 N Miami Ave Miami, FL 33127;25.8093320344536;-80.195584;2;https://www.yelp.com/biz/bardot-miami-2
+Playmates Club;152;19;Adult Entertainment,Bars,Chicken Wings;2.0;3875 Shipping Ave Miami, FL 33146;25.7332932;-80.2573898;2;https://www.yelp.com/biz/playmates-club-miami-2
+Karaoke Miami with Bernie;153;4;Karaoke,DJs,Musicians;5.0;;25.7327581;-80.3547286;2;https://www.yelp.com/biz/karaoke-miami-with-bernie-miami-2
+The Clevelander Marlins Park;154;44;American (New),Bars;3.5;501 Marlins Way Miami, FL 33125;25.7780846776859;-80.2184933685089;2;https://www.yelp.com/biz/the-clevelander-marlins-park-miami
+Point Lounge & Package Store;155;10;Dive Bars;4.0;2202 NE 123rd St Miami, FL 33181;25.8895291;-80.153695;2;https://www.yelp.com/biz/point-lounge-and-package-store-miami
+Las Rosas Bar Miami;156;1;Dive Bars;5.0;2898 NW 7th Ave Miami, FL 33127;25.80344;-80.20756;1;https://www.yelp.com/biz/las-rosas-bar-miami-miami
+Bougainvillea’s Old Florida Tavern;157;184;Bars,Music Venues;3.5;7221 SW 58th Ave South Miami, FL 33143;25.7037531;-80.2873176;1;https://www.yelp.com/biz/bougainvilleas-old-florida-tavern-south-miami-2
+The Floppy Rooster;158;31;Gay Bars,Adult Entertainment;3.0;7020 NW 72nd Ave Miami, FL 33166;25.8378065;-80.3147899;2;https://www.yelp.com/biz/the-floppy-rooster-miami
+Sazon Latino Restaurante & Coffee;159;1;Coffee & Tea,Mexican,Bars;1.0;1101 SW 8th St Miami, FL 33130;25.766144;-80.213084;0;https://www.yelp.com/biz/sazon-latino-restaurante-and-coffee-miami
+No Name Chinese;160;23;Chinese,Wine Bars;4.5;7400 SW 57th Ct South Miami, FL 33143;25.7023878;-80.2864587;2;https://www.yelp.com/biz/no-name-chinese-south-miami-2
+Musimelange;161;2;Music Venues;5.0;194 NW 30th St Miami, FL 33127;25.8044833;-80.1989944;0;https://www.yelp.com/biz/musimelange-miami
+Lekoke Wines & Bites;162;91;Wine Bars,Pizza,Sandwiches;4.5;1225 SW 8th St Miami, FL 33135;25.7658566;-80.2149795;2;https://www.yelp.com/biz/lekoke-wines-and-bites-miami
+Hole In The Wall;163;224;American (Traditional),Sports Bars,Chicken Wings;4.0;12055 SW 117th Ave Miami, FL 33186;25.6552104912513;-80.3826954304838;2;https://www.yelp.com/biz/hole-in-the-wall-miami-3
+Empire Lounge & Pizzeria;164;66;Pizza,Middle Eastern,Hookah Bars;3.5;5920 S Dixie Hwy Miami, FL 33143;25.7039628;-80.2897897;2;https://www.yelp.com/biz/empire-lounge-and-pizzeria-miami
+Pla Cigars & Wine Bar;165;2;Wine Bars,Tobacco Shops,Lounges;5.0;5910 S Dixie Hwy Miami, FL 33143;25.7040895;-80.2895967;2;https://www.yelp.com/biz/pla-cigars-and-wine-bar-miami
+Hookah & More;166;3;Hookah Bars,Tobacco Shops,Lounges;5.0;54 NE 167th St Miami, FL 33162;25.9280504;-80.1992615;0;https://www.yelp.com/biz/hookah-and-more-miami
+Cabana One;167;11;Lounges;3.0;3000 Florida Ave Coconut Grove, FL 33133;25.7307897;-80.2377078;3;https://www.yelp.com/biz/cabana-one-coconut-grove
+The Social Club;168;581;American (New),Breakfast & Brunch,Cocktail Bars;4.0;1717 Collins Ave Miami Beach, FL 33139;25.7928216;-80.1295666;2;https://www.yelp.com/biz/the-social-club-miami-beach
+Sud Swap Monthly Event;169;2;Dive Bars,Breweries;5.0;176 NW 24th St Miami, FL 33137;25.8207159;-80.1819268;1;https://www.yelp.com/biz/sud-swap-monthly-event-miami
+Casa Garcia;170;1;Karaoke,Latin American,Honduran;5.0;404 SW 22nd Ave Miami, FL 33135;25.7687091;-80.2309654;0;https://www.yelp.com/biz/casa-garcia-miami-2
+Art Emporium;171;;Art Galleries;0;710 SW 13th Ave Miami, FL 33135;25.76641;-80.21638;0;https://www.yelp.com/biz/art-emporium-miami
+Bowlero Miami;172;19;Nightlife,Bowling,Venues & Event Spaces;3.5;11401 NW 12th St Miami, FL 33172;25.7877597;-80.3807017;2;https://www.yelp.com/biz/bowlero-miami-miami
+Omni Kitchen;173;1;Music Venues,Vegan,Mediterranean;5.0;1234 N Miami Ave Miami, FL 33136;25.7866744852088;-80.1941159646949;0;https://www.yelp.com/biz/omni-kitchen-miami
+Taverna Ritmo Cafe;174;1;Dance Clubs,Bars;4.0;10777 W Flagler St Miami, FL 33174;25.7685477;-80.3709453;2;https://www.yelp.com/biz/taverna-ritmo-cafe-miami
+Cardon Y El Tirano;175;255;Venezuelan,Tapas/Small Plates,Wine Bars;4.5;3411 SW 8th St Miami, FL 33135;25.7650461623728;-80.2514094779099;2;https://www.yelp.com/biz/cardon-y-el-tirano-miami
+Churchill’s;176;171;Music Venues,Bars;4.0;5501 NE 2nd Ave Miami, FL 33137;25.8262441;-80.1917444;1;https://www.yelp.com/biz/churchills-miami
+Brazillionaires Group;177;1;Party & Event Planning,Dance Clubs;5.0;1508 Bay Rd Miami Beach, FL 33139;25.787353;-80.144905;4;https://www.yelp.com/biz/brazillionaires-group-miami-beach
+Brimstone Woodfire Grill;178;35;American (Traditional),Bars,Breakfast & Brunch;3.5;8300 NW 36th St Doral, FL 33166;25.8096911248332;-80.3307008743286;2;https://www.yelp.com/biz/brimstone-woodfire-grill-doral
+Knight Concert Hall;179;2;Performing Arts,Music Venues,Venues & Event Spaces;4.0;1300 Biscayne Blvd Miami, FL 33132;25.787628;-80.189905;2;https://www.yelp.com/biz/knight-concert-hall-miami
+Cariflex Sports Diner;180;35;Karaoke,Pool Halls,American (New);4.5;14291 SW 120th St Miami, FL 33186;25.656510832285;-80.4262042914017;2;https://www.yelp.com/biz/cariflex-sports-diner-miami
+Salumeria 104;181;239;Italian,Delis,Wine Bars;4.0;3451 NE 1st Ave Miami, FL 33137;25.8094723520314;-80.192422108734;2;https://www.yelp.com/biz/salumeria-104-miami
+The Wetlab;182;62;Dive Bars;4.5;4600 Rickenbacker Cswy Miami, FL 33149;25.732198;-80.162884;1;https://www.yelp.com/biz/the-wetlab-miami
+Drinkhouse Fire and Ice;183;136;Lounges,Cocktail Bars,Venues & Event Spaces;4.0;1672 Colins Ave Miami Beach, FL 33139;25.7916226453301;-80.1299968496681;2;https://www.yelp.com/biz/drinkhouse-fire-and-ice-miami-beach
+Love Is Blind Food & Wine;184;414;Wine Bars,American (New);4.0;225 Altara Ave Coral Gables, FL 33146;25.733261;-80.2592985;2;https://www.yelp.com/biz/love-is-blind-food-and-wine-coral-gables
+Mi Cuba Cigar Lounge;185;2;Hookah Bars;5.0;1742 NW 7th St Miami, FL 33125;25.779627;-80.223911;1;https://www.yelp.com/biz/mi-cuba-cigar-lounge-miami
+Havana 1957 - Brickell;186;236;Bars,Cuban;3.5;1451 S Miami Ave Miami, FL 33131;25.7596640263422;-80.1936245441803;2;https://www.yelp.com/biz/havana-1957-brickell-miami-2
+Dolores, But You Can Call Me Lolita;187;648;American (New),Cocktail Bars,Tapas Bars;3.5;1000 S Miami Ave Miami, FL 33130;25.7642845;-80.1935585;2;https://www.yelp.com/biz/dolores-but-you-can-call-me-lolita-miami
+Dashi;188;20;Japanese,Sushi Bars,Cocktail Bars;4.5;401 SW 3rd Ave Miami, FL 33130;25.7693923;-80.1989203;4;https://www.yelp.com/biz/dashi-miami-2
+Zai;189;2;Wine Bars,Italian,Pizza;5.0;1040 South Miami Ave Miami, FL 33130;25.7636579;-80.1933136;2;https://www.yelp.com/biz/zai-miami-2
+L’ Boulevard Cafe;190;8;Bars;3.0;3632 NW 25th Ave Miami, FL 33142;25.8094606;-80.2382082;2;https://www.yelp.com/biz/l-boulevard-cafe-miami-2
+MSMR Lounge & Karaoke;191;50;Karaoke,Chinese,Lounges;4.5;7632 NW 186th St Miami Lakes, FL 33015;25.9422678;-80.3251821;2;https://www.yelp.com/biz/msmr-lounge-and-karaoke-miami-lakes
+Roll It and Smoke It;192;2;Vape Shops,Hookah Bars;5.0;48 E Flagler St Miami, FL 33131;25.774008910851;-80.1927119579498;1;https://www.yelp.com/biz/roll-it-and-smoke-it-miami-5
+CinéBistro;193;421;Cinema,Lounges,American (Traditional);4.0;;25.786954569373;-80.3808067826348;2;https://www.yelp.com/biz/cin%C3%A9bistro-miami-2
+La Gozadera Brickell;194;4;Bars;3.5;141 SW 7th St Miami, FL 33130;25.7675239;-80.1960334;2;https://www.yelp.com/biz/la-gozadera-brickell-miami-3
+Lima Peruvian Inspired Cuisine;195;1;Cocktail Bars,Peruvian;5.0;1500 SW 1st Ave Miami, FL 33129;25.75996;-80.196922;0;https://www.yelp.com/biz/lima-peruvian-inspired-cuisine-miami
+Casa Vieja Restaurant and Bar;196;3;Dance Clubs,Latin American;4.0;8872 SW 24th St Miami, FL 33165;25.7474719;-80.3390051;2;https://www.yelp.com/biz/casa-vieja-restaurant-and-bar-miami-4
+Mr Wright’s Golddigger Saloon;197;;Bars,Juice Bars & Smoothies,Tapas Bars;0;111 NE 20th St Miami, FL 33137;25.7958329;-80.192456;0;https://www.yelp.com/biz/mr-wrights-golddigger-saloon-miami
+Angelo Elia Pizza Bar Tapas;198;41;Tapas/Small Plates,Italian,Wine Bars;3.5;3535 NW 83rd Ave Doral, FL 33122;25.8502128;-80.2550932;2;https://www.yelp.com/biz/angelo-elia-pizza-bar-tapas-doral-2
+Penthouse Media;199;1;Music Venues,Recording & Rehearsal Studios,Video/Film Production;5.0;951 Brickell Ave Miami, FL 33131;25.764594;-80.190708;0;https://www.yelp.com/biz/penthouse-media-miami
+Pharaoh Hookah & Cigar Lounge;200;1;Hookah Bars,Tobacco Shops;5.0;2955 SW 8th St Miami, FL 33135;25.7652093376363;-80.2421919846396;1;https://www.yelp.com/biz/pharaoh-hookah-and-cigar-lounge-miami
+K&K Billiard & Sport Bar;201;36;Sports Bars,Pool Halls,American (Traditional);5.0;1090 NE 79th St Miami, FL 33138;25.847688;-80.174246;2;https://www.yelp.com/biz/k-and-k-billiard-and-sport-bar-miami
+Son Cubano Miami;202;48;Cuban,Asian Fusion,Bars;3.5;2530 Ponce De Leon Blvd Coral Gables, FL 33134;25.7479912;-80.2588948;2;https://www.yelp.com/biz/son-cubano-miami-coral-gables
+The Bar at Tempo Miami;203;2;Lounges;4.0;1100 Biscayne Blvd Miami, FL 33130;25.7692631660592;-80.2063461544922;0;https://www.yelp.com/biz/the-bar-at-tempo-miami-miami
+GoodFellas Bar & Grill;204;6;Dive Bars;4.0;10442 SW 186th St Miami, FL 33157;25.5960819;-80.3612087;1;https://www.yelp.com/biz/goodfellas-bar-and-grill-miami
+El Bohemio Night Club;205;;Nightlife;0;2845 Coral Way Miami, FL 33145;25.7503679;-80.2402848;1;https://www.yelp.com/biz/el-bohemio-night-club-miami
+The Cape;206;13;Bars;4.5;150 20th St Miami Beach, FL 33139;25.7952885;-80.1287638;2;https://www.yelp.com/biz/the-cape-miami-beach
+Social Room;207;74;Lounges;4.0;1916 Harrison St Hollywood, FL 33020;26.0103287;-80.1456797;2;https://www.yelp.com/biz/social-room-hollywood
+Rum Bar;208;16;Bars;4.0;455 Grand Bay Dr Key Biscayne, FL 33149;25.6912226;-80.1581322;3;https://www.yelp.com/biz/rum-bar-key-biscayne
+The Mighty;209;158;American (New),Bars;4.5;2224 SW 22nd St Miami, FL 33145;25.7504012441808;-80.2308649448746;2;https://www.yelp.com/biz/the-mighty-miami
+Haze Hookah Lounge;210;3;Hookah Bars;4.5;4801 W 8th Ave Hialeah, FL 33012;25.8653067;-80.2983941;2;https://www.yelp.com/biz/haze-hookah-lounge-hialeah
+Toro Toro Restaurant;211;643;Steakhouses,Tapas Bars,Cocktail Bars;4.0;;25.7726278759243;-80.1853631123726;3;https://www.yelp.com/biz/toro-toro-restaurant-miami-3
+GoldFellas of Miami;212;1;Adult Entertainment;3.0;5325 NW 77th Ave Miami, FL 33166;25.8220724;-80.3212598;0;https://www.yelp.com/biz/goldfellas-of-miami-miami
+Miami Velvet;213;19;Adult Entertainment,Dance Clubs;2.5;3901 NW 77th Ave Miami, FL 33166;25.8102069;-80.318734;3;https://www.yelp.com/biz/miami-velvet-miami
+Novecento;214;80;Argentine,Bars;4.0;620 Crandon Blvd Key Biscayne, FL 33149;25.6893011;-80.1645532;2;https://www.yelp.com/biz/novecento-key-biscayne-4
+Bru’s Room;215;119;American (New),Sports Bars,Chicken Wings;3.5;8318 SW 40th St Miami, FL 33155;25.7329243210172;-80.330810174346;2;https://www.yelp.com/biz/brus-room-miami
+Club Tipico Dominicano;216;55;Dance Clubs,Dominican;4.0;1344 NW 36th St Miami, FL 33142;25.8094988;-80.2185818;2;https://www.yelp.com/biz/club-tipico-dominicano-miami
+The Spillover;217;312;Seafood,Sandwiches,Beer Bar;4.5;2911 Grand Ave Miami, FL 33133;25.7284978;-80.2408057;2;https://www.yelp.com/biz/the-spillover-miami
+The Fish House;218;316;Seafood,Jazz & Blues,Cajun/Creole;4.0;10000 SW 56th St Miami, FL 33165;25.7156301778767;-80.3570798761031;2;https://www.yelp.com/biz/the-fish-house-miami-4
+Club Xtra;219;5;Bars,Adult Entertainment;3.5;600 S Dixie Hwy Hollywood, FL 33020;26.00628;-80.149388;2;https://www.yelp.com/biz/club-xtra-hollywood
+Jazz In the Gables;220;1;Festivals,Jazz & Blues;5.0;285 Aragon Ave Coral Gables, FL 33134;25.7505925;-80.2603402;2;https://www.yelp.com/biz/jazz-in-the-gables-coral-gables
+Winewood;221;58;Wine Bars,Tapas Bars,Salad;4.0;7251 Biscayne Blvd Miami, FL 33138;25.841834;-80.1841841;2;https://www.yelp.com/biz/winewood-miami
+The Seven Dials;222;152;Gastropubs,American (New),Pubs;4.5;2030 S Douglas Rd Coral Gables, FL 33134;25.753661;-80.255263;2;https://www.yelp.com/biz/the-seven-dials-coral-gables
+Bacardi Mojito Bar;223;7;Sports Bars,Airport Lounges;4.0;1990 NW 49th Ave Miami, FL 33126;25.7948025;-80.2790855;1;https://www.yelp.com/biz/bacardi-mojito-bar-miami
+Kulcha Shok Muzik;224;1;Festivals,Music Venues,DJs;5.0;;25.783312;-80.1484407;0;https://www.yelp.com/biz/kulcha-shok-muzik-miami
+Awarehouse;225;4;Venues & Event Spaces,Music Venues,Party & Event Planning;3.5;550 NW 29th St Miami, FL 33127;25.8033671;-80.204356;2;https://www.yelp.com/biz/awarehouse-miami
+MbarK;226;6;Lounges;4.0;3900 NW 21st St Miami, FL 33142;25.794781;-80.25957;2;https://www.yelp.com/biz/mbark-miami
+Nuevo Patio Restaurant & Lounge;227;;Lounges;0;1861 NW 22nd St Miami, FL 33142;25.7976853;-80.2264718;0;https://www.yelp.com/biz/nuevo-patio-restaurant-and-lounge-miami
+Boteco;228;226;Lounges,Brazilian;3.5;916 NE 79th St Miami, FL 33138;25.8479455;-80.1777157;2;https://www.yelp.com/biz/boteco-miami
+Garden Food and Bar;229;;Cocktail Bars,Burgers,Chicken Wings;0;270 NW 23rd St Miami, FL 33127;25.799263;-80.20042;0;https://www.yelp.com/biz/garden-food-and-bar-miami
+Tacocraft Taqueria & Tequila Bar;230;308;Mexican,Beer Bar,Cocktail Bars;3.5;5829 SW 73rd St South Miami, FL 33143;25.7037193;-80.2878319;2;https://www.yelp.com/biz/tacocraft-taqueria-and-tequila-bar-south-miami
+Vintage Liquor & Wine Bar;231;28;Wine Bars,Beer, Wine & Spirits;4.5;3301 NE 1st Ave Miami, FL 33137;25.8078394;-80.192227;2;https://www.yelp.com/biz/vintage-liquor-and-wine-bar-miami
+SALT Waterfront Restaurant;232;10;Bars,American (New);4.0;4600 Rickenbacker Cswy Key Biscayne, FL 33149;25.732465;-80.163106;1;https://www.yelp.com/biz/salt-waterfront-restaurant-key-biscayne
+Palmeiras Beach Club;233;61;Lounges,Mediterranean,Day Spas;3.0;4 Grove Isle Dr Miami, FL 33133;25.7363933899932;-80.2170975973449;3;https://www.yelp.com/biz/palmeiras-beach-club-miami
+Boxelder Craft Beer Market;234;91;Pubs,Beer Bar;4.0;2817 NW 2nd Ave Miami, FL 33127;25.8033203;-80.1991409;2;https://www.yelp.com/biz/boxelder-craft-beer-market-miami-2
+Sway Nightclub;235;13;Dance Clubs,Hookah Bars;5.0;111 SW 2nd Ave Fort Lauderdale, FL 33301;26.1209612073588;-80.145720988512;2;https://www.yelp.com/biz/sway-nightclub-fort-lauderdale
+R House Wynwood;236;407;American (New),Cocktail Bars,Breakfast & Brunch;3.5;2727 NW 2nd Ave Miami, FL 33127;25.80271;-80.199019;2;https://www.yelp.com/biz/r-house-wynwood-miami-2
+Pure Verde;237;21;Lounges;3.5;400 SE 2nd Ave Miami, FL 33131;25.7709278;-80.190901;2;https://www.yelp.com/biz/pure-verde-miami
+Petra Hookah & Cigar Lounge;238;2;Hookah Bars;3.0;9620 SW 72nd St Miami, FL 33173;25.7016174;-80.3490442;1;https://www.yelp.com/biz/petra-hookah-and-cigar-lounge-miami
+Bellas Cabaret;239;4;Champagne Bars,Cocktail Bars,Lounges;3.5;885 SE 14th St Hialeah, FL 33010;25.810562;-80.262893;2;https://www.yelp.com/biz/bellas-cabaret-hialeah
+Ponte Vecchio Ristorante E Pizzeria;240;25;Pizza,Italian,Bars;4.5;2250 Coral Way Miami, FL 33145;25.7504247521623;-80.231198986782;2;https://www.yelp.com/biz/ponte-vecchio-ristorante-e-pizzeria-miami-3
+Doral Billiards & Sports Lounge;241;46;Sports Bars,Pool Halls,Hookah Bars;4.0;7800 NW 25th St Doral, FL 33122;25.7962385;-80.3238249;2;https://www.yelp.com/biz/doral-billiards-and-sports-lounge-doral-2
+Zest;242;83;Bars,Caribbean,American (New);4.0;200 S Biscayne Blvd Miami, FL 33131;25.7722634240395;-80.1874879286997;2;https://www.yelp.com/biz/zest-miami
+J Wakefield Brewing;243;188;Breweries,Pubs,Beer Bar;4.5;120 NW 24th St Miami, FL 33127;25.799612;-80.19755;2;https://www.yelp.com/biz/j-wakefield-brewing-miami
+City Works - Doral;244;101;Sports Bars,American (Traditional),Cocktail Bars;3.5;3450 NW 83rd Ave Doral, FL 33122;25.8076853414813;-80.3308964720315;2;https://www.yelp.com/biz/city-works-doral-doral
+Vivid Live Gentleman’s Club;245;5;Adult Entertainment;3.0;7020 NW 72nd Ave Miami, FL 33166;25.8379157606324;-80.3145706201539;2;https://www.yelp.com/biz/vivid-live-gentlemans-club-miami
+Miranda Restaurant;246;13;Latin American,Bars,Soup;4.0;4299 NW 36th St Miami, FL 33166;25.8088293;-80.2661757;2;https://www.yelp.com/biz/miranda-restaurant-miami
+Kill Your Idol;247;156;Dive Bars,Dance Clubs;4.0;222 Espanola Way Miami Beach, FL 33139;25.7869308;-80.13124;1;https://www.yelp.com/biz/kill-your-idol-miami-beach
+Peg’s Pocket;248;8;Pool Halls;4.0;15900 SW 92nd Ave Miami, FL 33157;25.6222253;-80.3425078;2;https://www.yelp.com/biz/pegs-pocket-miami
+San Pocho;249;99;Colombian,Bars;3.5;901 SW 8th St Miami, FL 33130;25.7661621459676;-80.2094533047883;2;https://www.yelp.com/biz/san-pocho-miami-4
+Dv8afterhours;250;;Social Clubs,Speakeasies;0;2010 NW Miami Ct Miami, FL 33127;25.795972;-80.196059;0;https://www.yelp.com/biz/dv8afterhours-miami
+Employees Only;251;51;Cocktail Bars,American (New);4.5;1030 Washington Ave Miami Beach, FL 33139;25.7812581;-80.1331316;3;https://www.yelp.com/biz/employees-only-miami-beach
+Barracuda Bar & Grill;252;113;Dive Bars,American (New);4.0;3035 Fuller St Coconut Grove, FL 33133;25.7276517;-80.2431951;2;https://www.yelp.com/biz/barracuda-bar-and-grill-coconut-grove-5
+The Brick Restaurant;253;116;Cocktail Bars,Pizza,Sandwiches;4.0;8955 SW 72nd Pl Kendall, FL 33156;25.6869947171409;-80.3127546337296;2;https://www.yelp.com/biz/the-brick-restaurant-kendall
+Marco’s Antica Mare;254;54;Bars,Tuscan;4.5;7999 NE Bayshore Ct Miami, FL 33138;25.8486066;-80.1728122;3;https://www.yelp.com/biz/marcos-antica-mare-miami
+Chef Adrianne’s Vineyard Restaurant and Wine Bar;255;625;American (New),Wine Bars;4.5;11510 SW 147th Ave Miami, FL 33196;25.6599432260742;-80.4325866772461;3;https://www.yelp.com/biz/chef-adriannes-vineyard-restaurant-and-wine-bar-miami-3
+La Fresa Francesa;256;336;Wine Bars,Cafes,French;4.5;59 W 3rd St Hialeah, FL 33010;25.824799;-80.282359;2;https://www.yelp.com/biz/la-fresa-francesa-hialeah
+Miami Comedy;257;11;Comedy Clubs,Performing Arts;5.0;Miami, FL;25.7603447795179;-80.1927138491211;2;https://www.yelp.com/biz/miami-comedy-miami
+Hyde Beach;258;81;Lounges;3.0;;25.792654;-80.128478;3;https://www.yelp.com/biz/hyde-beach-miami-beach-2
+Casino Miami;259;34;Casinos,Bars;3.0;3500 NW 37th Ave Miami, FL 33142;25.8073357;-80.2568107;3;https://www.yelp.com/biz/casino-miami-miami
+World Of Beer;260;150;Pubs,American (Traditional);4.0;9010 SW 72nd Pl Miami, FL 33156;25.6866274797302;-80.3128808984253;2;https://www.yelp.com/biz/world-of-beer-miami
+Tpc Music;261;;Music Venues;0;10310 SW 107th St Miami, FL 33176;25.66869;-80.361772;0;https://www.yelp.com/biz/tpc-music-miami-2
+Pink Pony;262;14;Sports Bars,Adult Entertainment,American (Traditional);4.0;7971 NW 33rd St Doral, FL 33122;25.8045958;-80.3266611;1;https://www.yelp.com/biz/pink-pony-doral
+BARU Urbano;263;32;Cocktail Bars,Lounges,Latin American;2.0;901 S Miami Ave Miami, FL 33130;25.7650032;-80.1937616;2;https://www.yelp.com/biz/baru-urbano-miami-3
+Klipsch Amphitheater At Bayfront Park;264;19;Music Venues;4.0;301 N Biscayne Blvd Miami, FL 33132;25.777073;-80.187445;1;https://www.yelp.com/biz/klipsch-amphitheater-at-bayfront-park-miami
+Fat Tuesday;265;23;Bars;3.5;401 Biscayne Blvd Miami, FL 33132;25.7786210127088;-80.1866668412781;2;https://www.yelp.com/biz/fat-tuesday-miami-2
+Let’s Make A Daiquiri At Dolphin Mall;266;25;Bars,Juice Bars & Smoothies,Music Venues;4.0;11401 NW 12th St Miami, FL 33172;25.7869078;-80.3809477;2;https://www.yelp.com/biz/lets-make-a-daiquiri-at-dolphin-mall-miami
+Tequila Super Club;267;;Dance Clubs;0;7931 SW 2nd St Miami, FL 33144;25.7679474;-80.3250611;2;https://www.yelp.com/biz/tequila-super-club-miami-2
+The Deck at Island Gardens;268;37;Bars,Pizza,Mediterranean;3.5;888 MacArthur Cswy Miami, FL 33132;25.7842416;-80.1779064;4;https://www.yelp.com/biz/the-deck-at-island-gardens-miami
+Bolivar Restaurant Bar Lounge;269;1127;Colombian,Lounges,Cocktail Bars;4.5;841 Washington Ave Miami Beach, FL 33139;25.779154;-80.132955;2;https://www.yelp.com/biz/bolivar-restaurant-bar-lounge-miami-beach-6
+Bunbury;270;308;Argentine,Wine Bars,Latin American;4.5;2200 NE 2nd Ave Miami, FL 33137;25.798258;-80.191222;2;https://www.yelp.com/biz/bunbury-miami
+Red Brick Lounge;271;;Nightlife;0;4351 NW 7th St Miami, FL 33126;25.7789555;-80.2671393;2;https://www.yelp.com/biz/red-brick-lounge-miami
+The Corner;272;191;Cocktail Bars,Beer Bar,Sandwiches;4.0;1035 N Miami Ave Miami, FL 33136;25.7845085;-80.1938257;2;https://www.yelp.com/biz/the-corner-miami
+Skybar at Shore Club;273;76;Lounges;3.5;1901 Collins Ave Miami Beach, FL 33139;25.7950143;-80.1290732;3;https://www.yelp.com/biz/skybar-at-shore-club-miami-beach
+La Taberna Giralda;274;97;Spanish,Tapas Bars,Wine Bars;4.0;254 Giralda Ave Coral Gables, FL 33134;25.7509244;-80.2600063;2;https://www.yelp.com/biz/la-taberna-giralda-coral-gables
+Mercado Negro;275;5;Lounges,Cocktail Bars;4.0;5829 SW 73rd St South Miami, FL 33143;25.7037193;-80.2878319;2;https://www.yelp.com/biz/mercado-negro-south-miami
+Off The Mile;276;16;Wine Bars,Cuban,Breakfast & Brunch;5.0;245 University Dr Coral Gables, FL 33134;25.7438062;-80.2598911;2;https://www.yelp.com/biz/off-the-mile-coral-gables-3
+Union Beer Store;277;47;Beer Bar;5.0;1547 SW 8th St Miami, FL 33135;25.7658053;-80.2205106;1;https://www.yelp.com/biz/union-beer-store-miami
+Lolo’s Surf Cantina;278;73;Mexican,Seafood,Cocktail Bars;4.5;161 Ocean Dr Miami Beach, FL 33139;25.7704401;-80.1322481;2;https://www.yelp.com/biz/lolos-surf-cantina-miami-beach
+The Mimm Condominium Association;279;1;Wholesale Stores,Music Venues,Shopping Centers;5.0;777 NW 72nd Ave Miami, FL 33126;25.7785094;-80.3099989;0;https://www.yelp.com/biz/the-mimm-condominium-association-miami
+King Of Diamonds;280;90;Adult Entertainment,Pubs;4.0;17800 Ipco Rd Miami, FL 33162;25.9386881;-80.1955494;3;https://www.yelp.com/biz/king-of-diamonds-miami-2
+The Bank;281;10;Lounges,Dance Clubs;2.0;139 N E 1st St Miami, FL 33132;25.7754629;-80.191132;2;https://www.yelp.com/biz/the-bank-miami
+Miami Mojito Company;282;29;Bars;4.0;2509 NW 2nd Ave Miami, FL 33127;25.8009937;-80.1989275;2;https://www.yelp.com/biz/miami-mojito-company-miami-5
+Soho Studios Miami;283;13;Venues & Event Spaces,Music Venues;4.0;2136 NW 1st Ave Miami, FL 33127;25.7968908855562;-80.197087728836;0;https://www.yelp.com/biz/soho-studios-miami-miami-2
+Marion;284;129;Mediterranean,Seafood,Cocktail Bars;4.0;1111 SW 1st Ave Miami, FL 33130;25.7630480186487;-80.1950615043686;3;https://www.yelp.com/biz/marion-miami
+88.9FM WDNA;285;2;Radio Stations,Jazz & Blues;4.0;2921 Coral Way Miami, FL 33145;25.7503436;-80.241155;0;https://www.yelp.com/biz/88-9fm-wdna-miami
+Bare Necessity Adult Entertainment;286;13;Adult Entertainment,Bars;1.5;9100 S Dixie Hwy Miami, FL 33156;25.6856991;-80.3124172;2;https://www.yelp.com/biz/bare-necessity-adult-entertainment-miami
+Happy Wine in the Grove;287;173;Tapas Bars,Tapas/Small Plates,Wine Bars;4.0;2833 Bird Ave Miami, FL 33133;25.735534;-80.239147;2;https://www.yelp.com/biz/happy-wine-in-the-grove-miami
+Happy Wine Calle Ocho;288;70;Wine Bars,Tapas Bars,Beer, Wine & Spirits;4.0;5792 SW 8th St Miami, FL 33144;25.7634962;-80.2897222;2;https://www.yelp.com/biz/happy-wine-calle-ocho-miami
+La Toverna Ruby;289;;Nightlife;0;1750 NW 7th St Miami, FL 33125;25.7797024;-80.2240708;0;https://www.yelp.com/biz/la-toverna-ruby-miami
+Kendo Patio;290;;Nightlife;0;1552 W Flagler St Miami, FL 33135;25.7732245;-80.2207421;0;https://www.yelp.com/biz/kendo-patio-miami
+Do Not Sit On The Furniture;291;34;Bars,Dance Clubs;3.5;423 16th St Miami Beach, FL 33139;25.7892409;-80.1322872;2;https://www.yelp.com/biz/do-not-sit-on-the-furniture-miami-beach
+Kama Discotheque;292;;Nightlife;0;973 SW 8th St Miami, FL 33130;25.7659656;-80.2106874;0;https://www.yelp.com/biz/kama-discotheque-miami
+Club;293;1;Dive Bars;3.0;14247 NW 7th Ave Miami, FL 33168;25.904929;-80.2112329;1;https://www.yelp.com/biz/club-miami
+The Hangar;294;10;Music Venues;1.5;60 NE 11th St Miami, FL 33132;25.7846590177482;-80.1927818687958;3;https://www.yelp.com/biz/the-hangar-miami-2
+El Palenque Night Club;295;4;Dance Clubs;3.0;1115 NW 22nd Ave Miami, FL 33125;25.7840594;-80.2307099;1;https://www.yelp.com/biz/el-palenque-night-club-miami
+G 5 Gentleman’s Club;296;1;Adult Entertainment;4.0;337 NW 170th St Miami, FL 33169;25.9305881;-80.2073242;2;https://www.yelp.com/biz/g-5-gentlemans-club-miami
+Lol On the Bay;297;6;Argentine,American (New),Wine Bars;4.0;901 Brickell Bay Dr Miami, FL 33131;25.7643738761135;-80.1885469433777;2;https://www.yelp.com/biz/lol-on-the-bay-miami-2
+Joseph Club;298;1;Dive Bars;3.0;1971 NW 7th St Miami, FL 33125;25.7799988;-80.2276958;0;https://www.yelp.com/biz/joseph-club-miami
+Bellini Italian Bistro Eureka;299;87;Italian,Bars,Pizza;4.5;18200 SW 147th Ave Miami, FL 33187;25.5975997;-80.430829;2;https://www.yelp.com/biz/bellini-italian-bistro-eureka-miami-3
+Restaurante El Aguila;300;1;Cuban,Caribbean,Lounges;3.0;2291 NW 36th St Miami, FL 33142;25.8093987;-80.2339322;1;https://www.yelp.com/biz/restaurante-el-aguila-miami
+Wet Willie’s;301;769;Lounges;4.0;760 Ocean Dr Miami Beach, FL 33139;25.777862;-80.1314874;2;https://www.yelp.com/biz/wet-willies-miami-beach
+Segafredo Brickell;302;297;Desserts,Breakfast & Brunch,Hookah Bars;3.5;1421 S Miami Ave Miami, FL 33130;25.7604240347716;-80.1933769705696;2;https://www.yelp.com/biz/segafredo-brickell-miami
+Candela Bar Brickell;303;1;Bars,Karaoke;5.0;1200 Brickell Bay Dr Miami, FL 33131;25.7618233;-80.190499;2;https://www.yelp.com/biz/candela-bar-brickell-miami
+Shantel’s Jazz Cafe;304;1;Caribbean,Jazz & Blues;1.0;5422 NW 7th Ave Miami, FL 33127;25.8252971;-80.2081948;0;https://www.yelp.com/biz/shantels-jazz-cafe-miami
+High Tide;305;8;Bars,Diners,Pizza;4.5;1717 Collins Ave Miami, FL 33139;25.7928142;-80.1290781;2;https://www.yelp.com/biz/high-tide-miami
+Cafe Concerto;306;7;Piano Bars,Italian;4.5;1624 NE 79th St Miami, FL 33138;25.8480398909646;-80.1516032305235;3;https://www.yelp.com/biz/cafe-concerto-miami
+Le Chat Noir;307;89;Lounges,Jazz & Blues,Music Venues;3.5;2 S Miami Ave Miami, FL 33130;25.774202;-80.193598;2;https://www.yelp.com/biz/le-chat-noir-miami
+Life Is Beautiful;308;6;Bars,American (Traditional);4.5;2000 Liberty Ave Miami Beach, FL 33139;25.7960224046353;-80.1301756116389;2;https://www.yelp.com/biz/life-is-beautiful-miami-beach
+Stir Crazy;309;10;Adult Entertainment;2.5;12425 S Dixie Hwy Miami, FL 33156;25.65467;-80.3286564;2;https://www.yelp.com/biz/stir-crazy-miami
+The Local Craft Food & Drink;310;477;Bars,American (New),Gastropubs;4.0;150 Giralda Ave Coral Gables, FL 33134;25.751116;-80.257768;2;https://www.yelp.com/biz/the-local-craft-food-and-drink-coral-gables
+Tootsie’s Cabaret;311;187;Adult Entertainment;4.0;150 NW 183rd St Miami, FL 33169;25.9414643;-80.2034306;2;https://www.yelp.com/biz/tootsies-cabaret-miami
+House Kitchen & Bar;312;45;American (New),Cocktail Bars,Pizza;4.0;180 Aragon Ave Coral Gables, FL 33134;25.7503671574218;-80.2584827318788;2;https://www.yelp.com/biz/house-kitchen-and-bar-coral-gables-6
+Home Sweet Home;313;;Bars,Breakfast & Brunch,Soul Food;0;3039 NW 54th St Miami, FL 33142;25.8239399;-80.2456153;0;https://www.yelp.com/biz/home-sweet-home-miami-4
+Hookah Inn;314;24;Hookah Bars;3.0;1421 SW 107th Ave Miami, FL 33174;25.7558323;-80.3665963;2;https://www.yelp.com/biz/hookah-inn-miami-2
+Basement;315;54;Dance Clubs,Cocktail Bars,Social Clubs;3.5;2901 Collins Ave Miami Beach, FL 33140;25.8052798336737;-80.1242494662704;3;https://www.yelp.com/biz/basement-miami-beach
+Nyemas Restaurant and Lounge;316;;Nightlife;0;4200 NW 21st St Miami, FL 33142;25.8138934;-80.2302382;0;https://www.yelp.com/biz/nyemas-restaurant-and-lounge-miami
+The District;317;2;Music Venues,Lounges;4.0;35 NE 40th St Miami, FL 33137;25.813599;-80.194719;0;https://www.yelp.com/biz/the-district-miami
+Mac & Chess;318;17;American (New),Beer Bar,Tabletop Games;4.5;12486 SW 8th St Miami, FL 33184;25.760267094676;-80.3984375976532;2;https://www.yelp.com/biz/mac-and-chess-miami
+Lago Mediterranean & Latin Fusion;319;16;American (New),Sports Bars;4.5;100 Costa De Sol Blvd Doral, FL 33178;25.8071283889747;-80.3592614619198;2;https://www.yelp.com/biz/lago-mediterranean-and-latin-fusion-doral-2
+The Office;320;10;Adult Entertainment;3.0;320-498 NE 183rd St Miami, FL 33169;25.8611221313477;-80.2423095703125;2;https://www.yelp.com/biz/the-office-miami-2
+Kanpai mix & bar;321;;Bars;0;1760 NW 7th St Miami, FL 33125;25.7748107910156;-80.1977310180664;0;https://www.yelp.com/biz/kanpai-mix-and-bar-miami
+Gourmet305;322;1;Bars,Seafood,Breakfast & Brunch;5.0;7744 NW 64th St Miami, FL 33166;25.8311105;-80.3237129;2;https://www.yelp.com/biz/gourmet305-miami
+World of Beer;323;148;Pubs,American (Traditional);4.0;8525 Mills Dr Miami, FL 33183;25.6888303184916;-80.3858574852347;2;https://www.yelp.com/biz/world-of-beer-miami-2
+Gavanna;324;23;Lounges;2.5;10 N E 40 St Miami, FL 33137;25.813133;-80.194971;3;https://www.yelp.com/biz/gavanna-miami
+Pisco Y Nazca;325;168;Gastropubs,Peruvian,Cocktail Bars;4.0;8551 NW 53rd St Doral, FL 33166;25.8198577;-80.3359303;2;https://www.yelp.com/biz/pisco-y-nazca-doral-3
+Baru Kendall;326;12;Dance Clubs,Lounges;2.0;8525 Mills Dr Kendall, FL 33183;25.6884249515134;-80.3861086799591;2;https://www.yelp.com/biz/baru-kendall-kendall
+Nikki Beach Miami Beach;327;650;Bars,Dance Clubs,Seafood;3.0;1 Ocean Dr Miami Beach, FL 33139;25.7690135;-80.1322458;3;https://www.yelp.com/biz/nikki-beach-miami-beach-miami-beach-2
+Duffy’s Tavern;328;103;Bars,Burgers;4.0;2108 SW 57th Ave Miami, FL 33155;25.7511641166699;-80.2875455514379;1;https://www.yelp.com/biz/duffys-tavern-miami
+Batch Gastropub;329;677;Gastropubs,American (New),Bars;4.0;30 SW 12th St Miami, FL 33130;25.7624962180853;-80.1939906924963;2;https://www.yelp.com/biz/batch-gastropub-miami
+Just the Funny Theater & Training Center;330;80;Comedy Clubs,Specialty Schools,Performing Arts;4.5;3119 Coral Way Miami, FL 33145;25.7504165;-80.244412;1;https://www.yelp.com/biz/just-the-funny-theater-and-training-center-miami-2
+Italian Sports Grill;331;59;American (Traditional),Italian,Sports Bars;3.5;7921 NW 2nd St Miami, FL 33126;25.7728609;-80.3252655;1;https://www.yelp.com/biz/italian-sports-grill-miami
+Cigar Cellar and Lounge;332;11;Tobacco Shops,Lounges;4.5;1557 Sunset Dr Coral Gables, FL 33143;25.7052923668752;-80.2843978681688;2;https://www.yelp.com/biz/cigar-cellar-and-lounge-coral-gables
+Champions Sports Bar;333;32;Sports Bars;3.0;1201 NW LeJeune Rd Miami, FL 33126;25.784993412931;-80.2624745122337;2;https://www.yelp.com/biz/champions-sports-bar-miami
+Dixie Lounge;334;2;Nightlife;4.5;17060 W Dixie Hwy Miami, FL 33160;25.9330961;-80.152859;0;https://www.yelp.com/biz/dixie-lounge-miami
+Bar Collins;335;2;Cocktail Bars,Lounges,Tapas Bars;3.5;;25.7886086035362;-80.1294270721148;2;https://www.yelp.com/biz/bar-collins-miami-beach
+601;336;1;Venues & Event Spaces,Bars;1.0;601 Biscayne Blvd Miami, FL 33132;25.7813488;-80.1874414;0;https://www.yelp.com/biz/601-miami-4
+Sunset Tavern;337;96;Sports Bars,American (New);4.0;7230 SW 59th Ave South Miami, FL 33143;25.7037131;-80.2895837;2;https://www.yelp.com/biz/sunset-tavern-south-miami
+Rol-Lexx Club;338;7;Adult Entertainment;2.5;12001 NW 27th Ave Miami, FL 33167;25.8839309;-80.2426954;0;https://www.yelp.com/biz/rol-lexx-club-miami
+River Lounge;339;14;Lounges;3.0;270 Biscayne Blvd Way Miami, FL 33131;25.7705359;-80.1896106;3;https://www.yelp.com/biz/river-lounge-miami
+Splitsville;340;219;Bowling,Lounges,American (New);3.5;5701 Sunset Dr, Fl 2, Ste 202 Miami, FL 33143;25.7046570251957;-80.2862981823081;2;https://www.yelp.com/biz/splitsville-miami
+James L Knight Center;341;20;Venues & Event Spaces,Music Venues;3.5;400 SE 2nd Ave Miami, FL 33131;25.771147;-80.190936;2;https://www.yelp.com/biz/james-l-knight-center-miami
+Randy’s Restaurant and Lounge;342;6;Lounges,Haitian;4.5;13420 NW 7th Ave Miami, FL 33168;25.897579;-80.211589;1;https://www.yelp.com/biz/randys-restaurant-and-lounge-miami
+Michael’s Genuine Food & Drink;343;1395;American (New),Bars;4.0;130 NE 40th St Miami, FL 33137;25.8132692;-80.1927725;3;https://www.yelp.com/biz/michaels-genuine-food-and-drink-miami
+Purple Lotus Kava Bar;344;21;Lounges;4.5;40 S Pointe Dr Miami Beach, FL 33139;25.7679027;-80.1327362;2;https://www.yelp.com/biz/purple-lotus-kava-bar-miami-beach-2
+Ivy Nightclub;345;25;Dance Clubs;2.0;1045 5th St Miami Beach, FL 33139;25.7748731;-80.1391819;2;https://www.yelp.com/biz/ivy-nightclub-miami-beach
+Regent Cocktail Club;346;142;Lounges;4.0;1690 Collins Ave Miami Beach, FL 33139;25.7921304;-80.1301094;2;https://www.yelp.com/biz/regent-cocktail-club-miami-beach
+180 Degrees At The DRB;347;231;Gastropubs,American (New),Beer Gardens;4.0;501 NE 1st Ave Miami, FL 33132;25.7792541;-80.1918702;2;https://www.yelp.com/biz/180-degrees-at-the-drb-miami
+Bird Bowl;348;140;Pool Halls,Bowling,Amusement Parks;3.5;9275 SW 40th St Miami, FL 33165;25.7333;-80.345706;2;https://www.yelp.com/biz/bird-bowl-miami
+Agustin Gainza Arts and Tavern;349;10;Art Galleries,Wine Bars,Tapas Bars;5.0;1652 SW 8th St Miami, FL 33135;25.7654733;-80.221791;2;https://www.yelp.com/biz/agustin-gainza-arts-and-tavern-miami-4
+Dopesmok;350;;Hookah Bars,Tobacco Shops;0;333 West 41 St Miami, FL 33140;25.8140614;-80.1272428;0;https://www.yelp.com/biz/dopesmok-miami
+Barmeli 69;351;162;Wine Bars,Greek,Mediterranean;4.5;6927 Biscayne Blvd Miami, FL 33138;25.8392008;-80.1840395;2;https://www.yelp.com/biz/barmeli-69-miami
+Marine Liquor Bar;352;;Nightlife;0;1417 NW 17th Ave Miami, FL 33125;25.7876014;-80.2230012;0;https://www.yelp.com/biz/marine-liquor-bar-miami
+Tropicana Bar;353;1;Bars;3.0;1057 NW 79th St Miami, FL 33150;25.847134;-80.214163;0;https://www.yelp.com/biz/tropicana-bar-miami
+Copa Room Miami;354;20;Dance Clubs,Cocktail Bars;3.5;1235 Washington Ave Miami Beach, FL 33139;25.7834783;-80.1318413;3;https://www.yelp.com/biz/copa-room-miami-miami-beach
+Uvaggio Wine Bar;355;178;Tapas/Small Plates,Wine Bars;4.5;70 Miracle Mile Coral Gables, FL 33134;25.7494223;-80.2560757;2;https://www.yelp.com/biz/uvaggio-wine-bar-coral-gables
+Delta Sky Club;356;33;Airport Lounges;4.0;2100 NW 42nd Ave Miami, FL 33142;25.7932644407567;-80.2764608759752;2;https://www.yelp.com/biz/delta-sky-club-miami-3
+Z’s 54th St Restaurant & Lounge;357;;Nightlife;0;2455 NW 54th St Miami, FL 33142;25.8242249;-80.238127;0;https://www.yelp.com/biz/zs-54th-st-restaurant-and-lounge-miami
+Station 5 Table & Bar;358;266;American (New),Bars,Breakfast & Brunch;4.0;5845 Sunset Dr South Miami, FL 33143;25.7045297;-80.2883104;2;https://www.yelp.com/biz/station-5-table-and-bar-south-miami
+Karaoke En Miami;359;;Karaoke,Party & Event Planning,DJs;0;2853 NW 7th St Miami, FL 33125;25.7797651;-80.2416186;2;https://www.yelp.com/biz/karaoke-en-miami-miami
+Le Bar;360;1;Wine Bars;5.0;5800 Blue Lagoon Dr Miami, FL 33126;25.781802;-80.2918437;3;https://www.yelp.com/biz/le-bar-miami
+La Rockola Miami;361;3;Dance Clubs;3.0;6854 NW 169th St Hialeah, FL 33015;25.9265552;-80.3109744;1;https://www.yelp.com/biz/la-rockola-miami-hialeah-2
+Mortar & Pistil;362;5;Cocktail Bars,Wine Bars,Beer Gardens;3.5;56 NW 29th St Miami, FL 33127;25.803639;-80.196274;2;https://www.yelp.com/biz/mortar-and-pistil-miami
+The Bellys;363;;Adult Entertainment;0;Miami, FL;25.7890972;-80.2040435;0;https://www.yelp.com/biz/the-bellys-miami
+Bay Club;364;31;Lounges,Cocktail Bars;4.5;1930 Bay Rd Miami Beach, FL 33139;25.795197;-80.143984;2;https://www.yelp.com/biz/bay-club-miami-beach
+Hot Party Stripper;365;4;Adult Entertainment;2.0;Miami, FL 33133;25.7307897;-80.2377078;0;https://www.yelp.com/biz/hot-party-stripper-miami
+Koh Zee;366;2;Tapas/Small Plates,Wine Bars;5.0;10720 SW 113th Pl Miami, FL 33176;25.6686734493376;-80.3783288724915;0;https://www.yelp.com/biz/koh-zee-miami
+Curley’s;367;;Nightlife;0;8517 NW 22nd Ave Miami, FL 33147;25.8521213;-80.2335583;0;https://www.yelp.com/biz/curleys-miami
+VIP Sparklers;368;13;Dance Clubs,Champagne Bars,Party Supplies;3.0;1818 SW 1st Ave Miami, FL 33129;25.7579654;-80.1992359;3;https://www.yelp.com/biz/vip-sparklers-miami
+Tavern In the Grove;369;25;Dive Bars;3.0;3416 Main Hwy Miami, FL 33133;25.7278553;-80.2427755;1;https://www.yelp.com/biz/tavern-in-the-grove-miami
+Dark Dining Masquerade Ball;370;4;Country Dance Halls;3.5;Coral Gables, FL 33134;25.7410596;-80.2652362;0;https://www.yelp.com/biz/dark-dining-masquerade-ball-coral-gables
+G&G South Beach Entertainment;371;5;Nightlife;5.0;929 Washington Ave Miami Beach, FL 33139;25.813099;-80.122986;0;https://www.yelp.com/biz/g-and-g-south-beach-entertainment-miami-beach
+Balans;372;2;Bars,American (Traditional);3.0;7501 N Kendall Dr Miami, FL 33156;25.6886584;-80.3159989;0;https://www.yelp.com/biz/balans-miami-8
+Tiny’s 22 Package & Lounge;373;;Nightlife,Beer, Wine & Spirits;0;9125 NW 22nd Ave Miami, FL 33147;25.8578635;-80.2339151;0;https://www.yelp.com/biz/tinys-22-package-and-lounge-miami
+STORY;374;199;Dance Clubs;2.5;136 Collins Ave Miami Beach, FL 33139;25.770503;-80.13421;3;https://www.yelp.com/biz/story-miami-beach
+Hole in the Wall;375;52;Pubs,Hot Dogs,Sandwiches;4.0;14421 S Dixie Hwy Miami, FL 33176;25.6355943637388;-80.3361650991974;1;https://www.yelp.com/biz/hole-in-the-wall-miami-6
+Lipstix;376;1;Adult Entertainment;1.0;13045 SW 87th Ave Miami, FL 33156;25.6486832;-80.3339704;0;https://www.yelp.com/biz/lipstix-miami
+Il Vaporetto;377;52;Italian,Wine Bars;4.0;5894 Sunset Dr South Miami, FL 33143;25.704098;-80.2890749;2;https://www.yelp.com/biz/il-vaporetto-south-miami
+Nancy’s Cafe;378;;Pubs;0;2324 NW 7th Ct Miami, FL 33127;25.7994102;-80.2080496;0;https://www.yelp.com/biz/nancys-cafe-miami
+Broken Shaker Miami;379;662;Cocktail Bars,American (New);4.5;2727 Indian Creek Dr Miami Beach, FL 33140;25.8045764518057;-80.1263711385743;2;https://www.yelp.com/biz/broken-shaker-miami-miami-beach
+Brasserie Brickell Key;380;24;Italian,Wine Bars,Diners;4.5;605 Brickell Key Dr Miami, FL 33131;25.7671079;-80.1852798;2;https://www.yelp.com/biz/brasserie-brickell-key-miami-2
+Wynwood Cafe and Lounge;381;29;Coffee & Tea,Juice Bars & Smoothies,Cocktail Bars;4.0;450 NW 27th St Miami, FL 33127;25.8020194;-80.2028159;1;https://www.yelp.com/biz/wynwood-cafe-and-lounge-miami
+Central Station;382;;Pubs;0;1000 W McNab Rd Miami, FL 33069;25.7616798;-80.1917902;0;https://www.yelp.com/biz/central-station-miami
+Clips Beer and Film Tour;383;3;Festivals,Beer Gardens;5.0;1745 N Bayshore Dr Miami, FL 33132;25.79298;-80.185958;0;https://www.yelp.com/biz/clips-beer-and-film-tour-miami
+Taurus;384;100;Burgers,Bars,American (New);3.5;3540 Main Hwy Miami, FL 33133;25.724872;-80.245407;2;https://www.yelp.com/biz/taurus-miami-3
+The Shack;385;1;Bars;3.0;701 NE 79th St Miami, FL 33138;25.848134;-80.182471;2;https://www.yelp.com/biz/the-shack-miami
+Barmeli 79 Wine & More;386;2;Wine Bars,Beer, Wine & Spirits,Tapas Bars;5.0;725 NE 79th St Miami, FL 33138;25.8479279;-80.1818837;2;https://www.yelp.com/biz/barmeli-79-wine-and-more-miami
+Club Portal;387;4;Country Dance Halls;5.0;El Portal, FL;25.8553739;-80.1931029;4;https://www.yelp.com/biz/club-portal-el-portal
+Panic Room: Miami;388;;Nightlife,Arts & Entertainment,Amusement Parks;0;Miami, FL 33165;25.7327581;-80.3547286;0;https://www.yelp.com/biz/panic-room-miami-miami
+Tuckers Liquors & Lounge;389;2;Nightlife;3.5;11401 NW 27th Ave Miami, FL 33167;25.87839;-80.242549;1;https://www.yelp.com/biz/tuckers-liquors-and-lounge-miami
+Schnitzel Haus;390;161;German,Bars,Desserts;4.0;1085 NE 79th St Miami, FL 33138;25.8483555;-80.1748073;2;https://www.yelp.com/biz/schnitzel-haus-miami
+15th & Vine Kitchen and Bar;391;125;American (New),Bars;3.5;;25.768741;-80.189519;2;https://www.yelp.com/biz/15th-and-vine-kitchen-and-bar-miami
+LIV;392;3;Lounges;4.5;2269 NW 199th St Miami Gardens, FL 33056;25.958186;-80.238911;4;https://www.yelp.com/biz/liv-miami-gardens
+Mr O Sanon’s House;393;;Adult Entertainment;0;31 SE 5th St Miami, FL 33131;25.7696384;-80.1919747;0;https://www.yelp.com/biz/mr-o-sanons-house-miami
+Wet Gentlemen’s Club;394;;Adult Entertainment;0;7020 NW 72nd Ave Miami, FL 33166;25.8378394;-80.3144819;0;https://www.yelp.com/biz/wet-gentlemens-club-miami
+Rasta Village;395;1;Bars,Caribbean;4.0;5225 NW 2nd Ave Miami, FL 33127;25.8238615027124;-80.1997704301312;0;https://www.yelp.com/biz/rasta-village-miami
+Margherita Pizza Beer and Wine;396;15;Pizza,Italian,Bars;3.5;234 NE 3rd St Miami, FL 33132;25.7768244486739;-80.1896297559142;1;https://www.yelp.com/biz/margherita-pizza-beer-and-wine-miami
+Azul Restaurant;397;225;Asian Fusion,American (New),Bars;4.0;500 Brickell Key Dr Miami, FL 33131;25.7655249151268;-80.185680206221;4;https://www.yelp.com/biz/azul-restaurant-miami
+Azucar NightClub;398;3;Dance Clubs,Gay Bars;1.5;2301 SW 32nd Ave Miami, FL 33145;25.7480109;-80.2461424;2;https://www.yelp.com/biz/azucar-nightclub-miami
+Scully’s Tavern;399;181;Sports Bars,American (New);4.0;9809 SW 72nd St Miami, FL 33173;25.7021422;-80.3519983;2;https://www.yelp.com/biz/scullys-tavern-miami
+Hyde American Airlines Arena;400;11;Lounges;3.0;601 Biscayne Blvd Miami, FL 33132;25.781232;-80.187805;3;https://www.yelp.com/biz/hyde-american-airlines-arena-miami-2
+El Nuevo Romance;401;;Beer, Wine & Spirits,Lounges,Spanish;0;3451 NW 36th St Miami, FL 33142;25.8088218;-80.2522693;0;https://www.yelp.com/biz/el-nuevo-romance-miami
+Mister O1;402;516;Pizza,Salad,Bars;4.5;1680 Michigan Ave Miami Beach, FL 33139;25.7916737;-80.1393503;2;https://www.yelp.com/biz/mister-o1-miami-beach
+Café Melao;403;3;Lounges;5.0;7874 NW 52nd St Doral, FL 33166;25.8207389;-80.3251416;1;https://www.yelp.com/biz/caf%C3%A9-melao-doral
+The High Note Jazz Club;404;;Jazz & Blues;0;1465 SW 8th St Miami, FL 33135;25.7658129;-80.2190375;0;https://www.yelp.com/biz/the-high-note-jazz-club-miami
+Chef’s Table Gourmet Pizza;405;;Pizza,Sports Bars;0;5701 Sunset Dr South Miami, FL 33143;25.7044062968385;-80.2871398026592;2;https://www.yelp.com/biz/chefs-table-gourmet-pizza-south-miami
+The Spot On 7th Avenue;406;;American (Traditional),Cocktail Bars;0;6410 NW 7th Ave Miami, FL 33150;25.8340877;-80.2087807;0;https://www.yelp.com/biz/the-spot-on-7th-avenue-miami
+Miami Jazz Society;407;;Jazz & Blues;0;Miami, FL;25.7889689;-80.2264393;0;https://www.yelp.com/biz/miami-jazz-society-miami
+Chicagoan Bar;408;;Nightlife;0;10702 NW 7th Ave Miami, FL 33168;25.8729985;-80.2103542;0;https://www.yelp.com/biz/chicagoan-bar-miami
+District Brew House;409;1;Pubs,Beer Bar,Beer, Wine & Spirits;5.0;1015 North America Way Miami, FL 33132;25.7787704;-80.1779355;0;https://www.yelp.com/biz/district-brew-house-miami
+Smashed Canvas;410;6;Gastropubs,Beer Gardens,Music Venues;4.0;244 NW 29th St Miami, FL 33127;25.8038116;-80.2001859;0;https://www.yelp.com/biz/smashed-canvas-miami
+Charcoal Garden Bar & Grill;411;15;American (Traditional),Bars,Seafood;4.5;82 NW 29th St Miami, FL 33127;25.803708689235;-80.1966323330998;3;https://www.yelp.com/biz/charcoal-garden-bar-and-grill-miami
+305 Brews;412;46;Tapas Bars,Beer Bar;4.0;3535 NE 2nd Ave Miami, FL 33137;25.8098904;-80.1908283;2;https://www.yelp.com/biz/305-brews-miami
+La Terraza;413;26;Sushi Bars,Beer Bar,American (New);4.5;350 NE 24th St Miami, FL 33137;25.8000517;-80.1886459;2;https://www.yelp.com/biz/la-terraza-miami
+Marimar Seafood Sports Bar And Grill;414;2;Sports Bars,Seafood;3.5;17701 SW 232nd St Miami, FL 33170;25.5507689;-80.4785184;2;https://www.yelp.com/biz/marimar-seafood-sports-bar-and-grill-miami-2
+Layali Miami Lebanese Restaurant & Hookah Lounge;415;152;Mediterranean,Lebanese,Hookah Bars;4.0;11402 NW 41st St Doral, FL 33178;25.8108686;-80.3827637;2;https://www.yelp.com/biz/layali-miami-lebanese-restaurant-and-hookah-lounge-doral
+Little Hoolie’s Sports Bar & Grill;416;78;Sports Bars,Karaoke,American (Traditional);3.0;13135 SW 89th Pl Miami, FL 33176;25.64825;-80.3387081;2;https://www.yelp.com/biz/little-hoolies-sports-bar-and-grill-miami
+Ocho Live Bar & Lounge;417;;Beer Bar,Bar Crawl;0;1728 SW 8th St Miami, FL 33135;25.7653840590554;-80.2231794968247;0;https://www.yelp.com/biz/ocho-live-bar-and-lounge-miami-2
+Club Entertainment;418;;Nightlife;0;728 NW 79th St Miami, FL 33150;25.846756;-80.209844;0;https://www.yelp.com/biz/club-entertainment-miami
+Cafe Iguana;419;1;Nightlife;3.0;8505 Mills Dr Miami, FL 33183;25.689277;-80.3867358;0;https://www.yelp.com/biz/cafe-iguana-miami
+Via Verdi;420;178;Italian,Wine Bars;4.0;6900 Biscayne Blvd Miami, FL 33138;25.8390766;-80.1845623;2;https://www.yelp.com/biz/via-verdi-miami
+Flanigan’s Seafood Bar & Grill;421;179;American (Traditional),Seafood,Sports Bars;4.0;;25.6646059;-80.3237964;2;https://www.yelp.com/biz/flanigans-seafood-bar-and-grill-miami-14
+Sharp Shooters Billiards;422;26;Pool Halls,Bars;3.5;7200 SW 117th Ave Miami, FL 33183;25.7001963;-80.3827172;1;https://www.yelp.com/biz/sharp-shooters-billiards-miami
+Rik Rak Salon;423;115;Hair Salons,Bars,Women's Clothing;4.0;1428 Brickell Ave Miami, FL 33131;25.759704;-80.192814;3;https://www.yelp.com/biz/rik-rak-salon-miami-3
+Rumba Restaurant & Bar;424;3;Cuban,Chinese,Beer Bar;3.0;2860 Coral Way Miami, FL 33145;25.7499782;-80.2405506;2;https://www.yelp.com/biz/rumba-restaurant-and-bar-miami
+Downtown Bistro;425;82;French,Wine Bars,Mediterranean;4.5;114 SE 1st St Miami, FL 33131;25.7733049;-80.1913139;2;https://www.yelp.com/biz/downtown-bistro-miami-2
+New Wave Billiards & Sports Bar;426;40;Pool Halls,Sports Bars;3.5;1403 SW 107th Ave Miami, FL 33174;25.756486;-80.366729;1;https://www.yelp.com/biz/new-wave-billiards-and-sports-bar-miami
+Candela Gastrobar;427;76;Peruvian,Bars;4.0;900 S Miami Ave Miami, FL 33130;25.7649519767746;-80.194281332436;2;https://www.yelp.com/biz/candela-gastrobar-miami-4
+Catch Grill & Bar;428;70;Seafood,Bars,Venues & Event Spaces;3.0;1633 North Bayshore Dr Miami, FL 33132;25.7909935651382;-80.1857071269531;2;https://www.yelp.com/biz/catch-grill-and-bar-miami
+Paco’s Way;429;;Lounges;0;2810 Oak Ave Miami, FL 33133;25.7300218;-80.239665;0;https://www.yelp.com/biz/pacos-way-miami
+Lightkeepers;430;13;Bars,Seafood,American (New);4.0;455 Grand Bay Dr Key Biscayne, FL 33149;25.6929308677509;-80.1583832210922;3;https://www.yelp.com/biz/lightkeepers-key-biscayne
+COYA Miami;431;204;Peruvian,Latin American,Bars;3.5;999 Brickell Ave Miami, FL 33131;25.7639683246158;-80.1909402294998;3;https://www.yelp.com/biz/coya-miami-miami
+The Ren A Venue;432;;Dance Clubs;0;10855 SW 72nd St Miami, FL 33173;25.7027201;-80.3692122;2;https://www.yelp.com/biz/the-ren-a-venue-miami
+Madonna II Night Club;433;;Pubs;0;7770 Biscayne Blvd Miami, FL 33138;25.8469017;-80.1849281;0;https://www.yelp.com/biz/madonna-ii-night-club-miami
+Wall Lounge;434;85;Dance Clubs;3.0;2201 Collins Ave Miami Beach, FL 33139;25.797829;-80.127861;4;https://www.yelp.com/biz/wall-lounge-miami-beach-2
+La Cueva;435;;Bars,New Mexican Cuisine;0;1111 SW 1st St Miami, FL 33130;25.7639709550813;-80.1951728761196;0;https://www.yelp.com/biz/la-cueva-miami-2
+Matador Bar;436;17;Cocktail Bars,Lounges;4.0;2901 Collins Ave Miami Beach, FL 33140;25.805152;-80.124115;3;https://www.yelp.com/biz/matador-bar-miami-beach
+Trap Lounge;437;2;Adult Entertainment;2.0;13690 NW 7th Ave Miami, FL 33168;25.9002859;-80.2116767;1;https://www.yelp.com/biz/trap-lounge-miami
+The Bar Next Door;438;2;Lounges;5.0;1766 Bay Rd Miami Beach, FL 33139;25.7933342;-80.1438721;2;https://www.yelp.com/biz/the-bar-next-door-miami-beach
+ONE;439;;Adult Entertainment;0;333 NE 79th St Miami, FL 33138;25.8478654;-80.1903518;2;https://www.yelp.com/biz/one-miami
+Creme Lounge;440;1;Bars,Dance Clubs;3.0;725 Lincoln Ln N Miami, FL 33139;25.7912137;-80.1358727;1;https://www.yelp.com/biz/creme-lounge-miami
+The Lost & Found Saloon;441;364;American (New),Bars,Barbeque;3.5;185 NW 36th St Miami, FL 33127;25.8105168;-80.1989682;2;https://www.yelp.com/biz/the-lost-and-found-saloon-miami-2
+La Covacha;442;2;Dance Clubs;1.5;10730 NW 25th Ave Miami, FL 33167;25.8724674553348;-80.240865818589;0;https://www.yelp.com/biz/la-covacha-miami
+Alaine’s Osteria;443;68;Italian,Bars;4.5;7290 SW 168th St Palmetto Bay, FL 33157;25.6146313;-80.3097683;2;https://www.yelp.com/biz/alaines-osteria-palmetto-bay
+Bavaria Haus;444;103;German,Sports Bars;4.0;401 Biscayne Blvd Miami, FL 33132;25.778768346636;-80.1864767127369;2;https://www.yelp.com/biz/bavaria-haus-miami
+Delicias de Espana 2;445;28;Spanish,Bakeries,Wine Bars;4.5;7384 SW 40th St Miami, FL 33155;25.7329976;-80.3145536;2;https://www.yelp.com/biz/delicias-de-espana-2-miami-5
+Cibo Wine Bar South Beach;446;357;Italian,Wine Bars;4.0;200 S Pointe Dr Miami, FL 33139;25.767997;-80.133471;3;https://www.yelp.com/biz/cibo-wine-bar-south-beach-miami
+Heineken Bar;447;4;Bars;4.0;4200 NW 21st St Miami, FL 33142;25.794828;-80.265494;2;https://www.yelp.com/biz/heineken-bar-miami
+Sam’s Hideaway Tavern;448;10;Dive Bars;4.5;750 S Krome Ave Homestead, FL 33034;25.43880854546;-80.4767381027341;1;https://www.yelp.com/biz/sams-hideaway-tavern-homestead
+Ariete;449;168;American (New),Breakfast & Brunch,Cocktail Bars;4.0;3540 Main Hwy Miami, FL 33133;25.7250961373407;-80.245439149819;3;https://www.yelp.com/biz/ariete-miami-2
+STK South Beach;450;353;Steakhouses,American (New),Cocktail Bars;4.0;2305 Collins Ave Miami Beach, FL 33139;25.7985232;-80.1277079;3;https://www.yelp.com/biz/stk-south-beach-miami-beach
+The Travelers Lounge;451;7;Sports Bars,Karaoke;3.5;4767 NW 36th St Miami Springs, FL 33166;25.8083393960797;-80.2751318891541;1;https://www.yelp.com/biz/the-travelers-lounge-miami-springs
+Oasis Lounge and Hookah Bar;452;45;Hookah Bars;3.0;2977 MacFarlane Rd Miami, FL 33133;25.7276882;-80.2411857;2;https://www.yelp.com/biz/oasis-lounge-and-hookah-bar-miami
+Jimmy G’s House of Sound;453;;Musicians,Jazz & Blues;0;Miami, FL;25.7616798;-80.1917902;0;https://www.yelp.com/biz/jimmy-gs-house-of-sound-miami
+Naked Lunch;454;37;Bars,American (New),American (Traditional);4.0;1951 NW 7th Ave Miami, FL 33136;25.7946418;-80.2063493;2;https://www.yelp.com/biz/naked-lunch-miami
+Commonwealth Miami;455;45;Bars,American (Traditional),Desserts;3.5;1216 Washington Ave Miami Beach, FL 33139;25.7833123;-80.132566;2;https://www.yelp.com/biz/commonwealth-miami-miami-beach
+Happy’s Stork Lounge and Liquor;456;40;Dive Bars,Lounges;4.0;1872 79th St Cswy North Bay Village, FL 33141;25.8481225;-80.1469566;1;https://www.yelp.com/biz/happys-stork-lounge-and-liquor-north-bay-village-2
+Have-Nots Comedy;457;1;Comedy Clubs;5.0;Coral Gables, FL 33134;25.7508728218631;-80.2566831767866;2;https://www.yelp.com/biz/have-nots-comedy-coral-gables
+Bahia Honda Restaurant;458;5;Seafood,Seafood Markets,Wine Bars;5.0;10670 SW 24th St Miami, FL 33165;25.7463696098273;-80.3664012482364;1;https://www.yelp.com/biz/bahia-honda-restaurant-miami
+Mas Cuba Cafe & Bar;459;10;Cuban,Cocktail Bars,Breakfast & Brunch;4.0;318 20th St Miami Beach, FL 33139;25.7958696;-80.1306601;2;https://www.yelp.com/biz/mas-cuba-cafe-and-bar-miami-beach
+Club Climaxxx;460;;Adult Entertainment;0;12001 NW 27th Ave Miami, FL 33167;25.8839095;-80.2426777;2;https://www.yelp.com/biz/club-climaxxx-miami
+Repour Bar;461;67;Lounges,Cocktail Bars;4.5;1650 James Ave Miami Beach, FL 33139;25.7909447;-80.1310976;2;https://www.yelp.com/biz/repour-bar-miami-beach
+Brickell Wine Bank;462;2;Wine Bars,Beer, Wine & Spirits,Convenience Stores;5.0;950 Brickell Bay Dr Miami, FL 33131;25.765005;-80.190166;0;https://www.yelp.com/biz/brickell-wine-bank-miami
+Beaudevin;463;31;Wine Bars,American (New),Tapas Bars;4.0;1640 NW 42nd Ave Miami, FL 33126;25.7972436328114;-80.2767342677478;2;https://www.yelp.com/biz/beaudevin-miami-2
+Special In A Bad Way;464;;Comedy Clubs;0;3119 Coral Way Miami, FL 33129;25.7502873;-80.2444365;0;https://www.yelp.com/biz/special-in-a-bad-way-miami-2
+Big Easy Wine Bar & Grill;465;92;South African,Wine Bars;4.0;701 S Miami Ave Miami, FL 33130;25.7671674;-80.1930873;2;https://www.yelp.com/biz/big-easy-wine-bar-and-grill-miami
+RA Sushi Bar Restaurant;466;432;Sushi Bars,Japanese,Bars;3.0;5829 SW 73rd St Miami, FL 33143;25.7037193;-80.2878319;2;https://www.yelp.com/biz/ra-sushi-bar-restaurant-miami
+Bleau Bar;467;74;Bars;3.5;4441 Collins Ave Miami Beach, FL 33140;25.8180885463374;-80.1219193674591;3;https://www.yelp.com/biz/bleau-bar-miami-beach
+La Scala Brickell;468;6;Party & Event Planning,Music Venues;1.5;905 Brickell Bay Dr Miami, FL 33131;25.7640689920328;-80.1889977962952;2;https://www.yelp.com/biz/la-scala-brickell-miami
+Highbar Miami;469;28;Bars;3.5;1111 Collins Ave Miami Beach, FL 33139;25.7819627;-80.1311411;2;https://www.yelp.com/biz/highbar-miami-miami-beach-2
+Lost Weekend;470;214;Sports Bars,Dive Bars,Pool Halls;4.0;218 Espanola Way Miami Beach, FL 33139;25.7868844622207;-80.1309844643705;1;https://www.yelp.com/biz/lost-weekend-miami-beach
+Mojitobar;471;77;Bars,Music Venues;2.5;401 Biscayne Blvd Miami, FL 33132;25.7781808;-80.1864811;2;https://www.yelp.com/biz/mojitobar-miami
+SL Miami;472;6;Dance Clubs;3.5;1545 Collins Ave Miami Beach, FL 33139;25.7885096;-80.1302088;3;https://www.yelp.com/biz/sl-miami-miami-beach
+Ebar;473;25;Coffee & Tea,Internet Cafes;4.0;4310 Ponce de Leon Blvd Coral Gables, FL 33146;25.7319177854399;-80.2592175446358;1;https://www.yelp.com/biz/ebar-coral-gables
+W XYZ Bar;474;1;Venues & Event Spaces,Tapas/Small Plates,Cocktail Bars;4.0;7220 NW 36th St Miami, FL 33166;25.8086829;-80.3147742;0;https://www.yelp.com/biz/w-xyz-bar-miami-2
+Hrc Havana Nines;475;4;Bars;3.5;2637 N Miami Ave Miami, FL 33127;25.778464757841;-80.1865093471603;0;https://www.yelp.com/biz/hrc-havana-nines-miami
+Asturias Liquors & Lounge;476;;Lounges;0;4687 W Flagler St Miami, FL 33126;25.7715079190713;-80.2715303376317;0;https://www.yelp.com/biz/asturias-liquors-and-lounge-miami
+Double Grand Waterclub;477;1;Music Venues,Lounges;4.0;1717 N Bayshore Dr Miami, FL 33132;25.7914649;-80.1862085;0;https://www.yelp.com/biz/double-grand-waterclub-miami
+Bushwhacker Lounge;478;;Nightlife;0;1621 SW 37th Ave Miami, FL 33145;25.7570897;-80.2548217;0;https://www.yelp.com/biz/bushwhacker-lounge-miami
+Cafeina Wynwood Lounge - Temp. CLOSED;479;188;Lounges,Venues & Event Spaces,Art Galleries;4.0;297 NW 23rd St Miami, FL 33127;25.799621;-80.200809;2;https://www.yelp.com/biz/cafeina-wynwood-lounge-miami
+Panorama Restaurant & Sky Lounge;480;1;Lounges,American (Traditional);5.0;2889 Mcfarlane Rd Miami, FL 33133;25.727352;-80.240512;0;https://www.yelp.com/biz/panorama-restaurant-and-sky-lounge-miami-2
+380 District;481;1;Photographers,Venues & Event Spaces,Music Venues;3.0;380 NE 59th St Miami, FL 33137;25.8296544;-80.1886181;0;https://www.yelp.com/biz/380-district-miami
+Town Kitchen & Bar;482;397;Bars,American (New);3.5;7301 SW 57th Ct Miami, FL 33143;25.7030481;-80.286063;2;https://www.yelp.com/biz/town-kitchen-and-bar-miami
+SET Nightclub;483;197;Dance Clubs,Music Venues;2.0;320 Lincoln Rd Miami Beach, FL 33139;25.790357475037;-80.1310430504645;3;https://www.yelp.com/biz/set-nightclub-miami-beach
+Back Of The Road Sports Grill;484;85;American (Traditional),Sports Bars;3.5;15420 SW 136th St Miami, FL 33196;25.6394073;-80.443804;1;https://www.yelp.com/biz/back-of-the-road-sports-grill-miami
+Voyage Ultra Lounge Miami;485;2;Lounges;2.5;66 SW 6th St Miami, FL 33130;25.7680189;-80.1947156;2;https://www.yelp.com/biz/voyage-ultra-lounge-miami-miami
+Ferraro’s Kitchen;486;54;Wine Bars,Italian,Cooking Classes;4.5;1099 NE 79th St Miami, FL 33138;25.8483612;-80.1745225;3;https://www.yelp.com/biz/ferraros-kitchen-miami
+Milanezza;487;66;Bars,Italian,Argentine;3.5;700 Crandon Blvd Key Biscayne, FL 33149;25.688076;-80.163806;2;https://www.yelp.com/biz/milanezza-key-biscayne-2
+Sports Grill - Sunset;488;221;Sports Bars,American (Traditional),Chicken Wings;4.0;10005 SW 72nd St Miami, FL 33173;25.7015166;-80.3565623;2;https://www.yelp.com/biz/sports-grill-sunset-miami-2
+Petit Chalet Lounge;489;;Nightlife;0;6700 W Flagler St Miami, FL 33144;25.770246;-80.304363;0;https://www.yelp.com/biz/petit-chalet-lounge-miami
+On the Rocks;490;25;Sports Bars;4.0;217 71st St Miami Beach, FL 33141;25.8561325;-80.1206604;1;https://www.yelp.com/biz/on-the-rocks-miami-beach
+Clandestino Pub;491;94;Pubs,Wine Bars,Cocktail Bars;4.5;758 Washington Ave Miami Beach, FL 33139;25.7781182;-80.1335401;2;https://www.yelp.com/biz/clandestino-pub-miami-beach-7
+Kandinsky Restaurant & Lounge;492;9;Russian,Salad,Lounges;5.0;1826 Collins Ave Miami Beach, FL 33139;25.7944813;-80.1298272;3;https://www.yelp.com/biz/kandinsky-restaurant-and-lounge-miami-beach
+Bentley Beach Club;493;5;Social Clubs,Seafood,Lounges;4.5;101 Ocean Dr Miami Beach, FL 33139;25.7697382369062;-80.132772170639;3;https://www.yelp.com/biz/bentley-beach-club-miami-beach
+The Drawing Room;494;135;Bars;4.5;;25.794088;-80.128924;3;https://www.yelp.com/biz/the-drawing-room-miami-beach
+Chili’s;495;19;Tex-Mex,Bars,American (Traditional);3.0;;25.7932811539882;-80.277787203202;2;https://www.yelp.com/biz/chilis-miami-14
+Fan House Sports Bar & Grill;496;;Sports Bars,American (Traditional);0;13914 NW 7th Ave Miami, FL 33168;25.9023021;-80.2117705;0;https://www.yelp.com/biz/fan-house-sports-bar-and-grill-miami
+Wine & Spirits Emporium;497;13;Beer, Wine & Spirits,Wine Bars;3.5;10730 NW 74th St Miami, FL 33178;25.8405793;-80.3708045;2;https://www.yelp.com/biz/wine-and-spirits-emporium-miami
+19th Hole Sports Bar & Grill;498;17;American (Traditional),Bars,Breakfast & Brunch;3.5;;25.740674;-80.280544;2;https://www.yelp.com/biz/19th-hole-sports-bar-and-grill-coral-gables
+D’Cata Wine;499;2;Wine Bars;5.0;8695 NW 58th St Miami, FL 33166;25.8267766;-80.3373512;1;https://www.yelp.com/biz/d-cata-wine-miami
+Hookah Inn;500;21;Hookah Bars;3.0;10549 SW 109th Ct Miami, FL 33176;25.6708581349203;-80.3724464861222;1;https://www.yelp.com/biz/hookah-inn-miami
+Vagabond Kitchen & Bar;501;225;American (New),Desserts,Cocktail Bars;4.0;7301 Biscayne Blvd Miami, FL 33138;25.8428949;-80.1839365;2;https://www.yelp.com/biz/vagabond-kitchen-and-bar-miami
+Elite Miami Entertainment;502;4;Dance Clubs,Party Bus Rentals,Bars;4.0;;25.787353;-80.144905;0;https://www.yelp.com/biz/elite-miami-entertainment-miami-beach
+Kimpton Angler’s Hotel;503;51;Hotels,Venues & Event Spaces,Cocktail Bars;4.5;660 Washington Ave Miami Beach, FL 33139;25.776553;-80.134172;3;https://www.yelp.com/biz/kimpton-anglers-hotel-miami-beach
+Fritz & Franz Bierhaus;504;199;German,Sports Bars;3.5;60 Merrick Way Coral Gables, FL 33134;25.7509596;-80.2561633;2;https://www.yelp.com/biz/fritz-and-franz-bierhaus-coral-gables
+Flamingo Theater Bar;505;21;Comedy Clubs,Music Venues,Performing Arts;2.5;801 Brickell Bay Dr Miami, FL 33131;25.7642335754854;-80.1890461865082;2;https://www.yelp.com/biz/flamingo-theater-bar-miami
+Yage Bay Club;506;2;Dance Clubs;1.5;;25.778556;-80.1882053;4;https://www.yelp.com/biz/yage-bay-club-miami
+The Centurion Lounge;507;129;Airport Lounges;4.0;;25.7980407924012;-80.2730102464557;1;https://www.yelp.com/biz/the-centurion-lounge-miami
+Ella’s Oyster Bar;508;6;Seafood,Wine Bars,Cocktail Bars;3.5;1615 SW 8th St Miami, FL 33135;25.7658912;-80.2214613;2;https://www.yelp.com/biz/ellas-oyster-bar-miami-3
+The Flow Lounge;509;;Dance Clubs;0;2450 NW 36th St Miami, FL 33142;25.808917;-80.2369159;0;https://www.yelp.com/biz/the-flow-lounge-miami
+Shantel’s Jazz Cafe;510;4;Lounges,Cafes;3.5;5422 NW 7th Ave Miami, FL 33127;25.8255217;-80.2084205;0;https://www.yelp.com/biz/shantels-jazz-cafe-miami-2
+Shula’s Bar & Grill;511;;Bars,American (Traditional);0;2100 NW 42nd Ave Miami, FL 33126;25.7968865;-80.2644256;0;https://www.yelp.com/biz/shulas-bar-and-grill-miami-2
+Platinium Lounge;512;;Dance Clubs,Music Venues,Lounges;0;2450 NW 36th St Miami, FL 33142;25.808917;-80.2369159;0;https://www.yelp.com/biz/platinium-lounge-miami
+Segafredo Bayside;513;19;Italian,Cocktail Bars;3.5;401 Biscayne Blvd Miami, FL 33131;25.778234;-80.186545;2;https://www.yelp.com/biz/segafredo-bayside-miami
+La Lupita;514;150;Mexican,Bars;3.0;1057 SE 1st Ave Miami, FL 33131;25.7636398;-80.192662;2;https://www.yelp.com/biz/la-lupita-miami-2
+Blue Beer Garden;515;25;Beer Gardens,Gastropubs,Pizza;4.0;;25.8591216;-80.1219016;1;https://www.yelp.com/biz/blue-beer-garden-miami-beach-2
+Duffy’s Sports Grill of Coconut Grove;516;209;Burgers,Sports Bars,American (Traditional);3.5;3015 Grand Ave Miami, FL 33133;25.7283681;-80.2419366;2;https://www.yelp.com/biz/duffys-sports-grill-of-coconut-grove-miami
+Come To Elysium;517;;Dance Clubs,Music Venues;0;61 Curtis Pkwy Miami Springs, FL 33166;25.8223198;-80.289495;1;https://www.yelp.com/biz/come-to-elysium-miami-springs
+Last Chance Bar & Package;518;28;Dive Bars;4.0;35800 S Dixie Hwy Florida City, FL 33034;25.4348143;-80.4749156;1;https://www.yelp.com/biz/last-chance-bar-and-package-florida-city
+James L. Knight Center Ashe Auditorium;519;;Music Venues;0;400 SE 2nd Ave Miami, FL 33131;25.7708939;-80.1909189;0;https://www.yelp.com/biz/james-l-knight-center-ashe-auditorium-miami
+Sawa Restaurant & Lounge;520;236;Mediterranean,Japanese,Lounges;3.5;360 San Lorenzo Ave Coral Gables, FL 33146;25.7320119400562;-80.2607037619018;2;https://www.yelp.com/biz/sawa-restaurant-and-lounge-coral-gables
+Glass & Vine;521;238;American (New),Wine Bars;4.0;2820 Mcfarlane Rd Miami, FL 33133;25.7256603;-80.2405536;2;https://www.yelp.com/biz/glass-and-vine-miami
+Bocce;522;269;Italian,Bars,Pizza;4.0;3252 NE 1st Ave Miami, FL 33137;25.8076219225945;-80.1930984165329;3;https://www.yelp.com/biz/bocce-miami
+Secrets Gentlemen Club;523;3;Adult Entertainment;1.5;11340 Biscayne Blvd Miami, FL 33181;25.881255;-80.166899;2;https://www.yelp.com/biz/secrets-gentlemen-club-miami
+Parafernalia Entertainment Company;524;;Adult Entertainment;0;182 NW 25th Ave Miami, FL 33125;25.7748884;-80.2371676;0;https://www.yelp.com/biz/parafernalia-entertainment-company-miami
+Mary’s Cafe Bar & Lounge;525;1;Lounges,Cafes;1.0;3045 NW 33rd Ave Miami, FL 33142;25.8036912;-80.249983;0;https://www.yelp.com/biz/marys-cafe-bar-and-lounge-miami
+Fado Irish Pub & Restaurant;526;356;Irish,Irish Pub;3.5;900 S Miami Blvd, 2nd Fl Miami, FL 33130;25.7646381004369;-80.1935481433872;2;https://www.yelp.com/biz/fado-irish-pub-and-restaurant-miami-3
+Mac’s Club Deuce;527;217;Dive Bars,Cocktail Bars;4.0;222 14th St Miami Beach, FL 33139;25.785197;-80.131509;1;https://www.yelp.com/biz/macs-club-deuce-miami-beach
+Bond Lounge;528;2;Lounges;4.0;1905 Collins Ave Miami Beach, FL 33139;25.7953297;-80.1290258;0;https://www.yelp.com/biz/bond-lounge-miami-beach
+The Original Shula’s;529;66;Steakhouses,American (New),Bars;4.0;7601 Miami Lakes Dr Miami Lakes, FL 33014;25.913691;-80.322476;3;https://www.yelp.com/biz/the-original-shulas-miami-lakes
+Bin Number 18;530;2;American (New),Wine Bars;4.5;275 NE 18th St Miami, FL 33132;25.793928;-80.1896631;0;https://www.yelp.com/biz/bin-number-18-miami
+Hunks & Babes;531;1;Adult Entertainment;1.0;Miami, FL;25.7889689;-80.2264393;0;https://www.yelp.com/biz/hunks-and-babes-miami
+D’Oro Caffe & Market;532;65;Italian,Desserts,Wine Bars;4.0;17 NE 3rd Ave Miami, FL 33132;25.7746808;-80.1885703;2;https://www.yelp.com/biz/d-oro-caffe-and-market-miami-2
+Bajito Restaurant & Lounge;533;7;Sushi Bars,Lounges,Cuban;3.5;9851 NW 58th St Doral, FL 33178;25.8265989;-80.3570103;2;https://www.yelp.com/biz/bajito-restaurant-and-lounge-doral-2
+Punch;534;39;Bars;2.0;5580 NE 4th Ct Miami, FL 33137;25.8272793;-80.1873721;2;https://www.yelp.com/biz/punch-miami
+Yard House;535;744;Bars,Vegetarian,American (New);3.5;320 San Lorenzo Ave Coral Gables, FL 33146;25.7324040383379;-80.2597441666565;2;https://www.yelp.com/biz/yard-house-coral-gables
+Let’s Make A Daiquiri;536;55;Cocktail Bars;3.5;401 Biscayne Blvd Miami, FL 33132;25.7780937;-80.1864118;2;https://www.yelp.com/biz/lets-make-a-daiquiri-miami
+Booby Trap;537;40;Adult Entertainment;3.0;5922 S Dixie Hwy South Miami, FL 33143;25.7037882;-80.2899387;2;https://www.yelp.com/biz/booby-trap-south-miami
+The Restaurant;538;1;Lounges,Tapas Bars;5.0;1888 79th Street Cswy North Bay Village, FL 33141;25.8482388925013;-80.1465551555157;2;https://www.yelp.com/biz/the-restaurant-north-bay-village
+VIP Lounge;539;6;Airport Lounges;4.0;;25.7931251960526;-80.273640230298;2;https://www.yelp.com/biz/vip-lounge-miami-2
+The Continental Miami;540;222;Cocktail Bars,American (New);4.0;2360 Collins Ave Miami Beach, FL 33139;25.7997448;-80.1281272;2;https://www.yelp.com/biz/the-continental-miami-miami-beach
+Lounge 2506;541;;Lounges;0;50 Biscayne Blvd Miami, FL 33132;25.7740398595773;-80.187224149704;0;https://www.yelp.com/biz/lounge-2506-miami
+Baru Urbano;542;67;Latin American,Bars;2.5;11402 NW 41st St Doral, FL 33178;25.8108686;-80.3827637;2;https://www.yelp.com/biz/baru-urbano-doral
+The Tuck Room;543;60;Cocktail Bars,Gastropubs,Tapas/Small Plates;4.5;3701 NE 163rd St North Miami Beach, FL 33160;25.9315342;-80.13519;2;https://www.yelp.com/biz/the-tuck-room-north-miami-beach
+Crazy Horse;544;;Nightlife;0;17800 State Road 9 Miami, FL 33162;25.93865;-80.195604;0;https://www.yelp.com/biz/crazy-horse-miami
+Tutto Pizza;545;143;Pizza,Italian,Bars;4.0;1763 SW 3rd Ave Miami, FL 33129;25.7604306;-80.2003789;2;https://www.yelp.com/biz/tutto-pizza-miami-2
+Ilusiones Supper Club;546;4;Dance Clubs,Pubs,Music Venues;1.0;12540 SW 8th St Miami, FL 33184;25.7608752;-80.3954996;2;https://www.yelp.com/biz/ilusiones-supper-club-miami
+Ini Recording Studios;547;;Nightlife;0;3701 NE 2nd Ave Miami, FL 33137;25.8117259;-80.1911767;0;https://www.yelp.com/biz/ini-recording-studios-miami
+Surf Club;548;1;Dance Clubs;3.0;9011 Collins Ave Surfside, FL 33154;25.8777172;-80.1212496;3;https://www.yelp.com/biz/surf-club-surfside
+Splash Poolside Restaurant;549;4;Pizza,American (Traditional),Cocktail Bars;4.0;4525 Collins Ave Miami Beach, FL 33140;25.8194702145019;-80.1215870332351;2;https://www.yelp.com/biz/splash-poolside-restaurant-miami-beach
+Super Pizzeria and Restaurant;550;28;Pizza,Bars;3.5;2255 SW 32nd Ave Miami, FL 33145;25.7487453;-80.2461074;1;https://www.yelp.com/biz/super-pizzeria-and-restaurant-miami
+Al Carbon;551;161;Burgers,Bars,Juice Bars & Smoothies;3.5;2280 SW 22nd St Miami, FL 33145;25.7502981;-80.2317453;2;https://www.yelp.com/biz/al-carbon-miami
+Flanigan’s Seafood Bar & Grill;552;78;Seafood,American (Traditional),Sports Bars;3.5;9857 SW 40th St Miami, FL 33165;25.7328701019287;-80.3539962768555;2;https://www.yelp.com/biz/flanigans-seafood-bar-and-grill-miami-15
+Las Tunas Bar & Grill;553;4;Latin American,Sandwiches,Bars;5.0;476 Palm Ave Hialeah, FL 33010;25.8258768;-80.2816266;1;https://www.yelp.com/biz/las-tunas-bar-and-grill-hialeah
+GK Bistronomie;554;163;Bars,Seafood,Peruvian;4.0;218 NW 25th St Miami, FL 33127;25.8005369;-80.199554;2;https://www.yelp.com/biz/gk-bistronomie-miami
+Batting Cage Sports Bar;555;35;Sports Bars,American (New);2.5;1704 NW 7th St Miami, FL 33125;25.7798834;-80.2231792;2;https://www.yelp.com/biz/batting-cage-sports-bar-miami-2
+Sports Grill - South Miami;556;142;American (Traditional),Chicken Wings,Sports Bars;4.0;1559 Sunset Dr South Miami, FL 33146;25.7046434;-80.2844337;2;https://www.yelp.com/biz/sports-grill-south-miami-south-miami
+Hubble Bubble;557;1;Hookah Bars;5.0;Miami, FL 33160;25.9347377;-80.1372757;2;https://www.yelp.com/biz/hubble-bubble-miami-3
+American Airlines Admirals Club;558;46;Airport Lounges;3.5;Miami International Airport Miami, FL 33122;25.7979893788178;-80.273601800696;2;https://www.yelp.com/biz/american-airlines-admirals-club-miami-6
+GameTime;559;93;Arcades,Sports Bars,Venues & Event Spaces;3.5;5701 Sunset Dr Miami, FL 33143;25.7056262747045;-80.2860783334351;2;https://www.yelp.com/biz/gametime-miami
+Cake Thai;560;83;Thai,Beer Bar,Wine Bars;3.5;180 NW 29th St Miami, FL 33137;25.8036235686481;-80.1988022401929;2;https://www.yelp.com/biz/cake-thai-miami
+Grove Bay Grill;561;183;Bars,Seafood;4.0;3381 Pan American Dr Miami, FL 33133;25.7287665681251;-80.2333700174439;2;https://www.yelp.com/biz/grove-bay-grill-miami-4
+Studio 60 Nightclub;562;;Dance Clubs;0;2300 NW 36th St Miami, FL 33142;25.8090018;-80.2343193;0;https://www.yelp.com/biz/studio-60-nightclub-miami
+Whiskey Joe’s;563;169;Bars,American (New),Seafood;3.0;3301 Rickenbacker Cswy Key Biscayne, FL 33149;25.7369414;-80.1649684;2;https://www.yelp.com/biz/whiskey-joes-key-biscayne
+Bikini Bar;564;13;Bars,Adult Entertainment;3.5;7309 Collins Ave Miami Beach, FL 33141;25.8587099;-80.120705;2;https://www.yelp.com/biz/bikini-bar-miami-beach-2
+Xochimex Cantina Grill;565;33;Desserts,Tacos,Beer Bar;4.0;16171 NW 57th Ave Miami, FL 33014;25.920069;-80.2929178;1;https://www.yelp.com/biz/xochimex-cantina-grill-miami
+Baires Grill Brickell;566;56;Bars,Argentine,Steakhouses;4.0;1010 S Miami Ave Miami, FL 33130;25.7639386;-80.1934826;2;https://www.yelp.com/biz/baires-grill-brickell-miami-3
+Thegrdn;567;4;Bars;5.0;1676 James Ave Miami Beach, FL 33139;25.7917037;-80.1311243;1;https://www.yelp.com/biz/thegrdn-miami-beach
+Rot’s Tavern and Bar;568;2;Beer Bar;4.5;3800 SW 68th Pl Miami, FL 33155;25.735539;-80.3052189;4;https://www.yelp.com/biz/rots-tavern-and-bar-miami
+Air Margaritaville - Miami;569;14;Bars,American (Traditional);2.5;Miami International Airport Hotel Miami, FL 33122;25.7949843;-80.2793418;2;https://www.yelp.com/biz/air-margaritaville-miami-miami
+Vibe;570;88;Dance Clubs,Music Venues,Lounges;3.0;301 E Las Olas Blvd Fort Lauderdale, FL 33301;26.1192864620173;-80.1392548903922;2;https://www.yelp.com/biz/vibe-fort-lauderdale
+PT’s Showclub;571;12;Adult Entertainment,Bars;2.5;7565 W 20th Ave Hialeah, FL 33014;25.8912736;-80.3233747;3;https://www.yelp.com/biz/pts-showclub-hialeah
+Zingular Bar;572;;Bars,Music Venues;0;10777 W Flagler St Miami, FL 33174;25.7699048;-80.3696316;2;https://www.yelp.com/biz/zingular-bar-miami-3
+Lago Del Sol - Bistro Lounge;573;;American (Traditional),Cocktail Bars;0;100 Costa Del Sol Blvd Doral, FL 33178;25.8071892;-80.3593091;0;https://www.yelp.com/biz/lago-del-sol-bistro-lounge-doral
+Yunque Art and Lounge;574;;Performing Arts,Music Venues,Puerto Rican;0;1220 SW 57th Ave Miami, FL 33144;25.759629810331;-80.2879134233748;0;https://www.yelp.com/biz/yunque-art-and-lounge-miami
+Tucandela Bar;575;39;Bars,Dance Clubs,Karaoke;2.0;901 S Miami Ave Miami, FL 33130;25.7653027285316;-80.192506326181;4;https://www.yelp.com/biz/tucandela-bar-miami-3
+Miami Airport Cell Phone Parking Lot;576;10;Airport Lounges;3.5;3100 NW Le Jeune Rd Miami, FL 33122;25.8077887571274;-80.2705324975532;1;https://www.yelp.com/biz/miami-airport-cell-phone-parking-lot-miami
+Rockwell Miami;577;55;Dance Clubs;2.5;743 Washington Ave Miami Beach, FL 33139;25.7780131;-80.1330422;4;https://www.yelp.com/biz/rockwell-miami-miami-beach
+Segafredo L’Originale;578;207;Italian,Cafes,Cocktail Bars;3.5;1040 Lincoln Rd Miami Beach, FL 33139;25.7901587;-80.1394363;2;https://www.yelp.com/biz/segafredo-l-originale-miami-beach
+Doheny Room at Delano;579;2;Lounges;3.0;1685 Collins Ave Miami Beach, FL 33139;25.7920992;-80.1291839;0;https://www.yelp.com/biz/doheny-room-at-delano-miami-beach
+Sokai Sushi Bar;580;87;Sushi Bars,Bars,Japanese;3.5;;25.6443825;-80.3394789;2;https://www.yelp.com/biz/sokai-sushi-bar-miami-2
+Lo de Lea;581;135;Argentine,Wine Bars;4.5;7001 Biscayne Blvd Miami, FL 33138;25.8396465;-80.1840829;2;https://www.yelp.com/biz/lo-de-lea-miami
+Style Lounge;582;;Sports Bars,Men's Clothing;0;2690 SW 28th Ln Miami, FL 33133;25.7407353;-80.23762;0;https://www.yelp.com/biz/style-lounge-miami
+La Mexicana Cantina & Grill;583;113;Bars,Mexican;3.0;1451 S Miami Ave Miami, FL 33130;25.7598234600827;-80.1936406374344;2;https://www.yelp.com/biz/la-mexicana-cantina-and-grill-miami-2
+Sports Grill - Kendall;584;102;Sports Bars,American (Traditional),Chicken Wings;3.5;9090 SW 97th Ave Miami, FL 33176;25.685836;-80.351454;2;https://www.yelp.com/biz/sports-grill-kendall-miami
+Strada In The Grove;585;179;Italian,Breakfast & Brunch,Wine Bars;3.5;3176 Commodore Plz Miami, FL 33133;25.7275418;-80.2450106;2;https://www.yelp.com/biz/strada-in-the-grove-miami
+Chevys Fresh Mex;586;157;Mexican,Bars,Tex-Mex;3.0;8191 N.W. 12th Miami, FL 33126;25.7831369;-80.327849;2;https://www.yelp.com/biz/chevys-fresh-mex-miami-3
+Greenstreet Cafe;587;876;Breakfast & Brunch,American (Traditional),Cocktail Bars;4.0;3468 Main Hwy Coconut Grove, FL 33133;25.726766;-80.244055;2;https://www.yelp.com/biz/greenstreet-cafe-coconut-grove-3
+Monkitail;588;38;Izakaya,Cocktail Bars,Karaoke;4.5;3555 S Ocean Dr Hollywood, FL 33019;25.9917167;-80.1179961;2;https://www.yelp.com/biz/monkitail-hollywood-2
+Adult Video World;589;;Adult Entertainment;0;770 NE 167th St Miami, FL 33162;25.9283167;-80.1847534;0;https://www.yelp.com/biz/adult-video-world-miami
+Grove Thunder Club;590;;Dance Clubs;0;2920 Bird Ave Miami, FL 33133;25.7352744;-80.2402333;0;https://www.yelp.com/biz/grove-thunder-club-miami-2
+Champions Bar & Grill;591;26;American (New),Sports Bars;2.5;;25.814217680288;-80.3397611131058;2;https://www.yelp.com/biz/champions-bar-and-grill-miami-2
+Mokai Lounge;592;120;Dance Clubs;2.0;235 23rd St Miami Beach, FL 33139;25.7987581;-80.1286292;3;https://www.yelp.com/biz/mokai-lounge-miami-beach
+Los Recuardos Taverna;593;;Nightlife;0;12540 SW 8th St Miami, FL 33184;25.7608752;-80.3954996;2;https://www.yelp.com/biz/los-recuardos-taverna-miami
+All Fusion Music & Electronics, Inc.;594;1;Music Venues,Musical Instruments & Teachers;1.0;7795 W Flagler St Miami, FL 33144;25.7726793;-80.3229303;0;https://www.yelp.com/biz/all-fusion-music-and-electronics-inc-miami
+Treehouse;595;33;Dance Clubs;3.5;323 23rd St Miami Beach, FL 33139;25.799177;-80.129344;2;https://www.yelp.com/biz/treehouse-miami-beach
+Kapallaq Peruvian Cuisine;596;59;Peruvian,Soup,Cocktail Bars;4.5;9559 S Dixie Hwy Pinecrest, FL 33156;25.682110413909;-80.3149998933077;2;https://www.yelp.com/biz/kapallaq-peruvian-cuisine-pinecrest
+Miami Hookah Rental;597;;Hookah Bars,Party Equipment Rentals,Caterers;0;Miami, FL 33130;25.7667897;-80.2070328;0;https://www.yelp.com/biz/miami-hookah-rental-miami-6
+Privet Ultra Lounge;598;1;Dance Clubs,Lounges;4.0;901 S Federal Hwy Hallandale Beach, FL 33009;25.9780208;-80.1399958;2;https://www.yelp.com/biz/privet-ultra-lounge-hallandale-beach
+Duffy’s Sports Grill of Kendall;599;125;Sports Bars,American (Traditional),Burgers;3.5;8575 SW 124th Ave Miami, FL 33183;25.6882869;-80.3918182;2;https://www.yelp.com/biz/duffys-sports-grill-of-kendall-miami
+WunderBar;600;15;Cocktail Bars,Pubs,Lounges;4.0;3900 Collins Ave Miami Beach, FL 33140;25.811988;-80.123469;2;https://www.yelp.com/biz/wunderbar-miami-beach-2
+Keg South Of Kendall;601;133;Sports Bars,American (New);3.5;12805 SW 136th Ave Miami, FL 33186;25.6480222252205;-80.4140529741015;2;https://www.yelp.com/biz/keg-south-of-kendall-miami
+Vmidtown;602;;Lounges;0;3215 NE 2nd Ave Miami, FL 33137;25.8072617;-80.191155;0;https://www.yelp.com/biz/vmidtown-miami
+Toscana Divino;603;207;Italian,Wine Bars;4.0;900 S Miami Ave Miami, FL 33130;25.7652195;-80.1935252;3;https://www.yelp.com/biz/toscana-divino-miami
+Cibo Wine Bar-Coral Gables;604;467;Italian,Wine Bars;4.0;45 Miracle Mile Coral Gables, FL 33134;25.7500750679829;-80.2558428723526;2;https://www.yelp.com/biz/cibo-wine-bar-coral-gables-coral-gables-6
+SensualMassagebyT;605;;Adult Entertainment;0;Miami, FL 33137;25.8207159;-80.1819268;0;https://www.yelp.com/biz/sensualmassagebyt-miami-4
+South Pointe Tavern;606;17;American (Traditional),Cocktail Bars,Breakfast & Brunch;4.5;40 S Pointe Dr Miami Beach, FL 33139;25.7681925592521;-80.133100980426;2;https://www.yelp.com/biz/south-pointe-tavern-miami-beach
+Better Days;607;4;Cocktail Bars;4.0;75 SE 6th St Miami, FL 33131;25.7685432;-80.1912939;2;https://www.yelp.com/biz/better-days-miami
+La Covacha;608;40;Dance Clubs,Sports Bars;2.0;10730 NW 25th St Doral, FL 33172;25.7965714;-80.3698325;2;https://www.yelp.com/biz/la-covacha-doral
+TGI Friday’s;609;64;American (Traditional),Bars,Burgers;3.5;2100 NW 42nd Ave Miami, FL 33142;25.7973507375624;-80.2814340591431;2;https://www.yelp.com/biz/tgi-fridays-miami-3
+Marlins Cafe;610;1;Bars;1.0;503 SW 17th Ave Miami, FL 33135;25.768241;-80.222377;1;https://www.yelp.com/biz/marlins-cafe-miami
+Sushi Sake;611;105;Sushi Bars,Bars,Japanese;3.0;15461 SW 137th Ave Miami, FL 33177;25.6237276;-80.4139511;2;https://www.yelp.com/biz/sushi-sake-miami-3
+Hunkomania Male Strip Club;612;75;Adult Entertainment;4.0;50 NE 11th St Miami Beach, FL 33132;25.7799769;-80.1328355;2;https://www.yelp.com/biz/hunkomania-male-strip-club-miami-beach
+Las Rosas Restaurant;613;;Bars;0;2817 NW 7th Ave Miami, FL 33127;25.8030184;-80.2071725;0;https://www.yelp.com/biz/las-rosas-restaurant-miami
+Bahama Breeze;614;305;Bars,Seafood,Latin American;3.0;12395 SW 88th St Miami, FL 33186;25.686632;-80.393475;2;https://www.yelp.com/biz/bahama-breeze-miami
+Bolero In the Grove;615;;Nightlife;0;2889 McFarlane Rd Miami, FL 33133;25.7273647;-80.2405928;0;https://www.yelp.com/biz/bolero-in-the-grove-miami
+El Grito;616;26;Cocktail Bars,Mexican;4.0;1766 Bay Rd Miami Beach, FL 33139;25.7933343;-80.143872;2;https://www.yelp.com/biz/el-grito-miami-beach
+Royal Palm Restaurant;617;7;Bars,American (New);3.5;22 E Flagler St Miami, FL 33131;25.7737339;-80.1932062;2;https://www.yelp.com/biz/royal-palm-restaurant-miami
+La Taberna De San Roman;618;30;Spanish,Wine Bars;3.5;7800 NW 25th St Doral, FL 33122;25.7961406;-80.3240374;2;https://www.yelp.com/biz/la-taberna-de-san-roman-doral
+Rancho Gaspar;619;6;Cuban,Music Venues;2.5;16480 NW 117th Ave Hialeah, FL 33018;25.9222388;-80.3912838;1;https://www.yelp.com/biz/rancho-gaspar-hialeah
+Earls Kitchen + Bar;620;609;American (New),Cocktail Bars;3.5;7535 N Kendall Dr Miami, FL 33156;25.6895055979133;-80.3128469801483;2;https://www.yelp.com/biz/earls-kitchen-bar-miami-6
+Avianca Lounge;621;10;Airport Lounges;4.0;;25.7924224338647;-80.2735533937812;2;https://www.yelp.com/biz/avianca-lounge-miami
+Anacapri Miami Lakes;622;74;Wine Bars,Italian,Specialty Food;3.5;6125 Miami Lakes Dr Miami Lakes, FL 33014;25.9105503;-80.3006354;2;https://www.yelp.com/biz/anacapri-miami-lakes-miami-lakes
+Alexander’s Sports Cafe;623;4;Cafes,Sports Bars;3.0;13816 S W 56th St Miami, FL 33175;25.7125813118128;-80.4176863749168;2;https://www.yelp.com/biz/alexanders-sports-cafe-miami
+Jerk Fish Grill & Bar;624;;Bars,Seafood;0;10921 SW 186th St Miami, FL 33157;25.595866;-80.366265;0;https://www.yelp.com/biz/jerk-fish-grill-and-bar-miami
+Club Nineteen;625;8;Bars,Breakfast & Brunch,Venues & Event Spaces;4.5;10500 Taft St Pembroke Pines, FL 33026;26.0193371;-80.2867942;2;https://www.yelp.com/biz/club-nineteen-pembroke-pines
+The Other Daiquiri Bar;626;3;Beer Bar;3.5;401 Biscayne Blvd Miami, FL 33132;25.778097;-80.186416;2;https://www.yelp.com/biz/the-other-daiquiri-bar-miami
+H Bar;627;1;Cocktail Bars,Sandwiches;1.0;5710 Blue Lagoon Dr Miami, FL 33126;25.7813664;-80.2895012;0;https://www.yelp.com/biz/h-bar-miami
+Magic Grill;628;;Bars,American (Traditional);0;;25.7726793;-80.3229303;0;https://www.yelp.com/biz/magic-grill-miami
+Twin Peaks Pembroke Pines;629;49;American (New),Sports Bars,American (Traditional);3.0;440 SW 145th Ave Pembroke Pines, FL 33027;26.0043222;-80.3369683;2;https://www.yelp.com/biz/twin-peaks-pembroke-pines-pembroke-pines-2
+Black Gold Club of Miami;630;;Nightlife;0;7770 Biscayne Blvd Miami, FL 33138;25.8469017;-80.1849281;0;https://www.yelp.com/biz/black-gold-club-of-miami-miami
+Vue Bar;631;1;Lounges;1.0;1144 Ocean Dr Miami, FL 33139;25.7825208;-80.1305122;3;https://www.yelp.com/biz/vue-bar-miami
+Miller’s Ale House - Doral;632;218;American (New),Sports Bars,Seafood;3.0;3271 NW 87th Ave Doral, FL 33172;25.804033;-80.336706;2;https://www.yelp.com/biz/millers-ale-house-doral-doral
+Hooters;633;106;American (Traditional),Sports Bars,Chicken Wings;3.0;8695 NW 13th Ter Miami, FL 33126;25.7855511;-80.3362561;2;https://www.yelp.com/biz/hooters-miami-3
+The Abbey Brewing Company;634;324;Breweries,Lounges;4.5;1115 16th St Miami Beach, FL 33139;25.789035;-80.1403678;2;https://www.yelp.com/biz/the-abbey-brewing-company-miami-beach
+Naked Taco;635;672;Mexican,Breakfast & Brunch,Bars;4.0;1111 Collins Ave Miami Beach, FL 33139;25.7818801;-80.1312845;2;https://www.yelp.com/biz/naked-taco-miami-beach
+Rec Room;636;52;Lounges;2.5;;25.792133;-80.13011;2;https://www.yelp.com/biz/rec-room-miami-beach-3
+Hard Rock Cafe;637;152;American (New),Burgers,Music Venues;3.0;;25.7790091;-80.1866565;2;https://www.yelp.com/biz/hard-rock-cafe-miami-4
+La Victoria;638;42;Cocktail Bars,Lounges,Dance Clubs;1.5;28 NE 40th St Miami, FL 33137;25.81314;-80.194818;3;https://www.yelp.com/biz/la-victoria-miami
+Sports Grill Bird Road;639;133;Sports Bars,American (Traditional);4.0;11481 SW 40th St Miami, FL 33165;25.73426929852;-80.3802462428528;2;https://www.yelp.com/biz/sports-grill-bird-road-miami-2
+D-Dog House;640;124;Hot Dogs,Bars,Burgers;3.5;50 SW 10th St Miami, FL 33130;25.7643006808455;-80.1941871643066;2;https://www.yelp.com/biz/d-dog-house-miami-26
+Ricky’s;641;65;Cocktail Bars,American (Traditional),Karaoke;3.5;1222 16th St Miami Beach, FL 33139;25.7886643;-80.1416906;2;https://www.yelp.com/biz/rickys-miami-beach-5
+Sabores Restaurant & Lounge;642;44;Cuban,Lounges;3.5;1 Curtiss Pkwy Miami Springs, FL 33166;25.821767;-80.280741;2;https://www.yelp.com/biz/sabores-restaurant-and-lounge-miami-springs
+The Clover Irish Pub;643;75;Irish,Pubs;3.0;2100 NW 42nd Ave Miami, FL 33166;25.7970331243605;-80.2805093147456;2;https://www.yelp.com/biz/the-clover-irish-pub-miami-2
+Jamboree Lounge;644;9;Gay Bars;2.5;7005 Biscayne Blvd Miami, FL 33138;25.8397863;-80.184111;1;https://www.yelp.com/biz/jamboree-lounge-miami
+Havana 1957;645;166;Cuban,Bars;4.0;1410 Ocean Dr Miami Beach, FL 33139;25.7854852124998;-80.1298392960016;2;https://www.yelp.com/biz/havana-1957-miami-beach-10
+Flanigan’s Seafood Bar & Grill;646;301;Seafood,Sports Bars,American (Traditional);4.0;2721 Bird Ave Coconut Grove, FL 33133;25.7357629;-80.2383866;2;https://www.yelp.com/biz/flanigans-seafood-bar-and-grill-coconut-grove-5
+American Airlines Flagship Lounge;647;9;Airport Lounges;4.0;Terminal E Miami, FL 33166;25.799428;-80.286741;3;https://www.yelp.com/biz/american-airlines-flagship-lounge-miami
+Sabor Latino Bar And Grill;648;;American (Traditional),Bars;0;301 Palm Ave Hialeah, FL 33010;25.8247468;-80.281283;0;https://www.yelp.com/biz/sabor-latino-bar-and-grill-hialeah
+Chili’s;649;113;American (Traditional),Tex-Mex,Bars;2.5;8815 SW 72nd Pl Miami, FL 33156;25.6883172;-80.3127292;2;https://www.yelp.com/biz/chilis-miami-16
+Tropix Lounge;650;9;Nightlife;4.0;2912 S State Road 7 Miramar, FL 33023;25.983807;-80.206996;2;https://www.yelp.com/biz/tropix-lounge-miramar
+Budweiser Bar;651;;Bars;0;21 Miad Cir Miami, FL 33126;25.7932419548921;-80.2749946198927;0;https://www.yelp.com/biz/budweiser-bar-miami
+Los Parrilleros;652;116;Steakhouses,Argentine,Music Venues;4.0;10775 NW 41st St Doral, FL 33178;25.812239;-80.3717681;3;https://www.yelp.com/biz/los-parrilleros-doral
+Mike’s At Venetia;653;168;American (Traditional),Sports Bars,Irish;3.5;555 NE 15th St Miami, FL 33132;25.790229;-80.185697;2;https://www.yelp.com/biz/mikes-at-venetia-miami-2
+DECK sixteen;654;11;Spanish,Lounges,Mediterranean;4.0;;25.7893524;-80.1306645;2;https://www.yelp.com/biz/deck-sixteen-miami-beach
+5inco Restaurant;655;10;Fast Food,Sports Bars,Colombian;4.0;8081 W 28th Ave Hialeah, FL 33016;25.8954245;-80.3389786;2;https://www.yelp.com/biz/5inco-restaurant-hialeah-3
+Miami Jazz Cooperative;656;;Jazz & Blues,Music Venues,Bars;0;2325 Galiano St Coral Gables, FL 33134;25.7508862;-80.2565754;2;https://www.yelp.com/biz/miami-jazz-cooperative-coral-gables-2
+Bryson’s Irish Pub;657;68;Irish,Bars,Chicken Wings;3.5;3790 Curtiss Pkwy Virginia Gardens, FL 33166;25.8088398;-80.2894305;1;https://www.yelp.com/biz/brysons-irish-pub-virginia-gardens-2
+Opium Group At 320;658;1;Dance Clubs;5.0;320 Lincoln Rd Miami Beach, FL 33139;25.7904062;-80.1312563;0;https://www.yelp.com/biz/opium-group-at-320-miami-beach
+DIBZ ON HOOKAH;659;;Hookah Bars;0;11655 NE 2nd Ave Miami, FL 33161;25.8819379046854;-80.1940531014132;2;https://www.yelp.com/biz/dibz-on-hookah-miami
+Miami305Events;660;;Dance Clubs;0;Miami, FL 33137;25.798243;-80.191976;0;https://www.yelp.com/biz/miami305events-miami
+High-End Adventures;661;;Bars,Dance Clubs;0;Miami, FL 33139;25.783312;-80.1484407;0;https://www.yelp.com/biz/high-end-adventures-miami
+Last Call Pub Crawls;662;1;Pubs,Tours;5.0;Miami, FL 33134;25.74878774514;-80.2750254793701;2;https://www.yelp.com/biz/last-call-pub-crawls-miami
+Talavera Cocina Mexicana;663;479;Mexican,Sports Bars,Cocktail Bars;4.0;2299 Ponce De Leon Blvd Coral Gables, FL 33134;25.7514101;-80.2584926;2;https://www.yelp.com/biz/talavera-cocina-mexicana-coral-gables
+Miami Nightlife Impresario;664;;Music Venues,Adult Entertainment;0;6538 Collins Ave Miami Beach, FL 33141;25.848744;-80.1206229;0;https://www.yelp.com/biz/miami-nightlife-impresario-miami-beach
+TF305;665;;Venues & Event Spaces,Skate Parks,Music Venues;0;3580 NW 54th St Miami, FL 33142;25.822014231452;-80.2547957003117;0;https://www.yelp.com/biz/tf305-miami
+Tom’s NFL Club;666;160;Sports Bars,American (Traditional),Chicken Wings;4.0;5001 NW 36th St Miami Springs, FL 33166;25.8081491;-80.2777243;2;https://www.yelp.com/biz/toms-nfl-club-miami-springs
+Siboney Club;667;;Dance Clubs;0;6051 SW 8th St Miami, FL 33144;25.763396;-80.2941056;0;https://www.yelp.com/biz/siboney-club-miami
+Spaghettino;668;207;Italian,Cocktail Bars;4.0;947 Brickell Ave Miami, FL 33131;25.7645803;-80.1908431;2;https://www.yelp.com/biz/spaghettino-miami
+Luna Star Cafe;669;37;Coffee & Tea,Bars,American (New);4.0;775 NE 125th St North Miami, FL 33161;25.8906174;-80.1832352;2;https://www.yelp.com/biz/luna-star-cafe-north-miami
+The Rathskeller;670;40;Sports Bars,American (Traditional);3.5;University Of Miami Coral Gables, FL 33146;25.7192940335687;-80.2797755529006;1;https://www.yelp.com/biz/the-rathskeller-coral-gables
+Basel Biergarten;671;;Bars;0;2600 NW 2nd Ave Miami, FL 33127;25.801555;-80.199176;0;https://www.yelp.com/biz/basel-biergarten-miami
+Sax On the Beach;672;;Nightlife;0;1756 N Bayshore Dr Miami, FL 33132;25.7928132;-80.1870148;0;https://www.yelp.com/biz/sax-on-the-beach-miami
+Schnebly Redland’s Winery;673;412;Wineries,Music Venues,Breweries;3.5;30205 SW 217th Ave Homestead, FL 33030;25.4854271;-80.5403083;2;https://www.yelp.com/biz/schnebly-redlands-winery-homestead-3
+Fusion Lounge;674;;Lounges,Music Venues;0;5985 W 25th Ct Hialeah, FL 33016;25.8765176;-80.3335251;2;https://www.yelp.com/biz/fusion-lounge-hialeah
+TWIST;675;170;Dance Clubs,Gay Bars;3.5;1057 Washington Ave Miami Beach, FL 33139;25.7816799;-80.1322419;2;https://www.yelp.com/biz/twist-miami-beach
+Islander Bar & Grill;676;192;Bars,American (Traditional);2.5;Miami International Airport Miami, FL 33166;25.798577;-80.271926;2;https://www.yelp.com/biz/islander-bar-and-grill-miami
+Txoko Alai;677;;Nightlife;0;4315 NW 7th St Miami, FL 33126;25.7792795;-80.2668425;0;https://www.yelp.com/biz/txoko-alai-miami
+American Piano Service;678;2;Musical Instruments & Teachers,Piano Bars;3.0;2243 Bayview Ln Miami, FL 33181;25.89453;-80.1526839;0;https://www.yelp.com/biz/american-piano-service-miami
+The Rickenbacker;679;;Bars;0;3900 NW 21st St Miami, FL 33142;25.794531;-80.259539;0;https://www.yelp.com/biz/the-rickenbacker-miami
+Basel House;680;;Performing Arts,Art Galleries,Lounges;0;2250 S Bayshore Dr 2 Ave Miami, FL 33127;25.7957439;-80.187161;0;https://www.yelp.com/biz/basel-house-miami
+The Globe;681;74;American (New),Wine Bars;3.0;377 Alhambra Cir Coral Gables, FL 33134;25.7521595;-80.2622447;2;https://www.yelp.com/biz/the-globe-coral-gables-2
+Karaoke In Miami;682;;DJs,Karaoke;0;Miami, FL 33156;25.6579955;-80.2878794;0;https://www.yelp.com/biz/karaoke-in-miami-miami-3
+Bâoli Miami;683;304;Lounges,Mediterranean,Asian Fusion;3.0;1906 Collins Ave Miami Beach, FL 33139;25.7953437;-80.129466;4;https://www.yelp.com/biz/b%C3%A2oli-miami-miami-beach-2
+Delicias de España;684;139;Spanish,Wine Bars,Caterers;3.5;4016 SW 57th Ave Miami, FL 33155;25.7336716;-80.2866315;2;https://www.yelp.com/biz/delicias-de-espa%C3%B1a-miami-9
+Speakfridays;685;;Music Venues;0;404 NW 26th St Miami, FL 33127;25.8011369;-80.2025104;0;https://www.yelp.com/biz/speakfridays-miami
+Power Studios Photography Film;686;;Nightlife;0;3701 NE 2nd Ave Miami, FL 33137;25.8117259;-80.1911767;0;https://www.yelp.com/biz/power-studios-photography-film-miami
+Fitzgerald’s Newsroom Restaurant & Lounge;687;;Nightlife;0;148 NW 167th St Miami, FL 33169;25.9275521;-80.2030318;0;https://www.yelp.com/biz/fitzgeralds-newsroom-restaurant-and-lounge-miami
+Xclusiv Global Entertainment;688;1;Boat Charters,Car Rental,Dance Clubs;5.0;Miami Beach, FL 33140;25.8177567634243;-80.1371898693116;0;https://www.yelp.com/biz/xclusiv-global-entertainment-miami-beach
+The Studio Teatro;689;1;Comedy Clubs,Venues & Event Spaces;5.0;1717 N Bayshore Dr Miami, FL 33132;25.7914341;-80.1866763;2;https://www.yelp.com/biz/the-studio-teatro-miami-2
+Buffalo Wings;690;22;Sports Bars;1.5;3449 NW 42nd Ave Miami, FL 33142;25.8058747159369;-80.2637418732047;2;https://www.yelp.com/biz/buffalo-wings-miami
+Kamazoo;691;;Dance Clubs,Music Venues,Lounges;0;1513 SW 8th St Miami, FL 33135;25.7658649;-80.2197635;0;https://www.yelp.com/biz/kamazoo-miami
+Stevechy’s;692;;Bars;0;3227 Gifford Ln Miami, FL 33133;25.731244;-80.244265;0;https://www.yelp.com/biz/stevechys-miami
+BleauLive;693;1;Music Venues;5.0;4441 Collins Ave Miami Beach, FL 33140;25.8176795;-80.1372757;0;https://www.yelp.com/biz/bleaulive-miami-beach
+La Bodeguita Martinez;694;;Bars,Cuban;0;833 SW 29th Ave Miami, FL 33135;25.7646173;-80.2405466;2;https://www.yelp.com/biz/la-bodeguita-martinez-miami
+The Butcher Shop;695;671;Butcher,Bars,American (New);3.5;165 NW 23rd St Miami, FL 33127;25.7993171463779;-80.1980936359081;2;https://www.yelp.com/biz/the-butcher-shop-miami
+Dewey’s F’ing Bar;696;7;Dive Bars,Pool Halls,Sports Bars;4.5;852 Alton Rd Miami Beach, FL 33139;25.7791443361658;-80.1410834491253;1;https://www.yelp.com/biz/deweys-fing-bar-miami-beach
+New Years Eve;697;;Nightlife;0;3434 Grand Ave Miami, FL 33133;25.7277982;-80.2487032;0;https://www.yelp.com/biz/new-years-eve-miami
+W XYZ Bar;698;;Venues & Event Spaces,Tapas/Small Plates,Cocktail Bars;0;1001 SW 2nd Ave Miami, FL 33130;25.7640878;-80.1970122;0;https://www.yelp.com/biz/w-xyz-bar-miami-3
+The Bar & Courtyard;699;11;Lounges;4.0;2009 Collins Ave Miami Beach, FL 33139;25.7957169;-80.1291117;4;https://www.yelp.com/biz/the-bar-and-courtyard-miami-beach
+Club Haze;700;1;Bars,Music Venues;3.0;4 N Krome Ave Homestead, FL 33030;25.470012;-80.477655;0;https://www.yelp.com/biz/club-haze-homestead
+Rockers Island;701;;Nightlife;0;3550 Biscayne Blvd Miami, FL 33137;25.810367;-80.189944;0;https://www.yelp.com/biz/rockers-island-miami
+Imperia Health Garden;702;;Restaurants,Lounges;0;20 Biscayne Blvd Miami, FL 33132;25.7745843;-80.1879389;0;https://www.yelp.com/biz/imperia-health-garden-miami
+Española Cigar Bar & Lounge;703;47;Hookah Bars,Tobacco Shops,Lounges;4.5;409 Española Way Miami Beach, FL 33139;25.786993;-80.1321219;2;https://www.yelp.com/biz/espa%C3%B1ola-cigar-bar-and-lounge-miami-beach-2
+305 Music Lab;704;1;Musical Instruments & Teachers,Recording & Rehearsal Studios,Music Venues;5.0;9831 NW 58th St Doral, FL 33178;25.8267252;-80.3557193;0;https://www.yelp.com/biz/305-music-lab-doral-2
+Donovan’s Bar & Grill;705;5;Bars,American (Traditional);4.5;13040 NW 7th Ave North Miami, FL 33168;25.8942756;-80.2113454;0;https://www.yelp.com/biz/donovans-bar-and-grill-north-miami
+Il Gabbiano;706;406;Italian,Wine Bars;4.0;335 S Biscayne Blvd Miami, FL 33131;25.7717266;-80.1854236;4;https://www.yelp.com/biz/il-gabbiano-miami
+Original Fat Cat’s;707;121;Bars,Music Venues;4.5;320 Himmarshee St Fort Lauderdale, FL 33312;26.1202813;-80.1466096;1;https://www.yelp.com/biz/original-fat-cats-fort-lauderdale
+Club 45;708;;Nightlife;0;4545 NW 7th St Miami, FL 33126;25.7792322;-80.2705103;0;https://www.yelp.com/biz/club-45-miami
+Voodoo Rooftop Lounge & Hookah;709;67;Cocktail Bars,Lounges,Hookah Bars;2.5;928 Ocean Dr Miami Beach, FL 33139;25.779756;-80.1310861;2;https://www.yelp.com/biz/voodoo-rooftop-lounge-and-hookah-miami-beach-3
+Bootylicious South;710;;Nightlife;0;13045 SW 87th Ave Miami, FL 33176;25.6492649;-80.3343291;0;https://www.yelp.com/biz/bootylicious-south-miami
+W XYZ Bar;711;;Venues & Event Spaces,Tapas/Small Plates,Cocktail Bars;0;7600 N Kendall Dr Miami, FL 33156;25.6878641;-80.318858;0;https://www.yelp.com/biz/w-xyz-bar-miami
+Max Fish;712;2;Bars;3.0;28 NE 14th St Miami, FL 33132;25.7881933;-80.1936716;0;https://www.yelp.com/biz/max-fish-miami
+The Comedy Zone Sunny Isles Beach;713;3;Comedy Clubs;4.5;19201 Collins Ave Sunny Isles Beach, FL 33160;25.9544368;-80.1197827;1;https://www.yelp.com/biz/the-comedy-zone-sunny-isles-beach-sunny-isles-beach
+Wynwood Halloween Extravaganza Music Carnival;714;2;Music Venues;1.0;318 N W 23rd St Miami, FL 33127;25.79854;-80.201938;0;https://www.yelp.com/biz/wynwood-halloween-extravaganza-music-carnival-miami
+Gattina Caffe;715;;Cafes,Karaoke;0;8050 NW 103rd St Hialeah, FL 33016;25.8683097358725;-80.3284223132184;0;https://www.yelp.com/biz/gattina-caffe-hialeah
+Tom On Collins;716;9;Cocktail Bars,American (New);4.0;;25.7991193;-80.1277107;3;https://www.yelp.com/biz/tom-on-collins-miami-beach
+The Rum Line;717;26;Cocktail Bars,Venues & Event Spaces;4.0;1601 Collins Ave Miami Beach, FL 33139;25.7894736;-80.1292165;2;https://www.yelp.com/biz/the-rum-line-miami-beach
+Sandbar Sports Grill;718;210;American (Traditional),Sports Bars;3.5;3064 Grand Ave Coconut Grove, FL 33133;25.7279202;-80.2430314;2;https://www.yelp.com/biz/sandbar-sports-grill-coconut-grove-2
+Veterans of Foreign Wars;719;30;Dive Bars;4.0;650 West Ave Miami Beach, FL 33139;25.7850534437884;-80.1413154602051;1;https://www.yelp.com/biz/veterans-of-foreign-wars-miami-beach
+Burger & Beer Joint;720;608;Burgers,American (New),Sports Bars;3.5;900 S Miami Ave Miami, FL 33130;25.7647253419401;-80.1941733178604;2;https://www.yelp.com/biz/burger-and-beer-joint-miami-2
+Living Room at the W;721;38;Lounges;3.5;2201 Collins Ave Miami Beach, FL 33139;25.7974767815898;-80.1274301042282;3;https://www.yelp.com/biz/living-room-at-the-w-miami-beach
+Las Tabernas De Wancho;722;4;Dance Clubs,Bars;2.0;2100 W 76th St Hialeah, FL 33016;25.8912805;-80.3252982;0;https://www.yelp.com/biz/las-tabernas-de-wancho-hialeah
+La Klave Night Club;723;5;Dance Clubs,Lounges;3.0;12397 Pembroke Rd Pembroke Pines, FL 33025;25.9935456502359;-80.3102490552429;1;https://www.yelp.com/biz/la-klave-night-club-pembroke-pines
+Caribbean Resort Tiki Bar;724;28;Tiki Bars;4.0;;26.0213159305153;-80.1154660061002;1;https://www.yelp.com/biz/caribbean-resort-tiki-bar-hollywood
+Zaragozana Lounge;725;;Nightlife;0;8488 SW 8th St Miami, FL 33144;25.7619411;-80.3331937;0;https://www.yelp.com/biz/zaragozana-lounge-miami
+The Fillmore;726;126;Music Venues,Venues & Event Spaces;4.0;1700 Washington Ave Miami Beach, FL 33139;25.7929317;-80.1332492;2;https://www.yelp.com/biz/the-fillmore-miami-beach
+Boulevard Club;727;;Dance Clubs;0;108th & Biscayne Miami, FL 33161;25.874811;-80.1702597;0;https://www.yelp.com/biz/boulevard-club-miami
+Ultimate Nights;728;;Adult Entertainment;0;2618 NE 191st St Miami, FL 33180;25.9517908;-80.14836;0;https://www.yelp.com/biz/ultimate-nights-miami
+DM Live;729;;Nightlife;0;Miami, FL 33146;25.7213213;-80.2711588;0;https://www.yelp.com/biz/dm-live-miami
+Monty’s Coconut Grove;730;467;Seafood,Tiki Bars,Venues & Event Spaces;3.0;2550 S Bayshore Dr Coconut Grove, FL 33133;25.7321567;-80.2323708;2;https://www.yelp.com/biz/montys-coconut-grove-coconut-grove
+LMD Art Center Inc;731;;Music Venues;0;11242 SW 62nd Ln Miami, FL 33173;25.708828;-80.3756159;0;https://www.yelp.com/biz/lmd-art-center-inc-miami
+Olive Garden Italian Restaurant;732;169;Italian,Salad,Wine Bars;3.0;8201 W Miami, FL 33144;25.770307;-80.329088;2;https://www.yelp.com/biz/olive-garden-italian-restaurant-miami-2
+Vip Ticket Place;733;;Performing Arts,Stadiums & Arenas,Music Venues;0;1522 Ponce De Leon Blvd Coral Gables, FL 33134;25.7577061;-80.2590665;0;https://www.yelp.com/biz/vip-ticket-place-coral-gables
+Tequila Rock Dance Restaurant;734;;Comedy Clubs;0;2235 W Flagler St Miami, FL 33135;25.772835;-80.2320189;0;https://www.yelp.com/biz/tequila-rock-dance-restaurant-miami
+Dolphin Bar & Lounge;735;;Lounges;0;4660 Palm Ave Hialeah, FL 33012;25.864653;-80.283265;1;https://www.yelp.com/biz/dolphin-bar-and-lounge-hialeah
+Chili’s;736;;Bars,Tex-Mex,American (Traditional);0;11200 SW 8th St Miami, FL 33199;25.7591995;-80.3731296;2;https://www.yelp.com/biz/chilis-miami-17
+Black Box Bar;737;1;Cocktail Bars;5.0;40 S Pointe Dr Miami Beach, FL 33139;25.7829998;-80.1313075;2;https://www.yelp.com/biz/black-box-bar-miami-beach
+The Palace;738;302;Breakfast & Brunch,Gay Bars;4.0;1200 Ocean Dr Miami Beach, FL 33139;25.7827255;-80.1302141;2;https://www.yelp.com/biz/the-palace-miami-beach
+Drakes;739;;Nightlife;0;13754 SW 88th St Miami, FL 33186;25.6851903;-80.4184086;0;https://www.yelp.com/biz/drakes-miami
+Private Residence the Lounge;740;1;Lounges;4.0;1427 West Ave South Beach, FL 33139;25.786163;-80.1420287;1;https://www.yelp.com/biz/private-residence-the-lounge-south-beach
+Mariachi El Rey;741;2;Party & Event Planning,Music Venues,Musicians;1.0;7405 SW 152nd Ave Miami, FL 33193;25.6969865;-80.4370949;1;https://www.yelp.com/biz/mariachi-el-rey-miami-2
+The Villa Bar & Lounge;742;;Lounges;0;19501 NW 2nd Ave Miami, FL 33169;25.954054;-80.2051369;2;https://www.yelp.com/biz/the-villa-bar-and-lounge-miami
+Chili’s Too;743;9;Tex-Mex,Bars;2.5;Fiu Graham Ctr Miami, FL 33174;25.7559681816268;-80.3722070530057;2;https://www.yelp.com/biz/chilis-too-miami
+Tango by the Bay Miami Beach;744;;Restaurants,Dance Clubs,Dance Schools;0;7601 E Treasure Dr North Bay Village, FL 33141;25.8479970496151;-80.1453546711237;2;https://www.yelp.com/biz/tango-by-the-bay-miami-beach-north-bay-village
+Hooters of Coral Way;745;84;Chicken Wings,Sports Bars,American (Traditional);3.0;3301 Coral Way Miami, FL 33145;25.750187;-80.249359;2;https://www.yelp.com/biz/hooters-of-coral-way-miami-4
+Dade County Bar Association;746;;Bars;0;123 NW 1st Ave Miami, FL 33128;25.7755019;-80.1949555;0;https://www.yelp.com/biz/dade-county-bar-association-miami
+John Martin’s Irish Pub & Restaurant;747;145;Irish,Pubs;3.0;253 Miracle Mile Coral Gables, FL 33134;25.7496792;-80.2597981;2;https://www.yelp.com/biz/john-martins-irish-pub-and-restaurant-coral-gables
+Studio Cafe Restaurant;748;;Cuban,Cocktail Bars,Seafood;0;2340 SW 32nd Ave Coral Gables, FL 33145;25.747807;-80.246619;0;https://www.yelp.com/biz/studio-cafe-restaurant-coral-gables-2
+Flanigan’s Seafood Bar & Grill;749;117;American (Traditional),Seafood,Sports Bars;3.5;13205 Biscayne Blvd Miami, FL 33181;25.897566;-80.1608496;2;https://www.yelp.com/biz/flanigans-seafood-bar-and-grill-miami-13
+Sunny Beach Billiards;750;16;Pool Halls;4.5;17070 Collins Ave Sunny Isles Beach, FL 33160;25.9336473;-80.1219699;2;https://www.yelp.com/biz/sunny-beach-billiards-sunny-isles-beach
+Ocean Eleven On the Beach;751;13;Karaoke;4.0;3111 N Surf Rd Hollywood, FL 33019;26.0303873;-80.1147908;2;https://www.yelp.com/biz/ocean-eleven-on-the-beach-hollywood
+Babalu Kafe;752;1;Dance Clubs,Latin American;4.0;5396 W 12th Ave Hialeah, FL 33012;25.8715497;-80.3070029;0;https://www.yelp.com/biz/babalu-kafe-hialeah
+Fat Tuesday;753;126;Cocktail Bars;3.5;918 Ocean Dr Miami Beach, FL 33139;25.779625;-80.1311313;2;https://www.yelp.com/biz/fat-tuesday-miami-beach
+Tradewinds Bar;754;1;Bars,Beer, Wine & Spirits;1.0;4200 NW 21st St Miami, FL 33122;25.7998911820883;-80.317268371582;0;https://www.yelp.com/biz/tradewinds-bar-miami-2
+The Mack House;755;122;Pubs,Breweries;4.5;9118 State Rd 84 Davie, FL 33324;26.102643;-80.2714594;1;https://www.yelp.com/biz/the-mack-house-davie
+Cooper’s Hawk Winery & Restaurants;756;106;American (New),Wine Bars;4.5;3585 NW 83rd Ave Doral, FL 33147;25.8091113066307;-80.3312353044748;2;https://www.yelp.com/biz/coopers-hawk-winery-and-restaurants-doral
+Havana Group Cigar Club;757;9;Tobacco Shops,Lounges,Hookah Bars;4.5;15458 NW 77th Ct Miami Lakes, FL 33016;25.9152195;-80.328222;2;https://www.yelp.com/biz/havana-group-cigar-club-miami-lakes
+The Downstairs at Hotel Astor;758;8;Bars,American (Traditional);4.0;956 Washington Ave Miami Beach, FL 33139;25.7805;-80.133244;1;https://www.yelp.com/biz/the-downstairs-at-hotel-astor-miami-beach-2
+Woodys West End Tavern;759;99;Beer, Wine & Spirits,American (New),Sports Bars;4.0;600 Payne Dr Miami Springs, FL 33166;25.8188135;-80.3050867;2;https://www.yelp.com/biz/woodys-west-end-tavern-miami-springs
+Corbett’s Sports Bar & Grill;760;34;Sports Bars,American (Traditional);3.5;12721 S Dixie Hwy Miami, FL 33156;25.6520184;-80.3302595;1;https://www.yelp.com/biz/corbetts-sports-bar-and-grill-miami
+V Live;761;2;Adult Entertainment,Dance Clubs;1.0;1330 Ocean Dr Miami Beach, FL 33139;25.7845666237611;-80.1300566312339;1;https://www.yelp.com/biz/v-live-miami-beach
+Aqua Bar;762;3;Bars;4.0;1667 Collins Ave Miami Beach, FL 33139;25.7918365;-80.1293191;2;https://www.yelp.com/biz/aqua-bar-miami-beach
+Brew Ville;763;6;Beer Bar;2.5;;25.7866425145434;-80.3811560523616;2;https://www.yelp.com/biz/brew-ville-miami
+Club Vault;764;5;Bars;4.0;2801 Greene St Hollywood, FL 33020;26.040083;-80.164209;3;https://www.yelp.com/biz/club-vault-hollywood
+The Office;765;;Lounges;0;777 NE 79th St Miami, FL 33138;25.84821;-80.180235;0;https://www.yelp.com/biz/the-office-miami
+Bar Do;766;1;Sushi Bars,Cafes,Cocktail Bars;5.0;1500 Bay Rd Miami Beach, FL 33139;25.78628;-80.144282;2;https://www.yelp.com/biz/bar-do-miami-beach
+DSS Lounge;767;;Lounges;0;1501 N Biscayne Blvd Miami, FL 33132;25.7899294;-80.1884999;0;https://www.yelp.com/biz/dss-lounge-miami
+Brickell Entertainment;768;;Dance Clubs;0;253 E Flagler St Miami, FL 33131;25.7743174;-80.1889865;0;https://www.yelp.com/biz/brickell-entertainment-miami
+Azul Spirits & Wines;769;7;Beer, Wine & Spirits,Cocktail Bars,Tapas Bars;4.5;1414 20th St Miami Beach, FL 33139;25.7954865;-80.1441435;2;https://www.yelp.com/biz/azul-spirits-and-wines-miami-beach
+Courtside Beer & Wine;770;;Nightlife;0;1351 NW 1st Ct Miami, FL 33136;25.7877781;-80.1972059;0;https://www.yelp.com/biz/courtside-beer-and-wine-miami
+Shots Franchise;771;;Bars;0;356 NW 24th St Miami, FL 33127;25.8000263;-80.2015951;0;https://www.yelp.com/biz/shots-franchise-miami
+Havana 1957;772;707;Cuban,Bars;4.0;819 Lincoln Rd Miami Beach, FL 33139;25.79085;-80.136886;2;https://www.yelp.com/biz/havana-1957-miami-beach-8
+Bar Louie;773;379;Bars,American (New);3.0;3201 N Miami Ave Miami, FL 33127;25.8078317149391;-80.1941283974838;2;https://www.yelp.com/biz/bar-louie-miami-2
+UMA Aventura;774;18;Mediterranean,Coffee & Tea,Cocktail Bars;5.0;18851 NE 29th Ave Aventura, FL 33180;25.9501735;-80.1416894;3;https://www.yelp.com/biz/uma-aventura-aventura
+The Bank Lounge and Gallery;775;;Nightlife;0;139 NE 1st St Miami, FL 33132;25.7754629;-80.191132;0;https://www.yelp.com/biz/the-bank-lounge-and-gallery-miami
+Miami DJs;776;;Karaoke,DJs;0;Miami, FL 33169;25.9400585;-80.2153998;0;https://www.yelp.com/biz/miami-djs-miami
+Canaima Doral;777;33;Venezuelan,Bars;2.5;5401 NW 79th Ave Doral, FL 33166;25.822835;-80.325412;2;https://www.yelp.com/biz/canaima-doral-doral
+SideCar Miami;778;;Bars;0;337 SW 8th St Miami, FL 33130;25.7664793169107;-80.1999138509274;0;https://www.yelp.com/biz/sidecar-miami-miami
+Salsa Mia;779;5;Dance Studios,Dance Clubs;4.5;900 Ocean Dr Miami Beach, FL 33139;25.7794539;-80.1311711;2;https://www.yelp.com/biz/salsa-mia-miami-beach-8
+Outback Steakhouse;780;56;Bars,Steakhouses;3.0;8405 Mills Dr Miami, FL 33183;25.6889779899094;-80.3861871883853;2;https://www.yelp.com/biz/outback-steakhouse-miami-5
+Dream;781;71;Dance Clubs;1.5;1532 Washington Ave Miami Beach, FL 33109;25.7882884447998;-80.1319976686478;3;https://www.yelp.com/biz/dream-miami-beach
+ITO Mojitos Y Cafecitos;782;81;Cocktail Bars,Latin American,Tapas Bars;4.0;7450 Ocean Ter Miami Beach, FL 33141;25.860524;-80.1201906;2;https://www.yelp.com/biz/ito-mojitos-y-cafecitos-miami-beach
+Shula’s 2;783;81;American (Traditional),Steakhouses,Sports Bars;3.0;6842 Main St Miami Lakes, FL 33014;25.91267;-80.31252;2;https://www.yelp.com/biz/shulas-2-miami-lakes
+El Gran Mar De Plata Restaurant & Bar;784;27;Bars,Seafood,Colombian;2.5;10325 Hammocks Blvd Miami, FL 33196;25.6711532444759;-80.4411299584442;2;https://www.yelp.com/biz/el-gran-mar-de-plata-restaurant-and-bar-miami-4
+The Irish Times;785;145;Irish,Pubs;3.5;5850 Sunset Dr South Miami, FL 33143;25.7040673;-80.2884664;2;https://www.yelp.com/biz/the-irish-times-south-miami
+Small Daddy’s;786;;Nightlife;0;7325 SW 8th St Miami, FL 33144;25.7630956;-80.3142769;0;https://www.yelp.com/biz/small-daddys-miami
+Heads or Tails;787;;Adult Entertainment;0;766 E 25th St Hialeah, FL 33013;25.8448512;-80.266814;0;https://www.yelp.com/biz/heads-or-tails-hialeah
+The GuestList Miami;788;;Nightlife,Arts & Entertainment,Event Planning & Services;0;485 Brickell Ave Miami, FL 33131;25.7687617;-80.1889081;0;https://www.yelp.com/biz/the-guestlist-miami-miami-2
+Cafe Iguana Pines;789;60;Venues & Event Spaces,Dance Clubs,Cocktail Bars;3.0;8358 Pines Blvd Pembroke Pines, FL 33024;26.0082049126409;-80.2501297557768;2;https://www.yelp.com/biz/cafe-iguana-pines-pembroke-pines
+Pearl Champagne Lounge;790;22;Cocktail Bars,Lounges;3.5;1 Ocean Dr Miami Beach, FL 33139;25.7690135;-80.1322458;3;https://www.yelp.com/biz/pearl-champagne-lounge-miami-beach
+Hooters;791;126;American (Traditional),Sports Bars,Chicken Wings;3.0;401 Biscayne Blvd Miami, FL 33132;25.7784181291374;-80.1863557050324;2;https://www.yelp.com/biz/hooters-miami-9
+Cabo Flats;792;87;Mexican,Bars;2.5;3450 NW 83rd Ave Doral, FL 33166;25.8072470989633;-80.3311276574239;2;https://www.yelp.com/biz/cabo-flats-doral
+Sharkey’s;793;70;Bars,American (Traditional),Burgers;3.0;;25.7780937;-80.1864118;2;https://www.yelp.com/biz/sharkeys-miami-2
+El Gao Pool And Lounge;794;;Lounges;0;13955 SW 158th Ter Miami, FL 33177;25.620144;-80.42031;0;https://www.yelp.com/biz/el-gao-pool-and-lounge-miami
+Havana 1957;795;1478;Cuban,Bars;4.0;405 Espanola Way Miami Beach, FL 33139;25.7870366676539;-80.1319582600495;2;https://www.yelp.com/biz/havana-1957-miami-beach-9
+Ink;796;3;Restaurants,Dance Clubs;2.5;717 Washington Ave Miami Beach, FL 33139;25.7774888;-80.1332753;2;https://www.yelp.com/biz/ink-miami-beach
+Delancey’s Miami;797;1;Lounges;4.0;150 20th St Miami Beach, FL 33139;25.7954435;-80.1289288;2;https://www.yelp.com/biz/delanceys-miami-miami-beach
+The Capital Grille;798;439;Steakhouses,Seafood,Wine Bars;4.0;444 Brickell Ave Miami, FL 33131;25.7695309499124;-80.1901772747993;3;https://www.yelp.com/biz/the-capital-grille-miami
+Drakes Bar;799;;Pubs;0;1109 Brickell Ave Miami, FL 33131;25.7623581;-80.1903562;0;https://www.yelp.com/biz/drakes-bar-miami
+Seasons 52;800;588;American (New),Wine Bars,Seafood;4.0;321 Miracle Mile Coral Gables, FL 33134;25.7497207;-80.2613427;2;https://www.yelp.com/biz/seasons-52-coral-gables
+Moca Cafe & Lounge;801;27;Bars,Haitian,American (New);3.0;738 NE 125th St North Miami, FL 33161;25.890157;-80.18377;2;https://www.yelp.com/biz/moca-cafe-and-lounge-north-miami
+Chillbar;802;324;Breakfast & Brunch,Bars,American (Traditional);4.5;1940 N 30th Rd Hollywood, FL 33021;26.0282942;-80.1684197;2;https://www.yelp.com/biz/chillbar-hollywood
+La Fontana Havana Miami Cuban Cuisine;803;43;Bars,Cuban;3.5;512 Española Way Miami Beach, FL 33139;25.7869850625889;-80.1337533608128;2;https://www.yelp.com/biz/la-fontana-havana-miami-cuban-cuisine-miami-beach
+Deco Bar and Grill;804;;Bars,American (Traditional);0;4101 NW 87th Ave Miami, FL 33178;25.8121448;-80.3362429;0;https://www.yelp.com/biz/deco-bar-and-grill-miami
+Taverna Cubana;805;;Sports Bars,Fast Food;0;1001 SW 67th Ave Miami, FL 33144;25.7612554;-80.303834;0;https://www.yelp.com/biz/taverna-cubana-miami
+Studio 23 Night Club;806;2;Nightlife;4.5;239 23rd St Miami Beach, FL 33139;25.7985194;-80.1284387;0;https://www.yelp.com/biz/studio-23-night-club-miami-beach
+Hogar Canario;807;;Nightlife;0;10772 SW 24th St Miami, FL 33165;25.746572;-80.3695742;0;https://www.yelp.com/biz/hogar-canario-miami
+WingHouse of Doral;808;84;Chicken Wings,Sports Bars;2.5;2000 NW 87th Ave Doral, FL 33172;25.7932272;-80.3379369;2;https://www.yelp.com/biz/winghouse-of-doral-doral
+Pub 935;809;9;Tapas Bars,Pubs;3.5;935 N Krome Ave Florida City, FL 33034;25.4582194;-80.4768865;2;https://www.yelp.com/biz/pub-935-florida-city
+La Esquina Caribeña;810;1;Karaoke,Beer Gardens,Latin American;5.0;13290 NW 43AVE Opa Locka, FL 33054;25.8942750897869;-80.2696479744454;0;https://www.yelp.com/biz/la-esquina-caribe%C3%B1a-opa-locka
+5th Annual Hated for Loving;811;;Music Venues;0;176 NW 24th St Miami, FL 33127;25.799588;-80.198323;0;https://www.yelp.com/biz/5th-annual-hated-for-loving-miami
+Red Pelican Bar & Hookah Lounge;812;41;Hookah Bars,Mediterranean;4.0;230 N Broadwalk Hollywood, FL 33019;26.0136347574098;-80.1156335730163;2;https://www.yelp.com/biz/red-pelican-bar-and-hookah-lounge-hollywood-2
+Caffe Italia;813;118;Pizza,Italian,Wine Bars;4.0;3800 SW 8th St Coral Gables, FL 33134;25.7644306;-80.2574304;2;https://www.yelp.com/biz/caffe-italia-coral-gables
+Booby Trap Doral;814;20;Adult Entertainment;2.0;5325 NW 77th Ave Doral, FL 33166;25.8220746;-80.3206514;2;https://www.yelp.com/biz/booby-trap-doral-doral
+Ihookah Cafe;815;60;Hookah Bars;5.0;701 W Hallandale Beach Blvd Hallandale Beach, FL 33009;25.9850369;-80.156561;1;https://www.yelp.com/biz/ihookah-cafe-hallandale-beach
+Alfaro’s;816;6;Tapas Bars,Spanish,Wine Bars;3.0;1604 SW 8th St Miami, FL 33135;25.7654739;-80.2207821;0;https://www.yelp.com/biz/alfaros-miami
+Top Notch Bistro;817;77;Sandwiches,American (New),Beer Bar;5.0;2210 NE 123rd St North Miami, FL 33181;25.889292;-80.153397;1;https://www.yelp.com/biz/top-notch-bistro-north-miami
+Bar Gaythering;818;18;Gay Bars;4.5;1409 Lincoln Rd Miami Beach, FL 33139;25.790594;-80.143922;2;https://www.yelp.com/biz/bar-gaythering-miami-beach
+Vice Lounge;819;6;Beer, Wine & Spirits,Lounges;2.0;330 Lincoln Rd Miami Beach, FL 33139;25.7905524;-80.1314005;2;https://www.yelp.com/biz/vice-lounge-miami-beach-3
+Loyal Order of Moose West Dade Lodge;820;;Bars;0;9900 SW 77th Ave Miami, FL 33156;25.6783302;-80.3191396;0;https://www.yelp.com/biz/loyal-order-of-moose-west-dade-lodge-miami
+Le Tartine Di Teresa;821;42;Italian,Wine Bars;4.0;94 Miracle Mile Coral Gables, FL 33134;25.7494917152397;-80.2563806341848;2;https://www.yelp.com/biz/le-tartine-di-teresa-coral-gables
+Martini Bar;822;;Bars;0;500 SW 177th Ave Miami, FL 33194;25.7638969421387;-80.4841690063477;0;https://www.yelp.com/biz/martini-bar-miami-2
+International Flight Center;823;1;Airport Lounges,Aircraft Repairs;3.0;14592 SW 129th St Miami, FL 33186;25.648502;-80.4311648;0;https://www.yelp.com/biz/international-flight-center-miami
+Down N Dirty Tacos and Tequila Bar;824;98;Mexican,Cocktail Bars,Sandwiches;2.5;1144 Ocean Dr Miami Beach, FL 33139;25.7822790408482;-80.1303572365247;2;https://www.yelp.com/biz/down-n-dirty-tacos-and-tequila-bar-miami-beach
+Fleming’s Prime Steakhouse & Wine Bar;825;314;Steakhouses,Wine Bars;4.0;2525 Ponce De Leon Blvd Coral Gables, FL 33134;25.7484754;-80.2580467;3;https://www.yelp.com/biz/flemings-prime-steakhouse-and-wine-bar-coral-gables
+Campton Yard;826;14;Sports Bars;4.0;1445 Washington Ave Miami Beach, FL 33139;25.7871243;-80.1313994;2;https://www.yelp.com/biz/campton-yard-miami-beach
+YOLO;827;670;American (New),Lounges;3.5;333 E Las Olas Blvd Fort Lauderdale, FL 33301;26.1196495;-80.1396989;2;https://www.yelp.com/biz/yolo-fort-lauderdale
+Myxx Luxury Hookah Lounge;828;14;Hookah Bars;3.5;3940 N 46th Ave Hollywood, FL 33021;26.0461859823448;-80.1912784589996;2;https://www.yelp.com/biz/myxx-luxury-hookah-lounge-hollywood
+Sundae Miami;829;;Dance Clubs;0;1060 NE 79th St Miami, FL 33138;25.8478304;-80.1754639;0;https://www.yelp.com/biz/sundae-miami-miami
+Wyfebeater;830;;Dive Bars;0;111 NE 20th St Miami, FL 33137;25.7956831743553;-80.1927456786569;0;https://www.yelp.com/biz/wyfebeater-miami
+Cash Only Bar;831;23;Music Venues,Lounges;4.0;15 W Las Olas Blvd Fort Lauderdale, FL 33301;26.1195543;-80.143816;2;https://www.yelp.com/biz/cash-only-bar-fort-lauderdale
+Stache;832;166;Lounges,Music Venues,Dance Clubs;4.0;109 SW 2nd Ave Fort Lauderdale, FL 33312;26.1212386;-80.1457532;2;https://www.yelp.com/biz/stache-fort-lauderdale-2
+Cigar Cigar;833;11;Tobacco Shops,Lounges;4.5;14490 Biscayne Blvd North Miami Beach, FL 33181;25.9094122;-80.1581528;2;https://www.yelp.com/biz/cigar-cigar-north-miami-beach-2
+The Villa Nightclub;834;1;Lounges;5.0;19501 NW 2nd Ave Miami Gardens, FL 33169;25.9537526;-80.2049646;2;https://www.yelp.com/biz/the-villa-nightclub-miami-gardens
+Balans Restaurant & Bar - Brickell;835;381;Breakfast & Brunch,Cocktail Bars,Comfort Food;3.0;;25.7650296750902;-80.193107018431;2;https://www.yelp.com/biz/balans-restaurant-and-bar-brickell-miami
+Showgirls;836;9;Adult Entertainment,Lounges;2.5;19995 S Dixie Hwy Cutler Bay, FL 33157;25.5806032;-80.3664345;2;https://www.yelp.com/biz/showgirls-cutler-bay
+Hollywood Beach lounge IPad Cafe;837;2;Coffee & Tea,Lounges,Internet Service Providers;4.5;317 Polk St Hollywood, FL 33019;26.0140509;-80.116259;1;https://www.yelp.com/biz/hollywood-beach-lounge-ipad-cafe-hollywood
+Bice Bistro;838;113;Bars,Italian;3.0;3015 Grand Ave Coconut Grove, FL 33133;25.7284236;-80.2460718;2;https://www.yelp.com/biz/bice-bistro-coconut-grove-2
+Miami Nightlife Pass;839;;Dance Clubs;0;Miami, FL 33160;25.9347377;-80.1372757;0;https://www.yelp.com/biz/miami-nightlife-pass-miami-2
+Quench In Coconut Grove;840;;Nightlife;0;2801 Florida Ave Miami, FL 33133;25.7292516;-80.2401946;0;https://www.yelp.com/biz/quench-in-coconut-grove-miami
+Living Room - Faena Hotel Miami Beach;841;5;Cocktail Bars,Champagne Bars;4.0;3201 Collins Ave Miami Beach, FL 33139;25.783312;-80.1484407;4;https://www.yelp.com/biz/living-room-faena-hotel-miami-beach-miami-beach
+Billy’s Pub Too;842;70;Dive Bars,Sports Bars;4.0;732 NE 125th St North Miami, FL 33161;25.8901339;-80.1840564;1;https://www.yelp.com/biz/billys-pub-too-north-miami
+Havana Pizza;843;;Pizza,Beer Bar;0;155 E Flagler St Miami, FL 33131;25.7744146;-80.1908571;2;https://www.yelp.com/biz/havana-pizza-miami-3
+Amsterdam Bar & Restaurant;844;12;Hookah Bars,Dance Clubs,American (Traditional);4.5;113 S 20th Ave Hollywood, FL 33020;26.0110158;-80.1467507;2;https://www.yelp.com/biz/amsterdam-bar-and-restaurant-hollywood
+Blue Parrot Grill;845;;Nightlife;0;801 Brickell Bay Dr Miami, FL 33131;25.7652599;-80.1884296;0;https://www.yelp.com/biz/blue-parrot-grill-miami
+South Miami - Dade Cultural Arts Center;846;7;Music Venues,Community Service/Non-Profit,Special Education;4.5;10950 SW 211th St Cutler Bay, FL 33189;25.5706324;-80.3693379;2;https://www.yelp.com/biz/south-miami-dade-cultural-arts-center-cutler-bay
+Ted’s Hideaway;847;129;Sports Bars,Dive Bars;4.0;124 2nd St Miami Beach, FL 33139;25.7707962;-80.1334431;1;https://www.yelp.com/biz/teds-hideaway-miami-beach
+Faena Theater;848;9;Music Venues;3.5;3201 Collins Ave Miami Beach, FL 33140;25.8073645;-80.1234158;2;https://www.yelp.com/biz/faena-theater-miami-beach
+Eden Roc Lobby Bar;849;2;Bars;2.5;4525 Collins Ave Miami Beach, FL 33140;25.819515;-80.121936;4;https://www.yelp.com/biz/eden-roc-lobby-bar-miami-beach
+The Whistle Stop Restaurant & Bar;850;43;Bars,Mediterranean,Breakfast & Brunch;4.0;;25.469589;-80.475861;2;https://www.yelp.com/biz/the-whistle-stop-restaurant-and-bar-homestead
+Mynt;851;116;Lounges;2.5;1921 Collins Ave Miami Beach, FL 33139;25.7952694;-80.1290602;3;https://www.yelp.com/biz/mynt-miami-beach
+Nautilus Cabana Club;852;5;Bars,Latin American;4.0;1825 Collins Ave Miami Beach, FL 33139;25.7944517;-80.129139;2;https://www.yelp.com/biz/nautilus-cabana-club-miami-beach
+Bar Centro;853;18;Lounges;4.0;1701 Collins Ave Miami Beach, FL 33139;25.792661;-80.129359;3;https://www.yelp.com/biz/bar-centro-miami-beach
+Il Italiano;854;7;Pizza,Italian,Pubs;3.5;1120 W Flagler St Little Havana, FL 33130;25.7733518548649;-80.2131388485805;1;https://www.yelp.com/biz/il-italiano-little-havana
+Sweet Liberty Drinks & Supply Company;855;212;Cocktail Bars,American (New);4.5;237-B 20th St Miami Beach, FL 33139;25.796092;-80.1297869;2;https://www.yelp.com/biz/sweet-liberty-drinks-and-supply-company-miami-beach
+Limetree Lounge;856;101;Cocktail Bars,Lounges,Mediterranean;3.5;1131 Collins Ave Miami Beach, FL 33139;25.78236;-80.13101;2;https://www.yelp.com/biz/limetree-lounge-miami-beach-3
+Mi Tinaja;857;;Dominican,Lounges,Colombian;0;7874 NW 52nd St Doral, FL 33166;25.8207389;-80.3251416;0;https://www.yelp.com/biz/mi-tinaja-doral
+Yard House;858;343;American (New),Vegetarian,Bars;4.0;1681 Lenox Ave Miami Beach, FL 33139;25.791581;-80.13966;2;https://www.yelp.com/biz/yard-house-miami-beach
+Watr At the 1 Rooftop;859;14;Bars,Japanese,Seafood;4.0;2341 Collins Ave Miami Beach, FL 33139;25.7991193;-80.1277107;3;https://www.yelp.com/biz/watr-at-the-1-rooftop-miami-beach
+iPic Theaters;860;196;Cinema,Bars;4.0;3701 NE 163rd St North Miami Beach, FL 33160;25.9315342;-80.13519;3;https://www.yelp.com/biz/ipic-theaters-north-miami-beach
+Posh Lounge;861;88;Hookah Bars,Sushi Bars,Lounges;4.0;110 N Federal Hwy Fort Lauderdale, FL 33301;26.1230202;-80.1366088;2;https://www.yelp.com/biz/posh-lounge-fort-lauderdale
+Laugh Out Loud;862;;Cocktail Bars,Burgers,Sandwiches;0;801 Brickell Bay Dr Miami, FL 33131;25.764797;-80.189011;0;https://www.yelp.com/biz/laugh-out-loud-miami
+K Ramen. Burger. Beer.;863;89;Ramen,Bars,Burgers;4.0;150 20th St Miami Beach, FL 33139;25.7952885;-80.1287638;2;https://www.yelp.com/biz/k-ramen-burger-beer-miami-beach-5
+Wynwood Diner;864;518;Diners,Burgers,Cocktail Bars;3.0;2601 NW 2nd Ave Miami, FL 33127;25.8015402;-80.1990044;2;https://www.yelp.com/biz/wynwood-diner-miami
+Smoke On the Water Cigar Bar;865;68;Tobacco Shops,Lounges,Vape Shops;4.5;1630 Bell Tower Ln Weston, FL 33326;26.096476;-80.383374;2;https://www.yelp.com/biz/smoke-on-the-water-cigar-bar-weston-2
+Las cuevas de Bellamar;866;;Dive Bars,Cuban;0;2725 W 3rd Ct Hialeah, FL 33010;25.8468249658948;-80.2887460961938;0;https://www.yelp.com/biz/las-cuevas-de-bellamar-hialeah
+Essensia Restaruant & Lounge;867;126;Lounges;4.0;;25.806117;-80.123903;3;https://www.yelp.com/biz/essensia-restaruant-and-lounge-miami-beach
+The Tavern;868;2;Bars,American (Traditional);5.0;;25.84433;-80.120966;0;https://www.yelp.com/biz/the-tavern-miami-beach-2
+Vue Terrace;869;1;American (New),Bars;5.0;1144 Ocean Dr Miami Beach, FL 33139;25.782529;-80.130476;0;https://www.yelp.com/biz/vue-terrace-miami-beach
+Smoke N Toke;870;6;Hookah Bars,Vape Shops,Head Shops;3.5;7590 NW 186 St Hialeah, FL 33015;25.9418195;-80.3245439;1;https://www.yelp.com/biz/smoke-n-toke-hialeah-2
+Danny & Co. Entertainment;871;1;Photo Booth Rentals,DJs,Karaoke;1.0;13520 SW 152nd St Miami, FL 33177;25.6247041;-80.4120697;0;https://www.yelp.com/biz/danny-and-co-entertainment-miami
+Campton Yard;872;10;American (New),Lounges;4.0;1500 Collins Avenue Miami Beach, FL 33139;25.7874641;-80.130885;2;https://www.yelp.com/biz/campton-yard-miami-beach-2
+VIP Lounge Latam;873;;Airport Lounges;0;Miami International Airport Miami, FL 33136;25.7938437772629;-80.2733076488113;1;https://www.yelp.com/biz/vip-lounge-latam-miami
+Chef Vincent At Lord Balfour;874;8;Bars,Italian,American (New);4.0;350 Ocean Dr Miami Beach, FL 33139;25.7731161;-80.1325717;2;https://www.yelp.com/biz/chef-vincent-at-lord-balfour-miami-beach-2
+27 Restaurant & Bar;875;333;American (New),Breakfast & Brunch,Cocktail Bars;4.0;2727 Indian Creek Dr Miami Beach, FL 33140;25.8042184984806;-80.1266468742744;2;https://www.yelp.com/biz/27-restaurant-and-bar-miami-beach-2
+Absolute Bar & Grill;876;;Bars,American (Traditional);0;801 Brickell Bay Dr Miami, FL 33131;25.764765;-80.189014;0;https://www.yelp.com/biz/absolute-bar-and-grill-miami
+Club Madonna;877;46;Adult Entertainment,Dance Clubs;1.5;1527 Washington Ave Miami Beach, FL 33139;25.7881662;-80.1314116;4;https://www.yelp.com/biz/club-madonna-miami-beach
+La Taberna Del Paisa;878;;Bars,Dance Clubs,Performing Arts;0;11510 SW 147th Ave Miami, FL 33196;25.659803;-80.43293;0;https://www.yelp.com/biz/la-taberna-del-paisa-miami
+Cameo;879;121;Dance Clubs;2.5;1445 Washington Ave Miami Beach, FL 33139;25.7871243;-80.1313994;3;https://www.yelp.com/biz/cameo-miami-beach
+Glow Bar at the Fontainebleau;880;5;Nightlife;2.0;4441 Collins Ave Miami Beach, FL 33140;25.817864;-80.1220803;3;https://www.yelp.com/biz/glow-bar-at-the-fontainebleau-miami-beach
+Pride & Joy BBQ;881;907;Barbeque,Bars;3.0;2800 N Miami Ave Miami, FL 33127;25.803296;-80.195239;2;https://www.yelp.com/biz/pride-and-joy-bbq-miami
+Boat Bar Crawl;882;;Bar Crawl;0;89 NE 27th St Miami, FL 33137;25.8027538;-80.1931784;0;https://www.yelp.com/biz/boat-bar-crawl-miami
+Blue Bar;883;1;Lounges;4.0;222 Española Way Miami Beach, FL 33139;25.7867947;-80.1310976;3;https://www.yelp.com/biz/blue-bar-miami-beach
+Cristal Nightclub;884;;Nightlife;0;1045 5th St Miami Beach, FL 33139;25.7748731;-80.1391819;0;https://www.yelp.com/biz/cristal-nightclub-miami-beach
+Masso Estate Winery;885;;Wineries,Wine Bars;0;10295 SW 60th St Miami, FL 33173;25.712594;-80.3604919;0;https://www.yelp.com/biz/masso-estate-winery-miami
+Tony Chan’s Water Club;886;145;Chinese,Sushi Bars,Wine Bars;3.0;1717 N Bayshore Dr Miami, FL 33132;25.7913713095251;-80.1854800347793;2;https://www.yelp.com/biz/tony-chans-water-club-miami
+Blue Taco & Tequila Bar;887;97;Tacos,Sports Bars;4.0;15651 Sheridan St Davie, FL 33331;26.0306031;-80.3562984;2;https://www.yelp.com/biz/blue-taco-and-tequila-bar-davie
+Miami Pregame Pub Crawl;888;4;Bar Crawl;5.0;Miami Beach, FL 33139;25.783312;-80.1484407;2;https://www.yelp.com/biz/miami-pregame-pub-crawl-miami-beach
+Old Hollywood Beerhouse;889;87;Bars;4.5;2019 Harrison St Hollywood, FL 33020;26.0105419266336;-80.1485765352845;1;https://www.yelp.com/biz/old-hollywood-beerhouse-hollywood
+Sweaty Manclub;890;2;Nightlife;3.5;1350 Collins Ave Miami Beach, FL 33139;25.7850731;-80.1311099;0;https://www.yelp.com/biz/sweaty-manclub-miami-beach
+La Noche Nightclub;891;1;Dance Clubs;3.0;115 S 20th Ave Hollywood, FL 33020;26.01083;-80.1467459;2;https://www.yelp.com/biz/la-noche-nightclub-hollywood
+Karaoke Party Miami;892;;Karaoke,DJs;0;Miami, FL 33186;25.6653934;-80.3992652;0;https://www.yelp.com/biz/karaoke-party-miami-miami
+Flute Champagne Bar;893;;Nightlife;0;500 S Pointe Dr Miami Beach, FL 33139;25.7677002;-80.1349752;0;https://www.yelp.com/biz/flute-champagne-bar-miami-beach
+Lique Miami;894;94;Mediterranean,Tapas/Small Plates,Lounges;3.5;3957 NE 163rd St North Miami, FL 33160;25.9310344178097;-80.131156225795;3;https://www.yelp.com/biz/lique-miami-north-miami
+Miami Party Strippers;895;;Adult Entertainment;0;Miami Beach, FL 33139;25.783312;-80.1484407;0;https://www.yelp.com/biz/miami-party-strippers-miami-beach-3
+Legion Entertainment;896;;Nightlife;0;1680 Michigan Ave Miami Beach, FL 33139;25.791632;-80.139256;0;https://www.yelp.com/biz/legion-entertainment-miami-beach
+Chili’s;897;107;Tex-Mex,American (Traditional),Bars;2.5;8696 NW 13th Ter Miami, FL 33126;25.7847425;-80.3361654;2;https://www.yelp.com/biz/chilis-miami-13
+La Piedra Bar And Lounge;898;1;Bars,Music Venues;5.0;38 NE 9th St Homestead, FL 33030;25.4780896;-80.476628;2;https://www.yelp.com/biz/la-piedra-bar-and-lounge-homestead
+Applebee’s;899;50;American (Traditional),Sports Bars,Burgers;2.0;20405 S Dixie Hwy Miami, FL 33189;25.5762654896092;-80.3712687569733;2;https://www.yelp.com/biz/applebees-miami
+Mambo 5;900;;Nightlife;0;8488 SW 8th St Miami, FL 33144;25.7619411;-80.3331937;0;https://www.yelp.com/biz/mambo-5-miami
+Club Mirage of South Beach;901;;Nightlife;0;671 Washington Ave Miami Beach, FL 33139;25.7766778;-80.1334505;0;https://www.yelp.com/biz/club-mirage-of-south-beach-miami-beach
+Mariachis Mexicali;902;1;Music Venues;1.0;14555 SW 97th St Miami, FL 33186;25.6764071;-80.42789;4;https://www.yelp.com/biz/mariachis-mexicali-miami
+Club Vixens;903;26;Adult Entertainment,Bars,Music Venues;3.5;3050 Burris Rd Davie, FL 33314;26.083262;-80.206189;2;https://www.yelp.com/biz/club-vixens-davie
+Sin;904;2;Dance Clubs;2.5;1532 Washington Ave Miami Beach, FL 33109;25.78362;-80.1324;0;https://www.yelp.com/biz/sin-miami-beach
+Señor Frog’s;905;188;Mexican,Cocktail Bars;3.0;1450 Collins Ave Miami Beach, FL 33139;25.7871165;-80.1308614;2;https://www.yelp.com/biz/se%C3%B1or-frogs-miami-beach-4
+Flanigan’s Seafood Bar & Grill;906;127;Seafood,Sports Bars,American (Traditional);4.0;1550 W 84th St Hialeah, FL 33014;25.8981607968767;-80.3159068616483;2;https://www.yelp.com/biz/flanigans-seafood-bar-and-grill-hialeah-8
+The Watering Hole;907;5;Bars;4.0;1903 S University Dr Davie, FL 33324;26.0965334212214;-80.2518650516868;2;https://www.yelp.com/biz/the-watering-hole-davie
+Ruben Lamothe;908;;Nightlife;0;600 SW 92nd Ave Miami, FL 33174;25.763981;-80.345543;0;https://www.yelp.com/biz/ruben-lamothe-miami
+Cayena Restaurant;909;2;Steakhouses,Wine Bars;1.0;923 Brickell Ave Miami, FL 33131;25.7647296;-80.1904728;2;https://www.yelp.com/biz/cayena-restaurant-miami
+Pacos Way;910;;Spanish,Tapas Bars,Music Venues;0;715 E 9th St Hialeah, FL 33010;25.8304769;-80.2670511;0;https://www.yelp.com/biz/pacos-way-hialeah
+Fate Nightclub;911;15;Dance Clubs;2.5;601 Silks Run Hallandale Beach, FL 33009;25.9771231;-80.140288;2;https://www.yelp.com/biz/fate-nightclub-hallandale-beach
+NQC Craft Beer & Grub;912;13;Cuban,Beer Bar,American (New);5.0;6189 Miami Lakes Dr E Miami Lakes, FL 33014;25.9105449;-80.3013002;1;https://www.yelp.com/biz/nqc-craft-beer-and-grub-miami-lakes
+La Moderna;913;77;Italian,Pizza,Cocktail Bars;4.0;1874 Bay Rd Miami Beach, FL 33139;25.7945878;-80.1437983;2;https://www.yelp.com/biz/la-moderna-miami-beach
+Changes Bar And Grill;914;1;Bars,American (Traditional);1.0;3255 NW 87th Ave Doral, FL 33172;25.803904;-80.3360944;0;https://www.yelp.com/biz/changes-bar-and-grill-doral
+Tradist Wine and Gourmet Products;915;;Wine Bars;0;7214 NW 56th St Miami, FL 33166;25.8243468;-80.3140716;0;https://www.yelp.com/biz/tradist-wine-and-gourmet-products-miami
+Beijos Lounge;916;1;Lounges;3.0;300 Alton Rd Miami Beach, FL 33139;25.7716538;-80.1395683;0;https://www.yelp.com/biz/beijos-lounge-miami-beach
+Radio Bar;917;114;Cocktail Bars;3.5;814 1st St Miami Beach, FL 33139;25.769637;-80.136314;2;https://www.yelp.com/biz/radio-bar-miami-beach
+Krome Avenue Sports Bar & Grill;918;;Sports Bars;0;19750 SW 177th Ave Miami, FL 33187;25.5824591;-80.478396;1;https://www.yelp.com/biz/krome-avenue-sports-bar-and-grill-miami
+357 Goatriders Club House;919;;Music Venues,Pool Halls;0;2131 NW 139th Opa-locka, FL 33054;25.9015713389093;-80.2332491800189;4;https://www.yelp.com/biz/357-goatriders-club-house-opa-locka
+Traymore Restaurant & Gin Bar;920;52;American (New),Seafood,Cocktail Bars;4.0;2445 Collins Ave Miami Beach, FL 33140;25.8004283905029;-80.1261444091797;3;https://www.yelp.com/biz/traymore-restaurant-and-gin-bar-miami-beach
+Miller’s Ale House - Kendall;921;140;Seafood,Sports Bars,American (New);2.5;11625 N Kendall Dr Miami, FL 33176;25.6878473728383;-80.3812856363444;2;https://www.yelp.com/biz/millers-ale-house-kendall-miami
+ROK:BRGR Burger Bar & Gastropub;922;654;Gastropubs,Burgers,Bars;4.0;5800 SW 73rd St South Miami, FL 33143;25.7032815;-80.2875832;2;https://www.yelp.com/biz/rok-brgr-burger-bar-and-gastropub-south-miami-2
+Miami Male Strippers;923;3;Adult Entertainment;2.5;321 Collins Ave Miami Beach, FL 33139;25.7725985;-80.1334524;0;https://www.yelp.com/biz/miami-male-strippers-miami-beach
+America’s Backyard;924;152;Dance Clubs,American (Traditional),Bars;3.0;100 SW 3rd Ave Fort Lauderdale, FL 33312;26.1210099656681;-80.1463143081411;2;https://www.yelp.com/biz/americas-backyard-fort-lauderdale
+Artisan Beach House;925;19;American (New),Bars,Seafood;4.0;10295 Collins Ave Bal Harbour, FL 33154;25.8988924;-80.1234682;3;https://www.yelp.com/biz/artisan-beach-house-bal-harbour
+Bar Crawlers;926;;Bars;0;240 NW 132nd Ct Miami, FL 33182;25.770013;-80.410179;0;https://www.yelp.com/biz/bar-crawlers-miami
+Famous Dave’s - Doral;927;219;Barbeque,Steakhouses,Sports Bars;4.0;8210 NW 36th St Doral, FL 33166;25.8092785;-80.3301947;2;https://www.yelp.com/biz/famous-daves-doral-doral
+American Airlines Admirals Club;928;85;Airport Lounges;3.0;Miami International Airport Miami, FL 33122;25.7973269175997;-80.2808539745521;2;https://www.yelp.com/biz/american-airlines-admirals-club-miami
+Shore Side Life LLC;929;;Adult Entertainment;0;1504 Bay Rd Miami Beach, FL 33139;25.787205;-80.1436616;0;https://www.yelp.com/biz/shore-side-life-llc-miami-beach
+GrownUp Tour;930;;Adult Entertainment;0;6039 Collins Ave Miami Beach, FL 33140;25.843187;-80.120116;0;https://www.yelp.com/biz/grownup-tour-miami-beach
+Nautilus Bar;931;7;Cocktail Bars;3.5;;25.789164630987;-80.1288087162949;3;https://www.yelp.com/biz/nautilus-bar-miami-beach
+Taco Rico Tex Mex Cafe;932;90;Tex-Mex,Bars;3.5;12275 S Dixie Hwy Pinecrest, FL 33156;25.6563683;-80.3278239;1;https://www.yelp.com/biz/taco-rico-tex-mex-cafe-pinecrest
+Prime Hotel & Lounge;933;16;Hotels,Lounges;3.5;100 Ocean Dr Miami Beach, FL 33139;25.769804;-80.1333078;3;https://www.yelp.com/biz/prime-hotel-and-lounge-miami-beach
+Choka’s Caribbean Restaurant & Lounge;934;71;Caribbean,Lounges;3.5;710 Washington Ave Miami Beach, FL 33139;25.7777336;-80.1336927;2;https://www.yelp.com/biz/chokas-caribbean-restaurant-and-lounge-miami-beach
+Alpha Lifestyle;935;;Dance Clubs,Event Planning & Services;0;61 Collins Ave Miami Beach, FL 33139;25.76945;-80.133793;3;https://www.yelp.com/biz/alpha-lifestyle-miami-beach
+Runway 75 North Bar & Grill;936;3;Sports Bars,American (Traditional);5.0;75 N Federal Hwy Dania Beach, FL 33004;26.0539729724121;-80.1439436897635;2;https://www.yelp.com/biz/runway-75-north-bar-and-grill-dania-beach
+La Romana Cafe;937;1;Bars;5.0;13880 NW 27th Ave Opa-Locka, FL 33054;25.900234;-80.24401;4;https://www.yelp.com/biz/la-romana-cafe-opa-locka
+Tepuy Kitchen;938;8;Modern European,Latin American,Wine Bars;3.5;12594 Pines Blvd Pembroke Pines, FL 33027;26.0045066;-80.316619;2;https://www.yelp.com/biz/tepuy-kitchen-pembroke-pines-2
+B C Sports Collectibles;939;;Sports Bars;0;11401 NW 12th St Miami, FL 33172;25.7869078;-80.3809477;0;https://www.yelp.com/biz/b-c-sports-collectibles-miami
+Beluga Caviar Bar;940;2;American (New),Bars;5.0;19575 Biscayne Blvd Aventura, FL 33180;25.9574279;-80.1467971;3;https://www.yelp.com/biz/beluga-caviar-bar-aventura
+Macchialina Taverna Rustica;941;319;Italian,Cocktail Bars;4.0;820 Alton Rd Miami Beach, FL 33139;25.778578;-80.1412243;3;https://www.yelp.com/biz/macchialina-taverna-rustica-miami-beach
+Hot Party Stripper;942;3;Dance Clubs,Adult Entertainment;3.5;Fort Lauderdale, FL;26.1224386;-80.1373174;3;https://www.yelp.com/biz/hot-party-stripper-fort-lauderdale
+Twerk Tours;943;;Tours,Adult Entertainment;0;429 Lenox Ave Miami Beach, FL 33139;25.7738091;-80.1392789;0;https://www.yelp.com/biz/twerk-tours-miami-beach
+Happy Hourz Daiquiri Bar;944;;Bars;0;250 NW 183rd St Miami, FL 33169;25.942199;-80.206447;0;https://www.yelp.com/biz/happy-hourz-daiquiri-bar-miami
+Tekila Bar Club;945;18;Bars,Mexican,Dance Clubs;3.5;1926 Hollywood Blvd Hollywood, FL 33020;26.0111402;-80.1460141;2;https://www.yelp.com/biz/tekila-bar-club-hollywood-2
+La Sports Bar & Grill;946;;Sports Bars;0;10575 SW 109th Ct Miami, FL 33176;25.671237;-80.3723711;0;https://www.yelp.com/biz/la-sports-bar-and-grill-miami
+Foxhole;947;143;Sports Bars;3.5;1218 14th Ct Miami Beach, FL 33139;25.7862372779171;-80.1414012539673;2;https://www.yelp.com/biz/foxhole-miami-beach
+Miami Promoter;948;;Dance Clubs,Venues & Event Spaces;0;3920 Garden Ave Miami Beach, FL 33140;25.812509;-80.135028;0;https://www.yelp.com/biz/miami-promoter-miami-beach
+Duvel Beer House Pop-Up;949;;Bars,Festivals,Jazz & Blues;0;2519 NW 2nd Ave Miami, FL 33127;25.801091077508;-80.1989914626043;0;https://www.yelp.com/biz/duvel-beer-house-pop-up-miami-6
+Hair of the Dog Restaurant & Bar;950;;Bars,Greek,Burgers;0;Miami, FL 33131;25.76528;-80.184545038623;0;https://www.yelp.com/biz/hair-of-the-dog-restaurant-and-bar-miami
+Cupids Revenge;951;;Adult Entertainment;0;1671 Alton Rd Miami Beach, FL 33139;25.7913127;-80.1410106;0;https://www.yelp.com/biz/cupids-revenge-miami-beach-2
+Inside Billiard;952;;Pool Halls;0;11865 SW 26th St Miami, FL 33175;25.7480019;-80.3866215;0;https://www.yelp.com/biz/inside-billiard-miami
+Talde;953;195;Asian Fusion,American (New),Cocktail Bars;4.0;4041 Collins Ave Miami Beach, FL 33140;25.8124515031341;-80.1230717341484;2;https://www.yelp.com/biz/talde-miami-beach
+The Jazz Club;954;;Music Venues;0;6701 Collins Ave Miami Beach, FL 33141;25.8508035;-80.1197666;0;https://www.yelp.com/biz/the-jazz-club-miami-beach-2
+Club Madonna;955;;Adult Entertainment;0;1527 Washington Ave Miami Beach, FL 33139;25.7881662;-80.1314116;2;https://www.yelp.com/biz/club-madonna-miami-beach-2
+Hemisphere Lounge;956;7;Lounges,American (New),Japanese;3.5;;25.789329111805;-80.1290889503098;2;https://www.yelp.com/biz/hemisphere-lounge-miami-beach
+Wunderbar;957;14;German,Sports Bars;3.5;4995 Volunteer Rd Davie, FL 33331;26.059127;-80.346049;2;https://www.yelp.com/biz/wunderbar-davie
+Hammocks Grill;958;120;Sports Bars,American (Traditional);3.5;14617 SW 104th St The Hammocks, FL 33186;25.6704358;-80.430669;2;https://www.yelp.com/biz/hammocks-grill-the-hammocks-4
+Spice Resto-Lounge;959;84;Dance Clubs,Cuban;3.5;1934 Hollywood Blvd Hollywood, FL 33020;26.0111354;-80.1463234;2;https://www.yelp.com/biz/spice-resto-lounge-hollywood
+Flanigan’s Seafood Bar & Grill;960;177;Bars,Seafood,American (Traditional);3.0;8695 NW 12th St Doral, FL 33126;25.784126;-80.336006;2;https://www.yelp.com/biz/flanigans-seafood-bar-and-grill-doral-2
+Night Cap Lounge;961;;Nightlife;0;15544 W Dixie Hwy Miami, FL 33162;25.9190741;-80.1591607;0;https://www.yelp.com/biz/night-cap-lounge-miami
+Kurva’S Bar & Grill;962;;American (Traditional),Bars,Cafes;0;2150 W 10th Ct Hialeah, FL 33010;25.8414086;-80.3033566;0;https://www.yelp.com/biz/kurvas-bar-and-grill-hialeah
+Fourteen Eatery;963;5;Tapas/Small Plates,Cafes,Beer Bar;3.5;1401 Brickell Ave Miami, FL 33131;25.7597397;-80.191675;2;https://www.yelp.com/biz/fourteen-eatery-miami
+Barytono Cafe;964;;Spanish,Wine Bars;0;7800 NW 25th St Miami, FL 33122;25.7961956;-80.3239338;0;https://www.yelp.com/biz/barytono-cafe-miami
+Randy’s Bar;965;;Nightlife;0;13420 NW 7th Ave North Miami, FL 33168;25.897579;-80.211589;0;https://www.yelp.com/biz/randys-bar-north-miami
+Buffalo Wild Wings;966;206;Chicken Wings,American (Traditional),Sports Bars;2.5;11401 NW 12th St Miami, FL 33172;25.7866067349462;-80.3807371379204;2;https://www.yelp.com/biz/buffalo-wild-wings-miami-3
+La Mora Italiana;967;63;Italian,Pizza,Wine Bars;4.0;17225 S Dixie Hwy Palmetto Bay, FL 33157;25.6094843;-80.3469453;2;https://www.yelp.com/biz/la-mora-italiana-palmetto-bay
+33rd Floor Lounge;968;5;Sushi Bars,Lounges;3.0;3555 S Ocean Dr Hollywood, FL 33019;25.9917153;-80.1180293;2;https://www.yelp.com/biz/33rd-floor-lounge-hollywood
+Nite Cap Lounge;969;3;Sports Bars;4.5;15544 W Dixie Hwy North Miami Beach, FL 33162;25.919072;-80.1591623;1;https://www.yelp.com/biz/nite-cap-lounge-north-miami-beach
+SLS Miami Pool Party;970;;Pubs,Dance Clubs,Delis;0;1701 Collins Ave Miami Beach, FL 33139;25.7926067;-80.1286844;0;https://www.yelp.com/biz/sls-miami-pool-party-miami-beach
+Gem Nightclub;971;3;Dance Clubs;3.5;671 Washington Ave Miami Beach, FL 33139;25.7766778;-80.1334505;2;https://www.yelp.com/biz/gem-nightclub-miami-beach
+Hookah Time;972;20;Hookah Bars;4.5;4242-4280 S University Dr Davie, FL 33328;26.0677574382959;-80.2515767142177;2;https://www.yelp.com/biz/hookah-time-davie-3
+Chili’s;973;149;Bars,Tex-Mex;2.5;11900 SW 88th St Miami, FL 33186;25.6854515095985;-80.3905318251765;2;https://www.yelp.com/biz/chilis-miami-6
+Fresh American Bistro;974;43;American (New),Bars,Breakfast & Brunch;4.0;17315 Collins Ave Sunny Isles Beach, FL 33160;25.9365529;-80.1207702;2;https://www.yelp.com/biz/fresh-american-bistro-sunny-isles-beach
+Sing Sing Karaoke;975;110;Karaoke;3.5;717 Washington Ave Miami Beach, FL 33139;25.777494;-80.1333682;2;https://www.yelp.com/biz/sing-sing-karaoke-miami-beach-2
+Molto Pizza & Booze;976;55;Pizza,Wine Bars,Tapas Bars;4.5;1237 Lincoln Rd Miami Beach, FL 33139;25.7906869;-80.1421882;2;https://www.yelp.com/biz/molto-pizza-and-booze-miami-beach
+Salvatore Cafe and Wine;977;2;Wine Bars;4.0;9851 NW 58st Doral, FL 33178;25.8195424;-80.3553302;2;https://www.yelp.com/biz/salvatore-cafe-and-wine-doral
+Miami Beach VIP;978;;Dance Clubs;0;Miami Beach, FL;25.790654;-80.1300455;0;https://www.yelp.com/biz/miami-beach-vip-miami-beach
+Cypress Lounge;979;;Casinos,Bars;0;500 SW 177th Ave Miami, FL 33194;25.7642042;-80.4839754;0;https://www.yelp.com/biz/cypress-lounge-miami
+Miller’s Ale House - Miami Lakes;980;142;Sports Bars,American (New),Seafood;3.0;15251 NW 67th Ave Miami Lakes, FL 33014;25.9126477191602;-80.309127956133;2;https://www.yelp.com/biz/millers-ale-house-miami-lakes-miami-lakes
+Sleepless Night;981;13;Nightlife;3.5;1700 Convention Center Dr Miami Beach, FL 33139;25.7928337;-80.1354016;1;https://www.yelp.com/biz/sleepless-night-miami-beach
+Acqua;982;;Bars;0;1435 Brickell Ave Miami, FL 33131;25.7587982;-80.1924422;0;https://www.yelp.com/biz/acqua-miami-4
+Ovidio Club;983;;Cocktail Bars;0;2404 NW 27th Ave Miami, FL 33142;25.7990753;-80.2400102;0;https://www.yelp.com/biz/ovidio-club-miami
+Smashed Flamingo;984;5;Beer Gardens,Barbeque,Burgers;4.0;239 23rd St Miami Beach, FL 33139;25.7985458;-80.1284289;2;https://www.yelp.com/biz/smashed-flamingo-miami-beach-2
+La Vernissage;985;;Champagne Bars,Tapas Bars;0;Miami, FL 33137;25.8080879948656;-80.1937487051838;0;https://www.yelp.com/biz/la-vernissage-miami
+Juniper On The Water;986;444;American (New),Mediterranean,Bars;4.0;1975 S Ocean Dr Hallandale Beach, FL 33009;25.979865;-80.1216271;2;https://www.yelp.com/biz/juniper-on-the-water-hallandale-beach-2
+Danny Veras;987;;Music Venues;0;660 Ocean Dr Miami Beach, FL 33139;25.776654;-80.1317569;2;https://www.yelp.com/biz/danny-veras-miami-beach
+Gardens Tavern Bar;988;5;Cocktail Bars,Sports Bars;3.0;9160 NW 122nd St Hialeah Gardens, FL 33018;25.883677;-80.346652;2;https://www.yelp.com/biz/gardens-tavern-bar-hialeah-gardens
+Chili’s;989;61;Bars,Tex-Mex,American (Traditional);3.0;1695 W 49th St Hialeah, FL 33012;25.8666488;-80.3170757;2;https://www.yelp.com/biz/chilis-hialeah-3
+Macabi Havana Lounge;990;4;Lounges;5.0;1219 East Las Olas Blvd Fort Lauderdale, FL 33301;26.119509;-80.130554;2;https://www.yelp.com/biz/macabi-havana-lounge-fort-lauderdale
+Chili’s;991;72;Bars,Tex-Mex,American (Traditional);2.0;401 Biscayne Blvd Miami, FL 33132;25.7780937;-80.1864118;2;https://www.yelp.com/biz/chilis-miami-15

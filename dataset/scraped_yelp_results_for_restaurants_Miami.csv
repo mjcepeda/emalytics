@@ -1,0 +1,991 @@
+business_name;rank;review_count;categories;rating;address;longitude;latitude;price_range;url
+Kush;1;1356;Burgers,American (New),Gastropubs;4.5;2003 N Miami Ave Miami, FL 33127;25.796018;-80.1946861;2;https://www.yelp.com/biz/kush-miami-2
+Terramia;2;9;Italian;5.0;4770 Biscayne Blvd Miami, FL 33137;25.8188787;-80.1884905;2;https://www.yelp.com/biz/terramia-miami
+Ghee Indian Kitchen;3;56;Indian;4.5;8965 SW 72nd Pl Miami, FL 33156;25.6869883;-80.3128537;2;https://www.yelp.com/biz/ghee-indian-kitchen-miami-2
+Mr & Mrs Bun;4;698;Peruvian,Sandwiches;5.0;15572 SW 72nd St Miami, FL 33193;25.6982213872986;-80.4451601299472;2;https://www.yelp.com/biz/mr-and-mrs-bun-miami
+CVI.CHE 105;5;1639;Latin American,Peruvian,Seafood;4.0;105 NE 3rd Ave Miami, FL 33132;25.775383;-80.1884004;2;https://www.yelp.com/biz/cvi-che-105-miami
+The Spillover;6;312;Seafood,Sandwiches,Beer Bar;4.5;2911 Grand Ave Miami, FL 33133;25.7284978;-80.2408057;2;https://www.yelp.com/biz/the-spillover-miami
+Beaker & Gray;7;488;Cocktail Bars,American (New),Tapas/Small Plates;4.5;2637 N Miami Ave Miami, FL 33127;25.802335;-80.194733;2;https://www.yelp.com/biz/beaker-and-gray-miami
+Breadman Miami;8;24;Bakeries,Sandwiches,Breakfast & Brunch;4.5;8100 SW 8th St Miami, FL 33144;25.7618704668318;-80.3266456998574;1;https://www.yelp.com/biz/breadman-miami-miami-2
+Versailles Restaurant;9;2658;Cuban,Coffee & Tea,Latin American;4.0;3555 SW 8th St Miami, FL 33135;25.7650962116388;-80.2527339189549;2;https://www.yelp.com/biz/versailles-restaurant-miami
+Doce Provisions;10;248;American (New),Gastropubs,Cuban;4.5;541 SW 12th Ave Miami, FL 33130;25.767842;-80.2142953;2;https://www.yelp.com/biz/doce-provisions-miami
+Crazy About You;11;744;Mediterranean,Italian,Spanish;4.0;1155 Brickell Bay Dr Miami, FL 33131;25.7620078715623;-80.1889463275432;2;https://www.yelp.com/biz/crazy-about-you-miami
+Pinch Kitchen;12;184;American (New);4.5;8601 Biscayne Blvd Miami, FL 33138;25.8544821718056;-80.1846987988383;2;https://www.yelp.com/biz/pinch-kitchen-miami
+Coopertown Airboat Rides & Restaurant;13;122;American (New),Diners;3.5;22700 SW 8th St Miami, FL 33194;25.760755;-80.560793;2;https://www.yelp.com/biz/coopertown-airboat-rides-and-restaurant-miami-10
+FINKA Table & Tap;14;1463;Gastropubs,Asian Fusion,Cuban;4.0;14690 SW 26th St Miami, FL 33175;25.7426710712095;-80.431843609787;2;https://www.yelp.com/biz/finka-table-and-tap-miami
+Cardon Y El Tirano;15;255;Venezuelan,Tapas/Small Plates,Wine Bars;4.5;3411 SW 8th St Miami, FL 33135;25.7650461623728;-80.2514094779099;2;https://www.yelp.com/biz/cardon-y-el-tirano-miami
+Wynwood Kitchen & Bar;16;768;American (New),Latin American,Tapas/Small Plates;4.0;2550 NW 2nd Ave Miami, FL 33127;25.8013376;-80.1992991;2;https://www.yelp.com/biz/wynwood-kitchen-and-bar-miami
+KYU;17;384;Asian Fusion;4.5;251 NW 25th St Miami, FL 33127;25.8008668;-80.2001876;3;https://www.yelp.com/biz/kyu-miami
+POKÉ + GO;18;50;Poke,Hawaiian,Japanese;4.5;2451 NE 186th St Miami, FL 33180;25.9475927304775;-80.150523958562;2;https://www.yelp.com/biz/pok%C3%A9-go-miami
+Boho;19;74;Mediterranean,Greek;4.5;3433 Main Hwy Coconut Grove Miami, FL 33133;25.7273038;-80.2428563;2;https://www.yelp.com/biz/boho-miami
+Lagniappe;20;545;Barbeque,Music Venues,Wine Bars;4.5;3425 NE 2nd Ave Miami, FL 33137;25.8090801239014;-80.191162109375;2;https://www.yelp.com/biz/lagniappe-miami-3
+Fuchai;21;49;Asian Fusion,Seafood,Soup;4.5;2506 NE 2nd Ave Miami, FL 33137;25.8009908;-80.1911706;2;https://www.yelp.com/biz/fuchai-miami-2
+Barley An American Brasserie;22;102;Gastropubs;4.0;8945 SW 72nd Pl Miami, FL 33156;25.686989;-80.3128349;2;https://www.yelp.com/biz/barley-an-american-brasserie-miami
+El Exquisito;23;387;Cuban;4.0;1510 SW 8th St Miami, FL 33135;25.7656837;-80.2198133;2;https://www.yelp.com/biz/el-exquisito-restaurant-miami
+Shimuja;24;124;Ramen;4.5;500 Brickell Ave Miami, FL 33131;25.7683404;-80.1906946;2;https://www.yelp.com/biz/shimuja-miami-5
+Kraken Crudo;25;8;Japanese,Sushi Bars,Asian Fusion;4.5;3525 NE 2nd Ave Miami, FL 33137;25.8096232;-80.1908789;2;https://www.yelp.com/biz/kraken-crudo-miami
+Coppola’s Ristorante Italiano;26;16;Italian;5.0;7317 SW 107th Ave Miami, FL 33173;25.6999043681117;-80.3657110780478;2;https://www.yelp.com/biz/coppolas-ristorante-italiano-miami
+G Spot;27;81;Juice Bars & Smoothies,Sandwiches,Delis;4.5;4545 NW 7th St Miami, FL 33126;25.779235;-80.2705141;1;https://www.yelp.com/biz/g-spot-miami-3
+WHISK Gourmet Food & Catering;28;870;American (New);4.5;7382 SW 56th Ave Miami, FL 33143;25.7028794;-80.2848138;2;https://www.yelp.com/biz/whisk-gourmet-food-and-catering-miami-2
+Atlantica Seafood Restaurant & Market;29;89;Seafood,Seafood Markets;4.0;3501 Rickenbacker Cswy Miami, FL 33149;25.7437523001847;-80.1721119880676;2;https://www.yelp.com/biz/atlantica-seafood-restaurant-and-market-miami
+Tacos and Tattoos;30;865;Mexican,American (Traditional),Gastropubs;4.5;10720 SW 113th Pl Miami, FL 33176;25.6688221;-80.377725;2;https://www.yelp.com/biz/tacos-and-tattoos-miami-2
+Kraken Crudo;32;8;Japanese,Sushi Bars,Asian Fusion;4.5;3525 NE 2nd Ave Miami, FL 33137;25.8096232;-80.1908789;2;https://www.yelp.com/biz/kraken-crudo-miami
+Al-Amir;33;16;Lebanese,Bakeries,Breakfast & Brunch;5.0;6420 Bird Rd Miami, FL 33155;25.7333734324302;-80.2990882453202;1;https://www.yelp.com/biz/al-amir-miami
+La Gringa Taco Shop;34;72;Tacos;5.0;1223 W Flagler St Miami, FL 33135;25.7736011;-80.2151484;1;https://www.yelp.com/biz/la-gringa-taco-shop-miami
+Xochimex Cantina Grill;35;32;Tex-Mex,Mexican;4.0;5761 NW 7th St Miami, FL 33126;25.7789364;-80.2904945;2;https://www.yelp.com/biz/xochimex-cantina-grill-miami-2
+Mojo Donuts & Fried Chicken;36;150;Chicken Shop,Donuts;4.5;8870 SW 40th St Miami, FL 33165;25.7325713;-80.3394201;1;https://www.yelp.com/biz/mojo-donuts-and-fried-chicken-miami
+FINKA Table & Tap;37;1463;Gastropubs,Asian Fusion,Cuban;4.0;14690 SW 26th St Miami, FL 33175;25.7426710712095;-80.431843609787;2;https://www.yelp.com/biz/finka-table-and-tap-miami
+PS Green;38;33;American (New),Breakfast & Brunch,Juice Bars & Smoothies;5.0;13067 SW 112th St Miami, FL 33186;25.665064;-80.407773;2;https://www.yelp.com/biz/ps-green-miami
+Pinch Kitchen;39;184;American (New);4.5;8601 Biscayne Blvd Miami, FL 33138;25.8544821718056;-80.1846987988383;2;https://www.yelp.com/biz/pinch-kitchen-miami
+Atlantica Seafood Restaurant & Market;40;89;Seafood,Seafood Markets;4.0;3501 Rickenbacker Cswy Miami, FL 33149;25.7437523001847;-80.1721119880676;2;https://www.yelp.com/biz/atlantica-seafood-restaurant-and-market-miami
+Clove Mediterranean Kitchen;41;125;Mediterranean,Greek;4.5;195 SE 3rd Ave Miami, FL 33131;25.7729939;-80.188562;1;https://www.yelp.com/biz/clove-mediterranean-kitchen-miami
+Bocas House;42;676;Peruvian,Venezuelan;4.0;10200 NW 25th St Doral, FL 33172;25.796246;-80.361887;2;https://www.yelp.com/biz/bocas-house-doral
+NIU Kitchen;43;273;Catalan,Tapas/Small Plates,Breakfast & Brunch;4.5;134 NE 2nd Ave Miami, FL 33132;25.7757959;-80.1904639;2;https://www.yelp.com/biz/niu-kitchen-miami
+Taula Fresh Mediterranean Food;44;16;Mediterranean;5.0;1657 N Miami Ave Miami, FL 33136;25.7914044;-80.194315;1;https://www.yelp.com/biz/taula-fresh-mediterranean-food-miami
+Lung Yai Thai Tapas;45;553;Tapas/Small Plates,Thai;4.0;1731 SW 8th St Miami, FL 33135;25.765921;-80.22329;2;https://www.yelp.com/biz/lung-yai-thai-tapas-miami
+Tacos and Tattoos;46;865;Mexican,American (Traditional),Gastropubs;4.5;10720 SW 113th Pl Miami, FL 33176;25.6688221;-80.377725;2;https://www.yelp.com/biz/tacos-and-tattoos-miami-2
+Ball & Chain;47;500;Music Venues,Bars,Tapas/Small Plates;4.0;1513 SW 8th St Miami, FL 33135;25.7658649;-80.2197635;2;https://www.yelp.com/biz/ball-and-chain-miami-2
+Sweet Dogs;48;539;Hot Dogs,Desserts,American (Traditional);4.5;4749 SW 8th St Miami, FL 33134;25.7643619;-80.2726478;1;https://www.yelp.com/biz/sweet-dogs-miami
+Zuma;49;888;Japanese;4.0;270 Biscayne Blvd Way Miami, FL 33131;25.7705248376992;-80.189613327384;4;https://www.yelp.com/biz/zuma-miami-2
+Jack’s Miami;50;76;Italian,American (Traditional);4.0;2426 NE 2nd Ave Miami, FL 33137;25.800447;-80.191184;2;https://www.yelp.com/biz/jacks-miami-miami-2
+Amor di Pasta;51;47;Pizza,Italian,Wine Bars;5.0;536 NW 57th Ave Miami, FL 33126;25.7768358;-80.2886574;2;https://www.yelp.com/biz/amor-di-pasta-miami-3
+Bunbury;52;308;Argentine,Wine Bars,Latin American;4.5;2200 NE 2nd Ave Miami, FL 33137;25.798258;-80.191222;2;https://www.yelp.com/biz/bunbury-miami
+La Camaronera Seafood Joint & Fish Market;53;561;Seafood,Seafood Markets,Food Stands;4.0;1952 W Flagler St Miami, FL 33135;25.7722958;-80.2276671;2;https://www.yelp.com/biz/la-camaronera-seafood-joint-and-fish-market-miami-2
+Farinelli 1937;54;91;Pizza,Italian;4.0;3197 Commodore Plz Miami, FL 33133;25.7277945;-80.2446377;2;https://www.yelp.com/biz/farinelli-1937-miami
+Diced;55;287;Fast Food,Salad;4.5;2342 SW 67th Ave Miami, FL 33155;25.7487924;-80.303571;1;https://www.yelp.com/biz/diced-miami
+Osteria Vecchio Piemonte;56;348;Italian;4.5;10480 SW 72nd St Miami, FL 33173;25.7010162587277;-80.3631066310896;2;https://www.yelp.com/biz/osteria-vecchio-piemonte-miami
+Alloy Bistro Gourmet;57;90;Mediterranean;5.0;154 SE 1st Ave Miami, FL 33131;25.7729065;-80.1918746;2;https://www.yelp.com/biz/alloy-bistro-gourmet-miami-4
+Toro Toro Restaurant;58;643;Steakhouses,Tapas Bars,Cocktail Bars;4.0;100 Chopin Plz Miami, FL 33131;25.7726278759243;-80.1853631123726;3;https://www.yelp.com/biz/toro-toro-restaurant-miami-3
+AKI-E By Chef Willy;59;25;Mediterranean,Italian,Seafood;4.5;1200 SW 57th Ave Miami, FL 33144;25.7596254;-80.2880128;3;https://www.yelp.com/biz/aki-e-by-chef-willy-miami-2
+La Patagonia Argentina;60;272;Latin American,Argentine;4.0;4802 NW 7th St Miami, FL 33126;25.778542;-80.274011;2;https://www.yelp.com/biz/la-patagonia-argentina-miami
+Mignonette;61;405;American (New),Seafood,Live/Raw Food;4.5;210 NE 18th St Miami, FL 33132;25.793323;-80.190472;3;https://www.yelp.com/biz/mignonette-miami-7
+FINKA Table & Tap;62;1463;Gastropubs,Asian Fusion,Cuban;4.0;14690 SW 26th St Miami, FL 33175;25.7426710712095;-80.431843609787;2;https://www.yelp.com/biz/finka-table-and-tap-miami
+PS Green;63;33;American (New),Breakfast & Brunch,Juice Bars & Smoothies;5.0;13067 SW 112th St Miami, FL 33186;25.665064;-80.407773;2;https://www.yelp.com/biz/ps-green-miami
+Hate Mondays Tavern;64;71;Latin American,Barbeque;5.0;12461 SW 130th St Miami, FL 33186;25.6473359;-80.3959227;1;https://www.yelp.com/biz/hate-mondays-tavern-miami
+La Rosa Restaurant;65;221;Cuban,Seafood,Soup;4.0;4041 NW 7th St Miami, FL 33126;25.779044;-80.262671;2;https://www.yelp.com/biz/la-rosa-restaurant-miami-2
+Jimmy’z Kitchen Wynwood;66;511;American (New);4.0;2700 N Miami Ave Miami, FL 33127;25.8027760767133;-80.1952292876969;2;https://www.yelp.com/biz/jimmyz-kitchen-wynwood-miami
+Rincon Criollo Restaurant;67;78;Cuban;4.0;2601 NW 39th Ave Miami, FL 33142;25.799802;-80.2597466;1;https://www.yelp.com/biz/rincon-criollo-restaurant-miami
+Terramia;68;9;Italian;5.0;4770 Biscayne Blvd Miami, FL 33137;25.8188787;-80.1884905;2;https://www.yelp.com/biz/terramia-miami
+Wynwood Kitchen & Bar;69;768;American (New),Latin American,Tapas/Small Plates;4.0;2550 NW 2nd Ave Miami, FL 33127;25.8013376;-80.1992991;2;https://www.yelp.com/biz/wynwood-kitchen-and-bar-miami
+Bombay Darbar;70;468;Indian;4.5;2901 Florida Ave Miami, FL 33133;25.72935;-80.240789;2;https://www.yelp.com/biz/bombay-darbar-miami-3
+Fiorito;71;208;Argentine,Latin American,Spanish;4.5;5555 NE 2nd Ave Miami, FL 33137;25.8270693;-80.1917722;2;https://www.yelp.com/biz/fiorito-miami
+Pinch Kitchen;72;184;American (New);4.5;8601 Biscayne Blvd Miami, FL 33138;25.8544821718056;-80.1846987988383;2;https://www.yelp.com/biz/pinch-kitchen-miami
+Ono Poké Shop;73;60;Japanese,Poke,Hawaiian;4.5;2320 N Miami Ave Miami, FL 33127;25.7995659592595;-80.1951099999904;2;https://www.yelp.com/biz/ono-pok%C3%A9-shop-miami-2
+Bululu Miami;74;36;Beer Bar,Tapas Bars,Gastropubs;4.5;1701 NW 112th Ave Miami, FL 33172;25.7898637164108;-80.3764858469367;2;https://www.yelp.com/biz/bululu-miami-miami
+NOA Cafe;75;160;Mediterranean,Asian Fusion;4.5;2711 NE 2nd Ave Miami, FL 33140;25.8030761;-80.1908036;2;https://www.yelp.com/biz/noa-cafe-miami
+Perricone’s Marketplace & Cafe;76;1033;Specialty Food,Italian,Sandwiches;4.0;15 SE 10th St Miami, FL 33131;25.7646652;-80.1929206;2;https://www.yelp.com/biz/perricones-marketplace-and-cafe-miami
+El Porton de la Flaca;77;20;Latin American,Coffee & Tea,Breakfast & Brunch;4.5;1460 NW 107th Ave Miami, FL 33172;25.7872703;-80.3699295;2;https://www.yelp.com/biz/el-porton-de-la-flaca-miami-2
+Fuchai;78;49;Asian Fusion,Seafood,Soup;4.5;2506 NE 2nd Ave Miami, FL 33137;25.8009908;-80.1911706;2;https://www.yelp.com/biz/fuchai-miami-2
+Komodo;79;314;Asian Fusion,Lounges;3.5;801 Brickell Ave Miami, FL 33131;25.7653468682438;-80.1906713264588;3;https://www.yelp.com/biz/komodo-miami-2
+Esevagonte;80;73;Pizza,Sandwiches,American (New);4.5;6801 SW 8th St Miami, FL 33144;25.763281;-80.306335;2;https://www.yelp.com/biz/esevagonte-miami-2
+Neighborhood Bistro;81;94;French,American (New),Cuban;4.5;2779 Bird Ave Miami, FL 33133;25.7358137;-80.2385648;2;https://www.yelp.com/biz/neighborhood-bistro-miami
+Café Roval;82;181;American (New);4.0;5808 NE 4th Ct Miami, FL 33137;25.829334;-80.187288;2;https://www.yelp.com/biz/caf%C3%A9-roval-miami
+NAOE;83;265;Japanese,Sushi Bars,Seafood;4.5;661 Brickell Key Dr Miami, FL 33131;25.7678418536709;-80.1856550574303;4;https://www.yelp.com/biz/naoe-miami-3
+Batch Gastropub;84;677;Gastropubs,American (New),Bars;4.0;30 SW 12th St Miami, FL 33130;25.7624962180853;-80.1939906924963;2;https://www.yelp.com/biz/batch-gastropub-miami
+Naomi’s Garden Restaurant & Lounge;85;82;Haitian,Seafood,Cajun/Creole;4.5;650 NW 71st St Miami, FL 33150;25.8395353;-80.2079127;1;https://www.yelp.com/biz/naomis-garden-restaurant-and-lounge-miami
+Strada In The Grove;86;179;Italian,Breakfast & Brunch,Wine Bars;3.5;3176 Commodore Plz Miami, FL 33133;25.7275418;-80.2450106;2;https://www.yelp.com/biz/strada-in-the-grove-miami
+Ashoka Indian Cuisine;87;65;Indian,Seafood,Desserts;4.5;295 NW 82nd Ave Miami, FL 33126;25.7732034;-80.3281989;2;https://www.yelp.com/biz/ashoka-indian-cuisine-miami
+Ms Cheezious;88;390;Comfort Food,Sandwiches;4.5;7418 Biscayne Blvd Miami, FL 33138;25.8433905564887;-80.1846234127879;2;https://www.yelp.com/biz/ms-cheezious-miami-3
+Ocio;89;38;Italian;4.5;3399 NW 72nd Ave Miami, FL 33122;25.8058148;-80.3125408;2;https://www.yelp.com/biz/ocio-miami
+180 Degrees At The DRB;90;231;Gastropubs,American (New),Beer Gardens;4.0;501 NE 1st Ave Miami, FL 33132;25.7792541;-80.1918702;2;https://www.yelp.com/biz/180-degrees-at-the-drb-miami
+El Cristo Restaurant & Catering;91;257;Cuban;4.0;1543 SW 8th St Miami, FL 33135;25.7658847;-80.2203964;2;https://www.yelp.com/biz/el-cristo-restaurant-and-catering-miami-2
+1111 Peruvian Bistro;92;56;Peruvian;4.5;1111 SW 1st Ave Miami, FL 33130;25.7632775;-80.1945948;2;https://www.yelp.com/biz/1111-peruvian-bistro-miami-2
+Coppola’s Ristorante Italiano;93;16;Italian;5.0;7317 SW 107th Ave Miami, FL 33173;25.6999043681117;-80.3657110780478;2;https://www.yelp.com/biz/coppolas-ristorante-italiano-miami
+Truluck’s;94;674;Seafood,Steakhouses;4.5;777 Brickell Ave Miami, FL 33131;25.7666322556485;-80.1901618736801;3;https://www.yelp.com/biz/trulucks-miami
+Brazilian Taste Grill;95;44;Brazilian;4.5;7490 NW 25th St Miami, FL 33122;25.796833246639;-80.3181920729482;2;https://www.yelp.com/biz/brazilian-taste-grill-miami
+Catch Of The Day;96;257;Seafood;3.5;1050 NW 42nd Ave Miami, FL 33126;25.7822688;-80.2644254;2;https://www.yelp.com/biz/catch-of-the-day-miami
+Kona Grill;97;168;Sushi Bars,American (New),Hawaiian;4.0;11401 NW 12th St Miami, FL 33172;25.7866102104173;-80.3820213468354;2;https://www.yelp.com/biz/kona-grill-miami
+Sushi Maki;98;22;Sushi Bars,Salad,Bubble Tea;4.0;2550 S Bayshore Dr Miami, FL 33133;25.7321567;-80.2323708;2;https://www.yelp.com/biz/sushi-maki-miami-9
+PB Station;99;88;American (New);4.0;121 SE 1st St Miami, FL 33131;25.7732644661779;-80.1913765244718;3;https://www.yelp.com/biz/pb-station-miami
+Yambo Restaurant;100;234;Latin American,Nicaraguan;4.0;1643 SW 1st St Miami, FL 33135;25.7725542480094;-80.2223160649429;1;https://www.yelp.com/biz/yambo-restaurant-miami
+La Pollita;101;14;Mexican;4.5;2600 NE 2nd Ave Miami, FL 33137;25.8018103;-80.1912372;2;https://www.yelp.com/biz/la-pollita-miami-2
+Zona Fresca;102;105;Mexican;4.5;244 Biscayne Blvd Miami, FL 33132;25.77699;-80.188798;1;https://www.yelp.com/biz/zona-fresca-miami
+Cilantros Cafeteria;103;52;Cuban;4.5;5891 NW 36th St Miami, FL 33166;25.8076167;-80.29217;1;https://www.yelp.com/biz/cilantros-cafeteria-miami
+Guarapo Organic Juice Bar;104;56;Juice Bars & Smoothies,Breakfast & Brunch,Soup;4.5;171 NW 36th St Miami, FL 33127;25.8104657;-80.1988396;2;https://www.yelp.com/biz/guarapo-organic-juice-bar-miami-4
+Bali Café;105;277;Sushi Bars,Indonesian,Asian Fusion;4.5;109 NE 2nd Ave Miami, FL 33132;25.77545;-80.190207;2;https://www.yelp.com/biz/bali-caf%C3%A9-miami-2
+Barmeli 69;106;162;Wine Bars,Greek,Mediterranean;4.5;6927 Biscayne Blvd Miami, FL 33138;25.8392008;-80.1840395;2;https://www.yelp.com/biz/barmeli-69-miami
+Baby Jane;107;81;Cocktail Bars,American (New);4.0;500 Brickell Ave Miami, FL 33131;25.7683404;-80.1906946;2;https://www.yelp.com/biz/baby-jane-miami-2
+Atlantica Seafood Restaurant & Market;108;89;Seafood,Seafood Markets;4.0;3501 Rickenbacker Cswy Miami, FL 33149;25.7437523001847;-80.1721119880676;2;https://www.yelp.com/biz/atlantica-seafood-restaurant-and-market-miami
+Jaguar Ceviche Spoon Bar;109;662;Latin American,Peruvian;4.0;3067 Grand Ave Miami, FL 33133;25.728408;-80.242791;2;https://www.yelp.com/biz/jaguar-ceviche-spoon-bar-miami
+LOBA;110;193;American (New),Southern,Latin American;4.0;7420 Biscayne Blvd Miami, FL 33137;25.8435052;-80.184603;2;https://www.yelp.com/biz/loba-miami
+Bin No. 18;111;255;Italian;4.0;1800 Biscayne Blvd Miami, FL 33132;25.7941011;-80.1892269;2;https://www.yelp.com/biz/bin-no-18-miami-3
+Bravo! Peruvian Cuisine;112;73;Seafood,Peruvian,Sandwiches;4.5;10600 SW 8th St Miami, FL 33174;25.7609591;-80.367569;2;https://www.yelp.com/biz/bravo-peruvian-cuisine-miami
+Cibo Wine Bar South Beach;113;357;Italian,Wine Bars;4.0;200 S Pointe Dr Miami, FL 33139;25.767997;-80.133471;3;https://www.yelp.com/biz/cibo-wine-bar-south-beach-miami
+Lemon Peppers;114;22;American (Traditional),Seafood,Fast Food;4.5;2701 NW 54th St Miami, FL 33142;25.8241760001163;-80.2411999180913;1;https://www.yelp.com/biz/lemon-peppers-miami
+El Mencey Restaurante;115;25;Spanish,Wine Bars;5.0;1001 SW 67th Ave Miami, FL 33144;25.7611884800325;-80.3037942945957;2;https://www.yelp.com/biz/el-mencey-restaurante-miami
+Lo de Lea;116;135;Argentine,Wine Bars;4.5;7001 Biscayne Blvd Miami, FL 33138;25.8396465;-80.1840829;2;https://www.yelp.com/biz/lo-de-lea-miami
+El Taco Loco de La 8;117;98;Mexican;4.5;440 SW 8th St Miami, FL 33130;25.7660265037806;-80.2016999286409;2;https://www.yelp.com/biz/el-taco-loco-de-la-8-miami
+Red Carpet Italian;118;145;Italian;5.0;3438 SW 8th St Miami, FL 33135;25.764462014499;-80.2513395226845;2;https://www.yelp.com/biz/red-carpet-italian-miami
+Dr. Limon Ceviche Bar;119;113;Seafood,Latin American,Peruvian;4.0;10548 SW 8th St Miami, FL 33174;25.7604085089622;-80.3666881605132;2;https://www.yelp.com/biz/dr-limon-ceviche-bar-miami-2
+Luke’s Lobster Brickell City Centre;120;80;Seafood;4.0;701 S Miami Ave Miami, FL 33130;25.7671674;-80.1930873;2;https://www.yelp.com/biz/lukes-lobster-brickell-city-centre-miami
+Taikin Asian Cuisine;121;44;Asian Fusion,Sushi Bars,Japanese;4.5;7450 NW 104th Ave Miami, FL 33178;25.8416730528005;-80.3666130496067;2;https://www.yelp.com/biz/taikin-asian-cuisine-miami
+AKI-E By Chef Willy;122;25;Mediterranean,Italian,Seafood;4.5;1200 SW 57th Ave Miami, FL 33144;25.7596254;-80.2880128;3;https://www.yelp.com/biz/aki-e-by-chef-willy-miami-2
+Taula Fresh Mediterranean Food;123;16;Mediterranean;5.0;1657 N Miami Ave Miami, FL 33136;25.7914044;-80.194315;1;https://www.yelp.com/biz/taula-fresh-mediterranean-food-miami
+Wood Tavern;124;517;Bars,American (Traditional);4.0;2531 NW 2nd Ave Miami, FL 33127;25.8013582;-80.1989863;1;https://www.yelp.com/biz/wood-tavern-miami
+Vapiano;125;281;Italian;4.0;1221 Brickell Ave Miami, FL 33131;25.7612098372472;-80.191641977385;2;https://www.yelp.com/biz/vapiano-miami
+Mi Rinconcito Mexicano;126;480;Tacos;4.0;1961 SW 8th St Miami, FL 33135;25.7656946;-80.2279328;1;https://www.yelp.com/biz/mi-rinconcito-mexicano-miami
+La Mar by Gastón Acurio;127;361;Peruvian;4.0;500 Brickell Key Dr Miami, FL 33131;25.7654407159876;-80.1852026674939;3;https://www.yelp.com/biz/la-mar-by-gast%C3%B3n-acurio-miami
+Dashi;128;20;Japanese,Sushi Bars,Cocktail Bars;4.5;401 SW 3rd Ave Miami, FL 33130;25.7693923;-80.1989203;4;https://www.yelp.com/biz/dashi-miami-2
+Butterfly Ball;129;23;Mediterranean,French;5.0;22 NE 3rd Ave Miami, FL 33132;25.7747888;-80.1886664;2;https://www.yelp.com/biz/butterfly-ball-miami
+Il Gabbiano;130;406;Italian,Wine Bars;4.0;335 S Biscayne Blvd Miami, FL 33131;25.7717266;-80.1854236;4;https://www.yelp.com/biz/il-gabbiano-miami
+Pinolandia;131;166;Latin American,Nicaraguan;4.0;119 NW 12th Ave Miami, FL 33128;25.774769;-80.214436;1;https://www.yelp.com/biz/pinolandia-miami
+Poke 305;132;127;Hawaiian,Poke;4.0;169 SW 7th St Miami, FL 33130;25.76748;-80.1964554;2;https://www.yelp.com/biz/poke-305-miami-2
+Ferraro’s Kitchen;133;54;Wine Bars,Italian,Cooking Classes;4.5;1099 NE 79th St Miami, FL 33138;25.8483612;-80.1745225;3;https://www.yelp.com/biz/ferraros-kitchen-miami
+Diced;134;90;Salad,Fast Food,Wraps;4.0;10840 SW 104th St Miami, FL 33176;25.6719058;-80.3712847;1;https://www.yelp.com/biz/diced-miami-3
+Alter Restaurant;135;202;American (New);4.0;223 NW 23rd St Miami, FL 33127;25.7996474;-80.1995657;3;https://www.yelp.com/biz/alter-miami-3
+Tinta y Café;136;423;Cuban,Sandwiches,Tapas Bars;4.5;1315 Ponce De Leon Blvd Miami, FL 33134;25.7592231998562;-80.2586163778576;1;https://www.yelp.com/biz/tinta-y-caf%C3%A9-miami-2
+The Original Crab House;137;173;Seafood,Live/Raw Food;4.5;9636 SW 77th Ave Miami, FL 33156;25.6802020141109;-80.318843774205;2;https://www.yelp.com/biz/the-original-crab-house-miami
+Chef Adrianne’s Vineyard Restaurant and Wine Bar;138;625;American (New),Wine Bars;4.5;11510 SW 147th Ave Miami, FL 33196;25.6599432260742;-80.4325866772461;3;https://www.yelp.com/biz/chef-adriannes-vineyard-restaurant-and-wine-bar-miami-3
+Proof;139;379;Pizza,Italian;4.5;3328 N Miami Ave Miami, FL 33127;25.8080802;-80.1954815;2;https://www.yelp.com/biz/proof-miami-5
+Fufi Restaurant;140;57;Pizza,Vegan,Gluten-Free;4.5;4600 NE 2nd Ave Miami, FL 33137;25.8180823;-80.1917603;2;https://www.yelp.com/biz/fufi-restaurant-miami
+GK Bistronomie;141;163;Bars,Seafood,Peruvian;4.0;218 NW 25th St Miami, FL 33127;25.8005369;-80.199554;2;https://www.yelp.com/biz/gk-bistronomie-miami
+Station 28;142;64;Sandwiches,Peruvian,Sports Bars;4.5;91 SE 2nd St Miami, FL 33131;25.7728914339146;-80.1921365315806;1;https://www.yelp.com/biz/station-28-miami-3
+The Mighty;143;158;American (New),Bars;4.5;2224 SW 22nd St Miami, FL 33145;25.7504012441808;-80.2308649448746;2;https://www.yelp.com/biz/the-mighty-miami
+Zuuk Mediterranean Kitchen;144;170;Mediterranean,Vegetarian,Greek;4.0;1250 S Miami Ave Miami, FL 33130;25.7620853;-80.1935657;2;https://www.yelp.com/biz/zuuk-mediterranean-kitchen-miami
+Neme Gastro Bar;145;95;Gastropubs;4.0;1252 SW 22nd St Miami, FL 33145;25.7509031;-80.2155978;2;https://www.yelp.com/biz/neme-gastro-bar-miami
+Pubbelly Sushi;146;94;Sushi Bars;4.0;701 South Miami Ave Miami, FL 33131;25.7671674;-80.1930873;3;https://www.yelp.com/biz/pubbelly-sushi-miami-3
+Zak The Baker;147;389;Kosher,Delis,American (Traditional);4.0;405 NW 26th St Miami, FL 33127;25.8015356842519;-80.2009971743714;2;https://www.yelp.com/biz/zak-the-baker-miami-4
+Villa Havana Cafe;148;34;Cuban,Cafes,Breakfast & Brunch;4.5;4315 NW 7th St Miami, FL 33126;25.7791273;-80.2665143;1;https://www.yelp.com/biz/villa-havana-cafe-miami
+33 Kitchen;149;61;Peruvian,Asian Fusion;4.0;3195 Commodore Plz Miami, FL 33133;25.7277441;-80.2445813;2;https://www.yelp.com/biz/33-kitchen-miami
+Antojitos Mexicanos Tenorio;150;128;Mexican;4.5;4095 SW 137th Ave Miami, FL 33175;25.7302816;-80.4153515;1;https://www.yelp.com/biz/antojitos-mexicanos-tenorio-miami
+Madrid Tapas Y Vinos;151;120;Spanish,Seafood,Tapas Bars;4.0;525 NW 42nd Ave Miami, FL 33126;25.7775426223252;-80.2637512404755;2;https://www.yelp.com/biz/madrid-tapas-y-vinos-miami-4
+Los Paisanos Restaurant;152;16;Latin American,Honduran;4.5;824 W Flagler St Miami, FL 33130;25.77338;-80.208249;2;https://www.yelp.com/biz/los-paisanos-restaurant-miami
+The Arketekt by Aficionados;153;13;American (New),Cocktail Bars;4.5;1200 Brickell Bay Dr Miami, FL 33131;25.7617386;-80.1903853;2;https://www.yelp.com/biz/the-arketekt-by-aficionados-miami
+ALL DAY;154;140;Cafes,Coffee & Tea,Breakfast & Brunch;4.0;1035 N Miami Ave Miami, FL 33136;25.7845085;-80.1938257;2;https://www.yelp.com/biz/all-day-miami
+SuViche - Wynwood;155;500;Seafood,Peruvian;4.0;2751 N Miami Ave Miami, FL 33127;25.802886;-80.1948;2;https://www.yelp.com/biz/suviche-wynwood-miami
+Verde;156;180;American (New),Cafes,Sandwiches;4.0;1103 Biscayne Blvd Miami, FL 33130;25.7862096464093;-80.1859831029115;2;https://www.yelp.com/biz/verde-miami
+Royal Thai Food;157;11;Thai;5.0;9612 Fontainebleau Blvd Miami, FL 33172;25.7746113955554;-80.3503675013781;2;https://www.yelp.com/biz/royal-thai-food-miami-2
+Nicola Brick Oven Kitchen;158;14;Pizza,Italian,Caterers;4.0;3451 NE 1st Ave Miami, FL 33137;25.809357;-80.191936;2;https://www.yelp.com/biz/nicola-brick-oven-kitchen-miami
+Gyu-Kaku Japanese BBQ;159;617;Japanese,Barbeque;4.0;34 SW 13th St Miami, FL 33130;25.7614869910215;-80.1943418392868;2;https://www.yelp.com/biz/gyu-kaku-japanese-bbq-miami
+Shaddai Fine Lebanese Cuisine;160;243;Lebanese;4.5;9519 S Dixie Hwy Miami, FL 33156;25.6822640755404;-80.3135431185365;2;https://www.yelp.com/biz/shaddai-fine-lebanese-cuisine-miami
+Brazuca’s Kitchen;161;45;Brazilian;4.5;1469 Brickell Bay Dr Miami, FL 33131;25.8251974020018;-80.3720052424278;2;https://www.yelp.com/biz/brazucas-kitchen-miami-2
+Brasserie Brickell Key;162;24;Italian,Wine Bars,Diners;4.5;605 Brickell Key Dr Miami, FL 33131;25.7671079;-80.1852798;2;https://www.yelp.com/biz/brasserie-brickell-key-miami-2
+Giovanni’s Ristorante;163;54;Italian,Argentine;4.5;8520 SW 8th St Miami, FL 33145;25.7609109838281;-80.3342356905341;2;https://www.yelp.com/biz/giovannis-ristorante-miami-2
+La Bottega On the Bay;164;84;Italian;4.0;1800 N Bayshore Dr Miami, FL 33132;25.7943088329223;-80.1866052644181;2;https://www.yelp.com/biz/la-bottega-on-the-bay-miami
+Coyo Taco;165;136;Mexican;4.0;1111 SW 1st Ave Miami, FL 33130;25.7627701936588;-80.1949488690338;2;https://www.yelp.com/biz/coyo-taco-miami-2
+Atlantis Cafe;166;45;Cuban;5.0;12 NW 1st St Miami, FL 33128;25.7750073;-80.193924;1;https://www.yelp.com/biz/atlantis-cafe-miami
+Rincon Escondido Tapas;167;187;Spanish,Tapas Bars,Seafood;4.5;2697 Biscayne Blvd Miami, FL 33137;25.8026786;-80.189042;2;https://www.yelp.com/biz/rincon-escondido-tapas-miami
+Arson;168;22;Seafood,Steakhouses,Barbeque;4.0;104 NE 2nd Ave Miami, FL 33132;25.7753935;-80.1904434;2;https://www.yelp.com/biz/arson-miami
+El Gran Inka;169;90;Peruvian;4.0;606 Crandon Blvd Miami, FL 33149;25.6895917;-80.1646859;2;https://www.yelp.com/biz/el-gran-inka-miami-2
+Pincho Factory;170;58;Hot Dogs,American (New),Burgers;4.0;12590 SW 88th St Miami, FL 33186;25.6844667622599;-80.399262830615;1;https://www.yelp.com/biz/pincho-factory-miami-3
+Farofa;171;59;Steakhouses,Brazilian;4.5;11865 SW 26th St Miami, FL 33175;25.7478589;-80.3883374;1;https://www.yelp.com/biz/farofa-miami
+Shokudo;172;216;Asian Fusion,Sushi Bars,Japanese;4.0;4740 NE 2nd Ave Miami, FL 33137;25.8191091;-80.1918316;2;https://www.yelp.com/biz/shokudo-miami-2
+East Thai & Noodle House;173;140;Thai,Noodles;4.0;8384 Bird Rd Miami, FL 33155;25.7331196;-80.3312984;2;https://www.yelp.com/biz/east-thai-and-noodle-house-miami-7
+Paseo Catracho;174;12;Latin American;4.5;4750 NW 7th St Miami, FL 33126;25.7783971;-80.2732893;1;https://www.yelp.com/biz/paseo-catracho-miami-2
+RUST;175;39;Desserts,Salad,Tapas Bars;3.5;2621 NW 2nd Ave Miami, FL 33127;25.8018680587413;-80.1986194247131;2;https://www.yelp.com/biz/rust-miami-2
+Pollos Y Jarras;176;359;Peruvian;4.0;115 NE 3rd Ave Miami, FL 33132;25.775702;-80.188376;2;https://www.yelp.com/biz/pollos-y-jarras-miami
+1821 Sandwich Shop;177;18;Food Trucks,Peruvian,Sandwiches;4.5;9225 SW 137th Ave Miami, FL 33186;25.6808906786146;-80.4162085224955;2;https://www.yelp.com/biz/1821-sandwich-shop-miami-2
+Bavaria Haus;178;103;German,Sports Bars;4.0;401 Biscayne Blvd Miami, FL 33132;25.778768346636;-80.1864767127369;2;https://www.yelp.com/biz/bavaria-haus-miami
+Mina’s Mediterraneo;179;248;Mediterranean,Greek,Middle Eastern;4.0;749 NE 79th St Miami, FL 33138;25.848085;-80.181227;2;https://www.yelp.com/biz/minas-mediterraneo-miami
+The Corner;180;191;Cocktail Bars,Beer Bar,Sandwiches;4.0;1035 N Miami Ave Miami, FL 33136;25.7845085;-80.1938257;2;https://www.yelp.com/biz/the-corner-miami
+Harry’s Pizzeria - Coconut Grove;181;173;Pizza,Desserts,Salad;4.0;2996 McFarlane Rd Miami, FL 33133;25.7278042604547;-80.2422034975486;2;https://www.yelp.com/biz/harrys-pizzeria-coconut-grove-miami
+El Rey De Las Fritas;182;243;Cuban,Burgers,Fast Food;4.0;1821 SW 8th St Miami, FL 33135;25.7658889;-80.2250921;1;https://www.yelp.com/biz/el-rey-de-las-fritas-miami
+Tap 42 Miami;183;37;Gastropubs;4.5;3252 NE 1st Ave Miami, FL 33137;25.808083047122;-80.193036532587;2;https://www.yelp.com/biz/tap-42-miami-miami
+Atchana’s Homegrown Thai;184;39;Thai;4.0;3194 Commodore Plz Miami, FL 33133;25.7278220860767;-80.2451561763883;2;https://www.yelp.com/biz/atchanas-homegrown-thai-miami-2
+Vero;185;248;Italian,Pizza;4.5;90 SE 1st St Miami, FL 33131;25.7732471137303;-80.1920659170162;2;https://www.yelp.com/biz/vero-miami-2
+A-Mari-Mix Fresh Mex Fusion;186;122;Mexican;4.5;9700 SW 24th St Miami, FL 33165;25.7468571893715;-80.3519500632294;1;https://www.yelp.com/biz/a-mari-mix-fresh-mex-fusion-miami
+Shnitz N Fritz;187;43;Sandwiches,Food Trucks,Kosher;5.0;56 NW 29th St Miami, FL 33127;25.8036815;-80.1964207;2;https://www.yelp.com/biz/shnitz-n-fritz-miami
+Kiki On The River;188;35;Greek,Mediterranean;3.5;450 NW North River Dr Miami, FL 33128;25.7777935;-80.2050503;4;https://www.yelp.com/biz/kiki-on-the-river-miami-2
+‘O Munaciello;189;31;Pizza,Italian;4.5;6425 Biscayne Blvd Miami, FL 33138;25.8353479;-80.1841473;2;https://www.yelp.com/biz/o-munaciello-miami
+Burrito San;190;289;Sushi Bars,Asian Fusion,Japanese;4.0;119 SE 1st Ave Miami, FL 33131;25.7728964;-80.1916994;2;https://www.yelp.com/biz/burrito-san-miami
+NiDo Caffe;191;367;Italian,Bars,American (Traditional);4.5;7295 Biscayne Blvd Miami, FL 33138;25.8423746;-80.184029;2;https://www.yelp.com/biz/nido-caffe-miami-3
+El Carajo International Tapas & Wines;192;319;Spanish,Tapas Bars;4.0;2465 SW 17th Ave Miami, FL 33145;25.7466309778868;-80.2215504282417;2;https://www.yelp.com/biz/el-carajo-international-tapas-and-wines-miami
+Estefan Kitchen Express;193;15;Cuban,Sandwiches;4.5;1961 Miad Cir Miami, FL 33166;25.797288;-80.279132;2;https://www.yelp.com/biz/estefan-kitchen-express-miami
+The Mediterranean Kitchen;194;7;Mediterranean;4.5;2100 NW 42nd Ave Miami, FL 33126;25.7950665;-80.2786931;0;https://www.yelp.com/biz/the-mediterranean-kitchen-miami
+El Nuevo Siglo Supermarket;195;76;Cuban;4.5;1305 SW 8th St Miami, FL 33135;25.7660582;-80.2164212;1;https://www.yelp.com/biz/el-nuevo-siglo-supermarket-miami
+Ariete;196;168;American (New),Breakfast & Brunch,Cocktail Bars;4.0;3540 Main Hwy Miami, FL 33133;25.7250961373407;-80.245439149819;3;https://www.yelp.com/biz/ariete-miami-2
+Winewood;197;58;Wine Bars,Tapas Bars,Salad;4.0;7251 Biscayne Blvd Miami, FL 33138;25.841834;-80.1841841;2;https://www.yelp.com/biz/winewood-miami
+Edge Steak & Bar;198;272;Steakhouses,American (New),Seafood;4.0;1435 Brickell Ave Miami, FL 33131;25.7590147661881;-80.1916009563446;3;https://www.yelp.com/biz/edge-steak-and-bar-miami
+El Palacio De Los Jugos;199;393;Fruits & Veggies,Latin American;4.5;5721 W Flagler St Miami, FL 33144;25.771042;-80.288589;1;https://www.yelp.com/biz/el-palacio-de-los-jugos-miami
+Clive’s Cafe;200;62;Caribbean,Cafes;4.5;5890 NW 2nd Ave Miami, FL 33127;25.8293297;-80.2005355;2;https://www.yelp.com/biz/clives-cafe-miami-2
+El Taquito;201;208;Mexican;4.0;3410 Main Hwy Miami, FL 33133;25.727871;-80.2426592;1;https://www.yelp.com/biz/el-taquito-miami
+The Butcher Shop;202;51;Meat Shops,Cafes,Sandwiches;4.5;14235 S Dixie Hwy Miami, FL 33176;25.6368806;-80.3368682;1;https://www.yelp.com/biz/the-butcher-shop-miami-4
+Zest;203;83;Bars,Caribbean,American (New);4.0;200 S Biscayne Blvd Miami, FL 33131;25.7722634240395;-80.1874879286997;2;https://www.yelp.com/biz/zest-miami
+Golden Rule Seafood;204;157;Seafood Markets,Seafood;4.0;17505 S Dixie Hwy Miami, FL 33157;25.606585;-80.350298;2;https://www.yelp.com/biz/golden-rule-seafood-miami-2
+La Fragua Restaurant;205;40;Cuban;4.5;7931 NW 2nd St Miami, FL 33126;25.7722327;-80.3247333;2;https://www.yelp.com/biz/la-fragua-restaurant-miami
+DB Bistro Moderne;206;282;French,American (New),Burgers;4.0;255 Biscayne Blvd Way Miami, FL 33131;25.771131021909;-80.1890859349294;3;https://www.yelp.com/biz/db-bistro-moderne-miami-2
+DiCrespo Deli Argentino;207;79;Argentine,Empanadas,Breakfast & Brunch;4.5;13772 SW 152nd St Miami, FL 33177;25.6261059;-80.4171294;2;https://www.yelp.com/biz/dicrespo-deli-argentino-miami
+Grove Bay Grill;208;183;Bars,Seafood;4.0;3381 Pan American Dr Miami, FL 33133;25.7287665681251;-80.2333700174439;2;https://www.yelp.com/biz/grove-bay-grill-miami-4
+The Crab Stop Seafood Market;209;32;Seafood,Chicken Wings;4.5;10951 NW 27th Ave Miami, FL 33167;25.8743093202709;-80.242433398962;2;https://www.yelp.com/biz/the-crab-stop-seafood-market-miami
+El Divino;210;5;Karaoke,Cuban,Italian;5.0;835 NW 37th Ave Miami, FL 33125;25.7804977841898;-80.2552520111203;2;https://www.yelp.com/biz/el-divino-miami
+Naked Lunch;211;37;Bars,American (New),American (Traditional);4.0;1951 NW 7th Ave Miami, FL 33136;25.7946418;-80.2063493;2;https://www.yelp.com/biz/naked-lunch-miami
+PB Station;212;88;American (New);4.0;121 SE 1st St Miami, FL 33131;25.7732644661779;-80.1913765244718;3;https://www.yelp.com/biz/pb-station-miami
+El Manchego Restaurant;213;4;Spanish,Tapas/Small Plates,Seafood;4.5;2500 SW 107th Ave Miami, FL 33165;25.7458285;-80.3683915;0;https://www.yelp.com/biz/el-manchego-restaurant-miami
+Winewood;214;58;Wine Bars,Tapas Bars,Salad;4.0;7251 Biscayne Blvd Miami, FL 33138;25.841834;-80.1841841;2;https://www.yelp.com/biz/winewood-miami
+Jacalito Taqueria Mexicana;215;399;Mexican;4.0;3622 W Flagler St Miami, FL 33135;25.7717977;-80.2539922;1;https://www.yelp.com/biz/jacalito-taqueria-mexicana-miami
+Farofa;216;59;Steakhouses,Brazilian;4.5;11865 SW 26th St Miami, FL 33175;25.7478589;-80.3883374;1;https://www.yelp.com/biz/farofa-miami
+Brick;217;201;Beer Gardens,Gastropubs,Music Venues;3.5;187 NW 28th St Miami, FL 33127;25.803187;-80.198855;2;https://www.yelp.com/biz/brick-miami-2
+Peruvian Taste Fusion;218;13;Peruvian;4.0;9947 SW 142nd Ave Miami, FL 33186;25.674281;-80.421047;2;https://www.yelp.com/biz/peruvian-taste-fusion-miami-3
+Inari sushi fusion;219;43;Sushi Bars,Japanese,Peruvian;4.5;15672 SW 72nd St Miami, FL 33193;25.698321;-80.446163;2;https://www.yelp.com/biz/inari-sushi-fusion-miami-2
+Monster Bite Food Truck;220;4;Food Trucks,Wraps;3.5;3401 NW 42nd Ave Miami, FL 33142;25.8057063;-80.2633446;1;https://www.yelp.com/biz/monster-bite-food-truck-miami
+Delicatessen La Esperanza;221;60;Spanish;5.0;18509 S Dixie Hwy Miami, FL 33157;25.5968385791083;-80.351754968895;2;https://www.yelp.com/biz/delicatessen-la-esperanza-miami
+Shiraz Bistro & Market;222;55;Persian/Iranian,Mediterranean,Turkish;4.5;9630 SW 77th Ave Miami, FL 33156;25.6803246;-80.3189105;2;https://www.yelp.com/biz/shiraz-bistro-and-market-miami
+Gorditas Mexican Kitchen;223;56;Mexican,Fast Food;4.0;16790 SW 88th St Miami, FL 33196;25.6836500018835;-80.4652431607246;1;https://www.yelp.com/biz/gorditas-mexican-kitchen-miami-2
+Royal Thai Food;224;11;Thai;5.0;9612 Fontainebleau Blvd Miami, FL 33172;25.7746113955554;-80.3503675013781;2;https://www.yelp.com/biz/royal-thai-food-miami-2
+Doggi’s Arepa Bar;225;654;Venezuelan;4.0;1246 SW 22nd St Miami, FL 33145;25.7509798;-80.2154527;2;https://www.yelp.com/biz/doggis-arepa-bar-miami-4
+El Taquito;226;208;Mexican;4.0;3410 Main Hwy Miami, FL 33133;25.727871;-80.2426592;1;https://www.yelp.com/biz/el-taquito-miami
+Chinese Guy;227;148;Chinese,Asian Fusion;4.5;10340 W Flagler St Miami, FL 33174;25.7685801016318;-80.3644025647962;2;https://www.yelp.com/biz/chinese-guy-miami-2
+BurBowl;228;146;Burgers,Salad,Hot Dogs;3.5;117 SE 3rd Ave Miami, FL 33131;25.7732107;-80.1887615;1;https://www.yelp.com/biz/burbowl-miami-2
+La Fragua Restaurant;229;40;Cuban;4.5;7931 NW 2nd St Miami, FL 33126;25.7722327;-80.3247333;2;https://www.yelp.com/biz/la-fragua-restaurant-miami
+Bachour Bakery + Bistro;230;197;Desserts,Bakeries,Breakfast & Brunch;4.5;600 Brickell Ave Miami, FL 33131;25.7675263;-80.1910128;2;https://www.yelp.com/biz/bachour-bakery-bistro-miami-2
+Rock A Bangkok;231;238;Thai;4.5;13718 SW 88th St Miami, FL 33186;25.6844364179994;-80.4178750816147;2;https://www.yelp.com/biz/rock-a-bangkok-miami
+Chayito’s Fritanga;232;64;Latin American,Nicaraguan;4.5;6153 SW 8th St Miami, FL 33144;25.7635729;-80.2955406;1;https://www.yelp.com/biz/chayitos-fritanga-miami
+La Bottega On the Bay;233;84;Italian;4.0;1800 N Bayshore Dr Miami, FL 33132;25.7943088329223;-80.1866052644181;2;https://www.yelp.com/biz/la-bottega-on-the-bay-miami
+La Mar by Gastón Acurio;234;361;Peruvian;4.0;500 Brickell Key Dr Miami, FL 33131;25.7654407159876;-80.1852026674939;3;https://www.yelp.com/biz/la-mar-by-gast%C3%B3n-acurio-miami
+Tap 79;235;150;Gastropubs;4.0;1071 NE 79th St Miami, FL 33138;25.8483198;-80.1751484;2;https://www.yelp.com/biz/tap-79-miami
+El Divino;236;5;Karaoke,Cuban,Italian;5.0;835 NW 37th Ave Miami, FL 33125;25.7804977841898;-80.2552520111203;2;https://www.yelp.com/biz/el-divino-miami
+Alter Restaurant;237;202;American (New);4.0;223 NW 23rd St Miami, FL 33127;25.7996474;-80.1995657;3;https://www.yelp.com/biz/alter-miami-3
+The Habit Burger Grill;238;153;American (Traditional),Burgers;4.0;9971 W Flagler St Miami, FL 33174;25.7689344;-80.3576074;1;https://www.yelp.com/biz/the-habit-burger-grill-miami
+Jamrock Cuisine;239;69;Caribbean,Chinese,Asian Fusion;4.5;12560 SW 88th St Miami, FL 33186;25.6845522989498;-80.3985356472214;1;https://www.yelp.com/biz/jamrock-cuisine-miami-3
+East Thai & Noodle House;240;140;Thai,Noodles;4.0;8384 Bird Rd Miami, FL 33155;25.7331196;-80.3312984;2;https://www.yelp.com/biz/east-thai-and-noodle-house-miami-7
+Food Republic;241;3;Tapas/Small Plates,Tapas Bars,Asian Fusion;4.5;1015 North America Way Miami, FL 33132;25.7787629;-80.1778981;2;https://www.yelp.com/biz/food-republic-miami
+BurBowl;242;146;Burgers,Salad,Hot Dogs;3.5;117 SE 3rd Ave Miami, FL 33131;25.7732107;-80.1887615;1;https://www.yelp.com/biz/burbowl-miami-2
+S & S Diner;243;14;Diners,Breakfast & Brunch;4.0;2699 Biscayne Blvd Miami, FL 33137;25.802693;-80.188792;2;https://www.yelp.com/biz/s-and-s-diner-miami-2
+grown;244;336;Juice Bars & Smoothies,American (Traditional);3.5;8211 S Dixie Hwy Miami, FL 33143;25.6939208959214;-80.3014174682752;2;https://www.yelp.com/biz/grown-miami
+Caffe Lingo;245;32;Coffee & Tea,Sandwiches,Pizza;4.5;777 NW 72nd Ave Miami, FL 33126;25.7777230630418;-80.3101947171966;1;https://www.yelp.com/biz/caffe-lingo-miami
+Tuyo;246;116;American (New),Latin American,Caribbean;4.0;415 NE 2nd Ave Miami, FL 33132;25.778511;-80.190155;4;https://www.yelp.com/biz/tuyo-miami
+Pinchoman;247;49;Burgers,Food Trucks,Sandwiches;4.5;7360 NW 56th St Miami, FL 33166;25.8243848412359;-80.3166675567627;1;https://www.yelp.com/biz/pinchoman-miami
+Milo’s Place;248;5;Lebanese;4.5;16 W Flagler St Miami, FL 33130;25.7739767282558;-80.1940466163952;2;https://www.yelp.com/biz/milos-place-miami
+La Estancia Argentina;249;18;Argentine,Salad,Sandwiches;4.5;1050 NW 14th St Miami, FL 33136;25.7875672838763;-80.2114904299378;2;https://www.yelp.com/biz/la-estancia-argentina-miami-2
+Tacos El Paso;250;13;Mexican;4.5;2200 NW 22nd Ave Miami, FL 33142;25.7973340700547;-80.2316986612317;1;https://www.yelp.com/biz/tacos-el-paso-miami
+Patagonia Home Made Products;251;25;Argentine,Bakeries;4.0;260 Crandon Blvd Miami, FL 33149;25.69620447084;-80.1641149436846;2;https://www.yelp.com/biz/patagonia-home-made-products-miami
+Soyka;252;480;American (Traditional);4.0;5556 NE 4th Ct Miami, FL 33137;25.827053;-80.187326;2;https://www.yelp.com/biz/soyka-miami
+Baires Grill Brickell;253;56;Bars,Argentine,Steakhouses;4.0;1010 S Miami Ave Miami, FL 33130;25.7639386;-80.1934826;2;https://www.yelp.com/biz/baires-grill-brickell-miami-3
+Chinese Guy;254;148;Chinese,Asian Fusion;4.5;10340 W Flagler St Miami, FL 33174;25.7685801016318;-80.3644025647962;2;https://www.yelp.com/biz/chinese-guy-miami-2
+Taqueria Los Chilangos;255;17;Food Trucks,Mexican;4.5;640 NW 12th Ave Miami, FL 33136;25.77998086582;-80.2150079888945;1;https://www.yelp.com/biz/taqueria-los-chilangos-miami
+Bazaar Mar;256;45;Seafood;4.0;1300 S Miami Ave Miami, FL 33130;25.7611801;-80.1935824;3;https://www.yelp.com/biz/bazaar-mar-miami
+Shiraz Bistro & Market;257;55;Persian/Iranian,Mediterranean,Turkish;4.5;9630 SW 77th Ave Miami, FL 33156;25.6803246;-80.3189105;2;https://www.yelp.com/biz/shiraz-bistro-and-market-miami
+Doggi’s Arepa Bar;258;654;Venezuelan;4.0;1246 SW 22nd St Miami, FL 33145;25.7509798;-80.2154527;2;https://www.yelp.com/biz/doggis-arepa-bar-miami-4
+Hole In The Wall;259;224;American (Traditional),Sports Bars,Chicken Wings;4.0;12055 SW 117th Ave Miami, FL 33186;25.6552104912513;-80.3826954304838;2;https://www.yelp.com/biz/hole-in-the-wall-miami-3
+Taqueria Viva México;260;313;Mexican;4.5;502 SW 12th Ave Miami, FL 33130;25.7686015253466;-80.2145662531257;1;https://www.yelp.com/biz/taqueria-viva-m%C3%A9xico-miami-2
+Jacalito Taqueria Mexicana;261;399;Mexican;4.0;3622 W Flagler St Miami, FL 33135;25.7717977;-80.2539922;1;https://www.yelp.com/biz/jacalito-taqueria-mexicana-miami
+Pampanguena;262;29;Filipino;4.5;18623 SW 107th Ave Miami, FL 33157;25.5948550801576;-80.3636441354431;1;https://www.yelp.com/biz/pampanguena-miami
+The River Seafood & Oyster Bar;263;534;Seafood,Latin American;4.0;650 S Miami Ave Miami, FL 33130;25.7674646326774;-80.1934395423279;3;https://www.yelp.com/biz/the-river-seafood-and-oyster-bar-miami
+Ponte Vecchio Ristorante E Pizzeria;264;25;Pizza,Italian,Bars;4.5;2250 Coral Way Miami, FL 33145;25.7504247521623;-80.231198986782;2;https://www.yelp.com/biz/ponte-vecchio-ristorante-e-pizzeria-miami-3
+La Sandwicherie Brickell;265;343;Sandwiches,French,Juice Bars & Smoothies;4.0;34 SW 8th St Miami, FL 33130;25.7663701;-80.1939249;1;https://www.yelp.com/biz/la-sandwicherie-brickell-miami
+Kaori by Walter Martino;266;28;Japanese,Italian;4.0;1250 S Miami Ave Miami, FL 33130;25.7620853;-80.1935657;4;https://www.yelp.com/biz/kaori-by-walter-martino-miami-4
+Inari sushi fusion;267;43;Sushi Bars,Japanese,Peruvian;4.5;15672 SW 72nd St Miami, FL 33193;25.698321;-80.446163;2;https://www.yelp.com/biz/inari-sushi-fusion-miami-2
+Bachour Bakery + Bistro;268;197;Desserts,Bakeries,Breakfast & Brunch;4.5;600 Brickell Ave Miami, FL 33131;25.7675263;-80.1910128;2;https://www.yelp.com/biz/bachour-bakery-bistro-miami-2
+Miami River Cafe;269;30;Mexican;4.0;350 NW 8th Ave Miami, FL 33128;25.7771648;-80.2078652;2;https://www.yelp.com/biz/miami-river-cafe-miami
+Kibbeh Palace;270;24;Lebanese,Food Trucks,Falafel;4.5;2900 Coral Way Miami, FL 33145;25.7499757885149;-80.2408146858215;1;https://www.yelp.com/biz/kibbeh-palace-miami
+El Rincon Asturiano;271;80;Spanish;4.0;225 SW 17th Ave Miami, FL 33135;25.7709619;-80.2225162;2;https://www.yelp.com/biz/el-rincon-asturiano-miami
+Sparky’s Roadside Barbecue;272;465;Barbeque,American (Traditional);4.0;204 NE 1st St Miami, FL 33132;25.7751150948917;-80.1900666313574;2;https://www.yelp.com/biz/sparkys-roadside-barbecue-miami
+Sherwoods Bistro & Bar;273;22;Bars,American (Traditional);4.5;8281 NE 2nd Ave Miami, FL 33138;25.8512659;-80.1925955;2;https://www.yelp.com/biz/sherwoods-bistro-and-bar-miami
+8 1/2 Caffe & Bottega;274;37;Coffee & Tea,Italian,Breakfast & Brunch;4.5;1717 N Bayshore Dr Miami, FL 33132;25.7915375169567;-80.1865287558036;2;https://www.yelp.com/biz/8-1-2-caffe-and-bottega-miami
+Pieology Pizzeria;275;123;Pizza;4.0;10141 W Flagler St Miami, FL 33174;25.768842;-80.3603911;1;https://www.yelp.com/biz/pieology-pizzeria-miami
+Arabian Knife - Closed;276;43;Food Trucks,Middle Eastern,Mediterranean;4.5;9790 SW 40th St Miami, FL 33165;25.7321633;-80.3531505;1;https://www.yelp.com/biz/arabian-knife-closed-miami
+Crab Stop Of Miami;277;16;Seafood;4.0;4801 NW 27th Ave Miami, FL 33142;25.8184734691054;-80.2403037250042;2;https://www.yelp.com/biz/crab-stop-of-miami-miami
+Yuzi Yakitori;278;10;Japanese,Sushi Bars,Tapas/Small Plates;5.0;1104 S Miami Ave Miami, FL 33130;25.7632095;-80.1931713;3;https://www.yelp.com/biz/yuzi-yakitori-miami-6
+The Gang Miami - Temp. CLOSED;279;197;Asian Fusion,Thai;4.0;3500 N Miami Ave Miami, FL 33127;25.809795;-80.195588;2;https://www.yelp.com/biz/the-gang-miami-miami
+Mina Bistro;280;18;Cafes,Salad,Soup;5.0;63 NW 9th St Miami, FL 33136;25.7829345;-80.1949865;1;https://www.yelp.com/biz/mina-bistro-miami
+Lola’s Gourmet;281;59;Spanish;4.5;5597 SW 8th St Miami, FL 33134;25.7636791;-80.285552;2;https://www.yelp.com/biz/lolas-gourmet-miami
+Seven Seas Restaurant & Fish Market;282;57;Seafood,Dominican,Mediterranean;4.5;5205 NE 2nd Ave Miami, FL 33137;25.8235473;-80.1917823;2;https://www.yelp.com/biz/seven-seas-restaurant-and-fish-market-miami-2
+Soya E Pomodoro;283;240;Italian,Salad;4.0;120 NE 1st St Miami, FL 33132;25.774765;-80.191442;2;https://www.yelp.com/biz/soya-e-pomodoro-miami
+Sweet Dogs;284;539;Hot Dogs,Desserts,American (Traditional);4.5;4749 SW 8th St Miami, FL 33134;25.7643619;-80.2726478;1;https://www.yelp.com/biz/sweet-dogs-miami
+Phuc Yea;285;136;Vietnamese,Cajun/Creole;3.5;7100 Biscayne Blvd Miami, FL 33138;25.8404198416749;-80.1845462992787;2;https://www.yelp.com/biz/phuc-yea-miami-2
+Pueblito Viejo;286;115;Latin American;4.0;8285 Bird Rd Miami, FL 33155;25.733579;-80.329196;2;https://www.yelp.com/biz/pueblito-viejo-miami
+Casa Juan Restaurant;287;111;Latin American,Cuban;3.5;5755 NW 7th St Miami, FL 33126;25.7790368;-80.2904881;2;https://www.yelp.com/biz/casa-juan-restaurant-miami
+Snack Hunter;288;12;Cuban,Juice Bars & Smoothies,Sandwiches;4.5;3799 NW 7th St Miami, FL 33126;25.7789727;-80.2580369;1;https://www.yelp.com/biz/snack-hunter-miami
+Chefs Of The Caribbean;289;9;Caribbean;4.0;Miami International Airport Miami, FL 33122;25.795865;-80.2870457;2;https://www.yelp.com/biz/chefs-of-the-caribbean-miami
+CVI.CHE 105;290;1639;Latin American,Peruvian,Seafood;4.0;105 NE 3rd Ave Miami, FL 33132;25.775383;-80.1884004;2;https://www.yelp.com/biz/cvi-che-105-miami
+Chayito’s Fritanga;291;64;Latin American,Nicaraguan;4.5;6153 SW 8th St Miami, FL 33144;25.7635729;-80.2955406;1;https://www.yelp.com/biz/chayitos-fritanga-miami
+Wynwood 5th Gyros;292;14;Greek,Mediterranean,Bars;4.5;2451 NW 5th Ave Miami, FL 33127;25.8005127;-80.2028067;2;https://www.yelp.com/biz/wynwood-5th-gyros-miami-3
+Spasso;293;51;Italian,Salad,Pizza;4.0;3540 Main Hwy Miami, FL 33133;25.725139;-80.245473;2;https://www.yelp.com/biz/spasso-miami
+The Butcher Shop;294;671;Butcher,Bars,American (New);3.5;165 NW 23rd St Miami, FL 33127;25.7993171463779;-80.1980936359081;2;https://www.yelp.com/biz/the-butcher-shop-miami
+Farfalle;295;75;Italian,Pizza,Soup;4.5;333 SE 2nd St Miami, FL 33131;25.772911;-80.1885995;2;https://www.yelp.com/biz/farfalle-miami
+Gauchos Argentinean Gourmet Market;296;112;Argentine,Bakeries,Meat Shops;4.0;14291 SW 42nd St Miami, FL 33175;25.7289147;-80.4253573;2;https://www.yelp.com/biz/gauchos-argentinean-gourmet-market-miami
+Old Lisbon Restaurants - Coral Way;297;158;Portuguese,Seafood;4.0;1698 SW 22nd St Miami, FL 33145;25.7507158;-80.2218662;2;https://www.yelp.com/biz/old-lisbon-restaurants-coral-way-miami-2
+Mr Good Stuff;298;36;Food Stands,Caterers;4.5;1750 N Bayshore Dr Miami, FL 33132;25.7700762235099;-80.1678598932678;1;https://www.yelp.com/biz/mr-good-stuff-miami
+Jack’s Miami;299;76;Italian,American (Traditional);4.0;2426 NE 2nd Ave Miami, FL 33137;25.800447;-80.191184;2;https://www.yelp.com/biz/jacks-miami-miami-2
+Della Test Kitchen;300;183;Vegetarian,Juice Bars & Smoothies,Fast Food;4.5;56 NW 29th St Miami, FL 33127;25.803629;-80.19658;2;https://www.yelp.com/biz/della-test-kitchen-miami
+East Thai and Noodle House;301;27;Noodles,Thai,Desserts;4.0;5904 S Dixie Hwy Miami, FL 33143;25.7040414;-80.2896061;2;https://www.yelp.com/biz/east-thai-and-noodle-house-miami-8
+Delicatessen La Esperanza;302;60;Spanish;5.0;18509 S Dixie Hwy Miami, FL 33157;25.5968385791083;-80.351754968895;2;https://www.yelp.com/biz/delicatessen-la-esperanza-miami
+Empanada Harry’s Bakery and Cafe;303;16;Venezuelan,Bakeries,Breakfast & Brunch;4.5;4009 SW 152nd Ave Miami, FL 33185;25.7296666237952;-80.4392927885056;1;https://www.yelp.com/biz/empanada-harrys-bakery-and-cafe-miami
+La Terraza;304;26;Sushi Bars,Beer Bar,American (New);4.5;350 NE 24th St Miami, FL 33137;25.8000517;-80.1886459;2;https://www.yelp.com/biz/la-terraza-miami
+Charcoal Garden Bar & Grill;305;15;American (Traditional),Bars,Seafood;4.5;82 NW 29th St Miami, FL 33127;25.803708689235;-80.1966323330998;3;https://www.yelp.com/biz/charcoal-garden-bar-and-grill-miami
+The Habit Burger Grill;306;153;American (Traditional),Burgers;4.0;9971 W Flagler St Miami, FL 33174;25.7689344;-80.3576074;1;https://www.yelp.com/biz/the-habit-burger-grill-miami
+El Jaleo De La Ocho;307;8;Tapas Bars,Latin American,Steakhouses;4.0;1644 SW 8th St Miami, FL 33135;25.765415;-80.2215271;2;https://www.yelp.com/biz/el-jaleo-de-la-ocho-miami-2
+Kraken Crudo;308;8;Japanese,Sushi Bars,Asian Fusion;4.5;3525 NE 2nd Ave Miami, FL 33137;25.8096232;-80.1908789;2;https://www.yelp.com/biz/kraken-crudo-miami
+Manger Creole;309;40;Cajun/Creole,Haitian;4.5;1051 NW 14th St Miami, FL 33136;25.7884868282579;-80.2120681107044;1;https://www.yelp.com/biz/manger-creole-miami
+SoCal Cantina;310;25;Cocktail Bars,Tacos,Vegetarian;4.5;1000 S Miami Ave Miami, FL 33130;25.7642846;-80.1935585;2;https://www.yelp.com/biz/socal-cantina-miami
+Hereford Grill;311;62;Steakhouses,Venezuelan;4.0;782 NW 42nd Ave Miami, FL 33126;25.7793492152395;-80.2642918759186;3;https://www.yelp.com/biz/hereford-grill-miami
+Lekoke Wines & Bites;312;91;Wine Bars,Pizza,Sandwiches;4.5;1225 SW 8th St Miami, FL 33135;25.7658566;-80.2149795;2;https://www.yelp.com/biz/lekoke-wines-and-bites-miami
+Moshi Moshi;313;259;Sushi Bars,Japanese;4.0;7232 Biscayne Blvd Miami, FL 33138;25.8418560773134;-80.1844487339258;2;https://www.yelp.com/biz/moshi-moshi-miami
+Jamrock Cuisine;314;69;Caribbean,Chinese,Asian Fusion;4.5;12560 SW 88th St Miami, FL 33186;25.6845522989498;-80.3985356472214;1;https://www.yelp.com/biz/jamrock-cuisine-miami-3
+The Fish House;315;316;Seafood,Jazz & Blues,Cajun/Creole;4.0;10000 SW 56th St Miami, FL 33165;25.7156301778767;-80.3570798761031;2;https://www.yelp.com/biz/the-fish-house-miami-4
+specialTEA Lounge;316;469;Coffee & Tea,Tea Rooms,Sandwiches;4.5;10766 SW 24th St Miami, FL 33165;25.746074;-80.369081;1;https://www.yelp.com/biz/specialtea-lounge-miami
+Nikko By Sunshine;317;236;Asian Fusion,Thai,Japanese;4.0;186 SE 12th Ter Miami, FL 33131;25.7614933640083;-80.190445725752;2;https://www.yelp.com/biz/nikko-by-sunshine-miami
+Café Croissant;318;47;Cafes,Bakeries,French;4.5;1684 Coral Way Miami, FL 33145;25.7507163387397;-80.2216886515091;1;https://www.yelp.com/biz/caf%C3%A9-croissant-miami
+Cane Fire Grille;319;20;Latin American;3.5;1201 NW LeJeune Rd Miami, FL 33126;25.784118754405;-80.2632259479674;2;https://www.yelp.com/biz/cane-fire-grille-miami
+El Conuquito Restaurant;320;39;Dominican,Latin American;4.5;1099 NW 119th St Miami, FL 33168;25.88382;-80.216464;1;https://www.yelp.com/biz/el-conuquito-restaurant-miami
+Fi’lia;321;106;Italian,Breakfast & Brunch,Pizza;3.5;1300 S Miami Ave Miami, FL 33130;25.7611801;-80.1935824;3;https://www.yelp.com/biz/filia-miami-2
+Delirio Peruvian Fusion;322;13;Peruvian,Latin American;4.5;140 SE 1st Ave Miami, FL 33131;25.7729987;-80.1920904;2;https://www.yelp.com/biz/delirio-peruvian-fusion-miami-5
+Ventanas Restaurant Bar & Lounge;323;8;Latin American,Bars;4.5;3861 SW 40th St Miami, FL 33146;25.7349585;-80.2573934;2;https://www.yelp.com/biz/ventanas-restaurant-bar-and-lounge-miami
+Organic Bites;324;274;Comfort Food,Breakfast & Brunch,Juice Bars & Smoothies;4.0;7010 Biscayne Blvd Miami, FL 33138;25.8397405617044;-80.1844477116394;2;https://www.yelp.com/biz/organic-bites-miami
+Ku-Va;325;176;Cuban;3.5;2100 NW 42nd Ave Miami, FL 33142;25.7977274609113;-80.2741813659668;2;https://www.yelp.com/biz/ku-va-miami
+Little Louies Italian Kitchen;326;235;Pizza,Italian,Mediterranean;4.0;4254 SW 152nd Ave Miami, FL 33185;25.727231202058;-80.4411565217041;2;https://www.yelp.com/biz/little-louies-italian-kitchen-miami
+Café Bea;327;97;Cafes,Coffee & Tea;4.5;2753 SW 142nd Ave Miami, FL 33175;25.7416994;-80.4241583;1;https://www.yelp.com/biz/caf%C3%A9-bea-miami
+Kon Chau Restaurant;328;417;Dim Sum;4.0;8376 SW 40th St Miami, FL 33155;25.7324881946529;-80.3311729431153;2;https://www.yelp.com/biz/kon-chau-restaurant-miami
+Mi Rancho Mexican Grill;329;28;Mexican;4.0;2157 W Flagler St Miami, FL 33135;25.772778;-80.2301857;2;https://www.yelp.com/biz/mi-rancho-mexican-grill-miami
+Maria’s Greek Restaurant;330;192;Greek,Mediterranean;4.0;2359 Coral Way Miami, FL 33145;25.7507136;-80.2332651;2;https://www.yelp.com/biz/marias-greek-restaurant-miami-3
+Le Café de Louison;331;19;Creperies;5.0;860 NE 79th St Miami, FL 33138;25.847737;-80.1788265;2;https://www.yelp.com/biz/le-caf%C3%A9-de-louison-miami
+Jamon Iberico Pata Negra Restaurant Tapas & Wine Bar;332;180;Spanish,Tapas Bars;4.5;10 SW S River Dr Miami, FL 33130;25.7735180169408;-80.201877932016;2;https://www.yelp.com/biz/jamon-iberico-pata-negra-restaurant-tapas-and-wine-bar-miami
+El Manchego Restaurant;333;4;Spanish,Tapas/Small Plates,Seafood;4.5;2500 SW 107th Ave Miami, FL 33165;25.7458285;-80.3683915;0;https://www.yelp.com/biz/el-manchego-restaurant-miami
+La Colina Comidas Rapidas;334;51;Fast Food,Colombian,Venezuelan;4.5;11200 W Flagler St Miami, FL 33174;25.767946;-80.377538;1;https://www.yelp.com/biz/la-colina-comidas-rapidas-miami-2
+Mondu;335;24;Venezuelan,Burgers,Fast Food;4.5;236 NE 1st Ave Miami, FL 33132;25.7767907798323;-80.1921392791952;1;https://www.yelp.com/biz/mondu-miami-2
+El Rinconcito El Chele;336;86;Cuban;4.0;3791 Bird Rd Miami, FL 33146;25.7351794;-80.2559026;1;https://www.yelp.com/biz/el-rinconcito-el-chele-miami
+Graziano’s Restaurant;337;188;Steakhouses,Argentine;4.0;9227 Bird Rd Miami, FL 33165;25.733495158912;-80.3444845666565;3;https://www.yelp.com/biz/grazianos-restaurant-miami
+Peruvian Taste Fusion;338;13;Peruvian;4.0;9947 SW 142nd Ave Miami, FL 33186;25.674281;-80.421047;2;https://www.yelp.com/biz/peruvian-taste-fusion-miami-3
+Blue water;339;8;Italian;4.5;100 Chopin Plz Miami, FL 33131;25.772402;-80.185317;2;https://www.yelp.com/biz/blue-water-miami
+Berries In the Grove;340;502;American (New),Breakfast & Brunch,Pizza;3.5;2884 SW 27th Ave Miami, FL 33133;25.7382732;-80.2379399;2;https://www.yelp.com/biz/berries-in-the-grove-miami
+Tacos El Carnal;341;153;Mexican;4.0;2601 W Flagler St Miami, FL 33135;25.7725942507471;-80.2383141964674;1;https://www.yelp.com/biz/tacos-el-carnal-miami
+Mexico 1810;342;12;Mexican;4.5;1778 NW 36th St Miami, FL 33142;25.809228;-80.225497;2;https://www.yelp.com/biz/mexico-1810-miami
+Sushi Corner;343;172;Sushi Bars;4.5;15066 SW 56th St Miami, FL 33185;25.7132367445313;-80.4377210951065;1;https://www.yelp.com/biz/sushi-corner-miami
+I Don’t Give a Flying Frita;344;5;Food Trucks,Burgers,Sandwiches;5.0;6505 Bird Rd Miami, FL 33155;25.73379;-80.30101;1;https://www.yelp.com/biz/i-dont-give-a-flying-frita-miami
+The Anderson;345;100;Cocktail Bars,American (Traditional),Music Venues;4.0;709 NE 79th St Miami, FL 33138;25.8480887;-80.1822517;2;https://www.yelp.com/biz/the-anderson-miami
+Potatoes Plus;346;15;Restaurants,Specialty Food;5.0;7795 W Flagler St Miami, FL 33144;25.7726793;-80.3229303;1;https://www.yelp.com/biz/potatoes-plus-miami
+Coyo Taco;347;864;Mexican;3.5;2300 NW 2nd Ave Miami, FL 33127;25.7996879220934;-80.1991713585798;2;https://www.yelp.com/biz/coyo-taco-miami
+Casabe 305 Bistro;348;94;Caribbean,Venezuelan,Breakfast & Brunch;4.0;1762 Coral Way Miami, FL 33145;25.7507579;-80.2233183;2;https://www.yelp.com/biz/casabe-305-bistro-miami
+Chef Allen’s Farm to Table;349;5;Vegetarian,Food Stands;5.0;263 NE 13th St Miami, FL 33132;25.7869967159839;-80.1891533285379;3;https://www.yelp.com/biz/chef-allens-farm-to-table-miami
+Secreto Restaurant;350;151;Italian;4.0;11652 N Kendall Dr Miami, FL 33176;25.6852061606135;-80.3838493881134;2;https://www.yelp.com/biz/secreto-restaurant-miami
+Downtown Bistro;351;82;French,Wine Bars,Mediterranean;4.5;114 SE 1st St Miami, FL 33131;25.7733049;-80.1913139;2;https://www.yelp.com/biz/downtown-bistro-miami-2
+Heads or Tails Seafood;352;27;Seafood Markets,Seafood;4.0;3621 NW 54th St Miami, FL 33142;25.823728460149;-80.2562765405731;2;https://www.yelp.com/biz/heads-or-tails-seafood-miami
+Don Toston Restaurant;353;38;Cuban;4.5;2234 NW 17th Ave Miami, FL 33142;25.7981821;-80.2234924;1;https://www.yelp.com/biz/don-toston-restaurant-miami
+La Fogata;354;49;Latin American,Barbeque;4.0;8239 W Flagler St Miami, FL 33144;25.7708448008087;-80.3292544618408;2;https://www.yelp.com/biz/la-fogata-miami-4
+Cebiche Station by Francesco;355;16;Peruvian;4.5;10701 NW 58th St Miami, FL 33178;25.8266516323567;-80.3703017938095;2;https://www.yelp.com/biz/cebiche-station-by-francesco-miami
+Bocce;356;269;Italian,Bars,Pizza;4.0;3252 NE 1st Ave Miami, FL 33137;25.8076219225945;-80.1930984165329;3;https://www.yelp.com/biz/bocce-miami
+Fritanga Cana Brava;357;66;Latin American,Nicaraguan;4.5;2795 NW 7th St Miami, FL 33125;25.7796443;-80.2407032;1;https://www.yelp.com/biz/fritanga-cana-brava-miami-5
+Big Easy Wine Bar & Grill;358;92;South African,Wine Bars;4.0;701 S Miami Ave Miami, FL 33130;25.7671674;-80.1930873;2;https://www.yelp.com/biz/big-easy-wine-bar-and-grill-miami
+Asian Thai Kitchen;359;118;Thai;4.5;1981 SW 8th St Miami, FL 33135;25.7655824188881;-80.2281771104518;2;https://www.yelp.com/biz/asian-thai-kitchen-miami-3
+Plate;360;147;Sandwiches,American (New),Juice Bars & Smoothies;4.5;2105 Coral Way Miami, FL 33145;25.7509121;-80.2287037;1;https://www.yelp.com/biz/plate-miami
+Happy Wine in the Grove;361;173;Tapas Bars,Tapas/Small Plates,Wine Bars;4.0;2833 Bird Ave Miami, FL 33133;25.735534;-80.239147;2;https://www.yelp.com/biz/happy-wine-in-the-grove-miami
+PM Fish & Steak House;362;274;Argentine,Seafood,Steakhouses;4.0;1453 S Miami Ave Miami, FL 33130;25.7590504;-80.1936179;3;https://www.yelp.com/biz/pm-fish-and-steak-house-miami
+Black Market Miami;363;24;Sports Bars,American (New);3.5;168 SE 1st St Miami, FL 33131;25.7732501;-80.1905033;2;https://www.yelp.com/biz/black-market-miami-miami
+Brick;364;201;Beer Gardens,Gastropubs,Music Venues;3.5;187 NW 28th St Miami, FL 33127;25.803187;-80.198855;2;https://www.yelp.com/biz/brick-miami-2
+Totoritas Restaurant;365;53;Peruvian;4.0;7367 NW 36th St Miami, FL 33166;25.810489;-80.316178;2;https://www.yelp.com/biz/totoritas-restaurant-miami
+94th Aero Squadron;366;245;American (New),Breakfast & Brunch;3.5;1395 NW 57th Ave Miami, FL 33126;25.7850675;-80.2875254;2;https://www.yelp.com/biz/94th-aero-squadron-miami
+Ceviche Arigato;367;11;Japanese,Peruvian,Seafood;4.5;11401 NW 12th St Miami, FL 33172;25.7877597;-80.3807017;2;https://www.yelp.com/biz/ceviche-arigato-miami
+Lobster Bar Sea Grille;368;25;American (New),Seafood,Steakhouses;4.5;404 Washington Ave Miami Beach, FL 33139;25.7739991;-80.1346717;3;https://www.yelp.com/biz/lobster-bar-sea-grille-miami-beach
+Graziano’s Restaurant;369;112;Argentine;4.0;177 SW 7th St Miami, FL 33130;25.7674916;-80.1969625;2;https://www.yelp.com/biz/grazianos-restaurant-miami-3
+Wolfgang’s Steakhouse;370;149;Steakhouses,American (Traditional);4.0;315 S Biscayne Blvd Miami, FL 33132;25.7712337578869;-80.1868978130245;3;https://www.yelp.com/biz/wolfgangs-steakhouse-miami
+B & M Market & Rhoti Shop;371;46;Caribbean,Halal,Indian;4.5;219 NE 79th St Miami, FL 33138;25.847781;-80.1924482;1;https://www.yelp.com/biz/b-and-m-market-and-rhoti-shop-miami
+El Palacio De Los Frijoles;372;19;Colombian;5.0;15512 SW 72nd St Miami, FL 33193;25.6988644;-80.444634;3;https://www.yelp.com/biz/el-palacio-de-los-frijoles-miami
+Fireman Derek’s World Famous Pies;373;335;Desserts,Bakeries,Cafes;4.5;2818 N Miami Ave Miami, FL 33127;25.8034052;-80.1952659;1;https://www.yelp.com/biz/fireman-dereks-world-famous-pies-miami-2
+Freshko Gourmet;374;223;Cafes,Breakfast & Brunch,Sandwiches;4.0;228 SE 1st St Miami, FL 33131;25.7734233;-80.1896221;1;https://www.yelp.com/biz/freshko-gourmet-miami-2
+Delirio Fresh;375;212;Salad,Juice Bars & Smoothies,Gluten-Free;4.5;2475 NW 95th Ave Miami, FL 33172;25.796509;-80.349141;2;https://www.yelp.com/biz/delirio-fresh-miami
+107 Coffee & Dessert;376;143;Desserts,Coffee & Tea,Asian Fusion;4.5;1679 SW 107th Ave Miami, FL 33165;25.7528080559339;-80.3671953593857;2;https://www.yelp.com/biz/107-coffee-and-dessert-miami-2
+Xixón Spanish Restaurant;377;323;Spanish,Tapas Bars,Tapas/Small Plates;4.0;2101 SW 22nd St Miami, FL 33145;25.7507478;-80.228394;2;https://www.yelp.com/biz/xix%C3%B3n-spanish-restaurant-miami
+Asian Thai Kitchen;378;127;Thai,Asian Fusion,Sushi Bars;4.0;3135 Grand Ave Miami, FL 33133;25.7280635;-80.244032;2;https://www.yelp.com/biz/asian-thai-kitchen-miami
+El Pollo Inka;379;158;Peruvian,Seafood;4.0;7285 NW 36th St Miami, FL 33166;25.8094459;-80.3155666;2;https://www.yelp.com/biz/el-pollo-inka-miami-3
+109 Burger Joint;380;187;American (Traditional),Burgers;3.5;646 SW 109th Ave Miami, FL 33174;25.76277;-80.3727082;2;https://www.yelp.com/biz/109-burger-joint-miami
+Gastropod;381;76;Latin American,Food Trucks;4.0;168 NW 26th St Miami, FL 33127;25.8012724;-80.1984753;1;https://www.yelp.com/biz/gastropod-miami
+Portobello Ristorante;382;62;Italian;4.5;2841 Coral Way Miami, FL 33145;25.7503702;-80.2401938;2;https://www.yelp.com/biz/portobello-ristorante-miami
+MLK Restaurant;383;21;Soul Food;4.5;2467 NW 62nd St Miami, FL 33147;25.831559;-80.238595;1;https://www.yelp.com/biz/mlk-restaurant-miami
+La Petite Maison;384;21;French,Salad;4.0;1300 Brickell Bay Dr Miami, FL 33131;25.760386;-80.190344;4;https://www.yelp.com/biz/la-petite-maison-miami
+15th & Vine Kitchen and Bar;385;125;American (New),Bars;3.5;485 Brickell Ave Miami, FL 33131;25.768741;-80.189519;2;https://www.yelp.com/biz/15th-and-vine-kitchen-and-bar-miami
+Gigi;386;972;Asian Fusion,Sandwiches;3.5;3470 N Miami Ave Miami, FL 33127;25.8095741;-80.195526;2;https://www.yelp.com/biz/gigi-miami
+Rice House of Kabob;387;153;Middle Eastern,Persian/Iranian,Mediterranean;4.0;1450 NW 87th Ave Miami, FL 33172;25.787298511921;-80.3373952876227;2;https://www.yelp.com/biz/rice-house-of-kabob-miami
+Salsa Fiesta;388;39;Mexican;3.5;1050 NW 14th St Miami, FL 33136;25.78727;-80.212239;1;https://www.yelp.com/biz/salsa-fiesta-miami-2
+Elia Gourmet;389;106;Mediterranean,Greek,Vegetarian;4.0;900 Biscayne Blvd Miami, FL 33132;25.7838718834981;-80.1900142625656;2;https://www.yelp.com/biz/elia-gourmet-miami-2
+Luna Pasta;390;14;Restaurants,Pasta Shops;4.5;6815 Biscayne Blvd Miami, FL 33138;25.838509;-80.1840391;1;https://www.yelp.com/biz/luna-pasta-miami-2
+PDQ Miami: Flagler Street;391;190;Salad,Sandwiches,American (Traditional);4.5;10121 W Flagler St Miami, FL 33174;25.769642412045;-80.3598993699753;1;https://www.yelp.com/biz/pdq-miami-flagler-street-miami
+Farfalle;392;75;Italian,Pizza,Soup;4.5;333 SE 2nd St Miami, FL 33131;25.772911;-80.1885995;2;https://www.yelp.com/biz/farfalle-miami
+Ceviches by Divino;393;11;Peruvian,Gastropubs,Tapas Bars;4.5;46 Curtiss Pkwy Miami Springs, FL 33166;25.8218692203356;-80.2812635154137;2;https://www.yelp.com/biz/ceviches-by-divino-miami-springs
+Sukhothai Sushi & Asian Fusion;394;59;Sushi Bars,Asian Fusion;4.0;1570 Alton Rd Miami, FL 33139;25.7886653;-80.1414266;2;https://www.yelp.com/biz/sukhothai-sushi-and-asian-fusion-miami
+SUKHOTHAI Sushi + Asian Food;395;77;Sushi Bars,Asian Fusion;4.0;11735 SW 147th Ave Miami, FL 33196;25.6581592;-80.4305811;2;https://www.yelp.com/biz/sukhothai-sushi-asian-food-miami
+Two Pizza Guys Italian Restaurant;396;61;Italian,Pizza;4.5;15420 SW 136th St Miami, FL 33196;25.6399295342117;-80.4445971921086;2;https://www.yelp.com/biz/two-pizza-guys-italian-restaurant-miami
+Brasserie Brickell Key;397;24;Italian,Wine Bars,Diners;4.5;605 Brickell Key Dr Miami, FL 33131;25.7671079;-80.1852798;2;https://www.yelp.com/biz/brasserie-brickell-key-miami-2
+Joe’s Famous Chicken and Waffles;398;16;Waffles,Comfort Food,American (New);4.5;413 15th St Miami Beach, FL 33139;25.7877275;-80.1323263;1;https://www.yelp.com/biz/joes-famous-chicken-and-waffles-miami-beach
+Bangkok City Thai & Seafood Restaurant;399;198;Thai;4.0;7378 Bird Rd Miami, FL 33155;25.7330144;-80.314153;2;https://www.yelp.com/biz/bangkok-city-thai-and-seafood-restaurant-miami
+Freshko Gourmet;400;223;Cafes,Breakfast & Brunch,Sandwiches;4.0;228 SE 1st St Miami, FL 33131;25.7734233;-80.1896221;1;https://www.yelp.com/biz/freshko-gourmet-miami-2
+Le Café de Louison;401;19;Creperies;5.0;860 NE 79th St Miami, FL 33138;25.847737;-80.1788265;2;https://www.yelp.com/biz/le-caf%C3%A9-de-louison-miami
+Che Milanesa;402;45;Food Trucks,Argentine;4.5;12005 SW 129th Ct Miami, FL 33186;25.6564156251194;-80.4044390522068;1;https://www.yelp.com/biz/che-milanesa-miami
+Café Bea;403;97;Cafes,Coffee & Tea;4.5;2753 SW 142nd Ave Miami, FL 33175;25.7416994;-80.4241583;1;https://www.yelp.com/biz/caf%C3%A9-bea-miami
+Grill 305;404;18;American (Traditional);3.0;3974 NW South River Dr Miami, FL 33142;25.8066981012141;-80.261592989341;2;https://www.yelp.com/biz/grill-305-miami
+94th Aero Squadron;405;245;American (New),Breakfast & Brunch;3.5;1395 NW 57th Ave Miami, FL 33126;25.7850675;-80.2875254;2;https://www.yelp.com/biz/94th-aero-squadron-miami
+Spasso;406;51;Italian,Salad,Pizza;4.0;3540 Main Hwy Miami, FL 33133;25.725139;-80.245473;2;https://www.yelp.com/biz/spasso-miami
+Elia Gourmet;407;106;Mediterranean,Greek,Vegetarian;4.0;900 Biscayne Blvd Miami, FL 33132;25.7838718834981;-80.1900142625656;2;https://www.yelp.com/biz/elia-gourmet-miami-2
+Gastropod;408;76;Latin American,Food Trucks;4.0;168 NW 26th St Miami, FL 33127;25.8012724;-80.1984753;1;https://www.yelp.com/biz/gastropod-miami
+Garcia’s Seafood Grille & Fish Market;409;630;Seafood;3.5;398 NW North River Dr Miami, FL 33128;25.7773821;-80.2037419;2;https://www.yelp.com/biz/garcias-seafood-grille-and-fish-market-miami
+East Thai and Noodle House;410;27;Noodles,Thai,Desserts;4.0;5904 S Dixie Hwy Miami, FL 33143;25.7040414;-80.2896061;2;https://www.yelp.com/biz/east-thai-and-noodle-house-miami-8
+Casabe 305 Bistro;411;94;Caribbean,Venezuelan,Breakfast & Brunch;4.0;1762 Coral Way Miami, FL 33145;25.7507579;-80.2233183;2;https://www.yelp.com/biz/casabe-305-bistro-miami
+MOMI Ramen;412;495;Asian Fusion,Ramen;3.0;5 SW 11th St Miami, FL 33130;25.7635371;-80.193277;2;https://www.yelp.com/biz/momi-ramen-miami
+Asian Thai Kitchen;413;127;Thai,Asian Fusion,Sushi Bars;4.0;3135 Grand Ave Miami, FL 33133;25.7280635;-80.244032;2;https://www.yelp.com/biz/asian-thai-kitchen-miami
+El Rancho Grande Mexican Restaurant Kendall;414;418;Mexican,Desserts,Breakfast & Brunch;4.0;12881 N Kendall Dr Miami, FL 33183;25.6866320810011;-80.4025708288361;2;https://www.yelp.com/biz/el-rancho-grande-mexican-restaurant-kendall-miami
+El Bajareque Restaurant;415;124;Latin American,Puerto Rican,Breakfast & Brunch;4.0;278 NW 36th St Miami, FL 33127;25.8106484091233;-80.2009201693115;1;https://www.yelp.com/biz/el-bajareque-restaurant-miami
+Off The Grille Kendall;416;287;Latin American,American (New);4.0;12578 SW 88th St Miami, FL 33186;25.6844316707114;-80.3987487957702;2;https://www.yelp.com/biz/off-the-grille-kendall-miami
+Lekoke Wines & Bites;417;91;Wine Bars,Pizza,Sandwiches;4.5;1225 SW 8th St Miami, FL 33135;25.7658566;-80.2149795;2;https://www.yelp.com/biz/lekoke-wines-and-bites-miami
+Rice House of Kabob;418;153;Middle Eastern,Persian/Iranian,Mediterranean;4.0;1450 NW 87th Ave Miami, FL 33172;25.787298511921;-80.3373952876227;2;https://www.yelp.com/biz/rice-house-of-kabob-miami
+La Fogata;419;49;Latin American,Barbeque;4.0;8239 W Flagler St Miami, FL 33144;25.7708448008087;-80.3292544618408;2;https://www.yelp.com/biz/la-fogata-miami-4
+Sushi 2 Mee Coral Way;420;195;Sushi Bars,Desserts,Japanese;4.0;11865 SW 26th St Miami, FL 33175;25.7478589;-80.3883374;2;https://www.yelp.com/biz/sushi-2-mee-coral-way-miami-3
+Ken’s Healthy Delights;421;42;Juice Bars & Smoothies,Bagels,Creperies;4.5;8422 Mills Dr Miami, FL 33183;25.6888599280073;-80.3878500312567;1;https://www.yelp.com/biz/kens-healthy-delights-miami
+Black Eye Pig BBQ;422;4;Barbeque;5.0;500 Mokena Dr Miami, FL 33166;25.811646;-80.274539;0;https://www.yelp.com/biz/black-eye-pig-bbq-miami
+Michi’s;423;44;Latin American,Pizza,Breakfast & Brunch;3.5;10437 NW 41st St Doral, FL 33178;25.8121178;-80.36651;2;https://www.yelp.com/biz/michis-doral
+Spaghettino;424;207;Italian,Cocktail Bars;4.0;947 Brickell Ave Miami, FL 33131;25.7645803;-80.1908431;2;https://www.yelp.com/biz/spaghettino-miami
+Prieto’s Restaurant;425;11;American (New),Latin American;4.0;1000 NW 42nd Ave Miami, FL 33126;25.7817163;-80.2649597;2;https://www.yelp.com/biz/prietos-restaurant-miami-2
+Grill 305;426;18;American (Traditional);3.0;3974 NW South River Dr Miami, FL 33142;25.8066981012141;-80.261592989341;2;https://www.yelp.com/biz/grill-305-miami
+Artesanos;427;23;Pizza,Italian,Ice Cream & Frozen Yogurt;4.5;8565 SW 24th St Miami, FL 33155;25.7482163;-80.3328724;2;https://www.yelp.com/biz/artesanos-miami-2
+Harry’s Pizzeria - Downtown Dadeland;428;16;Pizza,Italian,Salad;4.0;8975 SW 72nd Pl Kendall, FL 33156;25.6869935;-80.3127166;2;https://www.yelp.com/biz/harrys-pizzeria-downtown-dadeland-kendall-2
+La Criollita Cafeteria;429;17;Sandwiches;4.0;3701 NW 79th St Miami, FL 33147;25.8458663;-80.2583808;1;https://www.yelp.com/biz/la-criollita-cafeteria-miami
+Gorditas Mexican Kitchen;430;56;Mexican,Fast Food;4.0;16790 SW 88th St Miami, FL 33196;25.6836500018835;-80.4652431607246;1;https://www.yelp.com/biz/gorditas-mexican-kitchen-miami-2
+El Cielo by Juan Manuel Barrientos;431;85;Colombian,American (New),Desserts;4.0;31 SE 5th St Miami, FL 33131;25.7696384;-80.1919747;4;https://www.yelp.com/biz/el-cielo-by-juan-manuel-barrientos-miami
+Off The Grille Kendall;432;287;Latin American,American (New);4.0;12578 SW 88th St Miami, FL 33186;25.6844316707114;-80.3987487957702;2;https://www.yelp.com/biz/off-the-grille-kendall-miami
+Giardino Gourmet Salads;433;48;Salad;4.0;5787 NW 7th St Miami, FL 33126;25.778637316769;-80.2908798037116;2;https://www.yelp.com/biz/giardino-gourmet-salads-miami-6
+LaMuse Cafe;434;13;Modern European,Coffee & Tea,Breakfast & Brunch;5.0;270 Biscayne Blvd Way Miami, FL 33131;25.7707291352928;-80.1892029042297;2;https://www.yelp.com/biz/lamuse-cafe-miami
+Andiamo;435;676;Pizza,Desserts,Sandwiches;4.0;5600 Biscayne Blvd Miami, FL 33137;25.8277885;-80.1868304;2;https://www.yelp.com/biz/andiamo-miami
+El Bajareque Restaurant;436;124;Latin American,Puerto Rican,Breakfast & Brunch;4.0;278 NW 36th St Miami, FL 33127;25.8106484091233;-80.2009201693115;1;https://www.yelp.com/biz/el-bajareque-restaurant-miami
+El Rancho Grande Mexican Restaurant Kendall;437;418;Mexican,Desserts,Breakfast & Brunch;4.0;12881 N Kendall Dr Miami, FL 33183;25.6866320810011;-80.4025708288361;2;https://www.yelp.com/biz/el-rancho-grande-mexican-restaurant-kendall-miami
+MOMI Ramen;438;495;Asian Fusion,Ramen;3.0;5 SW 11th St Miami, FL 33130;25.7635371;-80.193277;2;https://www.yelp.com/biz/momi-ramen-miami
+eCafé;439;58;Sandwiches,Juice Bars & Smoothies;5.0;5001 NW 72nd Ave Miami, FL 33166;25.8190639224123;-80.313182552088;1;https://www.yelp.com/biz/ecaf%C3%A9-miami-2
+El Rinconcito Latino;440;80;Latin American,Cuban;3.5;7387 NW 36th St Miami, FL 33166;25.8101070003343;-80.3164357784348;1;https://www.yelp.com/biz/el-rinconcito-latino-miami-4
+Dolores, But You Can Call Me Lolita;441;648;American (New),Cocktail Bars,Tapas Bars;3.5;1000 S Miami Ave Miami, FL 33130;25.7642845;-80.1935585;2;https://www.yelp.com/biz/dolores-but-you-can-call-me-lolita-miami
+Estefan Kitchen;442;75;Cuban;3.5;140 NE 39th St Miami, FL 33137;25.812218;-80.19258;2;https://www.yelp.com/biz/estefan-kitchen-miami-2
+Acme Lounge;443;20;Cocktail Bars,Lounges,Pizza;4.5;70 NE 17th St Miami, FL 33132;25.791517;-80.19292;2;https://www.yelp.com/biz/acme-lounge-miami
+Tutto Pizza;444;143;Pizza,Italian,Bars;4.0;1763 SW 3rd Ave Miami, FL 33129;25.7604306;-80.2003789;2;https://www.yelp.com/biz/tutto-pizza-miami-2
+Two Pizza Guys Italian Restaurant;445;61;Italian,Pizza;4.5;15420 SW 136th St Miami, FL 33196;25.6399295342117;-80.4445971921086;2;https://www.yelp.com/biz/two-pizza-guys-italian-restaurant-miami
+Taco Rico Tex-Mex Cafe;446;75;Tex-Mex;3.5;7921 SW 40th St Miami, FL 33155;25.733968830493;-80.3241229828881;1;https://www.yelp.com/biz/taco-rico-tex-mex-cafe-miami-6
+Mike’s At Venetia;447;168;American (Traditional),Sports Bars,Irish;3.5;555 NE 15th St Miami, FL 33132;25.790229;-80.185697;2;https://www.yelp.com/biz/mikes-at-venetia-miami-2
+Sandwi2go;448;32;Venezuelan;4.5;1711 Coral Way Miami, FL 33145;25.7510641923756;-80.2228054791333;1;https://www.yelp.com/biz/sandwi2go-miami-2
+Jardim de Portugal;449;117;Portuguese,Seafood,Mediterranean;4.5;2960 SW Coral Way Miami, FL 33145;25.7501732;-80.2419192;2;https://www.yelp.com/biz/jardim-de-portugal-miami
+La Carreta;450;416;Cuban,Breakfast & Brunch,Sandwiches;4.0;3632 SW 8th St Miami, FL 33135;25.764745;-80.253938;2;https://www.yelp.com/biz/la-carreta-miami-2
+Ernestos’s Taco Shop;451;135;Mexican;4.0;20095 S Dixie Hwy Miami, FL 33189;25.5802849;-80.3675564;1;https://www.yelp.com/biz/ernestoss-taco-shop-miami
+Vegan & Juice;452;175;Juice Bars & Smoothies,Vegan,Vegetarian;5.0;115 SW 107th Ave Miami, FL 33174;25.7675054830983;-80.3683320649429;1;https://www.yelp.com/biz/vegan-and-juice-miami
+Los Verdes;453;113;Burgers,Hot Dogs;3.5;15455 SW 137th Ave Miami, FL 33177;25.6240733781848;-80.4137553579954;1;https://www.yelp.com/biz/los-verdes-miami-3
+La Brasa;454;49;Peruvian;4.0;2320 SW 87th Ave Miami, FL 33165;25.7482631;-80.336247;1;https://www.yelp.com/biz/la-brasa-miami
+River Yacht Club;455;159;Mediterranean;3.0;401 SW 3rd Ave Miami, FL 33130;25.7693923;-80.1989203;3;https://www.yelp.com/biz/river-yacht-club-miami
+SUKHOTHAI Sushi + Asian Food;456;77;Sushi Bars,Asian Fusion;4.0;11735 SW 147th Ave Miami, FL 33196;25.6581592;-80.4305811;2;https://www.yelp.com/biz/sukhothai-sushi-asian-food-miami
+Seaspice;457;460;American (New),Seafood,Live/Raw Food;3.0;422 NW N River Dr Miami, FL 33128;25.7776972;-80.2047251;4;https://www.yelp.com/biz/seaspice-miami
+S & S Diner;458;14;Diners,Breakfast & Brunch;4.0;2699 Biscayne Blvd Miami, FL 33137;25.802693;-80.188792;2;https://www.yelp.com/biz/s-and-s-diner-miami-2
+El Chalán;459;204;Peruvian,Seafood;4.0;7971 SW 40th St Miami, FL 33155;25.733933083624;-80.3253498673439;2;https://www.yelp.com/biz/el-chal%C3%A1n-miami-2
+Il Forno Ristorante;460;145;Italian;4.0;9350 NW 25th St Miami, FL 33172;25.796718;-80.347661;2;https://www.yelp.com/biz/il-forno-ristorante-miami
+Modern Garden;461;6;Mediterranean,Brasseries;4.0;422 NW N River Dr Miami, FL 33128;25.7776972;-80.2047251;4;https://www.yelp.com/biz/modern-garden-miami
+The Deck at Island Gardens;462;37;Bars,Pizza,Mediterranean;3.5;888 MacArthur Cswy Miami, FL 33132;25.7842416;-80.1779064;4;https://www.yelp.com/biz/the-deck-at-island-gardens-miami
+Gourmet Station;463;35;Sandwiches;4.0;7601 Biscayne Blvd Miami, FL 33138;25.8451273;-80.18409;2;https://www.yelp.com/biz/gourmet-station-miami
+Sukhothai Sushi & Asian Fusion;464;59;Sushi Bars,Asian Fusion;4.0;1570 Alton Rd Miami, FL 33139;25.7886653;-80.1414266;2;https://www.yelp.com/biz/sukhothai-sushi-and-asian-fusion-miami
+Quinto La Huella;465;188;Seafood,Latin American;3.5;788 Brickell Plz Miami, FL 33131;25.766551;-80.192162;3;https://www.yelp.com/biz/quinto-la-huella-miami-2
+Café Bastille;466;331;French,Cafes,Breakfast & Brunch;4.0;248 SE 1st St Miami, FL 33131;25.773248;-80.1893811;2;https://www.yelp.com/biz/caf%C3%A9-bastille-miami-2
+Town Kitchen & Bar;467;397;Bars,American (New);3.5;7301 SW 57th Ct Miami, FL 33143;25.7030481;-80.286063;2;https://www.yelp.com/biz/town-kitchen-and-bar-miami
+Kam Wah Restaurant;468;116;Sushi Bars,Chinese,Thai;4.5;12895 SW 42nd St Miami, FL 33175;25.7302275;-80.403455;2;https://www.yelp.com/biz/kam-wah-restaurant-miami
+Eat Green;469;32;American (New),Salad,Sandwiches;4.5;14881 Biscayne Blvd Miami, FL 33181;25.9116216;-80.1570628;2;https://www.yelp.com/biz/eat-green-miami
+K&K Billiard & Sport Bar;470;36;Sports Bars,Pool Halls,American (Traditional);5.0;1090 NE 79th St Miami, FL 33138;25.847688;-80.174246;2;https://www.yelp.com/biz/k-and-k-billiard-and-sport-bar-miami
+Pincho Factory;471;57;Fast Food,Burgers,Hot Dogs;4.0;1250 S Miami Ave Miami, FL 33130;25.7620553872829;-80.1931913942099;2;https://www.yelp.com/biz/pincho-factory-miami-6
+The Big Cheese Of Miami;472;484;Italian,Pizza,Desserts;4.0;8080 SW 67th Ave Miami, FL 33143;25.695659;-80.30137;2;https://www.yelp.com/biz/the-big-cheese-of-miami-miami
+China Kitchen;473;46;Chinese;3.5;4303 NW 7th St Miami, FL 33126;25.7789673;-80.2663565;1;https://www.yelp.com/biz/china-kitchen-miami-3
+Crumb on Parchment;474;171;Bakeries,Sandwiches,Coffee & Tea;4.0;3930 NE 2nd Ave Miami, FL 33137;25.8129644;-80.1916612;2;https://www.yelp.com/biz/crumb-on-parchment-miami
+Salumeria 104;475;239;Italian,Delis,Wine Bars;4.0;3451 NE 1st Ave Miami, FL 33137;25.8094723520314;-80.192422108734;2;https://www.yelp.com/biz/salumeria-104-miami
+El Palacio De Los Jugos;476;83;Latin American,Cuban,Seafood;4.0;2038 NW 27th Ave Miami, FL 33142;25.7950191497803;-80.2400588989258;1;https://www.yelp.com/biz/el-palacio-de-los-jugos-miami-6
+Pastelmania;477;20;Latin American,Breakfast & Brunch;5.0;2015 W Flagler St Miami, FL 33126;25.7727214;-80.228509;1;https://www.yelp.com/biz/pastelmania-miami
+House of Wings;478;86;Chicken Wings,Caribbean,Seafood;4.5;1039 NW 3rd Ave Miami, FL 33136;25.7844058033994;-80.1995941582473;2;https://www.yelp.com/biz/house-of-wings-miami
+SuViche;479;301;Sushi Bars,Peruvian,Japanese;4.0;49 SW 11th St Miami, FL 33130;25.763537;-80.1942;2;https://www.yelp.com/biz/suviche-miami
+Smokey Trails BBQ;480;41;Barbeque,Food Trucks;5.0;10400 NW 7th Ave Miami, FL 33150;25.8694171033431;-80.2101587131619;2;https://www.yelp.com/biz/smokey-trails-bbq-miami
+Food Republic;481;3;Tapas/Small Plates,Tapas Bars,Asian Fusion;4.5;1015 North America Way Miami, FL 33132;25.7787629;-80.1778981;2;https://www.yelp.com/biz/food-republic-miami
+Mondu;482;24;Venezuelan,Burgers,Fast Food;4.5;236 NE 1st Ave Miami, FL 33132;25.7767907798323;-80.1921392791952;1;https://www.yelp.com/biz/mondu-miami-2
+No Name Chinese;483;23;Chinese,Wine Bars;4.5;7400 SW 57th Ct South Miami, FL 33143;25.7023878;-80.2864587;2;https://www.yelp.com/biz/no-name-chinese-south-miami-2
+Vagabond Kitchen & Bar;484;225;American (New),Desserts,Cocktail Bars;4.0;7301 Biscayne Blvd Miami, FL 33138;25.8428949;-80.1839365;2;https://www.yelp.com/biz/vagabond-kitchen-and-bar-miami
+Ernesto’s Taco Shop;485;55;Mexican,Breakfast & Brunch;4.0;13729 SW 152nd St Miami, FL 33177;25.6269536474765;-80.4152483075465;1;https://www.yelp.com/biz/ernestos-taco-shop-miami-4
+Via Verdi;486;178;Italian,Wine Bars;4.0;6900 Biscayne Blvd Miami, FL 33138;25.8390766;-80.1845623;2;https://www.yelp.com/biz/via-verdi-miami
+Fratellino;487;488;Italian;5.0;264 Miracle Mile Coral Gables, FL 33134;25.7491397;-80.2600453;2;https://www.yelp.com/biz/fratellino-coral-gables-2
+Paon Eatery;488;12;Latin American,Seafood,Mediterranean;5.0;1076 Kane Concourse Bay Harbor Islands, FL 33154;25.886402;-80.130715;2;https://www.yelp.com/biz/paon-eatery-bay-harbor-islands-2
+El Floridita;489;109;Seafood,Latin American;4.0;13501 SW 136th St Miami, FL 33186;25.641346828626;-80.4130836148194;2;https://www.yelp.com/biz/el-floridita-miami
+Cafe Bistro;490;79;American (New),Comfort Food,Cafes;4.5;7239 N Kendall Dr Miami, FL 33156;25.6894946108292;-80.310058920832;2;https://www.yelp.com/biz/cafe-bistro-miami-4
+Sakura Sushi & Bar;491;142;Sushi Bars,Japanese;3.5;1180 SW 57th Ave Miami, FL 33144;25.7601274;-80.2880864;2;https://www.yelp.com/biz/sakura-sushi-and-bar-miami-3
+Salumeria 104;492;239;Italian,Delis,Wine Bars;4.0;3451 NE 1st Ave Miami, FL 33137;25.8094723520314;-80.192422108734;2;https://www.yelp.com/biz/salumeria-104-miami
+Original Daily Bread Marketplace;493;226;Middle Eastern;4.0;2400 SW 27th St Miami, FL 33133;25.741689;-80.234342;1;https://www.yelp.com/biz/original-daily-bread-marketplace-miami
+Los Magueyes 2;494;117;Mexican;4.0;9817 SW 40th St Miami, FL 33165;25.7334200994954;-80.3543730693115;2;https://www.yelp.com/biz/los-magueyes-2-miami-5
+House of Wings;495;86;Chicken Wings,Caribbean,Seafood;4.5;1039 NW 3rd Ave Miami, FL 33136;25.7844058033994;-80.1995941582473;2;https://www.yelp.com/biz/house-of-wings-miami
+Hole In the Wall;496;69;Sports Bars,American (Traditional);3.5;8002 SW 81st Dr Miami, FL 33143;25.694236005858;-80.3236081643362;2;https://www.yelp.com/biz/hole-in-the-wall-miami-4
+Town Kitchen & Bar;497;397;Bars,American (New);3.5;7301 SW 57th Ct Miami, FL 33143;25.7030481;-80.286063;2;https://www.yelp.com/biz/town-kitchen-and-bar-miami
+La Carreta;498;416;Cuban,Breakfast & Brunch,Sandwiches;4.0;3632 SW 8th St Miami, FL 33135;25.764745;-80.253938;2;https://www.yelp.com/biz/la-carreta-miami-2
+Mike’s At Venetia;499;168;American (Traditional),Sports Bars,Irish;3.5;555 NE 15th St Miami, FL 33132;25.790229;-80.185697;2;https://www.yelp.com/biz/mikes-at-venetia-miami-2
+Miami Finga Licking;500;209;Soul Food;3.5;12490 NW 7th Ave Miami, FL 33168;25.8890433792778;-80.2110649675236;2;https://www.yelp.com/biz/miami-finga-licking-miami
+NoVe Kitchen And Bar;501;225;Japanese,Sushi Bars;3.5;1750 N Bayshore Dr Miami, FL 33132;25.7922791401389;-80.1870524404754;2;https://www.yelp.com/biz/nove-kitchen-and-bar-miami-6
+Duffy’s Sports Grill of Kendall;502;125;Sports Bars,American (Traditional),Burgers;3.5;8575 SW 124th Ave Miami, FL 33183;25.6882869;-80.3918182;2;https://www.yelp.com/biz/duffys-sports-grill-of-kendall-miami
+Paulie Gee’s Miami;503;122;Pizza,Italian,Vegan;3.5;8001 Biscayne Blvd Miami, FL 33138;25.848886;-80.1843619;2;https://www.yelp.com/biz/paulie-gees-miami-miami-3
+Jimmy’s Eastside Diner;504;238;Diners,American (Traditional);4.0;7201 Biscayne Blvd Miami, FL 33138;25.84139;-80.1841533;1;https://www.yelp.com/biz/jimmys-eastside-diner-miami
+La Colina Comidas Rapidas;505;51;Fast Food,Colombian,Venezuelan;4.5;11200 W Flagler St Miami, FL 33174;25.767946;-80.377538;1;https://www.yelp.com/biz/la-colina-comidas-rapidas-miami-2
+Sakaya Kitchen;506;577;Asian Fusion,Korean;3.5;3401 N Miami Ave Miami, FL 33127;25.8091203787842;-80.1935563042297;2;https://www.yelp.com/biz/sakaya-kitchen-miami
+Bonefish Grill;507;154;Seafood;4.0;14218 SW 8th St Miami, FL 33184;25.7598371911204;-80.4251673543279;2;https://www.yelp.com/biz/bonefish-grill-miami-2
+Caporal Chicken;508;98;Chicken Wings,American (Traditional),Waffles;4.0;14616 SW 8th St Miami, FL 33184;25.7595189637015;-80.4315549507737;1;https://www.yelp.com/biz/caporal-chicken-miami
+Sports Grill Bird Road;509;133;Sports Bars,American (Traditional);4.0;11481 SW 40th St Miami, FL 33165;25.73426929852;-80.3802462428528;2;https://www.yelp.com/biz/sports-grill-bird-road-miami-2
+Da Burger Shack;510;67;Food Trucks,Burgers,Caribbean;4.0;9753 SW 72nd St Miami, FL 33173;25.7016678;-80.3512477;1;https://www.yelp.com/biz/da-burger-shack-miami
+The Big Cheese Of Miami;511;484;Italian,Pizza,Desserts;4.0;8080 SW 67th Ave Miami, FL 33143;25.695659;-80.30137;2;https://www.yelp.com/biz/the-big-cheese-of-miami-miami
+Dolores, But You Can Call Me Lolita;512;648;American (New),Cocktail Bars,Tapas Bars;3.5;1000 S Miami Ave Miami, FL 33130;25.7642845;-80.1935585;2;https://www.yelp.com/biz/dolores-but-you-can-call-me-lolita-miami
+JOE & THE JUICE;513;24;Juice Bars & Smoothies,Cafes,Coffee & Tea;4.0;1600 Collins Ave Miami Beach, FL 33139;25.7894248;-80.1307044;2;https://www.yelp.com/biz/joe-and-the-juice-miami-beach
+American Social;514;454;American (New),Gastropubs,Beer, Wine & Spirits;3.5;690 SW 1st Ct Miami, FL 33130;25.7682591302091;-80.196138471365;2;https://www.yelp.com/biz/american-social-miami
+Lemoni Cafe;515;370;Breakfast & Brunch,Mediterranean,Modern European;4.0;4600 NE 2nd Ave Miami, FL 33137;25.8183336682298;-80.1917536513793;2;https://www.yelp.com/biz/lemoni-cafe-miami-4
+Blackbrick Chinese & Dim Sum;516;325;Chinese;3.5;3451 NE 1st Ave Miami, FL 33137;25.8094535860585;-80.1924000221596;2;https://www.yelp.com/biz/blackbrick-chinese-and-dim-sum-miami
+Caribe Cafe Restaurant;517;36;Cuban;4.0;285 NW 27th Ave Miami, FL 33125;25.775223;-80.2388;1;https://www.yelp.com/biz/caribe-cafe-restaurant-miami-6
+Taco 71;518;3;Tacos;4.0;7100 Collins Ave Miami Beach, FL 33141;25.8563163;-80.1206817;0;https://www.yelp.com/biz/taco-71-miami-beach-2
+Aladdin Mediterranean Restaurant;519;28;Halal,Middle Eastern,Mediterranean;4.0;24 NE 167st Miami, FL 33162;25.9280389;-80.1995465;2;https://www.yelp.com/biz/aladdin-mediterranean-restaurant-miami
+La Brasa;520;49;Peruvian;4.0;2320 SW 87th Ave Miami, FL 33165;25.7482631;-80.336247;1;https://www.yelp.com/biz/la-brasa-miami
+Charcoal Garden Bar & Grill;521;15;American (Traditional),Bars,Seafood;4.5;82 NW 29th St Miami, FL 33127;25.803708689235;-80.1966323330998;3;https://www.yelp.com/biz/charcoal-garden-bar-and-grill-miami
+Pizza Johny’s;522;272;Pizza,Italian;4.5;9529 SW 72nd St Miami, FL 33173;25.7021922085729;-80.3487733431999;1;https://www.yelp.com/biz/pizza-johnys-miami-2
+Root Beer Drive-In;523;13;American (New);4.5;11101 NW 27th Ave Miami, FL 33167;25.8755283355713;-80.2426223754883;1;https://www.yelp.com/biz/root-beer-drive-in-miami
+Magic City Pizza;524;128;Chicken Wings,Pizza,Italian;4.5;7401 Coral Way Miami, FL 33155;25.748465;-80.315783;1;https://www.yelp.com/biz/magic-city-pizza-miami
+Riguth Gourmet;525;5;Desserts,Cuban,Venezuelan;4.0;1800 SW 27th Ave Miami, FL 33145;25.7546657;-80.2386906;1;https://www.yelp.com/biz/riguth-gourmet-miami
+Gourmet Station;526;35;Sandwiches;4.0;7601 Biscayne Blvd Miami, FL 33138;25.8451273;-80.18409;2;https://www.yelp.com/biz/gourmet-station-miami
+La Nonna Italian Restaurant;527;88;Italian;4.0;117 SW 107th Ave Miami, FL 33174;25.7675012676129;-80.3686025570083;1;https://www.yelp.com/biz/la-nonna-italian-restaurant-miami
+Sabores Cafe;528;27;Latin American,Greek,Mediterranean;4.5;9136 NW 25th St Miami, FL 33172;25.7968544;-80.3434187;2;https://www.yelp.com/biz/sabores-cafe-miami
+Giardino Gourmet Salads;529;48;Salad;4.0;5787 NW 7th St Miami, FL 33126;25.778637316769;-80.2908798037116;2;https://www.yelp.com/biz/giardino-gourmet-salads-miami-6
+Karla Bakery;530;102;Bakeries,Cuban;4.0;6474 W Flagler St Miami, FL 33144;25.770229;-80.3019547;1;https://www.yelp.com/biz/karla-bakery-miami-2
+My Ceviche;531;323;Seafood;4.0;1250 S Miami Ave Miami, FL 33130;25.7618220352028;-80.1933491521149;2;https://www.yelp.com/biz/my-ceviche-miami-2
+CinéBistro;532;421;Cinema,Lounges,American (Traditional);4.0;11471 NW 12th St Miami, FL 33172;25.786954569373;-80.3808067826348;2;https://www.yelp.com/biz/cin%C3%A9bistro-miami-2
+SuViche;533;301;Sushi Bars,Peruvian,Japanese;4.0;49 SW 11th St Miami, FL 33130;25.763537;-80.1942;2;https://www.yelp.com/biz/suviche-miami
+Palmas Cafe;534;15;Latin American;4.5;919 Brickell Ave Miami, FL 33131;25.7650093;-80.1908715;1;https://www.yelp.com/biz/palmas-cafe-miami
+Hermon Restaurant;535;18;Venezuelan;5.0;8410 W Flagler St Miami, FL 33144;25.7688501;-80.3329536;1;https://www.yelp.com/biz/hermon-restaurant-miami
+Pocho’s Express;536;3;Burgers,Fast Food,Hot Dogs;4.5;925 SW 8th St Miami, FL 33130;25.76626;-80.209565;0;https://www.yelp.com/biz/pochos-express-miami-3
+Milly’s Restaurant & Cafe;537;73;Latin American,Dominican;4.0;2742 SW 8th St Miami, FL 33135;25.7646118224498;-80.2397922728863;2;https://www.yelp.com/biz/millys-restaurant-and-cafe-miami
+White Star Cafe;538;85;Cafes,Gluten-Free,Bakeries;4.0;8755 Sunset Dr Miami, FL 33173;25.7024766596758;-80.3352443558197;2;https://www.yelp.com/biz/white-star-cafe-miami
+Captain Joe’s Caribbean;539;1;Caribbean,Seafood;4.0;401 Biscayne Blvd Miami, FL 33132;25.7773192;-80.1855013;1;https://www.yelp.com/biz/captain-joes-caribbean-miami
+Balans Restaurant & Bar;540;115;Brasseries,American (New),Breakfast & Brunch;4.0;7535 SW 88th St Miami, FL 33156;25.6906832353881;-80.3121665246452;2;https://www.yelp.com/biz/balans-restaurant-and-bar-miami-4
+Pizza Deli & Company;541;52;Pizza,Pasta Shops,Salad;4.0;1920 SW 57th Ave Miami, FL 33155;25.7526581;-80.2874614;2;https://www.yelp.com/biz/pizza-deli-and-company-miami
+El Pub;542;130;Cuban,Seafood,Sandwiches;3.0;1548 SW 8th St Miami, FL 33135;25.7655225;-80.2203704;1;https://www.yelp.com/biz/el-pub-miami
+Angelo Elia Pizza Bar Tapas;543;41;Tapas/Small Plates,Italian,Wine Bars;3.5;3535 NW 83rd Ave Doral, FL 33122;25.8502128;-80.2550932;2;https://www.yelp.com/biz/angelo-elia-pizza-bar-tapas-doral-2
+The Cheesecake Factory;544;166;Desserts,Pizza,Sandwiches;3.5;11401 NW 12th St Miami, FL 33172;25.7857546838498;-80.3812213530754;2;https://www.yelp.com/biz/the-cheesecake-factory-miami-2
+Los Magueyes 2;545;117;Mexican;4.0;9817 SW 40th St Miami, FL 33165;25.7334200994954;-80.3543730693115;2;https://www.yelp.com/biz/los-magueyes-2-miami-5
+Cafe Bistro;546;79;American (New),Comfort Food,Cafes;4.5;7239 N Kendall Dr Miami, FL 33156;25.6894946108292;-80.310058920832;2;https://www.yelp.com/biz/cafe-bistro-miami-4
+Siam Rice Thai & Sushi Restaurant;547;202;Japanese,Thai,Sushi Bars;4.0;7941 Biscayne Blvd Miami, FL 33138;25.8485328;-80.1843984;2;https://www.yelp.com/biz/siam-rice-thai-and-sushi-restaurant-miami
+Masa Taqueria;548;8;Mexican;4.5;6974 Collins Ave Miami Beach, FL 33141;25.8556498121605;-80.1205967366695;0;https://www.yelp.com/biz/masa-taqueria-miami-beach-2
+Original Daily Bread Marketplace;549;226;Middle Eastern;4.0;2400 SW 27th St Miami, FL 33133;25.741689;-80.234342;1;https://www.yelp.com/biz/original-daily-bread-marketplace-miami
+Ernesto’s Taco Shop;550;55;Mexican,Breakfast & Brunch;4.0;13729 SW 152nd St Miami, FL 33177;25.6269536474765;-80.4152483075465;1;https://www.yelp.com/biz/ernestos-taco-shop-miami-4
+Miami Finga Licking;551;209;Soul Food;3.5;12490 NW 7th Ave Miami, FL 33168;25.8890433792778;-80.2110649675236;2;https://www.yelp.com/biz/miami-finga-licking-miami
+Duffy’s Sports Grill of Kendall;552;125;Sports Bars,American (Traditional),Burgers;3.5;8575 SW 124th Ave Miami, FL 33183;25.6882869;-80.3918182;2;https://www.yelp.com/biz/duffys-sports-grill-of-kendall-miami
+Killian Cafe & Grill;553;134;Breakfast & Brunch,American (New);4.0;11740 SW 104th St Miami, FL 33186;25.6712533;-80.3852366;2;https://www.yelp.com/biz/killian-cafe-and-grill-miami
+Mi Buenos Aires Querido Restaurant Parrilla;554;23;Argentine;4.5;3458 SW 8th St Miami, FL 33135;25.7646056;-80.2514754;2;https://www.yelp.com/biz/mi-buenos-aires-querido-restaurant-parrilla-miami
+Pancho Taco;555;13;Mexican,Street Vendors;4.0;2531 NW 2nd Ave Miami, FL 33127;25.8013014433767;-80.1988703012466;1;https://www.yelp.com/biz/pancho-taco-miami
+American Social;556;454;American (New),Gastropubs,Beer, Wine & Spirits;3.5;690 SW 1st Ct Miami, FL 33130;25.7682591302091;-80.196138471365;2;https://www.yelp.com/biz/american-social-miami
+Mozzarella Italian Restaurant;557;79;Italian;3.5;7930 NW 36th St Miami, FL 33166;25.8090180895499;-80.3260664349305;2;https://www.yelp.com/biz/mozzarella-italian-restaurant-miami
+Super Arepa;558;110;Venezuelan,Burgers,Colombian;4.0;14417 SW 42nd St Miami, FL 33175;25.7293479177982;-80.4280995002472;1;https://www.yelp.com/biz/super-arepa-miami-2
+Dogma Grill;559;280;Hot Dogs,Burgers,Sandwiches;4.0;7030 Biscayne Blvd Miami, FL 33138;25.8402167;-80.1843861;1;https://www.yelp.com/biz/dogma-grill-miami
+Lemoni Cafe;560;370;Breakfast & Brunch,Mediterranean,Modern European;4.0;4600 NE 2nd Ave Miami, FL 33137;25.8183336682298;-80.1917536513793;2;https://www.yelp.com/biz/lemoni-cafe-miami-4
+Marion;561;129;Mediterranean,Seafood,Cocktail Bars;4.0;1111 SW 1st Ave Miami, FL 33130;25.7630480186487;-80.1950615043686;3;https://www.yelp.com/biz/marion-miami
+Jamrock Kitchen;562;25;Caribbean;4.5;22117 S Dixie Hwy Miami, FL 33170;25.5615748;-80.386148;1;https://www.yelp.com/biz/jamrock-kitchen-miami
+Chef’s Kitchen;563;35;American (New),Caterers;4.5;8765 SW 132nd St Miami, FL 33176;25.6475332;-80.3355942;2;https://www.yelp.com/biz/chefs-kitchen-miami
+Baccano;564;137;Italian,Pizza;4.0;97 NW 25th St Miami, FL 33127;25.801012;-80.196958;2;https://www.yelp.com/biz/baccano-miami
+Pekin Chinese Restaurant;565;108;Chinese;3.5;2293 SW 17th Ave Miami, FL 33145;25.7491505;-80.2217206;1;https://www.yelp.com/biz/pekin-chinese-restaurant-miami
+Roots Juicebar;566;255;Juice Bars & Smoothies,Vegan;5.0;8530 SW 124th Ave Miami, FL 33183;25.6885732;-80.3944803;2;https://www.yelp.com/biz/roots-juicebar-miami
+Bonjour Bakery;567;70;Bakeries,French,Themed Cafes;4.5;16650 SW 88th St Miami, FL 33196;25.6834647736032;-80.4612203664754;1;https://www.yelp.com/biz/bonjour-bakery-miami
+Schnitzel Haus;568;161;German,Bars,Desserts;4.0;1085 NE 79th St Miami, FL 33138;25.8483555;-80.1748073;2;https://www.yelp.com/biz/schnitzel-haus-miami
+Lotus Garden;569;103;Thai;4.0;318 Miracle Mile Miami, FL 33134;25.7490578;-80.2611263;2;https://www.yelp.com/biz/lotus-garden-miami
+Magic City Pizza;570;128;Chicken Wings,Pizza,Italian;4.5;7401 Coral Way Miami, FL 33155;25.748465;-80.315783;1;https://www.yelp.com/biz/magic-city-pizza-miami
+Guayabitas Eatery;571;67;Salad,Coffee & Tea,Sandwiches;4.5;215 N Miami Ave Miami, FL 33128;25.776447;-80.1936498;1;https://www.yelp.com/biz/guayabitas-eatery-miami
+Mr Pepito Miami;572;19;Venezuelan,Colombian,Fast Food;3.5;261 NE 22nd St Miami, FL 33137;25.7981272;-80.189791;1;https://www.yelp.com/biz/mr-pepito-miami-miami
+Mezcal Grill & Bar;573;18;Bars,New Mexican Cuisine,Mexican;3.0;1009 Kane Concourse Bay Harbor Islands, FL 33154;25.8868959602387;-80.1296009123325;2;https://www.yelp.com/biz/mezcal-grill-and-bar-bay-harbor-islands
+Marakas Pizza;574;108;Pizza,Cuban;4.5;14707 SW 42nd St Miami, FL 33185;25.7296113650972;-80.4326462502091;1;https://www.yelp.com/biz/marakas-pizza-miami
+Bocas Grill;575;138;Peruvian,Venezuelan;3.5;3399 NW 72nd Ave Miami, FL 33122;25.8050268;-80.3125614;2;https://www.yelp.com/biz/bocas-grill-miami-4
+Las Tapas de Rosa;576;57;Spanish,Tapas Bars;4.0;449 SW 8th St Miami, FL 33130;25.7665274;-80.2017557;2;https://www.yelp.com/biz/las-tapas-de-rosa-miami
+Coral Cafe;577;12;American (New);3.5;5101 Blue Lagoon Dr Miami, FL 33126;25.7820155;-80.2787652;2;https://www.yelp.com/biz/coral-cafe-miami
+Mas Cuba Cafe & Bar;578;10;Cuban,Cocktail Bars,Breakfast & Brunch;4.0;318 20th St Miami Beach, FL 33139;25.7958696;-80.1306601;2;https://www.yelp.com/biz/mas-cuba-cafe-and-bar-miami-beach
+Super Subs;579;170;Sandwiches;4.5;6380 Bird Rd Miami, FL 33155;25.7334915;-80.2984851;1;https://www.yelp.com/biz/super-subs-miami
+Thea’s;580;53;Pizza,Salad,American (New);4.5;1951 NW 7th Ave Miami, FL 33136;25.7944075;-80.2067195;2;https://www.yelp.com/biz/theas-miami
+Sergio’s Restaurant;581;415;Cuban;3.0;3252 SW 22nd St Miami, FL 33145;25.7498304420308;-80.2475399289055;2;https://www.yelp.com/biz/sergios-restaurant-miami-58
+R House Wynwood;582;407;American (New),Cocktail Bars,Breakfast & Brunch;3.5;2727 NW 2nd Ave Miami, FL 33127;25.80271;-80.199019;2;https://www.yelp.com/biz/r-house-wynwood-miami-2
+Jimmy’s Eastside Diner;583;238;Diners,American (Traditional);4.0;7201 Biscayne Blvd Miami, FL 33138;25.84139;-80.1841533;1;https://www.yelp.com/biz/jimmys-eastside-diner-miami
+Tacos The Fury;584;25;Food Trucks,Tacos;5.0;;25.7657741694118;-80.2220341935754;1;https://www.yelp.com/biz/tacos-the-fury-miami-4
+Mr Yum;585;331;Sushi Bars,Thai,Asian Fusion;3.5;1945 SW 8th St Miami, FL 33135;25.7657033;-80.2276139;2;https://www.yelp.com/biz/mr-yum-miami
+Latin House Grill;586;650;Latin American,Burgers,Mexican;3.5;9565 Sunset Dr Miami, FL 33173;25.7019419776995;-80.3490030694504;2;https://www.yelp.com/biz/latin-house-grill-miami-3
+Pizzarium - A Slice of Rome;587;187;Pizza;4.0;69 E Flagler St Miami, FL 33131;25.7742400342337;-80.1923187336877;1;https://www.yelp.com/biz/pizzarium-a-slice-of-rome-miami
+Islas Canarias Restaurant;588;355;Cuban,Spanish;4.0;13697 SW 26th St Miami, FL 33175;25.744020150637;-80.415998615939;2;https://www.yelp.com/biz/islas-canarias-restaurant-miami
+Salmon & Salmon Restaurant;589;94;Seafood,Peruvian;3.5;2907 NW 7th St Miami, FL 33125;25.7794035;-80.2421888;2;https://www.yelp.com/biz/salmon-and-salmon-restaurant-miami
+Hermon Restaurant;590;18;Venezuelan;5.0;8410 W Flagler St Miami, FL 33144;25.7688501;-80.3329536;1;https://www.yelp.com/biz/hermon-restaurant-miami
+Operation Eats;591;9;Food Trucks,Burgers;5.0;;25.7360194;-80.3157397;1;https://www.yelp.com/biz/operation-eats-miami
+Nomade-miami;592;3;Acai Bowls,Juice Bars & Smoothies,American (Traditional);5.0;2600 NE 2nd Ave Miami, FL 33137;25.8016995855972;-80.1911126822233;2;https://www.yelp.com/biz/nomade-miami-miami-2
+Papo Llega Y Pon;593;74;Cuban;4.5;2928 NW 17th Ave Miami, FL 33125;25.8035059;-80.224021;1;https://www.yelp.com/biz/papo-llega-y-pon-miami
+CLOS Bistro & Cafe;594;46;Argentine,Empanadas;4.0;100 S Biscayne Blvd Miami, FL 33131;25.7731794;-80.1878988;1;https://www.yelp.com/biz/clos-bistro-and-cafe-miami
+Catch Grill & Bar;595;70;Seafood,Bars,Venues & Event Spaces;3.0;1633 North Bayshore Dr Miami, FL 33132;25.7909935651382;-80.1857071269531;2;https://www.yelp.com/biz/catch-grill-and-bar-miami
+El Taquito ll;596;66;Mexican;3.5;1380 SW 8th St Miami, FL 33135;25.7655592;-80.2182998;1;https://www.yelp.com/biz/el-taquito-ll-miami
+Sentir Cubano;597;10;Cuban;4.5;3100 SW 8th St Miami, FL 33135;25.7647823;-80.2449149;2;https://www.yelp.com/biz/sentir-cubano-miami
+Sancho Restaurant;598;50;Spanish;4.0;13202 SW 8th St Miami, FL 33184;25.760879;-80.4101169;3;https://www.yelp.com/biz/sancho-restaurant-miami
+Antigua Guatemala Restaurante;599;82;Latin American;4.0;2741 W Flagler St Miami, FL 33135;25.772549;-80.2399364;2;https://www.yelp.com/biz/antigua-guatemala-restaurante-miami
+Scully’s Tavern;600;181;Sports Bars,American (New);4.0;9809 SW 72nd St Miami, FL 33173;25.7021422;-80.3519983;2;https://www.yelp.com/biz/scullys-tavern-miami
+Los Verdes;601;113;Burgers,Hot Dogs;3.5;15455 SW 137th Ave Miami, FL 33177;25.6240733781848;-80.4137553579954;1;https://www.yelp.com/biz/los-verdes-miami-3
+Ranchito Mi Peru;602;8;Peruvian,Latin American;3.5;2102 NW 22nd Ct Miami, FL 33142;25.7953472;-80.2326096;2;https://www.yelp.com/biz/ranchito-mi-peru-miami
+Tytyskitchen;603;6;Soul Food,Desserts,Caterers;4.5;6781 NW 27th Ave Rd Miami, FL 33147;25.8350867878857;-80.2418501061594;2;https://www.yelp.com/biz/tytyskitchen-miami
+Etzel Itzik Deli;604;130;Delis,Middle Eastern;4.5;18757 W Dixie Hwy Miami, FL 33180;25.9489912;-80.148777;2;https://www.yelp.com/biz/etzel-itzik-deli-miami
+Spice N Curry;605;89;Indian,Grocery;4.5;123 SW 107th Ave Miami, FL 33174;25.7680218;-80.3688846;1;https://www.yelp.com/biz/spice-n-curry-miami
+Pizzarium - A Slice of Rome;606;187;Pizza;4.0;69 E Flagler St Miami, FL 33131;25.7742400342337;-80.1923187336877;1;https://www.yelp.com/biz/pizzarium-a-slice-of-rome-miami
+Beehive Juice Bar;607;167;Vegan,Juice Bars & Smoothies;4.0;6490 Bird Rd Miami, FL 33155;25.7331043262797;-80.3005219307619;1;https://www.yelp.com/biz/beehive-juice-bar-miami
+Manna Life Food;608;84;Juice Bars & Smoothies,Vegan,Gluten-Free;4.5;80 NE 2nd Ave Miami, FL 33132;25.7758225980273;-80.1904968850163;2;https://www.yelp.com/biz/manna-life-food-miami
+Sushi Maki;609;194;Sushi Bars,Japanese;3.0;2100 NW 42nd Ave Miami, FL 33126;25.7971974024835;-80.2797660595551;2;https://www.yelp.com/biz/sushi-maki-miami-3
+The Cheese Course;610;358;Cheese Shops,Sandwiches,Salad;4.0;3451 NE 1st Ave Miami, FL 33137;25.8097838521257;-80.1923096847768;2;https://www.yelp.com/biz/the-cheese-course-miami
+Chef Creole Seafood & Catering;611;124;Seafood,Caribbean;4.0;200 NW 54th St Miami, FL 33127;25.824844;-80.200254;1;https://www.yelp.com/biz/chef-creole-seafood-and-catering-miami
+Luna Pasta;612;14;Restaurants,Pasta Shops;4.5;6815 Biscayne Blvd Miami, FL 33138;25.838509;-80.1840391;1;https://www.yelp.com/biz/luna-pasta-miami-2
+Sergio’s Restaurant;613;415;Cuban;3.0;3252 SW 22nd St Miami, FL 33145;25.7498304420308;-80.2475399289055;2;https://www.yelp.com/biz/sergios-restaurant-miami-58
+Pekin Chinese Restaurant;614;108;Chinese;3.5;2293 SW 17th Ave Miami, FL 33145;25.7491505;-80.2217206;1;https://www.yelp.com/biz/pekin-chinese-restaurant-miami
+Eden In Eden;615;69;Vegetarian,French,Vegan;4.5;1248 SW 22nd St Miami, FL 33145;25.7509154;-80.2154365;2;https://www.yelp.com/biz/eden-in-eden-miami
+Latteria Italiana;616;107;Ice Cream & Frozen Yogurt,Cafes,Italian;4.5;3301 NE 1st Ave Miami, FL 33137;25.8077660301093;-80.1928044841309;1;https://www.yelp.com/biz/latteria-italiana-miami
+Gar Sing Chinese Food;617;64;Chinese;4.5;14515 SW 42nd St Miami, FL 33175;25.7291449410457;-80.4302307092621;1;https://www.yelp.com/biz/gar-sing-chinese-food-miami
+Tutto Pizza;618;143;Pizza,Italian,Bars;4.0;1763 SW 3rd Ave Miami, FL 33129;25.7604306;-80.2003789;2;https://www.yelp.com/biz/tutto-pizza-miami-2
+Tuyo;619;116;American (New),Latin American,Caribbean;4.0;415 NE 2nd Ave Miami, FL 33132;25.778511;-80.190155;4;https://www.yelp.com/biz/tuyo-miami
+El Arroyito Cafe;620;9;Latin American,Cuban,Nicaraguan;4.5;2307 W Flagler St Miami, FL 33135;25.7725466;-80.2331543;1;https://www.yelp.com/biz/el-arroyito-cafe-miami-4
+The Capital Grille;621;439;Steakhouses,Seafood,Wine Bars;4.0;444 Brickell Ave Miami, FL 33131;25.7695309499124;-80.1901772747993;3;https://www.yelp.com/biz/the-capital-grille-miami
+Bocce;622;269;Italian,Bars,Pizza;4.0;3252 NE 1st Ave Miami, FL 33137;25.8076219225945;-80.1930984165329;3;https://www.yelp.com/biz/bocce-miami
+Isla Del Encanto;623;187;Puerto Rican;4.0;12850 SW 120th St Miami, FL 33186;25.6564003755271;-80.4012992857056;2;https://www.yelp.com/biz/isla-del-encanto-miami
+The Daily Creative Food;624;531;Salad,Breakfast & Brunch,Cafes;3.5;2001 Biscayne Blvd Miami, FL 33137;25.795544;-80.188501;2;https://www.yelp.com/biz/the-daily-creative-food-miami-2
+Baccano;625;137;Italian,Pizza;4.0;97 NW 25th St Miami, FL 33127;25.801012;-80.196958;2;https://www.yelp.com/biz/baccano-miami
+Lime Fresh Mexican Grill;626;222;Mexican;4.0;9005 SW 72nd Pl Miami, FL 33156;25.6867574;-80.312682;1;https://www.yelp.com/biz/lime-fresh-mexican-grill-miami-2
+Caffe Portofino;627;47;Italian;4.0;13615 S Dixie Hwy Miami, FL 33176;25.6368806;-80.3368682;2;https://www.yelp.com/biz/caffe-portofino-miami
+Kuenko;628;58;Japanese,Spanish,Poke;4.0;56 NW 29th St Miami, FL 33127;25.8037220453368;-80.1963553925868;2;https://www.yelp.com/biz/kuenko-miami
+Canton Palace Chinese Restaurant;629;112;Dim Sum,Imported Food;4.0;7980 SW 8th St Miami, FL 33144;25.7621227;-80.3260146;2;https://www.yelp.com/biz/canton-palace-chinese-restaurant-miami
+Don Burrito;630;175;Mexican;4.0;10855 SW 72nd St Miami, FL 33173;25.702279;-80.369336;2;https://www.yelp.com/biz/don-burrito-miami-2
+Doraku Sushi;631;370;Sushi Bars,Japanese;4.0;900 S Miami Ave Miami, FL 33130;25.7648680267642;-80.1942180402756;2;https://www.yelp.com/biz/doraku-sushi-miami
+Ella;632;49;Cafes,Breakfast & Brunch;4.0;140 NE 39th St Miami, FL 33137;25.812218;-80.19258;2;https://www.yelp.com/biz/ella-miami
+JOE & THE JUICE;633;24;Juice Bars & Smoothies,Cafes,Coffee & Tea;4.0;1600 Collins Ave Miami Beach, FL 33139;25.7894248;-80.1307044;2;https://www.yelp.com/biz/joe-and-the-juice-miami-beach
+CinéBistro;634;421;Cinema,Lounges,American (Traditional);4.0;11471 NW 12th St Miami, FL 33172;25.786954569373;-80.3808067826348;2;https://www.yelp.com/biz/cin%C3%A9bistro-miami-2
+Don Burrito;635;175;Mexican;4.0;10855 SW 72nd St Miami, FL 33173;25.702279;-80.369336;2;https://www.yelp.com/biz/don-burrito-miami-2
+Spice N Curry;636;89;Indian,Grocery;4.5;123 SW 107th Ave Miami, FL 33174;25.7680218;-80.3688846;1;https://www.yelp.com/biz/spice-n-curry-miami
+Mykonos Greek Restaurant;637;221;Greek,Mediterranean;3.5;1201 Coral Way Miami, FL 33145;25.7514001;-80.2145274;2;https://www.yelp.com/biz/mykonos-greek-restaurant-miami
+Taco 71;638;3;Tacos;4.0;7100 Collins Ave Miami Beach, FL 33141;25.8563163;-80.1206817;0;https://www.yelp.com/biz/taco-71-miami-beach-2
+Red Ginger aboard Oceania Marina;639;6;Asian Fusion;5.0;8300 NW 33rd St Miami, FL 33122;25.8042869;-80.3314424;0;https://www.yelp.com/biz/red-ginger-aboard-oceania-marina-miami
+Moe’z Express;640;88;American (New),Latin American,Fast Food;3.5;13810 SW 8th St Miami, FL 33184;25.760716;-80.418772;1;https://www.yelp.com/biz/moez-express-miami-2
+Texas de Brazil;641;246;Steakhouses,Brazilian,Venues & Event Spaces;4.0;11401 NW 12th St Miami, FL 33172;25.7869078;-80.3809477;3;https://www.yelp.com/biz/texas-de-brazil-miami-2
+Taurus;642;100;Burgers,Bars,American (New);3.5;3540 Main Hwy Miami, FL 33133;25.724872;-80.245407;2;https://www.yelp.com/biz/taurus-miami-3
+Trattoria Luna;643;57;Italian;4.0;9477 S Dixie Hwy Miami, FL 33156;25.6831115098397;-80.314131094165;2;https://www.yelp.com/biz/trattoria-luna-miami
+MIAM Café;644;158;Sandwiches,Coffee & Tea,Breakfast & Brunch;4.0;2750 NW 3rd Ave Miami, FL 33127;25.8024490953358;-80.2012877931846;2;https://www.yelp.com/biz/miam-caf%C3%A9-miami-8
+Eden In Eden;645;69;Vegetarian,French,Vegan;4.5;1248 SW 22nd St Miami, FL 33145;25.7509154;-80.2154365;2;https://www.yelp.com/biz/eden-in-eden-miami
+Runway Grille & Deli;646;17;American (Traditional),Breakfast & Brunch,Delis;4.0;777 NW 72nd Ave Miami, FL 33126;25.7785094;-80.3099989;1;https://www.yelp.com/biz/runway-grille-and-deli-miami
+Riguth Gourmet;647;5;Desserts,Cuban,Venezuelan;4.0;1800 SW 27th Ave Miami, FL 33145;25.7546657;-80.2386906;1;https://www.yelp.com/biz/riguth-gourmet-miami
+Sabor a Perú;648;397;Peruvian,Seafood;3.5;2923 Biscayne Blvd Miami, FL 33137;25.8046163;-80.1890033;2;https://www.yelp.com/biz/sabor-a-per%C3%BA-miami-2
+Argentina Steak House;649;34;Argentine,Steakhouses;3.5;7369 NW 36st Miami, FL 33166;25.8094387;-80.3163601;2;https://www.yelp.com/biz/argentina-steak-house-miami
+Kuenko;650;58;Japanese,Spanish,Poke;4.0;56 NW 29th St Miami, FL 33127;25.8037220453368;-80.1963553925868;2;https://www.yelp.com/biz/kuenko-miami
+Pizza Johny’s;651;272;Pizza,Italian;4.5;9529 SW 72nd St Miami, FL 33173;25.7021922085729;-80.3487733431999;1;https://www.yelp.com/biz/pizza-johnys-miami-2
+Aladdin Mediterranean Restaurant;652;28;Halal,Middle Eastern,Mediterranean;4.0;24 NE 167st Miami, FL 33162;25.9280389;-80.1995465;2;https://www.yelp.com/biz/aladdin-mediterranean-restaurant-miami
+Harry’s Pizzeria;653;467;Pizza,Italian;4.0;3918 N Miami Ave Miami, FL 33127;25.8128796;-80.195542;2;https://www.yelp.com/biz/harrys-pizzeria-miami-5
+Sabores Cafe;654;27;Latin American,Greek,Mediterranean;4.5;9136 NW 25th St Miami, FL 33172;25.7968544;-80.3434187;2;https://www.yelp.com/biz/sabores-cafe-miami
+OTL;655;43;Salad,Cafes,Sandwiches;4.0;160 NE 40th St Miami, FL 33137;25.8133211;-80.1922924;2;https://www.yelp.com/biz/otl-miami
+Jasmine Sushi & Thai Cuisine;656;105;Sushi Bars,Thai,Caterers;4.0;1429 SW 107th Ave Miami, FL 33174;25.7556519108001;-80.3666585513122;2;https://www.yelp.com/biz/jasmine-sushi-and-thai-cuisine-miami
+Mojitos Calle 8;657;206;Cuban;3.0;8000 SW 8th St Miami, FL 33144;25.7619179748581;-80.326076;2;https://www.yelp.com/biz/mojitos-calle-8-miami
+Tropical Conch;658;6;Seafood,Salad;5.0;4500 NW 12th Ave Miami, FL 33127;25.816581;-80.216218;0;https://www.yelp.com/biz/tropical-conch-miami
+MC Kitchen;659;254;Italian;3.5;4141 NE 2nd Ave Miami, FL 33137;25.8141349560365;-80.1912441203773;3;https://www.yelp.com/biz/mc-kitchen-miami
+Rincon Espanol;660;50;Spanish;4.0;9511 S Dixie Hwy Miami, FL 33156;25.6824032894659;-80.3136313426373;2;https://www.yelp.com/biz/rincon-espanol-miami
+Meson Ria de Vigo;661;32;Spanish,Tapas Bars,Basque;4.0;1363 Coral Way Miami, FL 33145;25.7512153;-80.2176533;2;https://www.yelp.com/biz/meson-ria-de-vigo-miami
+3 Chefs And A Chicken;662;208;Fast Food;3.5;8195 SW 40th St Miami, FL 33155;25.7335674;-80.3271801;1;https://www.yelp.com/biz/3-chefs-and-a-chicken-miami
+Hot Mama Kitchen;663;30;Hot Pot,Chinese,Asian Fusion;4.5;3207 NE 163rd St North Miami Beach, FL 33160;25.9279536;-80.1380325;2;https://www.yelp.com/biz/hot-mama-kitchen-north-miami-beach
+El Castillo De Las Frutas;664;3;Puerto Rican;4.5;6420 Bird Rd Miami, FL 33155;25.73328;-80.299139;0;https://www.yelp.com/biz/el-castillo-de-las-frutas-miami
+Canton Palace Chinese Restaurant;665;112;Dim Sum,Imported Food;4.0;7980 SW 8th St Miami, FL 33144;25.7621227;-80.3260146;2;https://www.yelp.com/biz/canton-palace-chinese-restaurant-miami
+Amici’s Trattoria Italiana;666;279;Pizza,Italian;4.0;10201 Hammocks Blvd Miami, FL 33196;25.67315872846;-80.4420554983221;2;https://www.yelp.com/biz/amicis-trattoria-italiana-miami
+Providores & Publicans;667;15;Tapas Bars,Supper Clubs,Cocktail Bars;3.5;141 SW 7th St Miami, FL 33130;25.7675239;-80.1960334;2;https://www.yelp.com/biz/providores-and-publicans-miami
+Aoki Teppanyaki;668;270;Sushi Bars,Teppanyaki;4.0;7535 N Kendall Dr Miami, FL 33156;25.6898876089777;-80.3128032440414;2;https://www.yelp.com/biz/aoki-teppanyaki-miami-2
+Ranchito Mi Peru;669;8;Peruvian,Latin American;3.5;2102 NW 22nd Ct Miami, FL 33142;25.7953472;-80.2326096;2;https://www.yelp.com/biz/ranchito-mi-peru-miami
+El Atlakat;670;32;Latin American;4.0;2273 NW 7th St Miami, FL 33125;25.779788;-80.232673;2;https://www.yelp.com/biz/el-atlakat-miami
+Aji Carbon Sunny Isles;671;33;Peruvian;4.5;152 Sunny Isles Blvd Miami, FL 33160;25.9298416;-80.1230644;2;https://www.yelp.com/biz/aji-carbon-sunny-isles-miami
+Tacology;672;213;Mexican;2.5;701 S Miami Ave Miami, FL 33131;25.7671674;-80.1930873;2;https://www.yelp.com/biz/tacology-miami
+Mercato;673;20;Bakeries,Italian,Sandwiches;4.0;4141 NE 2nd Ave Miami, FL 33137;25.8143749;-80.190795;2;https://www.yelp.com/biz/mercato-miami
+The Cheese Course;674;358;Cheese Shops,Sandwiches,Salad;4.0;3451 NE 1st Ave Miami, FL 33137;25.8097838521257;-80.1923096847768;2;https://www.yelp.com/biz/the-cheese-course-miami
+Chef Creole Seafood & Catering;675;124;Seafood,Caribbean;4.0;200 NW 54th St Miami, FL 33127;25.824844;-80.200254;1;https://www.yelp.com/biz/chef-creole-seafood-and-catering-miami
+El Arroyito Cafe;676;9;Latin American,Cuban,Nicaraguan;4.5;2307 W Flagler St Miami, FL 33135;25.7725466;-80.2331543;1;https://www.yelp.com/biz/el-arroyito-cafe-miami-4
+Chong’s Chinese Restaurant;677;13;Chinese;4.0;1164 W Flagler St Miami, FL 33130;25.7733156;-80.2143433;2;https://www.yelp.com/biz/chongs-chinese-restaurant-miami
+Habitue Bistro;678;38;Italian,Pizza,Salad;4.5;9769 NW 41st St Miami, FL 33178;25.8124768630158;-80.3557614402304;2;https://www.yelp.com/biz/habitue-bistro-miami
+Candela Gastrobar;679;76;Peruvian,Bars;4.0;900 S Miami Ave Miami, FL 33130;25.7649519767746;-80.194281332436;2;https://www.yelp.com/biz/candela-gastrobar-miami-4
+Akashi Sushi;680;348;Japanese,Sushi Bars;4.0;5830 S Dixie Hwy South Miami, FL 33143;25.70534;-80.288057;2;https://www.yelp.com/biz/akashi-south-miami-2
+Shula’s Bar & Grill;681;85;Burgers,Steakhouses,American (Traditional);2.5;Miami International Airport Miami, FL 33126;25.7977501006268;-80.274115120781;2;https://www.yelp.com/biz/shulas-bar-and-grill-miami
+Cake Thai;682;83;Thai,Beer Bar,Wine Bars;3.5;180 NW 29th St Miami, FL 33137;25.8036235686481;-80.1988022401929;2;https://www.yelp.com/biz/cake-thai-miami
+Vicky Bakery;683;39;Bakeries,Cuban;4.0;7830 Coral Way Miami, FL 33155;25.7476837401277;-80.3223023972808;1;https://www.yelp.com/biz/vicky-bakery-miami-11
+Asador 5 Jotas;684;63;Spanish,Tapas Bars,Steakhouses;4.0;1148 SW 27th Ave Miami, FL 33135;25.7616173;-80.2389789;2;https://www.yelp.com/biz/asador-5-jotas-miami-4
+Oriental Bakery & Grocery Co;685;71;Bakeries,Middle Eastern,Grocery;4.0;1760 SW 3rd Ave Miami, FL 33129;25.7608846;-80.2006999;1;https://www.yelp.com/biz/oriental-bakery-and-grocery-co-miami
+Jabibi Doral;686;6;Mediterranean,Lebanese,Italian;4.0;2600 NW 87th Ave Miami, FL 33172;25.7987507;-80.3376977;2;https://www.yelp.com/biz/jabibi-doral-miami
+Manna Life Food;687;84;Juice Bars & Smoothies,Vegan,Gluten-Free;4.5;80 NE 2nd Ave Miami, FL 33132;25.7758225980273;-80.1904968850163;2;https://www.yelp.com/biz/manna-life-food-miami
+Ironside Kitchen;688;256;Pizza,Italian,Vegetarian;4.5;7580 NE 4th Ct Miami, FL 33138;25.844911;-80.188281;2;https://www.yelp.com/biz/ironside-kitchen-miami
+Los Gallegos Restaurant;689;36;Spanish;4.0;6549 Bird Rd Miami, FL 33155;25.7337258;-80.3019174;2;https://www.yelp.com/biz/los-gallegos-restaurant-miami
+Tytyskitchen;690;6;Soul Food,Desserts,Caterers;4.5;6781 NW 27th Ave Rd Miami, FL 33147;25.8350867878857;-80.2418501061594;2;https://www.yelp.com/biz/tytyskitchen-miami
+Delices De France;691;155;Bakeries,French,Sandwiches;4.5;14453 S Dixie Hwy Miami, FL 33176;25.6357532726966;-80.3368982354431;1;https://www.yelp.com/biz/delices-de-france-miami
+World Famous Rib Shack;692;5;Seafood,Soul Food;4.0;7506 NW 17th Ave Miami, FL 33147;25.8429623798487;-80.2256099134684;2;https://www.yelp.com/biz/world-famous-rib-shack-miami
+THYME at Carillon Miami Beach;693;13;American (New);4.0;6801 Collins Ave Miami, FL 33141;25.8527845;-80.1199803;3;https://www.yelp.com/biz/thyme-at-carillon-miami-beach-miami
+Rinconcito Cubano of Sunset;694;14;Latin American,Salad,Sandwiches;4.0;7000 SW 87th Ave Miami, FL 33173;25.7036913;-80.3344752;1;https://www.yelp.com/biz/rinconcito-cubano-of-sunset-miami
+Fratellino;695;488;Italian;5.0;264 Miracle Mile Coral Gables, FL 33134;25.7491397;-80.2600453;2;https://www.yelp.com/biz/fratellino-coral-gables-2
+Froots;696;47;Juice Bars & Smoothies,Salad,Breakfast & Brunch;4.0;13909 SW 88th St Miami, FL 33186;25.6859715714813;-80.4202274355421;1;https://www.yelp.com/biz/froots-miami-2
+Sabores Latin Grill;697;17;Cuban,Latin American;4.0;8228 W Flagler St Miami, FL 33144;25.7689238;-80.3286845;2;https://www.yelp.com/biz/sabores-latin-grill-miami
+Subs on the Run;698;76;Sandwiches;4.5;2801 NW 7th Ave Miami, FL 33127;25.8029255;-80.2069951;1;https://www.yelp.com/biz/subs-on-the-run-miami
+Lime Fresh Mexican Grill;699;222;Mexican;4.0;9005 SW 72nd Pl Miami, FL 33156;25.6867574;-80.312682;1;https://www.yelp.com/biz/lime-fresh-mexican-grill-miami-2
+Bamboo Restaurant;700;15;Colombian,Bakeries;4.5;13329 SW 42nd St Miami, FL 33175;25.7293939;-80.4105279;2;https://www.yelp.com/biz/bamboo-restaurant-miami-2
+Caporal Chicken;701;98;Chicken Wings,American (Traditional),Waffles;4.0;14616 SW 8th St Miami, FL 33184;25.7595189637015;-80.4315549507737;1;https://www.yelp.com/biz/caporal-chicken-miami
+La Boulangerie Boul’Mich - Coral Way;702;154;Breakfast & Brunch,Cafes,Delis;3.5;1242 Coral Way Miami, FL 33145;25.7508877894683;-80.2151105836263;2;https://www.yelp.com/biz/la-boulangerie-boulmich-coral-way-miami-2
+JKT’S Wings & Burgers;703;6;Food Trucks,Burgers,Chicken Wings;3.5;95TH St Nw 10th Ave Miami, FL 33150;25.8425342;-80.2131206;1;https://www.yelp.com/biz/jkts-wings-and-burgers-miami
+El Gallito Coffee Shop;704;18;Coffee & Tea,Honduran;4.5;205 SW 8th Ave Miami, FL 33130;25.7714615;-80.2074728;1;https://www.yelp.com/biz/el-gallito-coffee-shop-miami
+Rice House of Kabob;705;187;Mediterranean,Persian/Iranian;4.0;50 SW 10th St Miami, FL 33130;25.7642444;-80.1941695;2;https://www.yelp.com/biz/rice-house-of-kabob-miami-3
+Casablanca Fish Market/Seafood Bar & Grill;706;304;Seafood Markets,Seafood;3.5;404 NW N River Dr Miami, FL 33128;25.7777032052969;-80.2046044584205;3;https://www.yelp.com/biz/casablanca-fish-market-seafood-bar-and-grill-miami
+El Guayado Resturaunt;707;3;Dominican;4.5;4245 W Flagler St Miami, FL 33126;25.7717741;-80.2645275;2;https://www.yelp.com/biz/el-guayado-resturaunt-miami
+Isla Del Encanto;708;187;Puerto Rican;4.0;12850 SW 120th St Miami, FL 33186;25.6564003755271;-80.4012992857056;2;https://www.yelp.com/biz/isla-del-encanto-miami
+004 The Sandwich Connec;709;12;Sandwiches,Fast Food,American (Traditional);4.5;2400 N Miami Ave Miami, FL 33127;25.8000182703146;-80.195130292625;2;https://www.yelp.com/biz/004-the-sandwich-connec-miami
+Toscana Divino;710;207;Italian,Wine Bars;4.0;900 S Miami Ave Miami, FL 33130;25.7652195;-80.1935252;3;https://www.yelp.com/biz/toscana-divino-miami
+Olde River Pizzeria & Tavern;711;20;Italian,Pizza;4.5;620 NE 78th St Miami, FL 33138;25.8467925;-80.1840152;2;https://www.yelp.com/biz/olde-river-pizzeria-and-tavern-miami-4
+Real Cafe;712;22;Spanish,Cuban;4.0;9600 SW 8th St Miami, FL 33174;25.761247;-80.350942;2;https://www.yelp.com/biz/real-cafe-miami
+Manolo & Rene Cafeteria;713;64;Sandwiches,Latin American;3.5;281 NE 1st St Miami, FL 33132;25.7754161;-80.1887412;1;https://www.yelp.com/biz/manolo-and-rene-cafeteria-miami
+Casola’s Pizzeria & Sub Shop;714;465;Pizza,Sandwiches,Italian;3.5;2437 SW 17th Ave Miami, FL 33145;25.7470112754154;-80.2214340612953;1;https://www.yelp.com/biz/casolas-pizzeria-and-sub-shop-miami
+Moe’z Express;715;77;American (New),Latin American,Fast Food;3.5;10544 SW 8th St Miami, FL 33174;25.7602818620715;-80.366672174205;2;https://www.yelp.com/biz/moez-express-miami-6
+Caribe Cafe Restaurant;716;41;Latin American,Cuban;3.5;3953 NW 7th St Miami, FL 33126;25.7787871;-80.2614309;2;https://www.yelp.com/biz/caribe-cafe-restaurant-miami-5
+Charcoals Steak & Grill;717;60;American (New),Steakhouses;4.0;13550 SW 120th St Miami, FL 33186;25.6555538;-80.414997;2;https://www.yelp.com/biz/charcoals-steak-and-grill-miami-8
+Ten Fruits;718;192;Juice Bars & Smoothies,Coffee & Tea,Cafes;4.5;143 NE 3rd Ave Miami, FL 33132;25.776136;-80.1885987;2;https://www.yelp.com/biz/ten-fruits-miami
+Guayoyo Café;719;8;Cafes,Coffee & Tea,Sandwiches;5.0;13205 SW 137th Ave Miami, FL 33186;25.6441554;-80.4144748;1;https://www.yelp.com/biz/guayoyo-caf%C3%A9-miami
+Carolina Ale House;720;113;American (Traditional);3.0;6810 SW 40th St Miami, FL 33155;25.732883;-80.304578;2;https://www.yelp.com/biz/carolina-ale-house-miami
+Jimmy’z Kitchen Brickell;721;38;American (New),Latin American,Sandwiches;4.0;60 SW 10th St Miami, FL 33130;25.764244784596;-80.1943896713659;2;https://www.yelp.com/biz/jimmyz-kitchen-brickell-miami-2
+Cilantro 27 Gastro Truck;722;8;Latin American,Puerto Rican,Food Trucks;5.0;1898 SW 27th Ave Miami, FL 33145;25.7542042;-80.2386775;2;https://www.yelp.com/biz/cilantro-27-gastro-truck-miami
+P.F. Chang’s;723;162;Chinese,Asian Fusion,Gluten-Free;3.5;11361 NW 12th St Miami, FL 33172;25.7860582009148;-80.3797993941956;2;https://www.yelp.com/biz/p-f-changs-miami-4
+Shawarma Mediterranean Grill;724;118;Mediterranean,Middle Eastern;4.0;11752 SW 88th St Miami, FL 33186;25.6856578;-80.3857776;2;https://www.yelp.com/biz/shawarma-mediterranean-grill-miami
+The Clevelander Marlins Park;725;44;American (New),Bars;3.5;501 Marlins Way Miami, FL 33125;25.7780846776859;-80.2184933685089;2;https://www.yelp.com/biz/the-clevelander-marlins-park-miami
+Happy Wine Calle Ocho;726;70;Wine Bars,Tapas Bars,Beer, Wine & Spirits;4.0;5792 SW 8th St Miami, FL 33144;25.7634962;-80.2897222;2;https://www.yelp.com/biz/happy-wine-calle-ocho-miami
+Smoothie Spot;727;178;Salad,Juice Bars & Smoothies;4.5;15708 SW 72nd St Miami, FL 33193;25.6976695820275;-80.4470294785736;1;https://www.yelp.com/biz/smoothie-spot-miami-2
+Novecento;728;255;Argentine,Steakhouses,Breakfast & Brunch;3.5;1414 Brickell Ave Miami, FL 33131;25.7602036;-80.1926542;2;https://www.yelp.com/biz/novecento-miami
+Mister Taco;729;5;Food Trucks,Tacos;5.0;7190 SW 8th St Miami, FL 33144;25.762578;-80.311569;1;https://www.yelp.com/biz/mister-taco-miami
+Gandara Marine;730;2;Restaurants;5.0;600 NW 7th Ave Miami, FL 33136;25.7796191;-80.2066294;0;https://www.yelp.com/biz/gandara-marine-miami
+Ruson Japanese Steakhouse and Sushi Bar;731;195;Japanese,Sushi Bars;4.0;13856 SW 88th St Miami, FL 33186;25.6840567;-80.4200014;2;https://www.yelp.com/biz/ruson-japanese-steakhouse-and-sushi-bar-miami
+Beehive Juice Bar;732;167;Vegan,Juice Bars & Smoothies;4.0;6490 Bird Rd Miami, FL 33155;25.7331043262797;-80.3005219307619;1;https://www.yelp.com/biz/beehive-juice-bar-miami
+Havana Sunset Restaurant;733;6;Cuban;5.0;10734 SW 72nd St Miami, FL 33173;25.700988;-80.3668639;0;https://www.yelp.com/biz/havana-sunset-restaurant-miami
+Vizcaya Museum Gift Shop & Cafe;734;17;Gift Shops,Cafes,Tea Rooms;4.0;3251 S Miami Ave Miami, FL 33129;25.7444524;-80.2104065;2;https://www.yelp.com/biz/vizcaya-museum-gift-shop-and-cafe-miami
+Carne Asada Tortilleria Nicas;735;58;Latin American;4.0;10404 W Flagler St Miami, FL 33174;25.768092;-80.3651558;1;https://www.yelp.com/biz/carne-asada-tortilleria-nicas-miami
+Subs 88;736;80;Sandwiches,Soup,Burgers;4.5;9895 SW 88th St Miami, FL 33176;25.6877042450199;-80.3540491685271;1;https://www.yelp.com/biz/subs-88-miami-2
+BLT Prime;737;54;Steakhouses;3.5;4400 NW 87th Ave Miami, FL 33178;25.813974;-80.339884;3;https://www.yelp.com/biz/blt-prime-miami-5
+MYUMI;738;67;Sushi Bars,Food Trucks;4.5;56 NW 29th St Miami, FL 33127;25.803639;-80.196274;3;https://www.yelp.com/biz/myumi-miami
+Mar Y Tierra;739;27;Seafood,Peruvian;4.0;266 NE 1st St Miami, FL 33131;25.7750824;-80.1890179;2;https://www.yelp.com/biz/mar-y-tierra-miami
+Stoupsy’s of Athens;740;115;Greek,Mediterranean;4.0;350 SE 1st St Miami, FL 33131;25.77307;-80.188249;1;https://www.yelp.com/biz/stoupsys-of-athens-miami
+Chez Le Bebe;741;55;Haitian;3.5;114 NE 54th St Miami, FL 33137;25.8251802;-80.1934641;1;https://www.yelp.com/biz/chez-le-bebe-miami
+Hole in the Wall;742;52;Pubs,Hot Dogs,Sandwiches;4.0;14421 S Dixie Hwy Miami, FL 33176;25.6355943637388;-80.3361650991974;1;https://www.yelp.com/biz/hole-in-the-wall-miami-6
+ROOFTOP AT E11EVEN;743;127;Lounges,Tapas/Small Plates,Tacos;3.5;15 NE 11th St Miami, FL 33132;25.7850011;-80.193509;3;https://www.yelp.com/biz/rooftop-at-e11even-miami-4
+Gar Sing Chinese Food;744;64;Chinese;4.5;14515 SW 42nd St Miami, FL 33175;25.7291449410457;-80.4302307092621;1;https://www.yelp.com/biz/gar-sing-chinese-food-miami
+Raw South Juice;745;111;Juice Bars & Smoothies,Vegan,Salad;4.5;9804 SW 77th Ave Miami, FL 33156;25.6793235;-80.3185938;2;https://www.yelp.com/biz/raw-south-juice-miami
+La Fresa Francesa;746;336;Wine Bars,Cafes,French;4.5;59 W 3rd St Hialeah, FL 33010;25.824799;-80.282359;2;https://www.yelp.com/biz/la-fresa-francesa-hialeah
+Rock That Burger;747;124;Burgers,Fast Food,Hot Dogs;4.0;7138 SW 117th Ave Miami, FL 33183;25.7018203735352;-80.3828353881836;1;https://www.yelp.com/biz/rock-that-burger-miami-2
+Xochimex Cantina Grill;748;33;Desserts,Tacos,Beer Bar;4.0;16171 NW 57th Ave Miami, FL 33014;25.920069;-80.2929178;1;https://www.yelp.com/biz/xochimex-cantina-grill-miami
+Latteria Italiana;749;107;Ice Cream & Frozen Yogurt,Cafes,Italian;4.5;3301 NE 1st Ave Miami, FL 33137;25.8077660301093;-80.1928044841309;1;https://www.yelp.com/biz/latteria-italiana-miami
+House of Flavor;750;5;Caribbean,Italian,Chicken Wings;4.5;13995 NW 7th Ave Miami, FL 33168;25.9025889;-80.2115507;2;https://www.yelp.com/biz/house-of-flavor-miami-2
+Sabor A Colombia;751;10;Colombian;4.5;10662 Fountainebleau Blvd Miami, FL 33172;25.7754908;-80.3689345;2;https://www.yelp.com/biz/sabor-a-colombia-miami
+Greenlife Organic Bistro;752;39;Juice Bars & Smoothies,Breakfast & Brunch,Organic Stores;4.0;909 Brickell Ave Miami, FL 33131;25.7651256;-80.190597;2;https://www.yelp.com/biz/greenlife-organic-bistro-miami-3
+Zona Inka Restaurant;753;49;Peruvian;4.5;11238 SW 137th Ave Miami, FL 33186;25.6630571679133;-80.4170667375732;2;https://www.yelp.com/biz/zona-inka-restaurant-miami-3
+The Seven Dials;754;152;Gastropubs,American (New),Pubs;4.5;2030 S Douglas Rd Coral Gables, FL 33134;25.753661;-80.255263;2;https://www.yelp.com/biz/the-seven-dials-coral-gables
+Rickenbacker Restaurant;755;13;American (New);3.0;3900 NW 21st St Miami, FL 33142;25.7947465568073;-80.2590306310395;2;https://www.yelp.com/biz/rickenbacker-restaurant-miami
+Love Life Cafe;756;14;Gluten-Free,Vegan,Vegetarian;5.0;584 NW 27th St Miami, FL 33137;25.801596;-80.2048329;2;https://www.yelp.com/biz/love-life-cafe-miami-3
+Puerto Madero Miami;757;238;Argentine,Steakhouses,Meat Shops;4.0;12879 N Kendall Dr Miami, FL 33186;25.6869311748724;-80.4024184408987;2;https://www.yelp.com/biz/puerto-madero-miami-miami
+TGI Friday’s;758;64;American (Traditional),Bars,Burgers;3.5;2100 NW 42nd Ave Miami, FL 33142;25.7973507375624;-80.2814340591431;2;https://www.yelp.com/biz/tgi-fridays-miami-3
+Wine Vault;759;94;Tapas/Small Plates,Beer, Wine & Spirits;3.5;3201 N Miami Ave Miami, FL 33127;25.8078380648009;-80.1942979859744;2;https://www.yelp.com/biz/wine-vault-miami
+Frank Cachapas;760;14;Food Trucks,Venezuelan;5.0;8683 NW 66th St Miami, FL 33165;25.7324790216327;-80.3450935;1;https://www.yelp.com/biz/frank-cachapas-miami-2
+Taqueria Guadalupana;761;8;Mexican,Food Trucks;4.0;1755 SW 7th St Miami, FL 33135;25.7665296;-80.2237372;1;https://www.yelp.com/biz/taqueria-guadalupana-miami
+Mr Boneless;762;9;Barbeque;4.0;1807 NW 79th St Miami, FL 33147;25.8465623;-80.2276739;2;https://www.yelp.com/biz/mr-boneless-miami-3
+Pizza Project;763;131;Pizza,Italian;4.5;10716 SW 113th Pl Miami, FL 33176;25.6686986843865;-80.3783432724915;1;https://www.yelp.com/biz/pizza-project-miami
+Palatino Jamaican Restaurant;764;153;American (New),Caribbean;3.5;3004 NW 2nd Ave Miami, FL 33127;25.805255;-80.199392;2;https://www.yelp.com/biz/palatino-jamaican-restaurant-miami
+New China Town;765;4;Chinese;3.0;2549 NW 54th St Miami, FL 33142;25.8239672;-80.2394038;1;https://www.yelp.com/biz/new-china-town-miami
+Los Arrieros;766;41;Colombian;4.0;10995 SW 40th St Miami, FL 33165;25.7325435;-80.3735601;2;https://www.yelp.com/biz/los-arrieros-miami
+Doraku Sushi;767;370;Sushi Bars,Japanese;4.0;900 S Miami Ave Miami, FL 33130;25.7648680267642;-80.1942180402756;2;https://www.yelp.com/biz/doraku-sushi-miami
+Miranda Restaurant;768;13;Latin American,Bars,Soup;4.0;4299 NW 36th St Miami, FL 33166;25.8088293;-80.2661757;2;https://www.yelp.com/biz/miranda-restaurant-miami
+Guayacan Restaurant;769;33;Latin American;4.0;1933 SW 8th St Miami, FL 33135;25.7658452;-80.2274316;2;https://www.yelp.com/biz/guayacan-restaurant-miami
+Tropical Chinese Restaurant;770;556;Dim Sum;3.5;7991 SW 40th St Miami, FL 33155;25.734035;-80.325937;2;https://www.yelp.com/biz/tropical-chinese-restaurant-miami-3
+Chimi Churri Los Primos;771;10;Caribbean,Fast Food,Burgers;3.5;2306 NW 36th St Miami, FL 33142;25.8091921;-80.2342617;2;https://www.yelp.com/biz/chimi-churri-los-primos-miami
+Cuban Guys;772;234;Cuban,Sandwiches;4.0;10801 Sunset Dr Miami, FL 33173;25.7015493264779;-80.3671240537414;1;https://www.yelp.com/biz/cuban-guys-miami-3
+Eating House;773;828;American (New);4.0;804 Ponce De Leon Blvd Coral Gables, FL 33134;25.764242;-80.259365;2;https://www.yelp.com/biz/eating-house-coral-gables-2
+Long Gong Restaurant;774;30;Chinese;4.5;11920 SW 8th St Miami, FL 33184;25.7602319;-80.389269;2;https://www.yelp.com/biz/long-gong-restaurant-miami
+Central Table Café;775;10;Salad,Cafes,Juice Bars & Smoothies;3.5;1120 NW 14th St Miami, FL 33136;25.787156444917;-80.213187540432;1;https://www.yelp.com/biz/central-table-caf%C3%A9-miami
+Limited Edition Caffé & Vino Buono;776;32;Coffee & Tea,Cafes;4.5;7580 NE 4th Ct Miami, FL 33138;25.8445427;-80.1882539;2;https://www.yelp.com/biz/limited-edition-caff%C3%A9-and-vino-buono-miami
+Chop Suey International Restaurant;777;48;Chinese;4.0;90 SW 27th Ave Miami, FL 33135;25.7715723;-80.2393345;2;https://www.yelp.com/biz/chop-suey-international-restaurant-miami
+Gyroville;778;191;Greek;4.0;8841 SW 107th Ave Miami, FL 33176;25.6854457523934;-80.3644753710712;1;https://www.yelp.com/biz/gyroville-miami
+Dona Paulina;779;48;Latin American,Steakhouses;4.0;8263 SW Bird Rd Miami, FL 33155;25.7336901;-80.3287621;2;https://www.yelp.com/biz/dona-paulina-miami-2
+Bru’s Room;780;119;American (New),Sports Bars,Chicken Wings;3.5;8318 SW 40th St Miami, FL 33155;25.7329243210172;-80.330810174346;2;https://www.yelp.com/biz/brus-room-miami
+Sette Cafe;781;53;Salad,Cafes,Sandwiches;4.0;123 SE 2nd Ave Miami, FL 33131;25.772780126788;-80.1901358593212;2;https://www.yelp.com/biz/sette-cafe-miami
+Los Arrieros;782;16;Colombian;4.5;3398 Coral Way Miami, FL 33145;25.7497773;-80.2494328;2;https://www.yelp.com/biz/los-arrieros-miami-4
+Toston Gourmet;783;25;Spanish,Colombian;4.0;14709 SW 42nd St Miami, FL 33185;25.729434;-80.43314;2;https://www.yelp.com/biz/toston-gourmet-miami
+Sabor Latino Cubano Criollo;784;10;Cuban,Latin American;5.0;6500 SW 40th St Miami, FL 33155;25.7331799;-80.3011186;2;https://www.yelp.com/biz/sabor-latino-cubano-criollo-miami
+Cafe Las Paisanas;785;1;Latin American;5.0;1800W Flagler St Miami, FL 33135;25.7725504;-80.2250763;0;https://www.yelp.com/biz/cafe-las-paisanas-miami-2
+El Palacio De Los Jugos;786;15;Cuban,Latin American,Seafood;4.0;8700 SW 8th St Miami, FL 33174;25.7616695589852;-80.3364039798361;1;https://www.yelp.com/biz/el-palacio-de-los-jugos-miami-12
+Brio Tuscan Grille;787;81;Tuscan;3.0;11401 NW 12th St Miami, FL 33172;25.7866390918033;-80.3818711431305;2;https://www.yelp.com/biz/brio-tuscan-grille-miami-3
+Flavorish Market;788;31;Bakeries,Coffee & Tea,Breakfast & Brunch;4.5;7283 Biscayne Blvd Miami, FL 33138;25.8423138829675;-80.1843783509683;2;https://www.yelp.com/biz/flavorish-market-miami-6
+Elle Taco;789;60;Mexican,Breakfast & Brunch,Desserts;4.0;7535 N Kendall Dr Miami, FL 33156;25.6901911;-80.3132992;2;https://www.yelp.com/biz/elle-taco-miami
+La Riviera;790;26;French;3.5;5800 Blue Lagoon Dr Miami, FL 33126;25.781992;-80.291485;3;https://www.yelp.com/biz/la-riviera-miami
+Palomilla Grill;791;68;Cuban;4.0;6890 W Flagler St Miami, FL 33144;25.770072;-80.307308;2;https://www.yelp.com/biz/palomilla-grill-miami
+DoubleShot tapas and Burger Bar;792;10;Burgers,Tapas Bars;2.5;711 NW 72nd Ave Miami, FL 33126;25.778499;-80.3104262;2;https://www.yelp.com/biz/doubleshot-tapas-and-burger-bar-miami
+Luis Galindo’s Latin American;793;84;Latin American,Bakeries,Cuban;4.0;898 SW 57th Ave Miami, FL 33144;25.7629911;-80.2878667;1;https://www.yelp.com/biz/luis-galindos-latin-american-miami
+3 Chef’s;794;216;Chinese,Vietnamese;3.0;1800 Biscayne Blvd Miami, FL 33132;25.7939313414568;-80.1891506857027;2;https://www.yelp.com/biz/3-chefs-miami
+Cevichino;795;27;Peruvian;4.0;4729 NW 79th Ave Miami, FL 33166;25.8168813;-80.3254559;2;https://www.yelp.com/biz/cevichino-miami
+Coopertown Airboat Rides & Restaurant;796;122;American (New),Diners;3.5;22700 SW 8th St Miami, FL 33194;25.760755;-80.560793;2;https://www.yelp.com/biz/coopertown-airboat-rides-and-restaurant-miami-10
+Toasted Bagelry & Deli;797;42;Delis,Bagels;4.0;3693 SW 22nd Ter Miami, FL 33145;25.7492141485763;-80.2541715636977;2;https://www.yelp.com/biz/toasted-bagelry-and-deli-miami-3
+Icebox Cafe MIA;798;85;Coffee & Tea,Cafes,Desserts;3.5;2100 NW 42nd Ave Miami, FL 33142;25.7985237499054;-80.2723455676086;2;https://www.yelp.com/biz/icebox-cafe-mia-miami
+Coral Restaurant Cafeteria;799;4;Cuban,Cafes;4.0;7390 NW 35th Ter Miami, FL 33122;25.8075211;-80.3170588;1;https://www.yelp.com/biz/coral-restaurant-cafeteria-miami
+Nikki’s Cafe;800;6;Coffee & Tea,Breakfast & Brunch,Cuban;4.0;1226 SW 8th St Miami, FL 33135;25.765815;-80.215203;1;https://www.yelp.com/biz/nikkis-cafe-miami
+Latinos 305 Cafe;801;27;Cuban;4.0;44 NE 1st St Miami, FL 33132;25.7750036;-80.1927679;1;https://www.yelp.com/biz/latinos-305-cafe-miami-2
+RoRock Healthy Gourmet;802;11;Food Delivery Services,Gluten-Free,Breakfast & Brunch;5.0;12039 SW 132nd Ct Miami, FL 33186;25.655789;-80.4077132;1;https://www.yelp.com/biz/rorock-healthy-gourmet-miami-2
+PokeBao;803;105;Poke,Hawaiian;4.5;153 Giralda Ave Coral Gables, FL 33134;25.7514860349269;-80.257926;2;https://www.yelp.com/biz/pokebao-coral-gables-5
+Roasters’ n Toasters;804;294;Bagels,Delis;4.0;9465 S Dixie Hwy Miami, FL 33156;25.683502;-80.3135067;2;https://www.yelp.com/biz/roasters-n-toasters-miami
+The Last Carrot;805;179;Vegetarian,Juice Bars & Smoothies;4.0;3133 Grand Ave Miami, FL 33133;25.72838;-80.2439711;1;https://www.yelp.com/biz/the-last-carrot-miami
+Cafe Chung King;806;1;Restaurants;5.0;1250 NW 54th St Miami, FL 33142;25.824425;-80.21732;0;https://www.yelp.com/biz/cafe-chung-king-miami
+Al Basha;807;22;Delis,International Grocery;4.5;5821 SW 137th Ave Miami, FL 33183;25.7128554079809;-80.4143360738299;1;https://www.yelp.com/biz/al-basha-miami
+Daily Bread;808;125;Mediterranean,Middle Eastern;4.0;12131 S Dixie Hwy Miami, FL 33156;25.657715;-80.3266989;1;https://www.yelp.com/biz/daily-bread-miami
+George’s in the Grove;809;224;French,Breakfast & Brunch,Burgers;3.0;3145 Commodore Plz Miami, FL 33133;25.7275444;-80.24436;2;https://www.yelp.com/biz/georges-in-the-grove-miami-4
+Moto Moto Pizza Cafe & Grill Pizza;810;47;Pizza,Cafes,Italian;4.5;8434 S Dixie Hwy Miami, FL 33143;25.6927248;-80.3058415;1;https://www.yelp.com/biz/moto-moto-pizza-cafe-and-grill-pizza-miami
+Joanna’s Marketplace;811;119;Delis,Bakeries,Cafes;4.0;8247 S Dixie Hwy Miami, FL 33143;25.6931798;-80.3015141;2;https://www.yelp.com/biz/joannas-marketplace-miami-5
+N by NAOE;812;6;Japanese;4.5;661 Brickell Key Dr Miami, FL 33131;25.767347;-80.185392;4;https://www.yelp.com/biz/n-by-naoe-miami
+Bizcaya;813;7;Breakfast & Brunch,American (Traditional);4.0;3300 SW 27th Ave Miami, FL 33133;25.730362;-80.237578;4;https://www.yelp.com/biz/bizcaya-miami
+Sokai Sushi Bar;814;87;Sushi Bars,Bars,Japanese;3.5;8888 SW 136th St Miami, FL 33176;25.6443825;-80.3394789;2;https://www.yelp.com/biz/sokai-sushi-bar-miami-2
+Bonefish Grill;815;218;Seafood;4.0;12520 SW 120th St Miami, FL 33186;25.6555287;-80.3963451;2;https://www.yelp.com/biz/bonefish-grill-miami-5
+Purple People Eatery;816;27;American (New),Food Trucks;4.0;Miami, FL 33130;25.7667897;-80.2070328;1;https://www.yelp.com/biz/purple-people-eatery-miami-2
+Madruga’s Cafe;817;2;Cuban;5.0;6895 Bird Rd Miami, FL 33155;25.7335127;-80.3065945;1;https://www.yelp.com/biz/madrugas-cafe-miami
+Pride & Joy BBQ;818;907;Barbeque,Bars;3.0;2800 N Miami Ave Miami, FL 33127;25.803296;-80.195239;2;https://www.yelp.com/biz/pride-and-joy-bbq-miami
+El Capo Brickell;819;13;Cocktail Bars,Mexican;3.0;1250 S Miami Ave Miami, FL 33130;25.7621891519271;-80.1932182163;3;https://www.yelp.com/biz/el-capo-brickell-miami
+Cafe 20/20;820;11;Cafes;4.0;900 NW 17th St Miami, FL 33136;25.7910151;-80.210575;1;https://www.yelp.com/biz/cafe-20-20-miami
+Apoke;821;58;Poke,Sushi Bars;4.5;6620 SW 57th Ave South Miami, FL 33143;25.7089989;-80.285976;2;https://www.yelp.com/biz/apoke-south-miami-2
+House of Food Porn;822;1;Coffee & Tea,Comfort Food;5.0;197 NW 62nd St Miami, FL 33150;25.8327202;-80.2000904;0;https://www.yelp.com/biz/house-of-food-porn-miami-3
+La Granja;823;176;Peruvian,Seafood;3.5;127 SE 2nd Ave Miami, FL 33131;25.7724657673342;-80.1904392269425;2;https://www.yelp.com/biz/la-granja-miami-4
+Bocas Grill Kendall;824;39;Latin American;3.0;12042 SW 88th St Miami, FL 33186;25.6847160349408;-80.3922954574227;2;https://www.yelp.com/biz/bocas-grill-kendall-miami-2
+Bahia Honda Restaurant;825;5;Seafood,Seafood Markets,Wine Bars;5.0;10670 SW 24th St Miami, FL 33165;25.7463696098273;-80.3664012482364;1;https://www.yelp.com/biz/bahia-honda-restaurant-miami
+Tostada Cafe;826;11;Coffee & Tea,Breakfast & Brunch,Bakeries;5.0;28 W Flagler St Miami, FL 33130;25.7739101;-80.1941967;1;https://www.yelp.com/biz/tostada-cafe-miami
+Surf & Turf Catering;827;48;Seafood,Caterers;5.0;609 Brickell Ave Miami, FL 33131;25.7671530055764;-80.1883879703613;2;https://www.yelp.com/biz/surf-and-turf-catering-miami
+Toto 1 Pizza;828;9;Pizza;4.5;7915 Biscayne Blvd Miami, FL 33138;25.8482633;-80.1845049;1;https://www.yelp.com/biz/toto-1-pizza-miami-2
+Gourmet305;829;1;Bars,Seafood,Breakfast & Brunch;5.0;7744 NW 64th St Miami, FL 33166;25.8311105;-80.3237129;2;https://www.yelp.com/biz/gourmet305-miami
+Conch Heaven;830;74;Caribbean;3.5;11275 NW 27th Ave Miami, FL 33167;25.8770441;-80.2425293;2;https://www.yelp.com/biz/conch-heaven-miami-2
+Cantina La Veinte Miami;831;322;Mexican;3.0;495 Brickell Ave Miami, FL 33131;25.768305;-80.188528;3;https://www.yelp.com/biz/cantina-la-veinte-miami-miami-2
+Groovy’s Pizza & Grill;832;84;Pizza,Italian;3.5;2770 SW 27th Ave Miami, FL 33133;25.7408230297128;-80.23807143923;2;https://www.yelp.com/biz/groovys-pizza-and-grill-miami-2
+Sapore Di Mare;833;177;Italian,Seafood;4.5;3111 Grand Ave Coconut Grove, FL 33133;25.728206;-80.2438099;2;https://www.yelp.com/biz/sapore-di-mare-coconut-grove
+University Restaurant And Patio;834;36;Greek,Mediterranean,Diners;4.0;1025 NW 20th St Miami, FL 33136;25.7953241;-80.2115853;1;https://www.yelp.com/biz/university-restaurant-and-patio-miami
+Sushi Sake Dadeland;835;24;Sushi Bars,Japanese;3.5;9059 SW 73rd Ct Miami, FL 33156;25.686462;-80.314201;2;https://www.yelp.com/biz/sushi-sake-dadeland-miami-3
+Pita Grill;836;100;Mediterranean,Grocery;4.0;12776 SW 88th St Miami, FL 33186;25.6853532304308;-80.4019936826645;2;https://www.yelp.com/biz/pita-grill-miami
+Hibachi Grill & Noodle Bar;837;115;Japanese,Noodles;3.5;45 NE 3rd Ave Miami, FL 33132;25.7747515;-80.1885464;2;https://www.yelp.com/biz/hibachi-grill-and-noodle-bar-miami
+Bottega Grill Restaurant;838;80;Italian,Seafood;3.5;2411 SW 147th Ave Miami, FL 33185;25.7445924;-80.4318957;2;https://www.yelp.com/biz/bottega-grill-restaurant-miami
+Manantial Market Place;839;8;Grocery,Colombian;4.5;6778 W Flagler St Miami, FL 33144;25.7701921;-80.3058713;2;https://www.yelp.com/biz/manantial-market-place-miami
+Bamboo Restaurant;840;53;Latin American;4.0;9342 SW 56th St Miami, FL 33165;25.7154297;-80.3461559;2;https://www.yelp.com/biz/bamboo-restaurant-miami
+Miami Subs & Cafe;841;1;Salad,Juice Bars & Smoothies,Coffee & Tea;5.0;4905 NW 72nd Ave Miami, FL 33166;25.8177252;-80.3130127;0;https://www.yelp.com/biz/miami-subs-and-cafe-miami
+Flanigan’s Seafood Bar & Grill;842;179;American (Traditional),Seafood,Sports Bars;4.0;11415 S Dixie Hwy Miami, FL 33156;25.6646059;-80.3237964;2;https://www.yelp.com/biz/flanigans-seafood-bar-and-grill-miami-14
+La Esquina at 11th;843;15;Pizza,Cafes,Italian;3.5;1040 Biscayne Blvd Miami, FL 33132;25.7845916;-80.1900823;3;https://www.yelp.com/biz/la-esquina-at-11th-miami
+Bar-B-Que Ribs Chicken & Jerk Shack;844;35;Soul Food,Barbeque;3.5;12101 NW 27th Ave Miami, FL 33167;25.8847519853341;-80.2426274042949;2;https://www.yelp.com/biz/bar-b-que-ribs-chicken-and-jerk-shack-miami
+Perry Wings Plus;845;13;Caribbean,Chicken Wings,Fast Food;3.5;10817 NW 27th Ave Miami, FL 33167;25.8729725;-80.2425617;2;https://www.yelp.com/biz/perry-wings-plus-miami
+Giardino Gourmet Salads;846;2;Salad;5.0;169 E Flagler St Miami, FL 33131;25.7745326;-80.1906444;0;https://www.yelp.com/biz/giardino-gourmet-salads-miami-19
+Tradewinds Waterfront Bar and Grill;847;152;American (Traditional),Seafood;3.0;401 Biscayne Blvd Miami, FL 33132;25.7780937;-80.1864118;2;https://www.yelp.com/biz/tradewinds-waterfront-bar-and-grill-miami-2
+Panna Doral;848;82;Venezuelan,Fast Food,Burgers;3.5;11402 NW 41st St Miami, FL 33178;25.8108149;-80.382865;1;https://www.yelp.com/biz/panna-doral-miami-2
+Sushi Lico;849;131;Sushi Bars,Thai;4.0;15896 SW 137th Ave Miami, FL 33177;25.6197656;-80.4146431;2;https://www.yelp.com/biz/sushi-lico-miami-3
+Salad Box;850;2;Desserts,Juice Bars & Smoothies,Salad;4.5;125 SE 3rd Ave Miami, FL 33131;25.7730011;-80.1887598;0;https://www.yelp.com/biz/salad-box-miami-2
+Delicias de Espana 2;851;28;Spanish,Bakeries,Wine Bars;4.5;7384 SW 40th St Miami, FL 33155;25.7329976;-80.3145536;2;https://www.yelp.com/biz/delicias-de-espana-2-miami-5
+Eloise & Earnestine Soul Food;852;3;Soul Food;4.5;6781 NW 27th Ave Miami, FL 33147;25.8540607;-80.2419121;0;https://www.yelp.com/biz/eloise-and-earnestine-soul-food-miami
+The Pit Bar-B-Q;853;201;Barbeque,Caterers;2.5;16400 SW 8th St Miami, FL 33194;25.7605594;-80.4615991;2;https://www.yelp.com/biz/the-pit-bar-b-q-miami
+Flava’s Miami;854;4;Southern,Breakfast & Brunch,Soul Food;5.0;17490 SW 104th Ave Miami, FL 33157;25.6067498;-80.3612729;1;https://www.yelp.com/biz/flavas-miami-miami
+Mooyah;855;94;Burgers,Ice Cream & Frozen Yogurt,American (Traditional);3.5;13725 SW 152nd St Miami, FL 33186;25.6271731840518;-80.4155311547455;1;https://www.yelp.com/biz/mooyah-miami-2
+Cane A Sucre;856;57;French,Sandwiches,Breakfast & Brunch;4.0;21 NW Miami Ct Miami, FL 33128;25.7745418;-80.194646;2;https://www.yelp.com/biz/cane-a-sucre-miami-5
+Don Domingo;857;61;Argentine;4.0;2756 SW 137th Ave Miami, FL 33175;25.7426853179932;-80.4163055419922;2;https://www.yelp.com/biz/don-domingo-miami
+Divino Ceviche;858;415;Peruvian,Latin American,Seafood;4.5;2629 NW 79th Ave Doral, FL 33122;25.7981809;-80.3245393;2;https://www.yelp.com/biz/divino-ceviche-doral-4
+Cafe Concerto;859;7;Piano Bars,Italian;4.5;1624 NE 79th St Miami, FL 33138;25.8480398909646;-80.1516032305235;3;https://www.yelp.com/biz/cafe-concerto-miami
+The Sushi Bar;860;116;Sushi Bars;4.5;8748 SW 72nd St Miami, FL 33173;25.7013931827622;-80.3356019762101;2;https://www.yelp.com/biz/the-sushi-bar-miami
+My Ceviche;861;45;Seafood,Tacos,American (New);4.0;3252 NE 1st Ave Miami, FL 33137;25.8072630307337;-80.1937086092621;2;https://www.yelp.com/biz/my-ceviche-miami-8
+Casa Brasolin;862;13;Mexican,Italian,Brazilian;4.5;19 SE 2nd Ave Miami, FL 33131;25.7737653;-80.1899434;2;https://www.yelp.com/biz/casa-brasolin-miami-2
+Rincon Argentino;863;134;Steakhouses,Italian,Argentine;4.0;2345 S Douglas Rd Miami, FL 33145;25.747246;-80.2542866;2;https://www.yelp.com/biz/rincon-argentino-miami
+Cabo Flats;864;184;Mexican;3.0;11401 NW 12th St Miami, FL 33172;25.7866311284469;-80.3828497231007;2;https://www.yelp.com/biz/cabo-flats-miami-2
+Los Verdes;865;138;Colombian,American (New),Burgers;3.0;2426 SW 137th Ave Miami, FL 33175;25.7448165481415;-80.4170765627171;1;https://www.yelp.com/biz/los-verdes-miami-4
+BND Burger;866;77;Burgers,Fast Food,Mexican;3.5;2519 NW 2nd Ave Miami, FL 33127;25.8011757;-80.1989727;2;https://www.yelp.com/biz/bnd-burger-miami
+Lil Greenhouse Grill;867;11;Cafes,Soul Food,Breakfast & Brunch;4.0;1300 NW 3rd Ave Miami, FL 33136;25.7869511308116;-80.2000363916159;2;https://www.yelp.com/biz/lil-greenhouse-grill-miami
+Atlas Meat-Free Delicatessen;868;7;Vegan,Comfort Food,Sandwiches;5.0;98 NE 79th St Miami, FL 33138;25.8472201829963;-80.1953862607306;1;https://www.yelp.com/biz/atlas-meat-free-delicatessen-miami-2
+Lol On the Bay;869;6;Argentine,American (New),Wine Bars;4.0;901 Brickell Bay Dr Miami, FL 33131;25.7643738761135;-80.1885469433777;2;https://www.yelp.com/biz/lol-on-the-bay-miami-2
+Segafredo Bayside;870;19;Italian,Cocktail Bars;3.5;401 Biscayne Blvd Miami, FL 33131;25.778234;-80.186545;2;https://www.yelp.com/biz/segafredo-bayside-miami
+Stanzione 87;871;192;Italian,Pizza;4.0;87 SW 8th St Miami, FL 33130;25.7665739;-80.1949683;2;https://www.yelp.com/biz/stanzione-87-miami-2
+Cocowhip;872;13;Desserts,Breakfast & Brunch,Juice Bars & Smoothies;4.0;1401 Brickell Ave Miami, FL 33131;25.7597397;-80.191675;1;https://www.yelp.com/biz/cocowhip-miami
+El Rinconcito Salvadoreno;873;34;Salvadoran;3.5;15924 SW 137th Ave Miami, FL 33177;25.6199132;-80.414641;1;https://www.yelp.com/biz/el-rinconcito-salvadoreno-miami
+Crackers Casual Dining;874;441;Southern,Breakfast & Brunch,Burgers;4.0;78 Canal St Miami Springs, FL 33166;25.8227087;-80.2817889;2;https://www.yelp.com/biz/crackers-casual-dining-miami-springs
+Duffy’s Tavern;875;103;Bars,Burgers;4.0;2108 SW 57th Ave Miami, FL 33155;25.7511641166699;-80.2875455514379;1;https://www.yelp.com/biz/duffys-tavern-miami
+Central Park Food Station;876;173;Venezuelan,American (Traditional),Coffee & Tea;4.5;2721 NW 79th Ave Doral, FL 33122;25.7975232;-80.3249672;1;https://www.yelp.com/biz/central-park-food-station-doral
+Great Wall Chinese Restaurant;877;15;Chinese;4.5;20111 SW 127th Ave Miami, FL 33177;25.5800245736075;-80.3958426985605;1;https://www.yelp.com/biz/great-wall-chinese-restaurant-miami-3
+Southern Style Kitchen & Grill;878;5;American (Traditional),Soul Food,Burgers;4.0;6781 NW 27th Ave Miami, FL 33147;25.8956870497167;-80.2438891679049;2;https://www.yelp.com/biz/southern-style-kitchen-and-grill-miami
+Trigo Café;879;200;Cuban,Sandwiches,Cafes;4.5;839 W 49th St Hialeah, FL 33012;25.8669846631332;-80.3002468081573;1;https://www.yelp.com/biz/trigo-caf%C3%A9-hialeah-2
+Sergio’s Restaurant;880;160;Latin American,Cuban,Tapas/Small Plates;3.0;9330 SW 40th St Miami, FL 33165;25.7325496432842;-80.3465050687867;2;https://www.yelp.com/biz/sergios-restaurant-miami-56
+Che Tito’s;881;81;Pizza,Argentine;4.0;12018 SW 88th St Miami, FL 33186;25.6850515199626;-80.3919742817535;2;https://www.yelp.com/biz/che-titos-miami
+Brasas y Vinos Restaurante;882;6;Peruvian,Argentine,Wine Bars;4.0;235 Park Blvd Miami, FL 33126;25.7726453;-80.3264641;2;https://www.yelp.com/biz/brasas-y-vinos-restaurante-miami
+Zona Grill Food Truck;883;17;Food Trucks,Latin American;4.0;3026 N Miami Ave Miami, FL 33127;25.805545;-80.195461;1;https://www.yelp.com/biz/zona-grill-food-truck-miami
+Empire Lounge & Pizzeria;884;66;Pizza,Middle Eastern,Hookah Bars;3.5;5920 S Dixie Hwy Miami, FL 33143;25.7039628;-80.2897897;2;https://www.yelp.com/biz/empire-lounge-and-pizzeria-miami
+Tabla Cafe & Grill;885;6;Cafes;5.0;6901 Coral Way Miami, FL 33155;25.748493;-80.307247;1;https://www.yelp.com/biz/tabla-cafe-and-grill-miami-2
+Go To Sushi;886;136;Sushi Bars,Japanese;4.0;5140 Biscayne Blvd Miami, FL 33137;25.8234516;-80.1874445;1;https://www.yelp.com/biz/go-to-sushi-miami
+Mi Pueblo;887;64;Colombian;4.0;10910 W Flagler St Miami, FL 33174;25.7683377;-80.373276;2;https://www.yelp.com/biz/mi-pueblo-miami
+Latinlite by Fat Busters;888;47;Cuban,Latin American,Health Markets;4.5;12234 SW 8th St Miami, FL 33184;25.7594103;-80.3942594;1;https://www.yelp.com/biz/latinlite-by-fat-busters-miami
+Cadillac Ranch;889;242;American (Traditional);3.0;11735 Sherri Ln Miami, FL 33183;25.6887012;-80.3845794;2;https://www.yelp.com/biz/cadillac-ranch-miami-2
+Pipo Burgers on Wheels;890;13;Food Trucks,Burgers;4.5;;25.8342786714102;-80.3291273160762;1;https://www.yelp.com/biz/pipo-burgers-on-wheels-miami
+Virgo Bomb;891;17;Food Trucks,Sandwiches,Fast Food;5.0;;25.8830363;-80.2377078;1;https://www.yelp.com/biz/virgo-bomb-miami-4
+Stephanie’s Cafe;892;4;Cafeteria,Breakfast & Brunch,Sandwiches;5.0;10711 SW 216th St Miami, FL 33170;25.5665799;-80.3647951;0;https://www.yelp.com/biz/stephanies-cafe-miami
+The Local Craft Food & Drink;893;477;Bars,American (New),Gastropubs;4.0;150 Giralda Ave Coral Gables, FL 33134;25.751116;-80.257768;2;https://www.yelp.com/biz/the-local-craft-food-and-drink-coral-gables
+5300 Chophouse;894;22;Steakhouses;3.5;5300 NW 87th Ave Miami, FL 33178;25.8198053;-80.3380507;2;https://www.yelp.com/biz/5300-chophouse-miami
+Fuji Hana;895;147;Japanese,Thai,Sushi Bars;4.0;11768 SW 88th St Miami, FL 33186;25.6857811197726;-80.3862837828873;2;https://www.yelp.com/biz/fuji-hana-miami-2
+The Cheese Course;896;2;Salad,Cheese Shops,Sandwiches;5.0;3530 NW 83rd Ave Miami, FL 33122;25.8491023;-80.2552519;2;https://www.yelp.com/biz/the-cheese-course-miami-3
+Taquerias El Mexicano;897;229;Mexican;3.5;521 SW 8th St Miami, FL 33130;25.7663366;-80.2028987;1;https://www.yelp.com/biz/taquerias-el-mexicano-miami-2
+55th Street Station;898;1;Restaurants,Lounges;5.0;5582 NE 4th Ct Miami, FL 33137;25.8276111;-80.1874041;0;https://www.yelp.com/biz/55th-street-station-miami
+Buena Vista Deli;899;316;Delis,French;4.0;4590 NE 2nd Ave Miami, FL 33137;25.8177367;-80.1917119;2;https://www.yelp.com/biz/buena-vista-deli-miami
+Los Gauchitos;900;32;Argentine,Steakhouses,Patisserie/Cake Shop;3.5;4315 NW 7th St Miami, FL 33126;25.7791274;-80.2665143;2;https://www.yelp.com/biz/los-gauchitos-miami-6
+Okay Burger;901;32;Burgers,Latin American;4.0;13205 SW 137th Ave Miami, FL 33186;25.6441559873141;-80.4148012027144;1;https://www.yelp.com/biz/okay-burger-miami
+Frankie’s Pizza;902;198;Pizza;3.5;9118 SW 40th St Miami, FL 33165;25.733112;-80.342945;1;https://www.yelp.com/biz/frankies-pizza-miami-2
+Las Palmas Cafeteria;903;46;Cuban,Breakfast & Brunch,Cafeteria;4.0;209 SE 1st St Miami, FL 33131;25.7737406;-80.1900783;1;https://www.yelp.com/biz/las-palmas-cafeteria-miami
+Two Brothers Pizzeria & Restaurant;904;201;Pizza,Italian;4.0;13740 SW 84th St Miami, FL 33183;25.687938;-80.4178871;2;https://www.yelp.com/biz/two-brothers-pizzeria-and-restaurant-miami
+Lulu;905;601;American (New);4.0;3105 Commodore Plz Coconut Grove, FL 33133;25.7269699;-80.2437143;2;https://www.yelp.com/biz/lulu-coconut-grove
+Islander Bar & Grill;906;192;Bars,American (Traditional);2.5;Miami International Airport Miami, FL 33166;25.798577;-80.271926;2;https://www.yelp.com/biz/islander-bar-and-grill-miami
+Giardino Gourmet Salads;907;184;Salad;4.5;11624 N Kendall Dr Miami, FL 33176;25.6857734319577;-80.38382193823;1;https://www.yelp.com/biz/giardino-gourmet-salads-miami-7
+Las Pavas;908;2;Fast Food;5.0;2220 NW 7th St Miami, FL 33125;25.7795047;-80.2317174;0;https://www.yelp.com/biz/las-pavas-miami
+Sushi Sake;909;21;Sushi Bars,Japanese;2.5;900 Biscayne Blvd Miami, FL 33132;25.7834355;-80.190181;2;https://www.yelp.com/biz/sushi-sake-miami-12
+Cafe Y Sabor;910;8;Latin American,Cafes;4.0;7269 NW 36th St Miami, FL 33166;25.8094473;-80.3153148;1;https://www.yelp.com/biz/cafe-y-sabor-miami
+Etzel Itzik Deli;911;130;Delis,Middle Eastern;4.5;18757 W Dixie Hwy Miami, FL 33180;25.9489912;-80.148777;2;https://www.yelp.com/biz/etzel-itzik-deli-miami
+Rio Bistro;912;4;Breakfast & Brunch,Cafes;5.0;5451 NW 72nd Ave Miami, FL 33166;25.8233336;-80.3132864;1;https://www.yelp.com/biz/rio-bistro-miami-2
+El Metro Restaurant;913;7;Cuban,Latin American,Breakfast & Brunch;5.0;5355 NW 72nd Ave Miami, FL 33166;25.8228159;-80.313525;2;https://www.yelp.com/biz/el-metro-restaurant-miami
+Cipriani;914;159;Italian;3.5;465 Brickell Ave Miami, FL 33131;25.769079;-80.188602;4;https://www.yelp.com/biz/cipriani-miami
+Siam Bistro;915;162;Thai,Vietnamese;4.5;7348 SW 117th Ave Miami, FL 33183;25.6987396;-80.3835444;2;https://www.yelp.com/biz/siam-bistro-miami
+La Loggia Ristorante & Lounge;916;61;Italian;3.5;68 W Flagler St Miami, FL 33130;25.7741108;-80.1949497;2;https://www.yelp.com/biz/la-loggia-ristorante-and-lounge-miami
+Dragonfly Izakaya & Fish Market;917;294;Japanese,Seafood Markets,Asian Fusion;4.5;5241 NW 87th Ave Doral, FL 33178;25.8189232;-80.3375467;2;https://www.yelp.com/biz/dragonfly-izakaya-and-fish-market-doral
+Glass House Café;918;5;Food Court;3.5;10901 Old Cutler Rd Miami, FL 33156;25.679262;-80.274396;2;https://www.yelp.com/biz/glass-house-caf%C3%A9-miami
+Di Papa’s Italian Restaurant;919;13;Pizza,Italian;4.0;8758 W Flagler St Miami, FL 33174;25.7690502684222;-80.3380228853441;2;https://www.yelp.com/biz/di-papas-italian-restaurant-miami-4
+Grace’s Delicatessen West;920;16;Delis,Burgers,Sandwiches;4.0;7372 NW 72nd Ave Miami, FL 33166;25.8404918;-80.3142135;1;https://www.yelp.com/biz/graces-delicatessen-west-miami
+La Carpaccieria;921;6;Italian;4.5;8531 NW 66th St Miami, FL 33166;25.833965464602;-80.336638795627;2;https://www.yelp.com/biz/la-carpaccieria-miami
+El Novillo Restaurant;922;127;Latin American,Steakhouses;3.5;6830 Bird Rd Miami, FL 33155;25.7326676;-80.3051974;2;https://www.yelp.com/biz/el-novillo-restaurant-miami-3
+Los Chamos Food Truck;923;21;Food Trucks,Venezuelan;4.5;Miami, FL 33137;25.8207159;-80.1819268;1;https://www.yelp.com/biz/los-chamos-food-truck-miami
+La Casa de Tula;924;1;Latin American;4.0;1513 SW 8th St Miami, FL 33135;25.7658959;-80.2197665;0;https://www.yelp.com/biz/la-casa-de-tula-miami
+Villagio;925;124;Italian;3.5;7491 N Kendall Dr Miami, FL 33156;25.6896137962304;-80.3138562971083;2;https://www.yelp.com/biz/villagio-miami
+My Little Greek Deli;926;175;Greek,Delis;4.5;195 Westward Dr Miami Springs, FL 33166;25.8213654;-80.2841756;1;https://www.yelp.com/biz/my-little-greek-deli-miami-springs
+The Brick Restaurant;927;116;Cocktail Bars,Pizza,Sandwiches;4.0;8955 SW 72nd Pl Kendall, FL 33156;25.6869947171409;-80.3127546337296;2;https://www.yelp.com/biz/the-brick-restaurant-kendall
+Unreal Food;928;14;Cupcakes,Vegan,Gluten-Free;5.0;Miami, FL 33193;25.6987264;-80.4604643;2;https://www.yelp.com/biz/unreal-food-miami-2
+Budare Bistro;929;116;Venezuelan;3.5;1830 SW 3rd Ave Miami, FL 33129;25.7605439;-80.2015678;2;https://www.yelp.com/biz/budare-bistro-miami
+Ayesha Fine Dining;930;135;Indian;4.0;14151 S Dixie Hwy Miami, FL 33176;25.6383922;-80.3361374;2;https://www.yelp.com/biz/ayesha-fine-dining-miami
+Bulla;931;625;Spanish,Tapas Bars;4.0;2500 Ponce De Leon Blvd Coral Gables, FL 33134;25.7485177208402;-80.2588052575197;2;https://www.yelp.com/biz/bulla-coral-gables
+Texas de Brazil;932;48;Brazilian,Steakhouses,Venues & Event Spaces;4.5;7535 N Kendall Dr Miami, FL 33156;25.6901911;-80.3132992;3;https://www.yelp.com/biz/texas-de-brazil-miami-3
+TGI Fridays;933;4;American (Traditional);4.0;4200 NW 21st Street Gate D-36 Miami, FL 33122;25.7934107;-80.3243986;0;https://www.yelp.com/biz/tgi-fridays-miami-7
+Changs Chinese Restaurant;934;52;Chinese;4.0;2404 SW 107th Ave Miami, FL 33165;25.74635;-80.3677;2;https://www.yelp.com/biz/changs-chinese-restaurant-miami-2
+Casa Juancho Spanish Restaurant;935;188;Spanish,Basque;3.5;2436 SW 8th St Miami, FL 33135;25.7649823;-80.2358298;3;https://www.yelp.com/biz/casa-juancho-spanish-restaurant-miami
+Ciro’s Pizza & Italian Restaurant;936;62;Pizza;4.0;13025 SW 89th Pl Miami, FL 33176;25.6485721;-80.339038;2;https://www.yelp.com/biz/ciros-pizza-and-italian-restaurant-miami
+Copper 29 Bar;937;135;Cocktail Bars,Gastropubs;4.0;206 Miracle Mile Coral Gables, FL 33134;25.749512;-80.2590376;2;https://www.yelp.com/biz/copper-29-bar-coral-gables
+Delicias de España;938;139;Spanish,Wine Bars,Caterers;3.5;4016 SW 57th Ave Miami, FL 33155;25.7336716;-80.2866315;2;https://www.yelp.com/biz/delicias-de-espa%C3%B1a-miami-9
+Fritanga Y Raspaderia Nica;939;20;Juice Bars & Smoothies,Tacos,Nicaraguan;4.5;11030 W Flagler St Miami, FL 33174;25.7684298;-80.3754263;1;https://www.yelp.com/biz/fritanga-y-raspaderia-nica-miami
+La Esquina Hondureña;940;3;Mexican;4.5;2240 SW 32nd Ave Miami, FL 33145;25.749371723166;-80.2467163893833;0;https://www.yelp.com/biz/la-esquina-hondure%C3%B1a-miami-2
+Harvest Moon Gourmet Bistro;941;192;Vegetarian,Sandwiches;4.5;102 Curtiss Pkwy Miami Springs, FL 33166;25.821104;-80.2823043;1;https://www.yelp.com/biz/harvest-moon-gourmet-bistro-miami-springs
+Jr’s Gourmet Burgers;942;225;Burgers,American (Traditional);4.0;7 Westward Dr Miami Springs, FL 33166;25.8214458;-80.2825817;1;https://www.yelp.com/biz/jrs-gourmet-burgers-miami-springs
+Joey’s;943;366;Italian,Pizza;3.5;2506 NW 2nd Ave Miami, FL 33127;25.8010288706397;-80.199111700058;2;https://www.yelp.com/biz/joeys-miami-2
+San Pocho;944;99;Colombian,Bars;3.5;901 SW 8th St Miami, FL 33130;25.7661621459676;-80.2094533047883;2;https://www.yelp.com/biz/san-pocho-miami-4
+Purple Orchid;945;28;Juice Bars & Smoothies,Salad,Breakfast & Brunch;4.5;100 S Biscayne Blvd Miami, FL 33131;25.7731794;-80.1878988;2;https://www.yelp.com/biz/purple-orchid-miami-4
+La Michoacana Joankale;946;10;Ice Cream & Frozen Yogurt,Mexican;5.0;1058 SW 1st St Miami, FL 33130;25.772404;-80.212705;1;https://www.yelp.com/biz/la-michoacana-joankale-miami
+Mainzer’s German Deli;947;29;Delis,Salad,Sandwiches;4.5;12113 S Dixie Hwy Miami, FL 33156;25.6580018276654;-80.3269177691449;1;https://www.yelp.com/biz/mainzers-german-deli-miami-2
+Love Is Blind Food & Wine;948;414;Wine Bars,American (New);4.0;225 Altara Ave Coral Gables, FL 33146;25.733261;-80.2592985;2;https://www.yelp.com/biz/love-is-blind-food-and-wine-coral-gables
+Los Mega Perros;949;43;Hot Dogs,Colombian;3.5;9511 W Flagler St Miami, FL 33174;25.7691606;-80.3498664;2;https://www.yelp.com/biz/los-mega-perros-miami
+Spizzigo;950;100;Italian,Pizza;3.5;11402 NW 41st St Miami, FL 33178;25.8108523;-80.3827653;2;https://www.yelp.com/biz/spizzigo-miami-2
+Paseo Catracho;951;115;Honduran;3.5;824 SW 8th St Miami, FL 33130;25.7658849;-80.2080136;1;https://www.yelp.com/biz/paseo-catracho-miami
+Cooper’s Hawk Winery & Restaurants;952;106;American (New),Wine Bars;4.5;3585 NW 83rd Ave Doral, FL 33147;25.8091113066307;-80.3312353044748;2;https://www.yelp.com/biz/coopers-hawk-winery-and-restaurants-doral
+Panera Bread;953;18;Salad,Soup,Sandwiches;3.0;1611 NW 12th Ave Miami, FL 33136;25.7902978434185;-80.2132511349182;1;https://www.yelp.com/biz/panera-bread-miami-11
+Bubba Gump Shrimp;954;242;Seafood,American (Traditional);3.0;401 Biscayne Blvd Miami, FL 33132;25.778687;-80.187269;2;https://www.yelp.com/biz/bubba-gump-shrimp-miami
+Arahi’s Bakery;955;33;Bakeries,Cuban;4.0;745 SW 8th St Miami, FL 33255;25.7661133;-80.2068978;1;https://www.yelp.com/biz/arahis-bakery-miami
+POKÉBAR;956;54;Poke,Hawaiian;4.5;1558 S Dixie Hwy Coral Gables, FL 33146;25.7083310180127;-80.2840764075497;2;https://www.yelp.com/biz/pok%C3%A9bar-coral-gables
+Football Sandwich Shop;957;82;Sandwiches;4.0;8484 NE 2nd Ave Miami, FL 33138;25.853167;-80.1933411;1;https://www.yelp.com/biz/football-sandwich-shop-miami
+Latin American Bakery & Cafe;958;57;Cuban,Bakeries,Cafes;4.0;890 SW 57th Ave Miami, FL 33144;25.7629649946617;-80.2879627009462;1;https://www.yelp.com/biz/latin-american-bakery-and-cafe-miami-2
+Flanigan’s Seafood Bar & Grill;959;78;Seafood,American (Traditional),Sports Bars;3.5;9857 SW 40th St Miami, FL 33165;25.7328701019287;-80.3539962768555;2;https://www.yelp.com/biz/flanigans-seafood-bar-and-grill-miami-15
+Restaurante Monserrate - Coral Way;960;91;Colombian;3.5;2093 Coral Way Miami, FL 33145;25.7508356;-80.2279722;2;https://www.yelp.com/biz/restaurante-monserrate-coral-way-miami
+El Rinconcito Latino;961;80;Cuban,Breakfast & Brunch;3.5;6741 SW 24th St Miami, FL 33155;25.7486541;-80.304569;1;https://www.yelp.com/biz/el-rinconcito-latino-miami-2
+Pisco Y Nazca;962;168;Gastropubs,Peruvian,Cocktail Bars;4.0;8551 NW 53rd St Doral, FL 33166;25.8198577;-80.3359303;2;https://www.yelp.com/biz/pisco-y-nazca-doral-3
+Boteco;963;226;Lounges,Brazilian;3.5;916 NE 79th St Miami, FL 33138;25.8479455;-80.1777157;2;https://www.yelp.com/biz/boteco-miami
+Margherita Pizza Beer and Wine;964;15;Pizza,Italian,Bars;3.5;234 NE 3rd St Miami, FL 33132;25.7768244486739;-80.1896297559142;1;https://www.yelp.com/biz/margherita-pizza-beer-and-wine-miami
+Tony Chan’s Water Club;965;145;Chinese,Sushi Bars,Wine Bars;3.0;1717 N Bayshore Dr Miami, FL 33132;25.7913713095251;-80.1854800347793;2;https://www.yelp.com/biz/tony-chans-water-club-miami
+Las Cazuelas;966;153;Mexican;4.0;12310 SW 127th Ave Miami, FL 33186;25.6540996;-80.4012244;2;https://www.yelp.com/biz/las-cazuelas-miami
+Q’hubo Cafe;967;21;Fast Food,Latin American;4.0;10201 Hammocks Blvd Miami, FL 33196;25.6716959;-80.4419358;1;https://www.yelp.com/biz/qhubo-cafe-miami
+Primo Trattoria;968;81;Italian,Pizza;4.0;2216 NE 123rd St Miami, FL 33181;25.8892013051593;-80.1533919700993;2;https://www.yelp.com/biz/primo-trattoria-miami
+Gyros & Salads;969;39;Salad,Mediterranean;3.5;2207 Ponce De Leon Blvd Miami, FL 33134;25.7518073;-80.2586068;1;https://www.yelp.com/biz/gyros-and-salads-miami
+Rincon Criollo;970;2;Caribbean,Cuban;4.5;Savaneta 117 Miami, FL 33142;25.7997901;-80.259877;0;https://www.yelp.com/biz/rincon-criollo-miami
+Miami Street Food Court;971;17;Food Stands,Food Trucks;4.0;6521 Bird Rd Miami, FL 33155;25.7337081;-80.3014758;2;https://www.yelp.com/biz/miami-street-food-court-miami-2
+Cumex Cafe;972;2;Food Trucks,Cuban,Mexican;5.0;7967 NW 33rd St Miami, FL 33122;25.8045475398339;-80.3262010757828;1;https://www.yelp.com/biz/cumex-cafe-miami
+Jacqueline’s Fried Chicken;973;1;Fast Food;4.0;1702 NW 36th St Miami, FL 33142;25.8096573197894;-80.2242232114077;0;https://www.yelp.com/biz/jacquelines-fried-chicken-miami
+Greenstreet Cafe;974;876;Breakfast & Brunch,American (Traditional),Cocktail Bars;4.0;3468 Main Hwy Coconut Grove, FL 33133;25.726766;-80.244055;2;https://www.yelp.com/biz/greenstreet-cafe-coconut-grove-3
+Steve’s Pizza;975;576;Pizza;3.5;12101 Biscayne Blvd Miami, FL 33181;25.8877598694801;-80.1640084466009;1;https://www.yelp.com/biz/steves-pizza-north-miami
+D’vine By 9701;976;1;Seafood,Chicken Wings;5.0;9125 NW 22nd Ave Miami, FL 33147;25.8578389;-80.2338341;2;https://www.yelp.com/biz/d-vine-by-9701-miami
+El Rey De Las Fritas;977;16;Cuban,Burgers,Fast Food;4.5;10142 W Flagler St Miami, FL 33174;25.7678892;-80.3594672;1;https://www.yelp.com/biz/el-rey-de-las-fritas-miami-11
+Original Lots of Lox;978;114;Delis,Sandwiches;4.0;14995 S Dixie Hwy Miami, FL 33176;25.6308987306803;-80.3393076925963;2;https://www.yelp.com/biz/original-lots-of-lox-miami-3
+Rodbenders Rawbar;979;112;Seafood;3.5;20400 Old Cutler Rd Miami, FL 33189;25.5774834057621;-80.3389955476379;2;https://www.yelp.com/biz/rodbenders-rawbar-miami
+Capelli D’Angelo;980;41;Italian,Pizza;4.0;4001 SW 152nd Ave Miami, FL 33185;25.7297477;-80.4387666;2;https://www.yelp.com/biz/capelli-d-angelo-miami
+Balans Restaurant & Bar;981;196;Breakfast & Brunch,American (Traditional);3.5;6789 Biscayne Blvd Miami, FL 33138;25.8376906;-80.1840692;2;https://www.yelp.com/biz/balans-restaurant-and-bar-miami-3
+Que Chevere;982;4;Food Trucks,Venezuelan;4.0;8590 SW 8th St Miami, FL 33144;25.7615601850311;-80.3347489982843;0;https://www.yelp.com/biz/que-chevere-miami
+Jamaica House Restaurant;983;46;Caribbean;3.5;19555 NW 2nd Ave Miami, FL 33169;25.9541883;-80.2049305;2;https://www.yelp.com/biz/jamaica-house-restaurant-miami
+Rosa Mexicano;984;498;Mexican;3.5;900 S Miami Ave Miami, FL 33130;25.7652785042063;-80.1933069643486;2;https://www.yelp.com/biz/rosa-mexicano-miami
+Siamo;985;161;Pizza,Italian,Breakfast & Brunch;4.5;307 N Royal Poinciana Blvd Miami Springs, FL 33166;25.8244782;-80.2851538;2;https://www.yelp.com/biz/siamo-miami-springs-4
+Chuck Wagon Restaurant;986;113;Sandwiches,American (Traditional),Breakfast & Brunch;3.5;7355 Bird Rd Miami, FL 33155;25.7331908;-80.3139121;1;https://www.yelp.com/biz/chuck-wagon-restaurant-miami
+Frenchie’s;987;134;French;4.5;2618 Galiano St Coral Gables, FL 33134;25.7477480414041;-80.2566289901733;2;https://www.yelp.com/biz/frenchies-coral-gables
+El Huarike Peruano;988;10;Latin American,Peruvian,Spanish;4.0;7371 NW 36th St Miami, FL 33166;25.8094386;-80.316366;2;https://www.yelp.com/biz/el-huarike-peruano-miami
+Guadalajara Mexican Restaurant;989;178;Mexican;3.5;8461 SW 132nd St Miami, FL 33156;25.6479417;-80.3314895;2;https://www.yelp.com/biz/guadalajara-mexican-restaurant-miami
+Carrabba’s Italian Grill;990;76;Italian,Seafood,Pizza;3.5;9231 W Flagler St Miami, FL 33172;25.769528695958;-80.3462507265976;2;https://www.yelp.com/biz/carrabbas-italian-grill-miami-9
+Doral Cafe&Deli;991;7;Cafes;4.5;8300 NW 53rd St Miami, FL 33166;25.8205109595871;-80.331798568368;1;https://www.yelp.com/biz/doral-cafe-and-deli-miami

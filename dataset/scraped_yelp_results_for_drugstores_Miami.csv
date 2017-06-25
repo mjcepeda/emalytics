@@ -1,0 +1,974 @@
+business_name;rank;review_count;categories;rating;address;longitude;latitude;price_range;url
+CVS Front Store;1;1;Drugstores;4.0;3215 Grand Ave Miami, FL 33133;25.728231;-80.246276;2;https://www.yelp.com/biz/cvs-front-store-miami
+Navarro Discount Pharmacies;2;18;Drugstores;3.0;93 Miracle Mile Miami, FL 33134;25.7500012;-80.2565273;2;https://www.yelp.com/biz/navarro-discount-pharmacies-miami-3
+Walgreens;3;1;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;3715 NW 7th St Miami, FL 33126;25.7815623;-80.2574526;2;https://www.yelp.com/biz/walgreens-miami-47
+CVS;4;7;Drugstores;2.5;1201 Brickell Ave Miami, FL 33131;25.761826809427;-80.1919646188617;1;https://www.yelp.com/biz/cvs-miami-39
+Coconut Grove Pharmacy;5;15;Cosmetics & Beauty Supply,Drugstores;4.5;3001 SW 27th Ave Miami, FL 33133;25.7352635;-80.237358;2;https://www.yelp.com/biz/coconut-grove-pharmacy-miami
+CVS Mas;6;3;Drugstores;4.5;690 NW 57th Ave Miami, FL 33126;25.7773681952445;-80.2888838946819;2;https://www.yelp.com/biz/cvs-mas-miami
+Walgreens;7;31;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;3595 Coral Way Miami, FL 33145;25.7504269;-80.251553;2;https://www.yelp.com/biz/walgreens-miami-6
+Cardenas Pharmacy;8;2;Drugstores;4.5;2741 Coral Way Miami, FL 33145;25.750529;-80.2391455;1;https://www.yelp.com/biz/cardenas-pharmacy-miami
+CVS Pharmacy;9;19;Drugstores;3.5;170 SE 3rd Ave Miami, FL 33131;25.7727492785672;-80.1891145713391;2;https://www.yelp.com/biz/cvs-pharmacy-miami-59
+Cvs;10;6;Drugstores;3.0;5748 SW 40th St Miami, FL 33155;25.7338036173527;-80.2871946465905;2;https://www.yelp.com/biz/cvs-miami-38
+Walgreens;11;14;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;3655 S Dixie Hwy Miami, FL 33133;25.7336761;-80.253238;1;https://www.yelp.com/biz/walgreens-miami-45
+CVS;12;1;Drugstores;4.0;888 Biscayne Blvd Miami, FL 33132;25.7824451;-80.1900943;0;https://www.yelp.com/biz/cvs-miami-44
+Walgreens;13;6;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.5;9380 Sw 56Th St Miami, FL 33165;25.7153694;-80.3467416;2;https://www.yelp.com/biz/walgreens-miami-16
+Walgreens;14;5;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.5;400 Hialeah Dr Hialeah, FL 33010;25.822451;-80.272869;1;https://www.yelp.com/biz/walgreens-hialeah-12
+Walgreens;15;33;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.5;501 Collins Ave Miami Beach, FL 33139;25.7749322;-80.1326404;1;https://www.yelp.com/biz/walgreens-miami-beach-3
+Walgreens;16;24;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;2300 Collins Ave Miami Beach, FL 33139;25.7987038;-80.1282006;2;https://www.yelp.com/biz/walgreens-miami-beach-2
+CVS Pharmacy;17;8;Drugstores;2.5;5785 NW 7th St Miami, FL 33126;25.7841260234942;-80.2963256835938;1;https://www.yelp.com/biz/cvs-pharmacy-miami-63
+Cvs;18;6;Drugstores;3.5;5640 Sunset Dr Miami, FL 33143;25.7041618;-80.285114;2;https://www.yelp.com/biz/cvs-miami-25
+Walgreens;19;23;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.5;3103 Biscayne Blvd Miami, FL 33137;25.8068986;-80.1888744;2;https://www.yelp.com/biz/walgreens-miami-3
+CVS;20;34;Drugstores;3.5;306 Lincoln Rd Miami Beach, FL 33139;25.7903494906829;-80.1307729998082;2;https://www.yelp.com/biz/cvs-miami-beach-2
+Walgreens;21;17;Cosmetics & Beauty Supply,Drugstores,Convenience Stores;2.5;1400 Collins Ave Miami Beach, FL 33139;25.785546;-80.1311297;1;https://www.yelp.com/biz/walgreens-miami-beach-14
+Walgreens;22;7;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;3490 Bird Rd Miami, FL 33133;25.7349127;-80.2500242;1;https://www.yelp.com/biz/walgreens-miami-54
+PDL Pharmacy;23;1;Drugstores;5.0;7167 W Flagler St Miami, FL 33144;25.7704475;-80.3109808;2;https://www.yelp.com/biz/pdl-pharmacy-miami-3
+Village Pharmacy & Compounding;24;5;Drugstores;5.0;8008 SW 81st Dr Miami, FL 33143;25.6941787;-80.3235828;0;https://www.yelp.com/biz/village-pharmacy-and-compounding-miami
+CVS/pharmacy;25;19;Drugstores;3.0;200 Biscayne Blvd Miami, FL 33132;25.7766385;-80.1887031;2;https://www.yelp.com/biz/cvs-pharmacy-miami-8
+Walgreens;26;17;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;4049 Pine Tree Dr Miami Beach, FL 33140;25.8132919;-80.1253587;2;https://www.yelp.com/biz/walgreens-miami-beach-8
+Walgreen;27;2;Drugstores,Department Stores;4.0;655 NW 57th Ave Miami, FL 33126;25.7777596622701;-80.2881551389626;1;https://www.yelp.com/biz/walgreen-miami-2
+Walgreens;28;16;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;1 Se 3Rd Ave Miami, FL 33131;25.7741148233254;-80.1888373647424;2;https://www.yelp.com/biz/walgreens-miami-12
+Robert’s Drug Store;29;1;Drugstores;4.0;590 W Flagler St Miami, FL 33130;25.7735873;-80.2042147;0;https://www.yelp.com/biz/roberts-drug-store-miami
+Walmart Neighborhood Market;30;13;Drugstores,Grocery;3.5;6991 SW 8th St Miami, FL 33134;25.7648236242522;-80.3088910037048;1;https://www.yelp.com/biz/walmart-neighborhood-market-miami
+Cvs Pharmacy;32;12;Drugstores;2.5;3215 Grand Ave Miami, FL 33133;25.728231;-80.246276;1;https://www.yelp.com/biz/cvs-pharmacy-miami-2
+CVS Pharmacy;33;11;Drugstores;3.0;227 SW 8th St Miami, FL 33130;25.7666464;-80.197831;2;https://www.yelp.com/biz/cvs-pharmacy-miami-54
+Walgreens;34;11;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;5731 Bird Rd Miami, FL 33155;25.7349425;-80.2870049;1;https://www.yelp.com/biz/walgreens-miami-17
+Cvs;35;1;Drugstores;1.0;7535 N Kendall Dr Miami, FL 33156;25.6901911;-80.3132992;3;https://www.yelp.com/biz/cvs-miami-18
+CVS;36;27;Drugstores;2.5;1421 Alton Rd Miami Beach, FL 33139;25.7858920775769;-80.1408019018424;1;https://www.yelp.com/biz/cvs-miami-beach-3
+Rx Pharmacy;37;3;Drugstores;1.5;1717 N Bayshore Dr Miami, FL 33132;25.7914649;-80.1862085;1;https://www.yelp.com/biz/rx-pharmacy-miami
+CVS;38;8;Drugstores;2.0;6780 Bird Rd Miami, FL 33155;25.7332789;-80.3044565;2;https://www.yelp.com/biz/cvs-miami-26
+Walgreens;39;5;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;1695 Nw 20Th St Miami, FL 33142;25.7952316;-80.2228096;2;https://www.yelp.com/biz/walgreens-miami-41
+Rapid-Med Pharmacy;40;;Drugstores;0;161 NW 29th St Miami, FL 33127;25.8042168;-80.1984472;0;https://www.yelp.com/biz/rapid-med-pharmacy-miami
+CVS Pharmacy;41;5;Drugstores;3.0;650 NW 27th Ave Miami, FL 33125;25.7789729;-80.2399499;2;https://www.yelp.com/biz/cvs-pharmacy-miami-64
+Marco Drugs & Compounding;42;3;Drugstores;5.0;6627 S Dixie Hwy Miami, FL 33143;25.6943846;-80.3002523;2;https://www.yelp.com/biz/marco-drugs-and-compounding-miami
+CVS Pharmacy;43;23;Drugstores;1.5;4800 Biscayne Blvd Miami, FL 33137;25.8193802;-80.188386;1;https://www.yelp.com/biz/cvs-pharmacy-miami-5
+Legacy Drugstore Pharmacy;44;1;Home Health Care,Cosmetics & Beauty Supply,Drugstores;5.0;4700 NW 7th St Miami, FL 33126;25.778464;-80.272345;0;https://www.yelp.com/biz/legacy-drugstore-pharmacy-miami
+CVS;45;15;Drugstores;2.0;8765 S Dixie Hwy Miami, FL 33143;25.689313;-80.3071159;2;https://www.yelp.com/biz/cvs-miami-28
+CVS;46;16;Drugstores;3.0;2500 SW 22nd St Miami, FL 33145;25.7503199;-80.2367162;2;https://www.yelp.com/biz/cvs-miami
+Walgreens;47;22;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.0;1011 Alton Rd Miami Beach, FL 33139;25.7807854;-80.1408747;2;https://www.yelp.com/biz/walgreens-miami-beach-13
+Cvs Pharmacy;48;3;Drugstores;2.0;6780 Bird Rd Miami, FL 33155;25.7332789;-80.3044565;2;https://www.yelp.com/biz/cvs-pharmacy-miami-46
+Winn Dixie;49;1;Grocery,Drugstores;4.0;11241 SW 38th St Miami, FL 33165;25.7338657323753;-80.3758706152439;2;https://www.yelp.com/biz/winn-dixie-miami-41
+Cvs Pharmacy;50;1;Drugstores;1.0;9721 NW 36th St Miami, FL 33178;25.8116886;-80.3485776;0;https://www.yelp.com/biz/cvs-pharmacy-miami-36
+VH Pharmacy;51;6;Drugstores;5.0;1000 SW 1st St Miami, FL 33130;25.772461;-80.2115988;2;https://www.yelp.com/biz/vh-pharmacy-miami
+Valles Pharmacy & Discount;52;1;Drugstores;5.0;8538 SW 8th St Miami, FL 33144;25.7619223;-80.3337946;0;https://www.yelp.com/biz/valles-pharmacy-and-discount-miami
+CVS Pharmacy;53;2;Drugstores;1.0;3695 W Flagler St Miami, FL 33135;25.7722485;-80.2549737;2;https://www.yelp.com/biz/cvs-pharmacy-miami-51
+Sisters Pharmacy;54;;Drugstores;0;3947 NW 7th St Miami, FL 33126;25.7788055;-80.2613891;0;https://www.yelp.com/biz/sisters-pharmacy-miami-2
+Walgreens;55;4;Cosmetics & Beauty Supply,Drugstores,Convenience Stores;2.0;6701 Miller Dr Miami, FL 33155;25.7185995;-80.302873;2;https://www.yelp.com/biz/walgreens-miami-75
+Walgreens;56;40;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;200 Sw 13Th St Miami, FL 33130;25.761199;-80.1975498;2;https://www.yelp.com/biz/walgreens-miami-4
+CVS/Pharmacy;57;2;Drugstores;5.0;14705 SW 42nd St Miami, FL 33185;25.729608;-80.432113;1;https://www.yelp.com/biz/cvs-pharmacy-miami-9
+Walgreens;58;17;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;4200 Sw 8Th St Coral Gables, FL 33134;25.7640639;-80.2638603;2;https://www.yelp.com/biz/walgreens-coral-gables
+Pure Pharmacy;59;5;Drugstores,Skin Care;5.0;959 West Ave Miami Beach, FL 33139;25.7793096058556;-80.1417841288361;2;https://www.yelp.com/biz/pure-pharmacy-miami-beach
+CVS;60;11;Drugstores;1.5;1177 SW 8th St Miami, FL 33130;25.7661917;-80.214144;1;https://www.yelp.com/biz/cvs-miami-33
+Walgreens;61;7;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.5;1 E Flagler St Miami, FL 33131;25.7744331;-80.1934808;2;https://www.yelp.com/biz/walgreens-miami-37
+Walgreens;62;4;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.5;1699 Nw 7Th St Miami, FL 33125;25.7802598;-80.2214468;1;https://www.yelp.com/biz/walgreens-miami-27
+Walgreens;63;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;5.0;10609 SW 40th St Miami, FL 33165;25.7331344775408;-80.3672099716782;2;https://www.yelp.com/biz/walgreens-miami-33
+Omega Pharmacy;64;3;Drugstores;3.5;9537 SW 72nd St Miami, FL 33173;25.7018215;-80.3474117;2;https://www.yelp.com/biz/omega-pharmacy-miami
+SMP Pharmacy Solutions;65;25;Drugstores;3.0;6050 S Dixie Hwy Miami, FL 33143;25.7023209;-80.2917597;2;https://www.yelp.com/biz/smp-pharmacy-solutions-miami-5
+Walgreens;66;;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;0;6200 Nw 7Th Ave Miami, FL 33150;25.8326316;-80.2089788;0;https://www.yelp.com/biz/walgreens-miami-48
+Walgreens;67;26;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;1669 Collins Ave Miami Beach, FL 33139;25.791181;-80.128938;1;https://www.yelp.com/biz/walgreens-miami-beach-4
+Walgreens;68;8;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;655 Nw 57Th Ave Miami, FL 33126;25.7777039;-80.2875974;1;https://www.yelp.com/biz/walgreens-miami-25
+Continuum Products;69;;Drugstores;0;4257 SW 72nd Ave Miami, FL 33155;25.7305142;-80.3105932;0;https://www.yelp.com/biz/continuum-products-miami-2
+Navarro Discount #75;70;;Drugstores;0;Miami International Airport Miami, FL 33166;25.795865;-80.2870457;0;https://www.yelp.com/biz/navarro-discount-75-miami
+Walgreens;71;17;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;6700 Collins Ave Miami Beach, FL 33141;25.850897;-80.12064;1;https://www.yelp.com/biz/walgreens-miami-beach-5
+Regions Pharmacy;72;;Drugstores;0;1065 SW 27th Ave Miami, FL 33135;25.762533;-80.238579;0;https://www.yelp.com/biz/regions-pharmacy-miami
+Cvs Pharmacy;73;;Drugstores;0;5640 Sunset Dr Miami, FL 33143;25.7041618;-80.285114;0;https://www.yelp.com/biz/cvs-pharmacy-miami-45
+United Fera Pharmacy;74;;Drugstores;0;7959 NW 2nd St Miami, FL 33126;25.772247;-80.3265753;0;https://www.yelp.com/biz/united-fera-pharmacy-miami
+Publix;75;30;Drugstores,Grocery,Health Markets;3.5;1500 Douglas Rd Coral Gables, FL 33134;25.7576217651367;-80.2550659179688;2;https://www.yelp.com/biz/publix-coral-gables-4
+Publix;76;11;Drugstores;3.0;1500 SW 57th Ave West Miami, FL 33144;25.7563912372609;-80.2877593785524;2;https://www.yelp.com/biz/publix-west-miami-3
+Navarro Discount Pharmacies;77;6;Drugstores;4.0;12000 SW 8th St Miami, FL 33184;25.760203;-80.391218;2;https://www.yelp.com/biz/navarro-discount-pharmacies-miami-7
+Prosolus Pharmaceuticals;78;;Drugstores;0;6701 NW 7th St Miami, FL 33126;25.778861;-80.305716;0;https://www.yelp.com/biz/prosolus-pharmaceuticals-miami
+CVS;79;11;Drugstores;2.0;615 5th St Miami Beach, FL 33139;25.7748251;-80.1345291;1;https://www.yelp.com/biz/cvs-miami-beach-4
+Walgreens;80;1;Cosmetics & Beauty Supply,Drugstores,Convenience Stores;5.0;10700 W Flagler St Miami, FL 33174;25.768149;-80.369313;2;https://www.yelp.com/biz/walgreens-miami-59
+Belen Pharmacy Enterprises;81;1;Drugstores;5.0;1020 W 29th St Hialeah, FL 33012;25.847715;-80.3027;1;https://www.yelp.com/biz/belen-pharmacy-enterprises-hialeah
+Publix Sabor Coral Way Shopping Center;82;37;Drugstores,Grocery;3.5;8680 SW 24th St Miami, FL 33155;25.7475843;-80.3347718;2;https://www.yelp.com/biz/publix-sabor-coral-way-shopping-center-miami
+Modern Pharmacy;83;1;Drugstores;5.0;123 Alton Rd Miami Beach, FL 33139;25.7700987;-80.1377744;1;https://www.yelp.com/biz/modern-pharmacy-miami-beach
+Hermanas Gonzalez Pharmacy & Discount;84;;Drugstores;0;8336 SW 8th St Miami, FL 33144;25.7620253;-80.330454;0;https://www.yelp.com/biz/hermanas-gonzalez-pharmacy-and-discount-miami
+Union Pharmacy And Medical Supplies;85;;Drugstores;0;6456 West Flagler Street Miami, FL 33144;25.7701857;-80.3014152;0;https://www.yelp.com/biz/union-pharmacy-and-medical-supplies-miami
+Midtown Pharmacy of Miami Beach;86;2;Drugstores;5.0;753 Arthur Godfrey Rd Miami Beach, FL 33140;25.8140277;-80.1320008;1;https://www.yelp.com/biz/midtown-pharmacy-of-miami-beach-miami-beach
+Andres Pharmacy And Discount;87;;Drugstores;0;7167 Southwest 8th Street Miami, FL 33144;25.7628769;-80.3112461;1;https://www.yelp.com/biz/andres-pharmacy-and-discount-miami
+Jenny’s your Friendly Pharmacy;88;;Vitamins & Supplements,Drugstores,Cosmetics & Beauty Supply;0;2217 NW 7th St Miami, FL 33125;25.780038;-80.231588;2;https://www.yelp.com/biz/jennys-your-friendly-pharmacy-miami
+Cvs Pharmacy;89;7;Drugstores;2.5;726 Crandon Blvd Key Biscayne, FL 33149;25.6876806;-80.1644589;2;https://www.yelp.com/biz/cvs-pharmacy-key-biscayne
+Fedco Pharmacies;90;;Drugstores;0;93 Miracle Mile Miami, FL 33134;25.7500012;-80.2565273;0;https://www.yelp.com/biz/fedco-pharmacies-miami
+Walgreens;91;7;Drugstores,Convenience Stores,Cosmetics & Beauty Supply;3.0;1201 Sw 1St St Miami, FL 33135;25.7730038;-80.2150133;1;https://www.yelp.com/biz/walgreens-miami-13
+CVS Pharmacy;92;6;Drugstores;3.5;6460 S Dixie Hwy South Miami, FL 33143;25.6969623;-80.2979886;2;https://www.yelp.com/biz/cvs-pharmacy-south-miami-3
+My Family Pharmacy & Discount;93;;Drugstores;0;8410 West Flagler Street Suite 105B Miami, FL 33144;25.768852;-80.332557;0;https://www.yelp.com/biz/my-family-pharmacy-and-discount-miami
+Sedano’s Pharmacy and Discount;94;;Drugstores;0;9686 SW 24th St Miami, FL 33165;25.7463181;-80.3506449;2;https://www.yelp.com/biz/sedanos-pharmacy-and-discount-miami-2
+CVS Pharmacy;95;23;Drugstores;3.5;17 S Fort Lauderdale Beach Blvd Fort Lauderdale, FL 33316;26.12217;-80.1044248;2;https://www.yelp.com/biz/cvs-pharmacy-fort-lauderdale-7
+Walgreens;96;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.0;15043 S Dixie Hwy Miami, FL 33176;25.630199;-80.3393267;1;https://www.yelp.com/biz/walgreens-miami-53
+Walgreens;97;6;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.5;11190 Sw 88Th St Miami, FL 33176;25.6861885;-80.3760544;2;https://www.yelp.com/biz/walgreens-miami-34
+ABC Pharmacy;98;;Drugstores;0;5617 NW 7th St Miami, FL 33126;25.7785119;-80.2870659;0;https://www.yelp.com/biz/abc-pharmacy-miami
+Publix;99;6;Drugstores,Grocery;3.5;14601 S Dixie Hwy Miami, FL 33176;25.6338192069557;-80.3370205772154;2;https://www.yelp.com/biz/publix-miami-55
+Sunset Drugs;100;;Drugstores;0;7035 SW 87th Ave Miami, FL 33173;25.703696;-80.333858;2;https://www.yelp.com/biz/sunset-drugs-miami
+Publix Sabor Pharmacy;101;;Drugstores;0;;25.7689352;-80.3575813;0;https://www.yelp.com/biz/publix-sabor-pharmacy-miami
+Cvs Pharmacy;102;13;Drugstores;2.5;4040 Prairie Ave Miami Beach, FL 33140;25.8136154;-80.1308818;2;https://www.yelp.com/biz/cvs-pharmacy-miami-beach
+Latina Pharmacy;103;1;Drugstores;5.0;300 SW 107th Ave Miami, FL 33174;25.7653251;-80.3691205;0;https://www.yelp.com/biz/latina-pharmacy-miami
+Publix Pharmacy;104;;Drugstores;0;9420 SW 56th St Miami, FL 33165;25.7156421;-80.3475904;2;https://www.yelp.com/biz/publix-pharmacy-miami
+Reina Mercedes Pharmacy;105;;Drugstores;0;6799 W Flagler St Miami, FL 33144;25.7706799;-80.3057402;0;https://www.yelp.com/biz/reina-mercedes-pharmacy-miami
+Walgreens;106;3;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;5.0;15195 Sw 42Nd St Miami, FL 33185;25.7288778;-80.4391678;2;https://www.yelp.com/biz/walgreens-miami-67
+CVS Pharmacy;107;20;Drugstores;2.0;1160 S Dixie Hwy Coral Gables, FL 33146;25.7155648;-80.275203;2;https://www.yelp.com/biz/cvs-pharmacy-coral-gables-3
+Navarro Discount Pharmacies;108;3;Drugstores;4.0;14667 SW 104th St Miami, FL 33186;25.6704266;-80.4309161;0;https://www.yelp.com/biz/navarro-discount-pharmacies-miami-8
+Cvs;109;3;Drugstores;3.5;8900 SW 97th Ave Miami, FL 33176;25.6867484;-80.350361;2;https://www.yelp.com/biz/cvs-miami-13
+SMP Compound;110;;Drugstores;0;7425 SW 42nd St Miami, FL 33155;25.7316246775;-80.3153096975734;0;https://www.yelp.com/biz/smp-compound-miami
+CVS Pharmacy;111;13;Drugstores;2.0;591 NE 79th St Miami, FL 33138;25.8481916253125;-80.1848824862506;2;https://www.yelp.com/biz/cvs-pharmacy-miami-61
+Winn-Dixie;112;21;Drugstores,Grocery;3.5;8710 SW 72nd St Miami, FL 33173;25.7008953;-80.3348385;2;https://www.yelp.com/biz/winn-dixie-miami-17
+Dalice Medical Equipment;113;;Drugstores;0;7844 Coral Way Miami, FL 33155;25.7479421;-80.3230658;0;https://www.yelp.com/biz/dalice-medical-equipment-miami
+Walgreens;114;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;9701 Sw 24Th St Miami, FL 33165;25.7475842;-80.3525787;3;https://www.yelp.com/biz/walgreens-miami-52
+Publix;115;14;Grocery,Drugstores;4.0;106 Ponce De Leon Blvd Coral Gables, FL 33135;25.7712440643505;-80.255013499984;2;https://www.yelp.com/biz/publix-coral-gables-3
+EP Medical Equipment Pharmacy;116;1;Drugstores,Medical Supplies;5.0;6440 SW 117th Ave Miami, FL 33183;25.7079099;-80.3828356;2;https://www.yelp.com/biz/ep-medical-equipment-pharmacy-miami-2
+Westchester Pharmacy;117;;Drugstores;0;7245 Coral Way Miami, FL 33155;25.7481619;-80.3129716;0;https://www.yelp.com/biz/westchester-pharmacy-miami
+Tender Touch Home Health;118;;Drugstores;0;4943 SW 75th Ave Miami, FL 33155;25.7244018;-80.3167609;0;https://www.yelp.com/biz/tender-touch-home-health-miami
+Horeb Pharmacy;119;;Drugstores;0;136 NW 57th Ave Miami, FL 33126;25.7721267;-80.2883966;0;https://www.yelp.com/biz/horeb-pharmacy-miami
+Bay Harbor Drugs;120;11;Drugstores;5.0;1015 Kane Concourse Bay Harbor, FL 33154;25.886843;-80.129574;3;https://www.yelp.com/biz/bay-harbor-drugs-bay-harbor
+Madel Pharmacy;121;;Drugstores;0;7958 SW 8th St Miami, FL 33144;25.7621321;-80.3255437;0;https://www.yelp.com/biz/madel-pharmacy-miami
+Total Rx Pharmacy and Discount;122;;Drugstores;0;2341 NW 27th Ave Miami, FL 33142;25.7987459;-80.2397205;0;https://www.yelp.com/biz/total-rx-pharmacy-and-discount-miami
+Innovative Remedies;123;;Drugstores;0;Miami, FL 33222;25.7328724;-80.2415866;0;https://www.yelp.com/biz/innovative-remedies-miami
+Publix;124;59;Drugstores,Grocery,Health Markets;2.5;134 SW 13th St Miami, FL 33130;25.761144;-80.196404;2;https://www.yelp.com/biz/publix-miami-8
+Winn-Dixie;125;4;Drugstores,Grocery;3.0;14900 NW 7th Ave Miami, FL 33168;25.9118535;-80.2130669;2;https://www.yelp.com/biz/winn-dixie-miami
+Walgreens;126;1;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;1250 NW 7th St Miami, FL 33125;25.7800588134466;-80.2161383628845;0;https://www.yelp.com/biz/walgreens-miami-61
+P & P Pharmacy;127;;Drugstores;0;8381 Bird Rd Miami, FL 33155;25.733308;-80.331115;0;https://www.yelp.com/biz/p-and-p-pharmacy-miami
+CVS;128;7;Drugstores;2.5;101 Hialeah Dr Hialeah, FL 33010;25.8232263;-80.2785348;2;https://www.yelp.com/biz/cvs-hialeah-5
+Union City Pharmacy;129;;Drugstores;0;7880 Coral Way Miami, FL 33155;25.7479345;-80.3234241;0;https://www.yelp.com/biz/union-city-pharmacy-miami
+Ultima Rx;130;;Drugstores;0;3900 Northwest 79th Avenue Miami, FL 33166;25.810797;-80.3258367;0;https://www.yelp.com/biz/ultima-rx-miami
+Cvs Pharmacy;131;19;Drugstores;2.0;8720 W Flagler St Miami, FL 33174;25.7690808;-80.3369354;2;https://www.yelp.com/biz/cvs-pharmacy-miami-43
+Navarro Discount Pharmacies;132;6;Drugstores;2.5;3949 SW 8th St Coral Gables, FL 33134;25.764526;-80.2608118;3;https://www.yelp.com/biz/navarro-discount-pharmacies-coral-gables-2
+Key Pharmacy;133;6;Drugstores;4.5;614 Crandon Blvd Key Biscayne, FL 33149;25.6895474;-80.1638683;2;https://www.yelp.com/biz/key-pharmacy-key-biscayne
+Tarara Farmacia;134;;Drugstores;0;1160 W Flagler St Miami, FL 33130;25.7733399;-80.213985;0;https://www.yelp.com/biz/tarara-farmacia-miami
+Luis Pharmacy;135;;Drugstores;0;3601 SW 8th St Miami, FL 33135;25.7647735;-80.2531313;0;https://www.yelp.com/biz/luis-pharmacy-miami
+Walgreens;136;3;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.0;16690 Sw 88Th St Miami, FL 33196;25.6833535;-80.4614737;2;https://www.yelp.com/biz/walgreens-miami-72
+Publix;137;25;Grocery,Drugstores,Beer, Wine & Spirits;4.0;;25.7156421;-80.3475904;2;https://www.yelp.com/biz/publix-miami-63
+Jm Pharmacy and Discount;138;;Drugstores;0;7385 SW 8th St Miami, FL 33144;25.7629899;-80.315348;0;https://www.yelp.com/biz/jm-pharmacy-and-discount-miami
+Eighty Eight Pharmacy and Discount;139;;Drugstores;0;7471 SW 8th St Miami, FL 33144;25.7627138;-80.3168728;0;https://www.yelp.com/biz/eighty-eight-pharmacy-and-discount-miami
+J B M Pharmacy;140;;Drugstores;0;8748 SW 8th St Miami, FL 33174;25.7613062;-80.3374782;0;https://www.yelp.com/biz/j-b-m-pharmacy-miami
+Cvs;141;5;Drugstores;3.5;4801 SW 8th St Coral Gables, FL 33134;25.7640955;-80.2738066;2;https://www.yelp.com/biz/cvs-coral-gables-2
+Farmacia Julia Discount;142;;Drugstores;0;3197 Southwest 18th Street Miami, FL 33145;25.7547588;-80.2465409;0;https://www.yelp.com/biz/farmacia-julia-discount-miami-2
+Click Pharmacy;143;;Drugstores;0;8778 SW 8th St Miami, FL 33174;25.7615112;-80.3375219;0;https://www.yelp.com/biz/click-pharmacy-miami
+Helen B Bentley Pharmacy;144;;Drugstores;0;3090 S Douglas Rd Miami, FL 33133;25.7342957;-80.254487;0;https://www.yelp.com/biz/helen-b-bentley-pharmacy-miami
+Navarro Discount Pharmacies;145;8;Drugstores;3.0;8760 SW 40th St Miami, FL 33165;25.7323318;-80.3377897;1;https://www.yelp.com/biz/navarro-discount-pharmacies-miami-9
+Walgreens;146;8;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;1845 Alton Rd Miami Beach, FL 33139;25.7943965;-80.1408727;2;https://www.yelp.com/biz/walgreens-miami-beach-10
+Cerver Pharmacy;147;;Drugstores;0;2711 SW 37th Ave Coconut Grove, FL 33133;25.740787;-80.2541874;0;https://www.yelp.com/biz/cerver-pharmacy-coconut-grove
+CVS Pharmacy;148;9;Drugstores;1.5;9578 Harding Ave Surfside, FL 33154;25.8867629;-80.1239125;2;https://www.yelp.com/biz/cvs-pharmacy-surfside
+Cvs Pharmacy;149;4;Drugstores;1.0;3695 W Flagler St Miami, FL 33135;25.7722485;-80.2549737;0;https://www.yelp.com/biz/cvs-pharmacy-miami-44
+Walgreens;150;9;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;1680 Se 17Th St Fort Lauderdale, FL 33316;26.0999042;-80.1248875;2;https://www.yelp.com/biz/walgreens-fort-lauderdale-12
+Mortar & Pestle the Boutique Pharmacy;151;;Drugstores;0;900 S Miami Ave Miami, FL 33130;25.7652195;-80.1935252;0;https://www.yelp.com/biz/mortar-and-pestle-the-boutique-pharmacy-miami-2
+Seven Pharmacy;152;;Drugstores;0;5545 SW 8th St Coral Gables, FL 33134;25.763902;-80.285029;0;https://www.yelp.com/biz/seven-pharmacy-coral-gables
+Jrm Pharmacy;153;;Drugstores;0;5512 SW 8th St Coral Gables, FL 33134;25.7637057;-80.2840493;0;https://www.yelp.com/biz/jrm-pharmacy-coral-gables
+Super Drug Pharmacy;154;;Drugstores;0;5512 SW 8th St Coral Gables, FL 33134;25.7637057;-80.2840493;0;https://www.yelp.com/biz/super-drug-pharmacy-coral-gables
+J R M Pharmacy;155;;Drugstores;0;5512 SW 8th St Coral Gables, FL 33134;25.7637057;-80.2840493;0;https://www.yelp.com/biz/j-r-m-pharmacy-coral-gables
+South Point Pharmacy;156;;Drugstores;0;1835 W Flagler St Miami, FL 33135;25.7730539;-80.225612;0;https://www.yelp.com/biz/south-point-pharmacy-miami
+Publix;157;48;Grocery,Drugstores;4.0;1920 West Ave Miami Beach, FL 33139;25.7953321;-80.1426594;2;https://www.yelp.com/biz/publix-miami-beach
+Walgreens;158;1;Cosmetics & Beauty Supply,Drugstores,Convenience Stores;4.0;12711 Sw 200Th St Miami, FL 33177;25.5813999;-80.3975385;2;https://www.yelp.com/biz/walgreens-miami-62
+Doctor’s Pharmacy;159;;Drugstores;0;2057 SW 8th St Miami, FL 33135;25.7654973;-80.2285286;0;https://www.yelp.com/biz/doctors-pharmacy-miami
+Farmacia Adelfa and Paty;160;;Drugstores;0;626 SW 109th Ave Miami, FL 33174;25.7631057;-80.3727408;0;https://www.yelp.com/biz/farmacia-adelfa-and-paty-miami
+CVS/pharmacy;161;14;Drugstores;3.0;10701 NW 41st St Miami, FL 33178;25.812215;-80.3700548;2;https://www.yelp.com/biz/cvs-pharmacy-miami-6
+Farmacia 2224;162;;Drugstores;0;10404 W Flagler St Miami, FL 33174;25.768104;-80.365154;0;https://www.yelp.com/biz/farmacia-2224-miami
+Cruces Pharmacy and Discount;163;;Drugstores;0;3180 NW 7th St Miami, FL 33125;25.7789992;-80.2472837;0;https://www.yelp.com/biz/cruces-pharmacy-and-discount-miami
+CVS Pharmacy;164;;Drugstores;0;3750 NW 87th Ave Doral, FL 33178;25.8094686778712;-80.3378839536051;0;https://www.yelp.com/biz/cvs-pharmacy-doral
+Walgreens;165;7;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;1601 Sw 107Th Ave Miami, FL 33165;25.753748;-80.3675543;2;https://www.yelp.com/biz/walgreens-miami-7
+Pharmacy Benefit Administrators;166;;Drugstores;0;10655 NW 29th Ter Miami, FL 33172;25.801436;-80.368491;0;https://www.yelp.com/biz/pharmacy-benefit-administrators-miami
+Walgreens;167;3;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.0;8650 SW 132nd St Miami, FL 33156;25.6468341;-80.3337866;2;https://www.yelp.com/biz/walgreens-miami-29
+Winn-Dixie;168;36;Grocery,Drugstores,Delis;3.5;3275 SW 22nd St Coral Gables, FL 33145;25.7501509;-80.2476903;2;https://www.yelp.com/biz/winn-dixie-coral-gables
+SMP Pharmacy Solutions;169;2;Drugstores;3.0;7425 SW 42nd St Miami, FL 33155;25.7317969;-80.3155025;3;https://www.yelp.com/biz/smp-pharmacy-solutions-miami-6
+Drug Detox Centers Miami;170;;Drugstores;0;1200 Brickell Ave Miami, FL 33131;25.7621082;-80.1923045;0;https://www.yelp.com/biz/drug-detox-centers-miami-miami
+Jorge’s Pharmacy;171;4;Drugstores;3.0;1701 Coral Way Coral Gables, FL 33145;25.7511165;-80.2222409;1;https://www.yelp.com/biz/jorges-pharmacy-coral-gables
+Walgreens;172;3;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.5;340 W State Road 84 Fort Lauderdale, FL 33315;26.0925783;-80.1460297;1;https://www.yelp.com/biz/walgreens-fort-lauderdale-8
+Cvs;173;1;Drugstores;4.0;6320 SW 8th St West Miami, FL 33144;25.7629449;-80.2984126;2;https://www.yelp.com/biz/cvs-west-miami
+Continental Rx;174;;Drugstores;0;505 Southwest 8th Street Miami, FL 33130;25.7664218;-80.2026669;0;https://www.yelp.com/biz/continental-rx-miami
+Publix;175;41;Drugstores,Grocery,Health Markets;2.0;4870 Biscayne Blvd Miami, FL 33137;25.8202998;-80.1882226;2;https://www.yelp.com/biz/publix-miami-7
+Palmetto Pharmacy;176;;Drugstores;0;801 Monterey St Coral Gables, FL 33134;25.7639109;-80.2738539;0;https://www.yelp.com/biz/palmetto-pharmacy-coral-gables
+La Cubana Pharmacy Discount;177;;Drugstores;0;5965 Southwest 8th Street Suite A Miami, FL 33144;25.7636779;-80.292481;0;https://www.yelp.com/biz/la-cubana-pharmacy-discount-miami
+Pharma Plus Drug Store Corp;178;;Drugstores;0;619 Southwest 57th Avenue Miami, FL 33144;25.7646654;-80.2876617;0;https://www.yelp.com/biz/pharma-plus-drug-store-corp-miami
+Farmacia La Luz;179;;Drugstores;0;4677 W Flagler St Coral Gables, FL 33134;25.7717129;-80.271477;0;https://www.yelp.com/biz/farmacia-la-luz-coral-gables
+Barbie’s Pharmacy;180;;Drugstores;0;2324 Ludlam Rd Miami, FL 33155;25.7489253;-80.3035728;0;https://www.yelp.com/biz/barbies-pharmacy-miami
+Walgreens;181;5;Drugstores;1.5;8450 Coral Way Miami, FL 33155;25.7476837;-80.3321575;2;https://www.yelp.com/biz/walgreens-miami-76
+67th Avenue Pharmacy;182;;Drugstores;0;2501 SW 67th Ave Miami, FL 33155;25.7470802;-80.3032294;0;https://www.yelp.com/biz/67th-avenue-pharmacy-miami
+NW Pharmacy;183;;Drugstores;0;3180 NW 7th St Miami, FL 33125;25.7789992;-80.2472837;0;https://www.yelp.com/biz/nw-pharmacy-miami
+Navarro Discount Pharmacies;184;1;Drugstores;4.0;10044 W Flagler St Miami, FL 33174;25.7688754;-80.3584557;1;https://www.yelp.com/biz/navarro-discount-pharmacies-miami-5
+Ideal Pharmacy;185;3;Drugstores;3.5;344 W 65th St Hialeah, FL 33012;25.8808593;-80.2901082;2;https://www.yelp.com/biz/ideal-pharmacy-hialeah
+Walgreens;186;11;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;7340 Collins Ave Miami Beach, FL 33141;25.8592762;-80.1213241;2;https://www.yelp.com/biz/walgreens-miami-beach-7
+Coral Way Pharmacy;187;;Drugstores;0;6965 Coral Way Miami, FL 33155;25.7481199;-80.3074442;0;https://www.yelp.com/biz/coral-way-pharmacy-miami
+Farmacia B 12;188;;Drugstores;0;4660 SW 74th Ave Miami, FL 33155;25.7273957;-80.3148716;0;https://www.yelp.com/biz/farmacia-b-12-miami
+South Pacific Pharmacy and Discount;189;;Drugstores;0;1800 SW 1st St Miami, FL 33135;25.7715384;-80.2251802;0;https://www.yelp.com/biz/south-pacific-pharmacy-and-discount-miami
+Easy Scrips;190;;Drugstores;0;7432 SW 48th St Miami, FL 33155;25.7255382;-80.3128436;0;https://www.yelp.com/biz/easy-scrips-miami
+Walgreens;191;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;8327 W Flagler St Miami, FL 33144;25.7697842;-80.3308326;2;https://www.yelp.com/biz/walgreens-miami-55
+Atlantic Pharmacy Services;192;;Drugstores;0;4908 SW 72nd Ave Miami, FL 33155;25.7239591;-80.3109705;0;https://www.yelp.com/biz/atlantic-pharmacy-services-miami
+Publix Supermarket;193;22;Drugstores,Grocery;4.0;12100 SW 127th Ave Miami, FL 33186;25.6557409;-80.4010483;2;https://www.yelp.com/biz/publix-supermarket-miami-3
+Cvs;194;2;Drugstores;4.0;850 Ives Dairy Rd Miami, FL 33179;25.9607035;-80.1863235;2;https://www.yelp.com/biz/cvs-miami-15
+Cvs Pharmacy;195;1;Drugstores;3.0;11721 S Dixie Hwy Miami, FL 33156;25.6619933;-80.324962;0;https://www.yelp.com/biz/cvs-pharmacy-miami-35
+Flagler Pharmacy;196;;Drugstores;0;6722 West Flagler Street Miami, FL 33144;25.7702934;-80.3047857;0;https://www.yelp.com/biz/flagler-pharmacy-miami
+Twins Pharmacy Discount;197;;Drugstores;0;1456 NW 17th Ave Miami, FL 33125;25.788463;-80.2232047;1;https://www.yelp.com/biz/twins-pharmacy-discount-miami
+CVS Pharmacy;198;2;Drugstores;2.5;12180 SW 8th St Miami, FL 33184;25.7603434;-80.3922381;2;https://www.yelp.com/biz/cvs-pharmacy-miami-71
+The Medicine Shoppe;199;;Drugstores;0;2255 SW 32nd Ave Miami, FL 33145;25.7487442;-80.2461171;0;https://www.yelp.com/biz/the-medicine-shoppe-miami
+Shenandoah Pharmacy Discount;200;;Drugstores;0;2200 SW 16th St Miami, FL 33145;25.7578414;-80.2308258;0;https://www.yelp.com/biz/shenandoah-pharmacy-discount-miami
+Roberto Suris Gc;201;;Drugstores;0;4943 SW 75th Ave Miami, FL 33155;25.7244018;-80.3167609;0;https://www.yelp.com/biz/roberto-suris-gc-miami
+Ecy Pharmacy;202;;Drugstores;0;7951 Bird Rd Miami, FL 33155;25.7335845;-80.3249643;0;https://www.yelp.com/biz/ecy-pharmacy-miami
+Walgreens;203;1;Cosmetics & Beauty Supply,Drugstores,Convenience Stores;5.0;15705 Sw 72Nd St Miami, FL 33193;25.699387;-80.447164;2;https://www.yelp.com/biz/walgreens-miami-70
+Walgreens;204;14;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;9675 Nw 41St St Doral, FL 33178;25.8125071;-80.3527417;2;https://www.yelp.com/biz/walgreens-doral-3
+Publix;205;10;Drugstores,Grocery,Health Markets;4.0;4260 SW 152nd Ave Miami, FL 33185;25.7267757;-80.4410603;2;https://www.yelp.com/biz/publix-miami-24
+M G M Pharmacy & Discount;206;;Drugstores;0;251 Park Blvd Miami, FL 33126;25.7729183;-80.3274798;0;https://www.yelp.com/biz/m-g-m-pharmacy-and-discount-miami
+Baptist Medical Arts Pharmacy-;207;3;Drugstores;3.5;8950 N Kendall Dr Miami, FL 33176;25.6842387;-80.3387723;1;https://www.yelp.com/biz/baptist-medical-arts-pharmacy-miami
+Walgreens;208;6;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;11690 Sw 72Nd St Miami, FL 33173;25.6998864;-80.3816861;2;https://www.yelp.com/biz/walgreens-miami-40
+Jochy’s Pharmacy;209;1;Drugstores;5.0;5858 W 20th Ave Hialeah, FL 33016;25.8760587;-80.324162;0;https://www.yelp.com/biz/jochys-pharmacy-hialeah
+Rodritech;210;;Drugstores;0;5757 SW 8th St West Miami, FL 33144;25.7639979;-80.2890612;0;https://www.yelp.com/biz/rodritech-west-miami
+V H Pharmacy;211;;Drugstores;0;2356 NW 7th St Miami, FL 33125;25.7794124;-80.2405521;0;https://www.yelp.com/biz/v-h-pharmacy-miami-2
+B G’s Pharmacy;212;;Drugstores;0;901 NW 17th St Miami, FL 33136;25.7918364;-80.2106541;0;https://www.yelp.com/biz/b-gs-pharmacy-miami
+Farmacia Marquez;213;2;Drugstores;5.0;5901 W 16th Ave Hialeah, FL 33012;25.8763366;-80.3147958;1;https://www.yelp.com/biz/farmacia-marquez-hialeah
+Aic Pharmacy Discount;214;;Drugstores;0;8350 Bird Rd Miami, FL 33155;25.7331355;-80.3306233;0;https://www.yelp.com/biz/aic-pharmacy-discount-miami
+Sweetwater Pharmacy;215;;Drugstores;0;528 SW 109th Ave Miami, FL 33174;25.7635954;-80.3726367;0;https://www.yelp.com/biz/sweetwater-pharmacy-miami
+Winn-Dixie;216;21;Drugstores,Grocery;3.0;20417 Biscayne Blvd Miami, FL 33180;25.965851;-80.146005;2;https://www.yelp.com/biz/winn-dixie-miami-27
+G Farmacia Discount;217;;Drugstores;0;2416 NW 27th Ave Miami, FL 33142;25.7993802;-80.2402569;0;https://www.yelp.com/biz/g-farmacia-discount-miami
+Star Service Pharmacy;218;;Drugstores;0;8428 Bird Rd Miami, FL 33155;25.7330974;-80.3321868;0;https://www.yelp.com/biz/star-service-pharmacy-miami
+Castilla 87th Pharmacy & Discount;219;;Drugstores;0;890 SW 87th Ave Miami, FL 33174;25.7613154;-80.3365756;0;https://www.yelp.com/biz/castilla-87th-pharmacy-and-discount-miami
+St Jesus Pharmacy;220;;Drugstores;0;12753 SW 42nd St Miami, FL 33175;25.7296703;-80.4011342;0;https://www.yelp.com/biz/st-jesus-pharmacy-miami
+Discount Rx;221;;Drugstores;0;2442 SW 27th Ave Miami, FL 33145;25.7457099;-80.2381164;0;https://www.yelp.com/biz/discount-rx-miami
+Brothers Pharmacy & Discount;222;;Drugstores;0;1001 SW 27th Ave Miami, FL 33135;25.763486;-80.238487;0;https://www.yelp.com/biz/brothers-pharmacy-and-discount-miami
+Publix Super Markets;223;1;Drugstores;3.0;12670 SW 200th St Miami, FL 33125;25.5808297;-80.3960439;2;https://www.yelp.com/biz/publix-super-markets-miami-35
+Gabi’s Pharmacy;224;;Drugstores;0;106C SW 27th Ave Miami, FL 33135;25.771044;-80.239136;0;https://www.yelp.com/biz/gabis-pharmacy-miami
+Walgreens;225;1;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;5.0;14190 Sw 26Th St Miami, FL 33175;25.7428225;-80.423683;2;https://www.yelp.com/biz/walgreens-miami-65
+Lisi’s Pharmacy;226;;Drugstores;0;1774 SW 8th St Miami, FL 33135;25.7653871;-80.2240962;0;https://www.yelp.com/biz/lisis-pharmacy-miami
+Union Pharmacy;227;;Drugstores;0;6462 W Flagler St Miami, FL 33144;25.7705352;-80.3016182;0;https://www.yelp.com/biz/union-pharmacy-miami
+Moron Drug & Discount;228;;Drugstores;0;6267 SW 8th St West Miami, FL 33144;25.7634629;-80.2975338;0;https://www.yelp.com/biz/moron-drug-and-discount-west-miami
+Morales Discount Pharmacy;229;;Drugstores;0;5855 SW 137th Ave Miami, FL 33183;25.7123719;-80.414622;0;https://www.yelp.com/biz/morales-discount-pharmacy-miami
+CVS Pharmacy;230;2;Drugstores;2.0;2713 SW 8th St Miami, FL 33135;25.7654451;-80.2392721;2;https://www.yelp.com/biz/cvs-pharmacy-miami-69
+Ez Pharmacy;231;;Drugstores;0;6350 SW 8th St West Miami, FL 33144;25.762995;-80.2989374;0;https://www.yelp.com/biz/ez-pharmacy-west-miami
+Walgreens;232;4;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.5;14720 N Kendall Dr Miami, FL 33196;25.6837618;-80.4304008;1;https://www.yelp.com/biz/walgreens-miami-66
+Izz Group;233;;Drugstores;0;7270 NW 12th St Ph 4 Miami, FL 33126;25.778647;-80.2962385;0;https://www.yelp.com/biz/izz-group-miami
+Angelito Farmacia Discount;234;1;Drugstores;4.0;3890 E 4th Ave Hialeah, FL 33013;25.8576442;-80.2749945;2;https://www.yelp.com/biz/angelito-farmacia-discount-hialeah
+Cadi Pharmacy;235;;Drugstores;0;1936 W Flagler St Miami, FL 33135;25.7726637;-80.2276845;2;https://www.yelp.com/biz/cadi-pharmacy-miami
+Xcellent Pharmacy;236;2;Drugstores;3.0;11880 SW 40th St Miami, FL 33175;25.73038;-80.38695;0;https://www.yelp.com/biz/xcellent-pharmacy-miami
+Walgreens;237;8;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.5;16795 S Dixie Hwy Miami, FL 33157;25.6143876;-80.3459503;1;https://www.yelp.com/biz/walgreens-miami-11
+Walgreens;238;5;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.5;501 E Sheridan St Dania, FL 33004;26.034486;-80.134293;2;https://www.yelp.com/biz/walgreens-dania-3
+CVS Pharmacy;239;8;Drugstores;2.0;2701 Stirling Rd Fort Lauderdale, FL 33312;26.0482597;-80.176892;2;https://www.yelp.com/biz/cvs-pharmacy-fort-lauderdale-9
+Regional Pharmacy;240;;Drugstores;0;4655 NW 7th St Miami, FL 33126;25.7787391;-80.2713865;0;https://www.yelp.com/biz/regional-pharmacy-miami
+Navarro Discount Pharmacy;241;3;Drugstores,Discount Store,Grocery;2.5;14491 SW 42nd St Miami, FL 33175;25.7292696;-80.4292678;2;https://www.yelp.com/biz/navarro-discount-pharmacy-miami-4
+CVS Pharmacy;242;3;Drugstores;2.0;6700 Coral Way Miami, FL 33155;25.7476961;-80.3039207;2;https://www.yelp.com/biz/cvs-pharmacy-miami-68
+Ideal Pharmacy Services;243;;Drugstores;0;4603 NW 7th St Miami, FL 33126;25.7792619;-80.2710758;0;https://www.yelp.com/biz/ideal-pharmacy-services-miami
+Publix Super Markets;244;5;Drugstores,Grocery;4.0;20201 SW 127th Ave Miami, FL 33177;25.5796545356712;-80.3954421280128;2;https://www.yelp.com/biz/publix-super-markets-miami-33
+Nu-Mart Discount Pharmacy;245;;Drugstores;0;10690 Fontainebleau Blvd Miami, FL 33172;25.7754969;-80.3693527;0;https://www.yelp.com/biz/nu-mart-discount-pharmacy-miami
+Ariguanabo Pharmacy;246;;Drugstores;0;5755 W Flagler St Miami, FL 33144;25.7707946;-80.2890874;0;https://www.yelp.com/biz/ariguanabo-pharmacy-miami
+Pz Pharmacy;247;;Drugstores;0;5872 W Flagler St Miami, FL 33144;25.7706318;-80.2911513;0;https://www.yelp.com/biz/pz-pharmacy-miami
+Walgreens;248;6;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;15255 SW 137th Ave Miami, FL 33177;25.625194;-80.414247;1;https://www.yelp.com/biz/walgreens-miami-68
+Universal Arts Compounding Pharmacy;249;3;Drugstores;3.5;14350 NW 56th Ct Miami, FL 33054;25.9024703554996;-80.2913735772085;0;https://www.yelp.com/biz/universal-arts-compounding-pharmacy-miami-3
+Nova Pharmacy and Discount;250;;Drugstores;0;8216 W Flagler St Miami, FL 33144;25.7695949;-80.3322223;0;https://www.yelp.com/biz/nova-pharmacy-and-discount-miami
+Cvs Pharmacy;251;1;Drugstores;4.0;8831 SW 136th St Miami, FL 33176;25.6467504;-80.3374683;2;https://www.yelp.com/biz/cvs-pharmacy-miami-39
+Rx Health Pharmacy;252;;Drugstores;0;9361 SW 40th St Miami, FL 33165;25.732902;-80.3471575;0;https://www.yelp.com/biz/rx-health-pharmacy-miami
+Cvs Pharmacy;253;3;Drugstores;3.5;11221 SW 152nd St Miami, FL 33157;25.6289694;-80.3751034;2;https://www.yelp.com/biz/cvs-pharmacy-miami-37
+Publix;254;26;Drugstores,Grocery,Health Markets;3.0;1401 Monza Ave Miami, FL 33146;25.7080745;-80.2822133;2;https://www.yelp.com/biz/publix-miami-6
+Walgreens;255;5;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.0;181 N University Dr Plantation, FL 33324;26.1228777;-80.2546978;2;https://www.yelp.com/biz/walgreens-plantation-3
+Emerald Hills Pharmacy;256;10;Drugstores;5.0;3000 Stirling Rd Hollywood, FL 33021;26.0472732;-80.1696683;2;https://www.yelp.com/biz/emerald-hills-pharmacy-hollywood
+Pacific Pharmacy;257;;Drugstores;0;8876 SW 24th St Miami, FL 33165;25.747143;-80.339482;0;https://www.yelp.com/biz/pacific-pharmacy-miami
+Walgreens;258;6;Drugstores,Photography Stores & Services,Cosmetics & Beauty Supply,Convenience Stores;2.5;2700 W Flagler St Miami, FL 33135;25.7718057;-80.2395245;1;https://www.yelp.com/biz/walgreens-miami-18
+Rush Pharmacy & Medical Supply;259;1;Drugstores;3.0;11629 SW 216th St Miami, FL 33170;25.5663586;-80.3799059;2;https://www.yelp.com/biz/rush-pharmacy-and-medical-supply-miami
+Cvs Front Store;260;;Drugstores;0;9722 SW 8th St Miami, FL 33174;25.7615034;-80.3528543;0;https://www.yelp.com/biz/cvs-front-store-miami-2
+Navarro Discount Pharmacy;261;1;Drugstores;4.0;3960 W 12th Ave Hialeah, FL 33012;25.8571891;-80.3077085;0;https://www.yelp.com/biz/navarro-discount-pharmacy-hialeah
+Envios 2224;262;1;Drugstores;5.0;2961 W 12th Ave Hialeah, FL 33012;25.8484427;-80.3060024;0;https://www.yelp.com/biz/envios-2224-hialeah
+Publix;263;12;Drugstores;4.0;16800 SW 88th St Miami, FL 33196;25.6826237;-80.4646175;2;https://www.yelp.com/biz/publix-miami-62
+Cvs;264;;Drugstores;0;8695 Coral Way Miami, FL 33155;25.7482048;-80.3347757;0;https://www.yelp.com/biz/cvs-miami-10
+Oriente Pharmacy;265;;Drugstores;0;285 NW 27th Ave Miami, FL 33125;25.775223;-80.2388;0;https://www.yelp.com/biz/oriente-pharmacy-miami-2
+Jenny’s Pharmacy & Discount;266;1;Drugstores;5.0;9709 NW 27th Ave Miami, FL 33147;25.8630247;-80.2422432;0;https://www.yelp.com/biz/jennys-pharmacy-and-discount-miami
+Caribbean Pharmacy;267;;Drugstores;0;1643 SW 32nd Ave Miami, FL 33145;25.7563921;-80.2465345;0;https://www.yelp.com/biz/caribbean-pharmacy-miami
+Specialty Pharmacy Llc of Coral Gables Fl;268;;Drugstores;0;255 Alhambra Cir Coral Gables, FL 33134;25.7523811;-80.2600039;0;https://www.yelp.com/biz/specialty-pharmacy-llc-of-coral-gables-fl-coral-gables
+Cvs Pharmacy;269;8;Drugstores;2.5;1 N Federal Hwy Fort Lauderdale, FL 33301;26.122747311435;-80.138051600168;2;https://www.yelp.com/biz/cvs-pharmacy-fort-lauderdale-5
+Westwood Discount Pharmacy;270;;Drugstores;0;5615 SW 107th Ave Miami, FL 33173;25.7150898;-80.3668777;0;https://www.yelp.com/biz/westwood-discount-pharmacy-miami
+Great Care Pharmacy;271;;Drugstores;0;2505 North West 54 Street Miami, FL 33142;25.8239821;-80.2387872;0;https://www.yelp.com/biz/great-care-pharmacy-miami
+Cvs Pharmacy;272;;Drugstores;0;8900 SW 97th Ave Miami, FL 33176;25.6867484;-80.350361;0;https://www.yelp.com/biz/cvs-pharmacy-miami-29
+Bellamar Pharmacy;273;;Drugstores;0;10334 W Flagler St Miami, FL 33174;25.768712;-80.363456;0;https://www.yelp.com/biz/bellamar-pharmacy-miami
+Professional Pharmacy Services;274;;Drugstores;0;10993 Southwest 186 Street Miami, FL 33157;25.5958431;-80.3662772;0;https://www.yelp.com/biz/professional-pharmacy-services-miami
+Winn-Dixie;275;2;Drugstores;1.5;1150 NW 54th St Miami, FL 33127;25.823317;-80.2152381;0;https://www.yelp.com/biz/winn-dixie-miami-28
+Walgreens;276;7;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;1155 W 68Th St Hialeah, FL 33014;25.8849284;-80.3070711;1;https://www.yelp.com/biz/walgreens-hialeah-5
+Santa Clara Pharmacy;277;;Drugstores;0;2296 SW 8th St Miami, FL 33135;25.7652702;-80.2324618;0;https://www.yelp.com/biz/santa-clara-pharmacy-miami
+Rg-Community Pharmacy;278;;Drugstores;0;4888 NW 7th St Miami, FL 33126;25.7785181;-80.275891;0;https://www.yelp.com/biz/rg-community-pharmacy-miami
+Walgreens;279;5;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;775 Sw 8Th Ave Miami, FL 33130;25.766458;-80.207126;2;https://www.yelp.com/biz/walgreens-miami-15
+Moms Pharmacy;280;;Drugstores;0;4500 Biscayne Blvd Miami, FL 33137;25.8175552;-80.1888312;0;https://www.yelp.com/biz/moms-pharmacy-miami
+Prescribit Rx;281;;Drugstores;0;10431 SW 40th St Miami, FL 33165;25.73248;-80.3644382;0;https://www.yelp.com/biz/prescribit-rx-miami
+Cvs Pharmacy;282;;Drugstores;0;735 NW 119th St Miami, FL 33168;25.8842694;-80.2114764;0;https://www.yelp.com/biz/cvs-pharmacy-miami-19
+Orly Pharmacy;283;;Drugstores;0;711 NW 23rd Ave Miami, FL 33125;25.7799697;-80.2330772;0;https://www.yelp.com/biz/orly-pharmacy-miami
+La Milagrosa Pharmacy & Discount;284;;Drugstores;0;1690 NW 19th Ter Miami, FL 33125;25.7908148;-80.2272832;0;https://www.yelp.com/biz/la-milagrosa-pharmacy-and-discount-miami-2
+Pharmacy 2224;285;;Drugstores;0;1300 W Flagler St Miami, FL 33135;25.7731337;-80.2165509;0;https://www.yelp.com/biz/pharmacy-2224-miami
+Publix;286;35;Grocery,Drugstores,Health Markets;2.5;2270 SW 27th Ave Miami, FL 33145;25.74909;-80.23899;2;https://www.yelp.com/biz/publix-miami-3
+Miami Springs Pharmacy;287;;Drugstores;0;69 Curtiss Parkway Miami Springs, FL 33166;25.8212261199951;-80.2810745239258;0;https://www.yelp.com/biz/miami-springs-pharmacy-miami-springs-2
+Farmacia Julia Discount;288;;Drugstores;0;3000 Northwest 7th Street Miami, FL 33125;25.7790547;-80.2436212;0;https://www.yelp.com/biz/farmacia-julia-discount-miami
+CVS Pharmacy;289;10;Drugstores;2.5;1700 S Federal Hwy Fort Lauderdale, FL 33316;26.0997317;-80.1362094;1;https://www.yelp.com/biz/cvs-pharmacy-fort-lauderdale-4
+Tudela Pharmacy Discount & Medical Supply;290;;Drugstores;0;10961 SW 40th St Miami, FL 33165;25.7323209;-80.3728099;0;https://www.yelp.com/biz/tudela-pharmacy-discount-and-medical-supply-miami
+La Havana Pharmacy & Discount 0792;291;;Drugstores;0;128 NW 27th Ave Miami, FL 33125;25.7744198;-80.2396461;0;https://www.yelp.com/biz/la-havana-pharmacy-and-discount-0792-miami
+La Caridad Pharmacy;292;;Drugstores;0;4041 SW 96th Ave Miami, FL 33165;25.7320695;-80.3506321;0;https://www.yelp.com/biz/la-caridad-pharmacy-miami
+Miami Downtown Pharmacy;293;;Drugstores;0;96 SE 1st St Miami, FL 33131;25.7731415;-80.1921908;0;https://www.yelp.com/biz/miami-downtown-pharmacy-miami
+Pharmacy Health Administrators;294;;Drugstores;0;7855 NW 12th St Doral, FL 33126;25.783461;-80.323275;0;https://www.yelp.com/biz/pharmacy-health-administrators-doral
+Rosel Pharmacy;295;;Drugstores;0;7255 NW 68th St Miami, FL 33166;25.8355807;-80.3153846;0;https://www.yelp.com/biz/rosel-pharmacy-miami
+US Canadian Discount Drugs;296;;Drugstores;0;800 N Ocean Dr Hollywood, FL 33019;26.0168803;-80.1174571;2;https://www.yelp.com/biz/us-canadian-discount-drugs-hollywood
+Cvs Pharmacy;297;4;Drugstores;1.5;11503 Quail Roost Dr Miami, FL 33157;25.5933721;-80.3790854;2;https://www.yelp.com/biz/cvs-pharmacy-miami-30
+Cvs Pharmacy;298;;Drugstores;0;9720 SW 8th St Miami, FL 33125;25.7609323;-80.3532961;0;https://www.yelp.com/biz/cvs-pharmacy-miami
+La Reina Pharmacy;299;;Drugstores;0;455 SW 17th Ave Miami, FL 33135;25.768543;-80.222358;0;https://www.yelp.com/biz/la-reina-pharmacy-miami
+Costco Gasoline;300;6;Drugstores;3.5;13450 SW 120th St Miami, FL 33186;25.6547868;-80.4130892;1;https://www.yelp.com/biz/costco-gasoline-miami-3
+Palm Avenue Pharmacy;301;;Drugstores;0;400 Palm Ave Hialeah, FL 33010;25.8254682;-80.2815552;0;https://www.yelp.com/biz/palm-avenue-pharmacy-hialeah
+Almacenez Botanica Elegua;302;1;Drugstores;4.0;16300 SW 137th Ave Miami, FL 33177;25.6158624;-80.4152986;0;https://www.yelp.com/biz/almacenez-botanica-elegua-miami
+CVS Pharmacy;303;4;Drugstores;3.5;2101 E Hallandale Beach Blvd Hallandale Beach, FL 33009;25.986916;-80.126772;2;https://www.yelp.com/biz/cvs-pharmacy-hallandale-beach
+Solutions Pharmacy;304;5;Drugstores;5.0;17036 Collins Ave Sunny Isl Bch, FL 33160;25.9341912;-80.1221565;2;https://www.yelp.com/biz/solutions-pharmacy-sunny-isl-bch
+Publix;305;20;Drugstores,Grocery,Health Markets;4.0;14630 SW 26th St Miami, FL 33175;25.74193;-80.431056;1;https://www.yelp.com/biz/publix-miami-22
+CVS Pharmacy / Photo Center;306;4;Drugstores;3.5;15700 SW 88th St Miami, FL 33196;25.6839256459541;-80.4462653339043;0;https://www.yelp.com/biz/cvs-pharmacy-photo-center-miami-2
+Bj’s Pharmaceutical & Medical Supplies;307;;Drugstores;0;11508 Quail Roost Dr Miami, FL 33157;25.5934405;-80.3775453;0;https://www.yelp.com/biz/bjs-pharmaceutical-and-medical-supplies-miami
+Professional Pharmacy Discount;308;;Drugstores;0;13218 SW 8th St Miami, FL 33184;25.7608623;-80.410083;0;https://www.yelp.com/biz/professional-pharmacy-discount-miami
+Ocean Pharmacy & Discount;309;;Drugstores;0;2389 Coral Way Coral Gables, FL 33145;25.750763;-80.233915;0;https://www.yelp.com/biz/ocean-pharmacy-and-discount-coral-gables
+Winsor Pharmacy;310;;Drugstores;0;2170 NW 7th St Miami, FL 33125;25.7794135;-80.2405143;0;https://www.yelp.com/biz/winsor-pharmacy-miami
+Pharmacy Compound;311;;Drugstores;0;6050 S Dixie Hwy Miami, FL 33143;25.7023823;-80.291856;0;https://www.yelp.com/biz/pharmacy-compound-miami
+Cvs Pharmacy;312;;Drugstores;0;6320 SW 8th St West Miami, FL 33144;25.7629449;-80.2984126;0;https://www.yelp.com/biz/cvs-pharmacy-west-miami
+Milton Medical & Drug;313;3;Drugstores;3.5;958 W 41st St Miami Beach, FL 33140;25.8131022;-80.135316;0;https://www.yelp.com/biz/milton-medical-and-drug-miami-beach
+Navarro Discount Pharmacy;314;27;Drugstores;2.5;10720 SW 72nd St Miami, FL 33173;25.7001937;-80.3672796;2;https://www.yelp.com/biz/navarro-discount-pharmacy-miami-3
+United Pharmacy and Discount;315;;Drugstores;0;12887 SW 42nd St Miami, FL 33175;25.7296258;-80.4031238;0;https://www.yelp.com/biz/united-pharmacy-and-discount-miami
+Walgreens;316;6;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;11211 S Dixie Hwy Pinecrest, FL 33156;25.6659354;-80.3230891;2;https://www.yelp.com/biz/walgreens-pinecrest
+Reimbursement Prescription;317;;Drugstores;0;9401 SW 78th St Miami, FL 33173;25.696692;-80.346231;0;https://www.yelp.com/biz/reimbursement-prescription-miami
+Kendall Rx;318;;Drugstores;0;9783 SW 72nd St Miami, FL 33173;25.7016533;-80.3516501;0;https://www.yelp.com/biz/kendall-rx-miami
+Reliance Medical Wholesale;319;;Drugstores;0;9655 S Dixie Hwy Miami, FL 33156;25.6800889;-80.3159399;0;https://www.yelp.com/biz/reliance-medical-wholesale-miami-3
+Sedano’s Pharmacy and Discount;320;;Drugstores;0;1601 W Flagler St Miami, FL 33135;25.7734935;-80.2216363;0;https://www.yelp.com/biz/sedanos-pharmacy-and-discount-miami
+Florida Solutions Pharmacy;321;;Drugstores;0;260 Westward Dr Miami Springs, FL 33166;25.8207664;-80.2852497;0;https://www.yelp.com/biz/florida-solutions-pharmacy-miami-springs
+CVS;322;7;Drugstores;2.5;11299 S Dixie Hwy Miami, FL 33156;25.6652739;-80.3233725;2;https://www.yelp.com/biz/cvs-miami-32
+Budget Pharmacy;323;;Drugstores;0;13150 SW 134th St Miami, FL 33186;25.642632;-80.405772;0;https://www.yelp.com/biz/budget-pharmacy-miami-2
+40th Street Pharmacy Discount;324;;Drugstores;0;9258 SW 40th St Miami, FL 33165;25.7327883;-80.3448898;0;https://www.yelp.com/biz/40th-street-pharmacy-discount-miami
+Duy Drugs;325;;Drugstores;0;1730 NW 79th St Miami, FL 33147;25.8464365;-80.2259033;0;https://www.yelp.com/biz/duy-drugs-miami
+Cvs;326;;Drugstores;0;11503 Quail Roost Dr Miami, FL 33157;25.5933721;-80.3790854;1;https://www.yelp.com/biz/cvs-miami-14
+Priority 1 Pharmacy;327;;Drugstores;0;111 NW 183rd St Miami, FL 33169;25.9429908;-80.2035326;0;https://www.yelp.com/biz/priority-1-pharmacy-miami
+Seratech;328;;Drugstores;0;6356 Manor Ln South Miami, FL 33143;25.699519;-80.29639;0;https://www.yelp.com/biz/seratech-south-miami
+CVS Pharmacy;329;7;Drugstores;2.5;9031 SW 107th Ave Miami, FL 33176;25.6843687;-80.3655389;1;https://www.yelp.com/biz/cvs-pharmacy-miami-58
+San Antonio Pharmacy;330;;Drugstores;0;1250 NW 7th St Miami, FL 33125;25.779834;-80.2159217;0;https://www.yelp.com/biz/san-antonio-pharmacy-miami
+Mar Lac Pharmacy Discount & Supply;331;;Drugstores;0;1109 NW 22nd Ave Miami, FL 33125;25.783738;-80.2311686;0;https://www.yelp.com/biz/mar-lac-pharmacy-discount-and-supply-miami
+Winn-Dixie;332;2;Drugstores;3.0;11030 NW 7th Ave Miami, FL 33168;25.8754594;-80.2112802;2;https://www.yelp.com/biz/winn-dixie-miami-25
+Home Therapy;333;;Drugstores;0;7800 NW 25th St Doral, FL 33122;25.7962385;-80.3238249;0;https://www.yelp.com/biz/home-therapy-doral
+Cvs Pharmacy;334;;Drugstores;0;2615 NW 79th St Miami, FL 33147;25.846442;-80.24086;0;https://www.yelp.com/biz/cvs-pharmacy-miami-25
+IFA Pharmacy;335;;Drugstores;0;441 NW 12th Ave Miami, FL 33128;25.7781732;-80.2147269;0;https://www.yelp.com/biz/ifa-pharmacy-miami
+The Print Chemist;336;;Drugstores;0;2157 SW 13th Ave Miami, FL 33145;25.751308;-80.2160175;0;https://www.yelp.com/biz/the-print-chemist-miami
+South Pharmacy;337;;Drugstores;0;13571 SW 135th Ave Miami, FL 33186;25.6421953;-80.4120642;0;https://www.yelp.com/biz/south-pharmacy-miami
+Sedano’s Pharmacy and Discount;338;;Drugstores;0;920 E 4th Ave Hialeah, FL 33010;25.8303761;-80.2736058;0;https://www.yelp.com/biz/sedanos-pharmacy-and-discount-hialeah-2
+Golden Years Pharmacy Discount;339;;Drugstores;0;1465 W Flagler St Miami, FL 33135;25.7733928;-80.2193916;0;https://www.yelp.com/biz/golden-years-pharmacy-discount-miami
+CVS Pharmacy;340;7;Drugstores;1.5;10761 W Flagler St Miami, FL 33174;25.768551;-80.370766;2;https://www.yelp.com/biz/cvs-pharmacy-miami-13
+Live & Let Live Drug Store;341;;Drugstores;0;3500 NW 17th Ave Miami, FL 33142;25.808855;-80.224204;2;https://www.yelp.com/biz/live-and-let-live-drug-store-miami
+Farmacia Las Martinez;342;;Drugstores;0;2032 NW 22nd Ave Miami, FL 33142;25.795145;-80.2319162;0;https://www.yelp.com/biz/farmacia-las-martinez-miami
+Cvs Pharmacy;343;;Drugstores;0;10700 74th St Miami, FL 33125;25.6992234;-80.3680342;0;https://www.yelp.com/biz/cvs-pharmacy-miami-34
+Humana;344;;Drugstores;0;2600 W Flagler St Miami, FL 33135;25.7721453;-80.2381986;0;https://www.yelp.com/biz/humana-miami-5
+Walgreens;345;2;Cosmetics & Beauty Supply,Drugstores,Convenience Stores;4.0;23201 Sw 112Th Ave Homestead, FL 33032;25.5386323;-80.3720562;0;https://www.yelp.com/biz/walgreens-homestead-3
+Walgreens;346;24;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;12295 Biscayne Blvd North Miami, FL 33181;25.8890567;-80.1625868;2;https://www.yelp.com/biz/walgreens-north-miami-3
+ABC Pharmacy Discount;347;;Drugstores;0;3485 W Flagler St Miami, FL 33135;25.7721621;-80.2521714;0;https://www.yelp.com/biz/abc-pharmacy-discount-miami
+Jerry’s;348;;Drugstores;0;15955 SW 96th St Miami, FL 33196;25.676875;-80.45474;0;https://www.yelp.com/biz/jerrys-miami
+Walgreens;349;11;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.5;6700 Dykes Rd Southwest Ranches, FL 33331;26.0310984;-80.3605994;1;https://www.yelp.com/biz/walgreens-southwest-ranches
+Moreno Pharmacy & Discount;350;;Drugstores;0;7339 W Flagler St Miami, FL 33144;25.7703491;-80.3148007;0;https://www.yelp.com/biz/moreno-pharmacy-and-discount-miami
+CVS Pharmacy;351;6;Drugstores;2.5;8330 Mills Dr Miami, FL 33183;25.6900702;-80.3881768;2;https://www.yelp.com/biz/cvs-pharmacy-miami-14
+Publix;352;43;Drugstores,Grocery,Beer, Wine & Spirits;3.5;15000 Miami Lakes Dr E Miami Lakes, FL 33014;25.912196;-80.306211;2;https://www.yelp.com/biz/publix-miami-lakes
+Med Source Pharmacy Service;353;;Drugstores;0;2223 SW 13th Ave Miami, FL 33145;25.750424;-80.2160275;0;https://www.yelp.com/biz/med-source-pharmacy-service-miami
+CVS Pharmacy;354;13;Drugstores;3.0;15395 NW 82nd Ave Hialeah, FL 33016;25.9127402;-80.3323107;2;https://www.yelp.com/biz/cvs-pharmacy-hialeah-9
+Publix;355;26;Drugstores,Grocery,Health Markets;3.5;18995 Biscayne Blvd Aventura, FL 33180;25.9508124;-80.1433375;2;https://www.yelp.com/biz/publix-aventura
+Cvs Pharmacy;356;6;Drugstores;3.0;2920 SW 64th Ave Davie, FL 33314;26.0850901;-80.2293137;2;https://www.yelp.com/biz/cvs-pharmacy-davie
+CVS Pharmacy;357;16;Drugstores;2.5;12650 SW 88th St Miami, FL 33186;25.6854339980011;-80.3996502382572;1;https://www.yelp.com/biz/cvs-pharmacy-miami-18
+Navarrro Discount Pharmacies;358;;Drugstores;0;3949 SW 8th St Coral Gables, FL 33134;25.764526;-80.2608118;0;https://www.yelp.com/biz/navarrro-discount-pharmacies-coral-gables
+Walmart Supercenter;359;18;Drugstores,Discount Store,Grocery;3.0;9191 W Flagler St Miami Fountainbleau, FL 33174;25.7698907821257;-80.3440240770578;1;https://www.yelp.com/biz/walmart-supercenter-miami-fountainbleau
+Yy Pharmacy;360;;Drugstores;0;515 SW 12th Ave Miami, FL 33130;25.7682554;-80.2141718;0;https://www.yelp.com/biz/yy-pharmacy-miami
+Cvs Pharmacy;361;;Drugstores;0;4801 SW 8th St Coral Gables, FL 33134;25.7640955;-80.2738066;1;https://www.yelp.com/biz/cvs-pharmacy-coral-gables-2
+Milagro Pharmacy;362;;Drugstores;0;302 SW 12th Ave Miami, FL 33130;25.7704748;-80.2147427;0;https://www.yelp.com/biz/milagro-pharmacy-miami
+Wynwood Family Pharmacy;363;;Drugstores;0;3032 NW 7th Ave Miami, FL 33127;25.805535;-80.207702;0;https://www.yelp.com/biz/wynwood-family-pharmacy-miami
+The Clark Center Pharmacy;364;;Drugstores;0;111 NW 1st St Miami, FL 33128;25.7752383;-80.1966853;0;https://www.yelp.com/biz/the-clark-center-pharmacy-miami
+Drug Center;365;;Drugstores;0;1625 Palm Ave Hialeah, FL 33010;25.8365498;-80.2815763;0;https://www.yelp.com/biz/drug-center-hialeah
+Robert’s Drug Store IV;366;;Drugstores;0;111 NW 1st St Miami, FL 33128;25.7759558;-80.1965122;0;https://www.yelp.com/biz/roberts-drug-store-iv-miami
+Walmart Pharmacy;367;;Drugstores;0;6991 SW 8th St Miami, FL 33134;25.763523;-80.308477;0;https://www.yelp.com/biz/walmart-pharmacy-miami
+Rigal Pharmacy;368;;Drugstores;0;3180 NW 7th St Miami, FL 33125;25.778987;-80.247318;0;https://www.yelp.com/biz/rigal-pharmacy-miami
+La Milagrosa Pharmacy & Discount;369;;Drugstores;0;444 SW 8th Ave Miami, FL 33130;25.7690969;-80.2077307;0;https://www.yelp.com/biz/la-milagrosa-pharmacy-and-discount-miami
+Alex & Chris Pharmacy;370;;Drugstores;0;13218 SW 8th St Miami, FL 33184;25.7608621;-80.4101501;0;https://www.yelp.com/biz/alex-and-chris-pharmacy-miami
+Redland Pharmacy Discount;371;;Drugstores;0;19752 SW 177th Ave Miami, FL 33187;25.5824438;-80.4783957;0;https://www.yelp.com/biz/redland-pharmacy-discount-miami
+Global Rx;372;;Drugstores;0;1325 NW 93rd Ct Doral, FL 33172;25.7849174;-80.3473412;0;https://www.yelp.com/biz/global-rx-doral-2
+Jerry’s Medical Arts Pharmacy;373;1;Drugstores;5.0;6200 Sunset Dr South Miami, FL 33143;25.704141;-80.293396;0;https://www.yelp.com/biz/jerrys-medical-arts-pharmacy-south-miami
+CVS Pharmacy;374;4;Drugstores;3.5;5795 Sunset Dr South Miami, FL 33143;25.7047068;-80.2871765;2;https://www.yelp.com/biz/cvs-pharmacy-south-miami-4
+Las Olas Chemist;375;12;Drugstores;5.0;1201 E Las Olas Blvd Fort Lauderdale, FL 33301;26.1196113;-80.1309946;2;https://www.yelp.com/biz/las-olas-chemist-fort-lauderdale
+Pca Family Pharmacy Discount;376;;Drugstores;0;2901 NW 17th Ave Miami, FL 33142;25.803405;-80.223333;0;https://www.yelp.com/biz/pca-family-pharmacy-discount-miami
+Farmacia Olympia;377;;Drugstores;0;9884 SW 40th St Miami, FL 33165;25.7315467;-80.3894102;0;https://www.yelp.com/biz/farmacia-olympia-miami
+CVS;378;6;Drugstores;1.5;16850 Collins Ave North Miami Beach, FL 33160;25.9324389;-80.1232422;1;https://www.yelp.com/biz/cvs-north-miami-beach
+Interpharma Trade;379;;Drugstores;0;1845 NW 112th Ave Miami, FL 33172;25.7921366;-80.3763188;0;https://www.yelp.com/biz/interpharma-trade-miami
+First Choice Rx Infusion;380;;Drugstores;0;111 NW 183rd St Miami, FL 33169;25.9429908;-80.2035326;0;https://www.yelp.com/biz/first-choice-rx-infusion-miami
+Comfort Pharmacy;381;;Drugstores;0;8300 West Flagler Street Miami, FL 33144;25.7693324;-80.3300602;0;https://www.yelp.com/biz/comfort-pharmacy-miami
+CVS Pharmacy;382;4;Drugstores;2.0;11499 SW 40th St Miami, FL 33165;25.734405;-80.381305;2;https://www.yelp.com/biz/cvs-pharmacy-miami-62
+Walgreens;383;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;1251 S State Road 7 Davie, FL 33317;26.1053855;-80.2015887;2;https://www.yelp.com/biz/walgreens-davie-2
+Camaguey Pharmacy & Discount;384;;Drugstores;0;444 SW 8th Ave Miami, FL 33130;25.7660695;-80.2018286;0;https://www.yelp.com/biz/camaguey-pharmacy-and-discount-miami
+CVS;385;8;Drugstores;2.5;8695 Coral Way Miami, FL 33155;25.7482048;-80.3347757;2;https://www.yelp.com/biz/cvs-miami-29
+Navarro Discount Pharmacy;386;1;Drugstores;3.0;11402 NW 41st St Doral, FL 33178;25.8108686;-80.3827637;2;https://www.yelp.com/biz/navarro-discount-pharmacy-doral-2
+Navarro Discount Pharmacies;387;6;Drugstores;2.0;1243 SW 8th St Miami, FL 33135;25.766105;-80.2153737;1;https://www.yelp.com/biz/navarro-discount-pharmacies-miami
+La Ganga Discount Pharmacy;388;;Drugstores;0;2975 NW 17th Ave Miami, FL 33142;25.8043848;-80.2235434;0;https://www.yelp.com/biz/la-ganga-discount-pharmacy-miami
+American Consultant/clinical Pharmacy Services;389;;Drugstores;0;Miami, FL 33027;25.9904176;-80.3547286;0;https://www.yelp.com/biz/american-consultant-clinical-pharmacy-services-miami
+Black & White Pharmacy;390;;Drugstores;0;1003 West Flagler Street Miami, FL 33130;25.7736371;-80.2115762;0;https://www.yelp.com/biz/black-and-white-pharmacy-miami
+Winn-Dixie;391;4;Drugstores;2.0;12254 SW 8th St Miami, FL 33184;25.7608722;-80.394746;2;https://www.yelp.com/biz/winn-dixie-miami-10
+Morhaim Pharmalab;392;;Drugstores;0;6990 NW 82nd Ave Miami, FL 33166;25.8363554;-80.3303029;0;https://www.yelp.com/biz/morhaim-pharmalab-miami-2
+Walmart Neighborhood Market;393;5;Drugstores,Grocery;3.5;11800 Hialeah Gardens Blvd Hialeah Gardens, FL 33018;25.8818830027937;-80.3526145219803;1;https://www.yelp.com/biz/walmart-neighborhood-market-hialeah-gardens-4
+Walgreens;394;1;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.0;9498 Nw 7Th Ave Miami, FL 33150;25.8613433;-80.210245;0;https://www.yelp.com/biz/walgreens-miami-28
+Rise and Shine Pharmacy;395;1;Drugstores;5.0;17913 NW 7th St Pembroke Pines, FL 33029;26.009932;-80.38619;1;https://www.yelp.com/biz/rise-and-shine-pharmacy-pembroke-pines
+CVS Pharmacy;396;8;Drugstores;3.5;12955 SW 112th St Miami, FL 33186;25.6642365;-80.4057164;2;https://www.yelp.com/biz/cvs-pharmacy-miami-20
+Walgreens;397;3;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.5;12400 Pembroke Rd Miramar, FL 33027;25.9927012;-80.3128659;2;https://www.yelp.com/biz/walgreens-miramar-5
+Publix;398;32;Grocery,Drugstores,Health Markets;3.5;9400 Harding Ave Surfside, FL 33154;25.8839453;-80.1237422;2;https://www.yelp.com/biz/publix-surfside
+Gaviota Pharmacy Discount;399;;Drugstores;0;10521 SW 40th St Miami, FL 33165;25.7324606;-80.366118;0;https://www.yelp.com/biz/gaviota-pharmacy-discount-miami
+Medica Pharmacy and Compounding;400;2;Drugstores;5.0;21004 W Dixie Hwy Aventura, FL 33180;25.9697562;-80.1479184;0;https://www.yelp.com/biz/medica-pharmacy-and-compounding-aventura
+Medic Diabetic Supplies;401;;Drugstores;0;990 Biscayne Blvd Miami, FL 33132;25.7837395962313;-80.1898097991943;0;https://www.yelp.com/biz/medic-diabetic-supplies-miami
+Terminal Rexall Pharmacy;402;;Drugstores;0;Miami International Airport Miami, FL 33166;25.795865;-80.2870457;0;https://www.yelp.com/biz/terminal-rexall-pharmacy-miami
+Pill Box Pharmacy & Medical Supplies;403;6;Drugstores;5.0;17529 Pines Blvd Pembroke Pines, FL 33029;26.00774;-80.379904;0;https://www.yelp.com/biz/pill-box-pharmacy-and-medical-supplies-pembroke-pines-2
+Sedano’s Pharmacy & Discount;404;4;Drugstores,Grocery;1.5;11865 SW 26th St Miami, FL 33175;25.7480019;-80.3866215;1;https://www.yelp.com/biz/sedanos-pharmacy-and-discount-miami-4
+Walgreens;405;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.5;690 Nw 183Rd St Miami, FL 33169;25.941804;-80.212564;2;https://www.yelp.com/biz/walgreens-miami-36
+Winn Dixie;406;9;Drugstores;2.0;8855 SW 24th St Miami, FL 33165;25.748612;-80.338522;2;https://www.yelp.com/biz/winn-dixie-miami-14
+Best Pharmacy Discount;407;;Drugstores;0;12224 SW 8th St Miami, FL 33184;25.7608699;-80.3941837;0;https://www.yelp.com/biz/best-pharmacy-discount-miami
+San Lazaro Pharmacy & Discount;408;;Drugstores;0;2295 NW 28th St Miami, FL 33142;25.8020058;-80.2334837;0;https://www.yelp.com/biz/san-lazaro-pharmacy-and-discount-miami-2
+Walgreens Pharmacy;409;3;Cosmetics & Beauty Supply,Drugstores,Convenience Stores;1.5;400 Hialeah Dr Hialeah, FL 33010;25.822451;-80.272869;1;https://www.yelp.com/biz/walgreens-pharmacy-hialeah
+Dadeland Medical Pharmacy;410;;Drugstores;0;7400 N Kendall Dr Miami, FL 33156;25.6873032;-80.3151743;0;https://www.yelp.com/biz/dadeland-medical-pharmacy-miami
+Walgreens;411;7;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;9020 Biscayne Blvd Miami Shores, FL 33138;25.858051;-80.184545;1;https://www.yelp.com/biz/walgreens-miami-shores-2
+CVS Pharmacy;412;3;Drugstores;2.5;16550 NE 6th Ave Miami, FL 33162;25.9275472;-80.1889143;2;https://www.yelp.com/biz/cvs-pharmacy-miami-73
+Walgreens;413;5;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;7910 Nw 27Th Ave Miami, FL 33147;25.8465354;-80.2423667;2;https://www.yelp.com/biz/walgreens-miami-49
+Publix;414;16;Drugstores,Grocery;2.0;11495 Bird Rd Miami, FL 33165;25.734455;-80.380972;2;https://www.yelp.com/biz/publix-miami-19
+San Lazaro Pharmacy & Discount;415;;Drugstores;0;35 SW 114th Ave Miami, FL 33174;25.76775;-80.380671;0;https://www.yelp.com/biz/san-lazaro-pharmacy-and-discount-miami
+Walgreens;416;6;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;1201 S Federal Hwy Fort Lauderdale, FL 33316;26.10714;-80.1375592;2;https://www.yelp.com/biz/walgreens-fort-lauderdale-5
+Happy Pharmacy;417;;Drugstores;0;13379 SW 42nd St Miami, FL 33175;25.7293707;-80.4112528;0;https://www.yelp.com/biz/happy-pharmacy-miami
+Winn-Dixie;418;6;Drugstores;3.5;15050 Sunset Dr Miami, FL 33193;25.69841;-80.436579;2;https://www.yelp.com/biz/winn-dixie-miami-22
+inVentiv Health;419;;Drugstores;0;1951 NW 7th Ave Miami, FL 33136;25.7946314;-80.206686;0;https://www.yelp.com/biz/inventiv-health-miami
+Cvs;420;2;Drugstores;2.5;8831 SW 136th St Miami, FL 33176;25.6467504;-80.3374683;2;https://www.yelp.com/biz/cvs-miami-21
+Fedco;421;;Drugstores;0;5900 NW 97th Ave Doral, FL 33178;25.82761;-80.3561172;0;https://www.yelp.com/biz/fedco-doral
+CVS/Pharmacy;422;11;Drugstores;2.5;13896 SW 56th St Miami, FL 33175;25.7137135;-80.4185471;2;https://www.yelp.com/biz/cvs-pharmacy-miami-48
+Helsynth Pharmaceutical;423;;Drugstores;0;7220 NW 36th St Miami, FL 33166;25.8086553;-80.3147357;0;https://www.yelp.com/biz/helsynth-pharmaceutical-miami
+Superior Pharmacy Group;424;;Drugstores;0;1951 NW 97th Ave Doral, FL 33172;25.792532;-80.352588;0;https://www.yelp.com/biz/superior-pharmacy-group-doral
+Cvs Pharmacy;425;;Drugstores;0;9722 SW 8th St Miami, FL 33174;25.7615034;-80.3528543;2;https://www.yelp.com/biz/cvs-pharmacy-miami-22
+La Rosa Pharmacy;426;;Drugstores;0;11023 NW 27th Ave Miami, FL 33167;25.8747584;-80.242363;0;https://www.yelp.com/biz/la-rosa-pharmacy-miami
+Walgreens;427;1;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;5.0;780 E 9Th St Hialeah, FL 33010;25.8302457;-80.2662733;2;https://www.yelp.com/biz/walgreens-hialeah-7
+Walgreens;428;14;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;12630 Sw 120Th St Miami, FL 33186;25.6562839;-80.3985097;1;https://www.yelp.com/biz/walgreens-miami-24
+Walgreens;429;10;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;1751 Bonaventure Blvd Weston, FL 33326;26.098686;-80.378102;1;https://www.yelp.com/biz/walgreens-weston
+CVS pharmacy;430;5;Drugstores;3.5;13840 SW 88th St Miami, FL 33186;25.6840366;-80.4195351;0;https://www.yelp.com/biz/cvs-pharmacy-miami-65
+Publix;431;14;Drugstores,Grocery,Bakeries;3.0;13850 SW 8th St Miami, FL 33184;25.7598861625248;-80.4201774294184;2;https://www.yelp.com/biz/publix-miami-14
+Country Walk Pharmacy & Discount;432;;Drugstores;0;14421 Country Walk Dr Miami, FL 33186;25.629973;-80.42709;0;https://www.yelp.com/biz/country-walk-pharmacy-and-discount-miami
+Eckerd Express Photo;433;;Drugstores;0;15700 SW 88th St Miami, FL 33196;25.6838301;-80.44631;0;https://www.yelp.com/biz/eckerd-express-photo-miami-13
+Star Pharmacy Dicsount;434;;Drugstores;0;357 E 1st Ave Hialeah, FL 33010;25.8252023;-80.2793755;0;https://www.yelp.com/biz/star-pharmacy-dicsount-hialeah
+Ebony Drug Store;435;;Drugstores;0;6666 NW 15th Ave Miami, FL 33147;25.8353398;-80.2230289;0;https://www.yelp.com/biz/ebony-drug-store-miami
+Eckerd Drugs;436;;Drugstores;0;10201 Hammocks Blvd Miami, FL 33196;25.6716959;-80.4419358;0;https://www.yelp.com/biz/eckerd-drugs-miami-25
+Walgreens;437;;Cosmetics & Beauty Supply,Drugstores,Convenience Stores;0;11760 SW 40th St Miami, FL 33175;25.7312510851239;-80.3853321075439;0;https://www.yelp.com/biz/walgreens-miami-60
+Walgreens;438;4;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;700 W Broward Blvd Fort Lauderdale, FL 33312;26.1216301;-80.1510378;2;https://www.yelp.com/biz/walgreens-fort-lauderdale-4
+Winn-Dixie;439;3;Drugstores;4.5;1630 W 49th St Hialeah, FL 33012;25.8648944;-80.3153886;2;https://www.yelp.com/biz/winn-dixie-hialeah-7
+Benzer Pharmacy;440;;Drugstores;0;1250 NW 7th St Miami, FL 33125;25.779834;-80.2159217;0;https://www.yelp.com/biz/benzer-pharmacy-miami-2
+Target Stores;441;19;Department Stores,Drugstores;3.5;8201 Federated West Roadway Plantation, FL 33324;26.1177145;-80.2586361;2;https://www.yelp.com/biz/target-stores-plantation
+Chity’s Pharmacy;442;;Drugstores;0;3750 W 16th Ave Hialeah, FL 33012;25.8557026;-80.3150867;0;https://www.yelp.com/biz/chitys-pharmacy-hialeah
+Miami Pharmacy & Discount;443;;Drugstores;0;704 Palm Ave Hialeah, FL 33010;25.8283606;-80.28168;0;https://www.yelp.com/biz/miami-pharmacy-and-discount-hialeah
+Sentry Drugs East;444;;Drugstores;0;6233 Sunset Dr South Miami, FL 33143;25.704585;-80.294261;0;https://www.yelp.com/biz/sentry-drugs-east-south-miami
+Pharm-Aid;445;1;Wholesale Stores,Drugstores,Medical Supplies;5.0;12117 Pembroke Rd Pembroke Pines, FL 33025;25.9933026;-80.3081239;0;https://www.yelp.com/biz/pharm-aid-pembroke-pines
+Comprehensive Home Care;446;;Drugstores;0;13390 SW 131st St Miami, FL 33186;25.6453616;-80.4105244;0;https://www.yelp.com/biz/comprehensive-home-care-miami
+Eckerd Express Photo;447;;Drugstores;0;19198 S Dixie Hwy Miami, FL 33157;25.5897599;-80.359844;0;https://www.yelp.com/biz/eckerd-express-photo-miami-20
+Cvs Pharmacy;448;4;Drugstores;3.5;447 Hollywood Mall Hollywood, FL 33021;26.0141416;-80.1737647;2;https://www.yelp.com/biz/cvs-pharmacy-hollywood-8
+Sedano’s Pharmacy & Discount;449;1;Drugstores;2.0;2399 W 52nd St Hialeah, FL 33016;25.870429709862;-80.330151701244;0;https://www.yelp.com/biz/sedanos-pharmacy-and-discount-hialeah-5
+Rapid Scripts;450;;Drugstores;0;777 E 25th St Hialeah, FL 33013;25.8455133;-80.2676812;0;https://www.yelp.com/biz/rapid-scripts-hialeah
+Puerto Rico Pharmacy;451;;Drugstores;0;375 NE 54th St Miami, FL 33137;25.825707;-80.1882;0;https://www.yelp.com/biz/puerto-rico-pharmacy-miami
+Manzanillo Pharmacy Discount;452;1;Drugstores;5.0;14770 SW 56th St Miami, FL 33185;25.7138302;-80.4325605;0;https://www.yelp.com/biz/manzanillo-pharmacy-discount-miami
+Walgreens;453;;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;0;11920 Nw 27Th Ave Miami, FL 33167;25.8832791;-80.243877;2;https://www.yelp.com/biz/walgreens-miami-35
+Eckerd Drugs;454;;Drugstores;0;11503 Quail Roost Dr Miami, FL 33157;25.5933721;-80.3790854;0;https://www.yelp.com/biz/eckerd-drugs-miami-18
+Walgreens;455;10;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;524 Jefferson Ave Miami Beach, FL 33139;25.77479;-80.1374952;2;https://www.yelp.com/biz/walgreens-miami-beach-9
+Eckerd Express Photo;456;;Drugstores;0;20345 Old Cutler Rd Miami, FL 33189;25.5781626;-80.3358439;0;https://www.yelp.com/biz/eckerd-express-photo-miami-24
+Eckerd Drugs;457;;Drugstores;0;20345 Old Cutler Rd Miami, FL 33189;25.5781626;-80.3358439;0;https://www.yelp.com/biz/eckerd-drugs-miami-23
+Walgreens;458;16;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;13698 Sw 8Th St Miami, FL 33184;25.7603572;-80.4162999;2;https://www.yelp.com/biz/walgreens-miami-63
+Budget Drugs;459;5;Drugstores;5.0;2500 E Hallandale Beach Blvd Hallandale Beach, FL 33009;25.9856233;-80.1246745;1;https://www.yelp.com/biz/budget-drugs-hallandale-beach
+Universal Pharmacy & Discount;460;;Drugstores;0;13427 SW 56th St Miami, FL 33175;25.7145055;-80.4121112;0;https://www.yelp.com/biz/universal-pharmacy-and-discount-miami
+Walgreens;461;5;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;11700 Sw 104Th St Miami, FL 33186;25.6713776;-80.3847211;2;https://www.yelp.com/biz/walgreens-miami-58
+Walgreens;462;5;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;18590 S Dixie Hwy Cutler Bay, FL 33157;25.5966607;-80.3557912;1;https://www.yelp.com/biz/walgreens-cutler-bay-2
+Ely’s Pharmacy & Discount;463;;Drugstores;0;15126 SW 56th St Miami, FL 33185;25.7136434;-80.4383084;0;https://www.yelp.com/biz/elys-pharmacy-and-discount-miami
+Premium Pharmacy;464;;Drugstores;0;8901 SW 157th Ave Miami, FL 33196;25.6831319;-80.445529;0;https://www.yelp.com/biz/premium-pharmacy-miami
+Caremax Medical Resources;465;;Drugstores;0;1000 Park Centre Blvd Miami, FL 33169;25.9287686;-80.2188686;0;https://www.yelp.com/biz/caremax-medical-resources-miami
+Baxter Pharmacy & Discount;466;;Drugstores;0;13730 SW 84th St Miami, FL 33183;25.6884475;-80.4164067;0;https://www.yelp.com/biz/baxter-pharmacy-and-discount-miami
+Male Enhancement Guide;467;;Drugstores;0;382 NE 19st St Miami, FL 33179;25.9503375;-80.193275;0;https://www.yelp.com/biz/male-enhancement-guide-miami
+Walgreens;468;4;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.5;199 Weston Rd Weston, FL 33326;26.120038;-80.3627913;2;https://www.yelp.com/biz/walgreens-weston-2
+Santa Barbara Pharmacy;469;;Drugstores;0;14012 SW 8th St Miami, FL 33184;25.7603777;-80.4225826;0;https://www.yelp.com/biz/santa-barbara-pharmacy-miami
+CVS Pharmacy;470;3;Drugstores;2.0;1549 SW 107th Ave Miami, FL 33174;25.7548457;-80.3666422;2;https://www.yelp.com/biz/cvs-pharmacy-miami-57
+Choice Pharmacy Services;471;;Drugstores;0;10800 Biscayne Blvd Miami, FL 33161;25.8751794;-80.1707349;0;https://www.yelp.com/biz/choice-pharmacy-services-miami
+Walgreens;472;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.0;750 Nw 119Th St Miami, FL 33168;25.8832492;-80.2114781;2;https://www.yelp.com/biz/walgreens-miami-44
+Love Pharmacy;473;;Drugstores;0;1000 E 4th Ave Hialeah, FL 33010;25.8311154;-80.2736295;0;https://www.yelp.com/biz/love-pharmacy-hialeah
+Costco Gasoline;474;1;Gas Stations,Drugstores,Wholesalers;4.0;14585 Biscayne Blvd North Miami, FL 33181;25.9083139331767;-80.1568186283112;0;https://www.yelp.com/biz/costco-gasoline-north-miami
+Melissa Pharmacy Discount;475;;Drugstores;0;634 E 9th St Hialeah, FL 33010;25.830395;-80.2687113;0;https://www.yelp.com/biz/melissa-pharmacy-discount-hialeah
+Ep Medical Equipment;476;;Drugstores;0;12173 SW 132nd Ct Miami, FL 33186;25.654312;-80.4084915;0;https://www.yelp.com/biz/ep-medical-equipment-miami
+Walgreens;477;30;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;18665 Biscayne Blvd Aventura, FL 33180;25.9478045;-80.1459928;2;https://www.yelp.com/biz/walgreens-aventura
+Maggy Pharmacy Discount;478;;Drugstores;0;1255 W 46th St Hialeah, FL 33012;25.8643491;-80.3075828;0;https://www.yelp.com/biz/maggy-pharmacy-discount-hialeah
+Refua Pharmacy Medical Supply;479;;Drugstores;0;2845 Aventura Blvd Miami, FL 33180;25.9611868;-80.1445838;0;https://www.yelp.com/biz/refua-pharmacy-medical-supply-miami
+Sylvestre Pharmacy;480;;Drugstores;0;1268 Palm Ave Hialeah, FL 33010;25.8332444;-80.2817607;0;https://www.yelp.com/biz/sylvestre-pharmacy-hialeah
+Gran Pharmacy Discount;481;;Drugstores;0;2140 NW 36th St Miami, FL 33142;25.8092081;-80.23088;0;https://www.yelp.com/biz/gran-pharmacy-discount-miami
+Kotan Inc Cinderela Pharmacy;482;;Drugstores;0;128 NE 54th St Miami, FL 33137;25.825138;-80.193239;0;https://www.yelp.com/biz/kotan-inc-cinderela-pharmacy-miami
+Publix;483;27;Drugstores,Grocery,Health Markets;3.0;9755 NW 41st St Doral, FL 33178;25.8129859;-80.3555191;2;https://www.yelp.com/biz/publix-doral-2
+Azalia’s Pharmacy;484;;Drugstores;0;428 E 49th St Hialeah, FL 33013;25.866891;-80.273946;0;https://www.yelp.com/biz/azalias-pharmacy-hialeah
+Folklore Pharmacy Discount;485;;Drugstores;0;12812 SW 8th St Miami, FL 33184;25.7603;-80.404762;0;https://www.yelp.com/biz/folklore-pharmacy-discount-miami
+Walgreens;486;;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;0;16800 Nw 2Nd Avenue Miami, FL 33169;25.929411;-80.203954;0;https://www.yelp.com/biz/walgreens-miami-73
+Cvs Pharmacy;487;7;Drugstores;3.5;4400 Hollywood Blvd Hollywood, FL 33021;26.0099985;-80.1877746;2;https://www.yelp.com/biz/cvs-pharmacy-hollywood-5
+Ptg Pharmacy & Discount;488;1;Drugstores;5.0;15916 SW 137th Ave Miami, FL 33177;25.6196863;-80.4146441;0;https://www.yelp.com/biz/ptg-pharmacy-and-discount-miami
+International Garden Pharmacy Discount;489;;Drugstores;0;174 E 15th St Hialeah, FL 33010;25.835215;-80.278232;0;https://www.yelp.com/biz/international-garden-pharmacy-discount-hialeah
+Walgreens;490;7;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;15911 Pines Blvd Pembroke Pines, FL 33027;26.0084285;-80.3612093;2;https://www.yelp.com/biz/walgreens-pembroke-pines-7
+Miller Food Store;491;;Drugstores;0;14655 SW 56th St Miami, FL 33175;25.715673;-80.4303952;0;https://www.yelp.com/biz/miller-food-store-miami
+Mgc Pharmacy;492;;Drugstores;0;1516 E 4th Ave Hialeah, FL 33010;25.8359173;-80.2738224;0;https://www.yelp.com/biz/mgc-pharmacy-hialeah
+Walgreens;493;;Cosmetics & Beauty Supply,Drugstores,Convenience Stores;0;161 Ne 54Th St Miami, FL 33137;25.8254772;-80.1922966;2;https://www.yelp.com/biz/walgreens-miami-71
+Mallinckrodt Dis;494;;Drugstores;0;1645 NW 79th St Miami, FL 33147;25.8466459;-80.224853;0;https://www.yelp.com/biz/mallinckrodt-dis-miami
+Sedanos Pharmacy and Discount;495;2;Drugstores;1.5;13796 SW 152nd St Miami, FL 33177;25.6257027;-80.4169614;0;https://www.yelp.com/biz/sedanos-pharmacy-and-discount-miami-5
+Cvs Pharmacy;496;2;Drugstores;3.5;17201 Pines Blvd Pembroke Pines, FL 33029;26.0084255;-80.3772014;2;https://www.yelp.com/biz/cvs-pharmacy-pembroke-pines-4
+Pharmag;497;;Drugstores;0;14780 SW 56th St Miami, FL 33185;25.7138118;-80.433116;0;https://www.yelp.com/biz/pharmag-miami
+JLH Pharmacy;498;;Drugstores;0;8204 NW 103rd St Hialeah, FL 33016;25.869144;-80.3295948;0;https://www.yelp.com/biz/jlh-pharmacy-hialeah
+Cvs Pharmacy;499;7;Drugstores;1.5;18290 Collins Ave Sunny Isles Beach, FL 33160;25.9454168;-80.1214733;2;https://www.yelp.com/biz/cvs-pharmacy-sunny-isles-beach
+Walgreens;500;6;Cosmetics & Beauty Supply,Drugstores,Convenience Stores;2.5;52 E Palm Dr Florida City, FL 33034;25.4487109922296;-80.475993007757;2;https://www.yelp.com/biz/walgreens-florida-city
+Walgreens;501;16;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;3015 S University Dr Davie, FL 33328;26.083111;-80.2516408;1;https://www.yelp.com/biz/walgreens-davie-4
+Walgreens;502;4;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;202 S Federal Hwy Dania, FL 33004;26.0482765;-80.1440604;2;https://www.yelp.com/biz/walgreens-dania-2
+Ilva Pharmacy;503;;Drugstores;0;10550 NW 77th Ct Hialeah, FL 33016;25.8689992;-80.3252084;0;https://www.yelp.com/biz/ilva-pharmacy-hialeah
+Morales Pharmacy;504;;Drugstores;0;8050 NW 103rd St Hialeah, FL 33016;25.8683974;-80.3284398;0;https://www.yelp.com/biz/morales-pharmacy-hialeah
+Patients Pharmacy;505;;Drugstores;0;5321 W 20th Ave Hialeah, FL 33012;25.8705009;-80.3226164;0;https://www.yelp.com/biz/patients-pharmacy-hialeah
+Pca Medical Supply;506;;Drugstores;0;5321 W 20th Ave Hialeah, FL 33012;25.8705009;-80.3226164;0;https://www.yelp.com/biz/pca-medical-supply-hialeah
+CVS Pharmacy;507;8;Drugstores;2.5;1571 W 49th St Hialeah, FL 33012;25.8666524;-80.3140628;2;https://www.yelp.com/biz/cvs-pharmacy-hialeah
+Publix;508;6;Drugstores,Grocery,Health Markets;4.0;15750 SW 72nd St Miami, FL 33193;25.6982269284437;-80.4477475969506;2;https://www.yelp.com/biz/publix-miami-26
+Publix;509;7;Drugstores,Grocery,Health Markets;4.0;18409 Miramar Pkwy Miramar, FL 33029;25.9799554819318;-80.3926689277341;1;https://www.yelp.com/biz/publix-miramar-3
+Walgreens;510;4;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.5;567 Ne 125Th St North Miami, FL 33161;25.8906579;-80.186961;2;https://www.yelp.com/biz/walgreens-north-miami-2
+Golden Pharmacy;511;;Drugstores;0;8302 NW 103rd St Hialeah, FL 33016;25.8689098;-80.3338002;0;https://www.yelp.com/biz/golden-pharmacy-hialeah
+Cvs Pharmacy;512;;Drugstores;0;1120 Weston Rd Weston, FL 33326;26.1055222;-80.3629983;2;https://www.yelp.com/biz/cvs-pharmacy-weston-4
+Deco Discount & Drugs;513;;Drugstores;0;1409 Washington Ave Miami Beach, FL 33139;25.7857662;-80.1317091;0;https://www.yelp.com/biz/deco-discount-and-drugs-miami-beach
+La Farmacia;514;;Drugstores;0;1222 NW 29th St Miami, FL 33142;25.80305;-80.215918;0;https://www.yelp.com/biz/la-farmacia-miami
+Ok Pharmacy;515;;Drugstores;0;2736 SW 137th Ave Miami, FL 33175;25.7420797;-80.4162971;0;https://www.yelp.com/biz/ok-pharmacy-miami
+University Physicians Supply;516;;Drugstores;0;217 Valencia Ave Coral Gables, FL 33134;25.7480683;-80.2591458;0;https://www.yelp.com/biz/university-physicians-supply-coral-gables
+Farmacia Cardenas;517;;Drugstores;0;2030 Palm Ave Hialeah, FL 33010;25.8401676;-80.2820715;0;https://www.yelp.com/biz/farmacia-cardenas-hialeah
+Walmart Neighborhood Market;518;2;Grocery,Drugstores,Discount Store;3.0;3791 NW 167th St Miami Gardens, FL 33055;25.926447;-80.262157;1;https://www.yelp.com/biz/walmart-neighborhood-market-miami-gardens-2
+iCare Rx;519;;Drugstores;0;14447 Country Walk Dr Miami, FL 33186;25.6293246;-80.427048;1;https://www.yelp.com/biz/icare-rx-miami-2
+Rosy’s Pharmacy;520;;Drugstores;0;2050 W 56th St Hialeah, FL 33016;25.8726458;-80.3246849;0;https://www.yelp.com/biz/rosys-pharmacy-hialeah
+Florida Pharmacy Discount;521;;Drugstores;0;1980 E 4th Ave Hialeah, FL 33010;25.8399245;-80.2739309;0;https://www.yelp.com/biz/florida-pharmacy-discount-hialeah
+Walmart Pharmacy;522;1;Drugstores;5.0;4301 S University Dr Davie, FL 33328;26.0671530718589;-80.2543721961163;0;https://www.yelp.com/biz/walmart-pharmacy-davie
+Walgreens;523;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;13628 W State Rd 84 Davie, FL 33325;26.1164336;-80.3314037;1;https://www.yelp.com/biz/walgreens-davie-3
+The Plantation Pharmacy;524;1;Drugstores;5.0;700 SW 78th Ave Plantation, FL 33324;26.1114196;-80.2550304;0;https://www.yelp.com/biz/the-plantation-pharmacy-plantation
+Roberts Drug Store 3;525;;Drugstores;0;2505 NW 54th St Miami, FL 33142;25.8239821;-80.2387872;0;https://www.yelp.com/biz/roberts-drug-store-3-miami
+Publix;526;30;Drugstores,Grocery;3.0;1045 Dade Blvd Miami Beach, FL 33139;25.7945719;-80.1401621;2;https://www.yelp.com/biz/publix-miami-beach-3
+Navarro Discount Pharmacies;527;;Drugstores;0;9400 NW 104th St Medley, FL 33178;25.8667024;-80.3493049;0;https://www.yelp.com/biz/navarro-discount-pharmacies-medley-2
+Morales Discount & Pharmacy;528;;Drugstores;0;5855 SW 137th Ave Miami, FL 33183;25.7123719;-80.414622;0;https://www.yelp.com/biz/morales-discount-and-pharmacy-miami
+Raymond Pharmacy;529;;Drugstores;0;15740 SW 72nd St Miami, FL 33193;25.6988191;-80.4471;0;https://www.yelp.com/biz/raymond-pharmacy-miami
+Melli Pharmacy & Supply;530;;Drugstores;0;1432 E 4th Ave Hialeah, FL 33010;25.8351232;-80.2737902;0;https://www.yelp.com/biz/melli-pharmacy-and-supply-hialeah
+White Orchid Pharmacy;531;2;Drugstores;5.0;2328 Hollywood Blvd Hollywood, FL 33020;26.0109412;-80.1539208;3;https://www.yelp.com/biz/white-orchid-pharmacy-hollywood
+Navarro Discount Pharmacies;532;2;Drugstores;3.5;15000 Sunset Dr Miami, FL 33193;25.6989378;-80.4365216;1;https://www.yelp.com/biz/navarro-discount-pharmacies-miami-10
+Dumaro Pharmacy;533;;Drugstores;0;4750 W Flagler St Coral Gables, FL 33134;25.7713569;-80.2737054;0;https://www.yelp.com/biz/dumaro-pharmacy-coral-gables
+Reno Pharmacy;534;;Drugstores;0;19559 NE 10th Ave Miami, FL 33179;25.9553246;-80.1818381;0;https://www.yelp.com/biz/reno-pharmacy-miami
+Walgreens;535;8;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;1723 E Young Cir Hollywood, FL 33020;26.0115354;-80.1411569;2;https://www.yelp.com/biz/walgreens-hollywood-6
+My Pharmacy Palmetto Bay;536;;Drugstores;0;14989 S Dixie Hwy Miami, FL 33176;25.6363314;-80.3377559;0;https://www.yelp.com/biz/my-pharmacy-palmetto-bay-miami
+Pill Box Pharmacy;537;1;Medical Supplies,Drugstores;5.0;7701 Nova Dr Davie, FL 33324;26.0910884501548;-80.2501445509839;2;https://www.yelp.com/biz/pill-box-pharmacy-davie
+Mazal Tov Pharmacy;538;;Drugstores;0;5582 W Flagler St Coral Gables, FL 33134;25.7708743;-80.2857546;0;https://www.yelp.com/biz/mazal-tov-pharmacy-coral-gables
+Publix;539;9;Drugstores,Grocery,Health Markets;4.0;3339 W 80th St Hialeah, FL 33018;25.8962393;-80.3497198;2;https://www.yelp.com/biz/publix-hialeah-4
+Navarro Discount Pharmacies;540;;Drugstores;0;5300 W Flagler St Coral Gables, FL 33134;25.770742;-80.2823328;0;https://www.yelp.com/biz/navarro-discount-pharmacies-coral-gables-3
+Walgreens;541;6;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;15711 Sw 152Nd St Miami, FL 33187;25.6259437;-80.4475848;2;https://www.yelp.com/biz/walgreens-miami-79
+Publix;542;17;Drugstores,Grocery,Health Markets;3.5;13735 SW 152nd St Miami, FL 33177;25.6273542;-80.4157903;2;https://www.yelp.com/biz/publix-miami-5
+Accu-Care Services;543;;Drugstores;0;18812 S Dixie Hwy Miami, FL 33157;25.950242;-80.1488862;0;https://www.yelp.com/biz/accu-care-services-miami
+Elsa Pharmacy;544;;Drugstores;0;555 E 25th St Hialeah, FL 33013;25.8451569;-80.2712266;0;https://www.yelp.com/biz/elsa-pharmacy-hialeah
+Pines Health Mart Pharmacy;545;1;Medical Supplies,Drugstores;5.0;2301 N University Dr Pembroke Pines, FL 33024;26.0296233;-80.2475479;2;https://www.yelp.com/biz/pines-health-mart-pharmacy-pembroke-pines
+Canada Prescriptions Direct;546;;Drugstores;0;2875 NE 191st St Miami, FL 33180;25.9529063;-80.1434092;0;https://www.yelp.com/biz/canada-prescriptions-direct-miami
+CVS;547;4;Drugstores;3.0;11721 S Dixie Hwy Miami, FL 33156;25.6619933;-80.324962;1;https://www.yelp.com/biz/cvs-miami-19
+Cvs;548;1;Drugstores;3.0;18478 NW 67th Ave Hialeah, FL 33015;25.941101;-80.3082796;0;https://www.yelp.com/biz/cvs-hialeah-3
+Walmart Pharmacy;549;1;Drugstores;5.0;4000 Pine Island Rd Davie, FL 33024;26.0431341;-80.2584387;0;https://www.yelp.com/biz/walmart-pharmacy-davie-2
+Treasure Island Pharmacy;550;;Drugstores;0;1630 79th Street Cswy North Bay Village, FL 33141;25.8486776;-80.1515365;0;https://www.yelp.com/biz/treasure-island-pharmacy-north-bay-village
+Cvs Pharmacy;551;2;Drugstores;1.0;4610 S University Dr Davie, FL 33328;26.0636694;-80.2515341;2;https://www.yelp.com/biz/cvs-pharmacy-davie-2
+Julios’pharmacy Discount;552;;Drugstores;0;2875 W 2nd Ave Hialeah, FL 33010;25.8479332;-80.2862662;0;https://www.yelp.com/biz/juliospharmacy-discount-hialeah
+1 Rx Liberty Pharmacy Discount;553;;Drugstores;0;972 E 25th St Hialeah, FL 33013;25.8452631;-80.2625337;0;https://www.yelp.com/biz/1-rx-liberty-pharmacy-discount-hialeah
+Homestead Community Pharmacy;554;1;Drugstores;5.0;925 NE 30th Ave Homestead, FL 33033;25.4789662;-80.4337585;0;https://www.yelp.com/biz/homestead-community-pharmacy-homestead
+Mediq;555;;Drugstores;0;1980 E 4th Ave Hialeah, FL 33010;25.8399377;-80.2740319;0;https://www.yelp.com/biz/mediq-hialeah
+Medstar Inc Pharmacy;556;;Drugstores;0;2108 W 68th St Hialeah, FL 33016;25.8840726;-80.3255866;2;https://www.yelp.com/biz/medstar-inc-pharmacy-hialeah-3
+Hialeah Pharmacy;557;;Drugstores;0;791 W 29th St Hialeah, FL 33012;25.8480293;-80.2978242;0;https://www.yelp.com/biz/hialeah-pharmacy-hialeah
+Friendly Drug & Surgical Supply;558;4;Drugstores;4.0;7 Barry Rd West Park, FL 33023;25.9841183;-80.2050567;2;https://www.yelp.com/biz/friendly-drug-and-surgical-supply-hollywood
+H E Pharmacy;559;;Drugstores;0;691 W 29th St Hialeah, FL 33012;25.8482619;-80.295937;0;https://www.yelp.com/biz/h-e-pharmacy-hialeah
+Navarro Discount Pharmacy;560;2;Drugstores;1.0;11865 SW 26th St Miami, FL 33175;25.7480019;-80.3866215;0;https://www.yelp.com/biz/navarro-discount-pharmacy-miami-6
+Lifesaver Pharmacy;561;;Drugstores;0;11735 SW 147th Ave Miami, FL 33196;25.6581592;-80.4305811;0;https://www.yelp.com/biz/lifesaver-pharmacy-miami
+Publix;562;10;Grocery,Drugstores,Delis;2.5;13005 SW 89th Pl Miami, FL 33176;25.6487087;-80.3394202;1;https://www.yelp.com/biz/publix-miami-27
+Winn-Dixie;563;2;Drugstores;3.0;17221 NW 27th Ave Miami Gardens, FL 33056;25.9313952;-80.2435655;1;https://www.yelp.com/biz/winn-dixie-miami-gardens
+Winn-Dixie;564;5;Drugstores,Grocery;3.5;19167 S Dixie Hwy Miami, FL 33157;25.5898392526736;-80.3571297098539;1;https://www.yelp.com/biz/winn-dixie-miami-13
+Publix;565;14;Drugstores,Grocery,Health Markets;3.0;5997 Stirling Rd Davie, FL 33314;26.0474014;-80.2256861;2;https://www.yelp.com/biz/publix-davie
+Walmart Pharmacy;566;2;Drugstores;1.0;3200 NW 79th St Miami Northside, FL 33147;25.8435049;-80.2513075;0;https://www.yelp.com/biz/walmart-pharmacy-miami-northside
+Walgreens;567;3;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.5;19550 Pines Blvd Pembroke Pines, FL 33029;26.0070556;-80.4076615;1;https://www.yelp.com/biz/walgreens-pembroke-pines-9
+Patient’s Choice Pharmacy;568;7;Drugstores;5.0;4801 South University Dr Davie, FL 33328;26.0604864;-80.2530567;0;https://www.yelp.com/biz/patients-choice-pharmacy-davie
+Walgreens;569;13;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;13680 Sw 88Th St Miami, FL 33186;25.6847516;-80.4159481;1;https://www.yelp.com/biz/walgreens-miami-64
+Cvs Pharmacy;570;8;Drugstores;3.0;10700 NW 74th St Medley, FL 33178;25.8400801;-80.3708423;1;https://www.yelp.com/biz/cvs-pharmacy-medley
+Navarro Discount Pharmacies;571;;Drugstores;0;9400 NW 104th St Medley, FL 33178;25.8667024;-80.3493049;0;https://www.yelp.com/biz/navarro-discount-pharmacies-medley
+West Haileah Pharmacy;572;;Drugstores;0;2900 W 12th Ave Hialeah, FL 33012;25.8483956;-80.3067861;0;https://www.yelp.com/biz/west-haileah-pharmacy-hialeah
+Santile Team Services;573;;Drugstores;0;3068 Palm Ave Hialeah, FL 33012;25.8498188;-80.2826917;0;https://www.yelp.com/biz/santile-team-services-hialeah
+Walgreens;574;;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;0;7160 West 20Th Ave M129 Hialeah, FL 33016;25.8866173;-80.3256175;0;https://www.yelp.com/biz/walgreens-hialeah-15
+Coral West Pharmacy;575;;Drugstores;0;2406 SW 137th Ave Miami, FL 33175;25.744986;-80.416434;0;https://www.yelp.com/biz/coral-west-pharmacy-miami
+D and Family Pharmacy;576;;Drugstores;0;2255 W 10th Ct Hialeah, FL 33010;25.8420906;-80.3030317;0;https://www.yelp.com/biz/d-and-family-pharmacy-hialeah
+Silver Star Pharmacy;577;;Drugstores;0;12304 SW 127th Ave Miami, FL 33186;25.654267;-80.4011184;0;https://www.yelp.com/biz/silver-star-pharmacy-miami
+Cvs;578;3;Drugstores;1.0;735 NW 119th St Miami, FL 33168;25.8842694;-80.2114764;2;https://www.yelp.com/biz/cvs-miami-8
+Walgreens;579;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;5.0;2800 NE 8Th St Homestead, FL 33033;25.4767125;-80.4357235;2;https://www.yelp.com/biz/walgreens-homestead-4
+Walgreens;580;8;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;3007 Aventura Blvd Aventura, FL 33180;25.9622917;-80.1412808;2;https://www.yelp.com/biz/walgreens-aventura-2
+Walgreens;581;4;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;14501 Miramar Pkwy Miramar, FL 33027;25.9793553;-80.3405783;1;https://www.yelp.com/biz/walgreens-miramar-6
+Sunshine Pharmacy & Supply;582;;Drugstores;0;2475 NW 95th Ave Doral, FL 33172;25.7965217;-80.3490744;0;https://www.yelp.com/biz/sunshine-pharmacy-and-supply-doral
+Walmart Pharmacy;583;1;Drugstores;4.0;9191 W Flagler St Miami Fountainbleau, FL 33134;25.7693705353297;-80.3443211317062;0;https://www.yelp.com/biz/walmart-pharmacy-miami-fountainbleau
+Keni Pharmacy;584;;Drugstores;0;13911 SW 42nd St Miami, FL 33175;25.729502;-80.4202824;0;https://www.yelp.com/biz/keni-pharmacy-miami
+Cvs Pharmacy;585;8;Drugstores;2.5;13830 SW 8th St Miami, FL 33184;25.759611;-80.4197062;2;https://www.yelp.com/biz/cvs-pharmacy-miami-50
+Eckerd Express Photo;586;;Drugstores;0;13896 SW 56th St Miami, FL 33175;25.7135825;-80.4183547;0;https://www.yelp.com/biz/eckerd-express-photo-miami-22
+Santa Barbara Pharmacy;587;;Drugstores;0;3491 E 4th Ave Hialeah, FL 33013;25.8540601;-80.2744332;0;https://www.yelp.com/biz/santa-barbara-pharmacy-hialeah
+Global Pharmacy Service;588;;Drugstores;0;7760 W 20th Ave Hialeah, FL 33016;25.8938734;-80.3260544;0;https://www.yelp.com/biz/global-pharmacy-service-hialeah
+Apme;589;;Drugstores;0;526 Hialeah Dr Hialeah, FL 33010;25.8229943;-80.2706318;0;https://www.yelp.com/biz/apme-hialeah
+Mg Pharmacy Discount;590;;Drugstores;0;758 E 10th St Hialeah, FL 33010;25.831591;-80.2661677;0;https://www.yelp.com/biz/mg-pharmacy-discount-hialeah
+Cvs Pharmacy;591;1;Drugstores;5.0;900 S State Road 7 Hollywood, FL 33023;26.0022142;-80.2078673;1;https://www.yelp.com/biz/cvs-pharmacy-hollywood-7
+Fis’care Pharmacy;592;;Drugstores;0;13205 SW 137th Ave Miami, FL 33186;25.6441554;-80.4144748;0;https://www.yelp.com/biz/fiscare-pharmacy-miami
+Ideal Pharmacy;593;;Drugstores;0;3740 W 12th Ave Hialeah, FL 33012;25.855715;-80.306562;0;https://www.yelp.com/biz/ideal-pharmacy-hialeah-2
+Walgreens;594;15;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;9005 Pines Blvd Pembroke Pines, FL 33024;26.009318;-80.26445;2;https://www.yelp.com/biz/walgreens-pembroke-pines-11
+Winn-Dixie;595;11;Drugstores,Grocery;2.5;1625 Cordova Rd Fort Lauderdale, FL 33316;26.1017066;-80.1314338;2;https://www.yelp.com/biz/winn-dixie-fort-lauderdale-8
+Publix;596;19;Drugstores,Grocery,Health Markets;3.0;10201 Hammocks Blvd Miami, FL 33196;25.6721220801927;-80.4430801493682;2;https://www.yelp.com/biz/publix-miami-15
+Winn-Dixie;597;4;Drugstores;1.0;1201 E 10th Ave Hialeah, FL 33010;25.8337621;-80.2606702;2;https://www.yelp.com/biz/winn-dixie-hialeah
+Alex & Chris Pharmacy;598;;Drugstores;0;13218 SW 8th St Miami, FL 33184;25.7608621;-80.4101501;0;https://www.yelp.com/biz/alex-and-chris-pharmacy-miami-2
+Navarro Discount Pharmacies;599;;Drugstores;0;3915 Palm Ave Hialeah, FL 33012;25.8578811;-80.2826801;0;https://www.yelp.com/biz/navarro-discount-pharmacies-hialeah-7
+Medical Priority;600;;Drugstores;0;1671 W 37th St Hialeah, FL 33012;25.8554661;-80.3160939;0;https://www.yelp.com/biz/medical-priority-hialeah
+Sedano’s Pharmacy and Discount;601;;Drugstores;0;3960 W 12th Ave Hialeah, FL 33012;25.8571891;-80.3077085;0;https://www.yelp.com/biz/sedanos-pharmacy-and-discount-hialeah-3
+Milton Medical & Drug;602;;Drugstores;0;958 Arthur Godfrey Rd Miami Beach, FL 33140;25.8129099;-80.1351586;0;https://www.yelp.com/biz/milton-medical-and-drug-miami-beach-2
+Sedano’s Pharmacy and Discount;603;;Drugstores;0;3960 W 12th Ave Hialeah, FL 33012;25.8577102;-80.3075702;0;https://www.yelp.com/biz/sedanos-pharmacy-and-discount-hialeah-6
+ITX Medical Supply;604;;Medical Supplies,Drugstores;0;3438 W 84th St Hialeah, FL 33018;25.8963919;-80.353712;0;https://www.yelp.com/biz/itx-medical-supply-hialeah
+Trust Pharmacy;605;2;Drugstores;3.0;9833 Pines Blvd Pembroke Pines, FL 33024;26.0092751979988;-80.2760617585703;1;https://www.yelp.com/biz/trust-pharmacy-pembroke-pines
+CVS Pharmacy;606;4;Drugstores;3.5;13749 SW 152nd St Miami, FL 33177;25.623999;-80.508764;1;https://www.yelp.com/biz/cvs-pharmacy-miami-4
+M G Universal Pharmacy;607;;Drugstores;0;4065 E 8th Ave Hialeah, FL 33013;25.85939;-80.266336;0;https://www.yelp.com/biz/m-g-universal-pharmacy-hialeah
+Perdomos Pharmacy and Discount;608;;Drugstores;0;4288 Palm Ave Hialeah, FL 33012;25.8611946;-80.282852;0;https://www.yelp.com/biz/perdomos-pharmacy-and-discount-hialeah
+Martinez Drug;609;;Drugstores;0;874 E 41st St Hialeah, FL 33013;25.85976;-80.265284;0;https://www.yelp.com/biz/martinez-drug-hialeah
+Florida Independent Pharmacies Assoc;610;;Drugstores;0;13801 SW 34th St Miami, FL 33175;25.7366889;-80.418139;0;https://www.yelp.com/biz/florida-independent-pharmacies-assoc-miami
+Sunrise Pharmacy;611;;Drugstores;0;4254 W 12th Ave Hialeah, FL 33012;25.8607342;-80.3066938;0;https://www.yelp.com/biz/sunrise-pharmacy-hialeah
+Pill Box Pharmacy & Medical Supply;612;11;Drugstores;4.0;1700 NW 122nd Ter Pembroke Pines, FL 33026;26.0229094;-80.3105477;2;https://www.yelp.com/biz/pill-box-pharmacy-and-medical-supply-pembroke-pines
+Cvs Pharmacy;613;6;Drugstores;2.5;1825 NE Miami Gardens Dr Miami, FL 33179;25.9464232;-80.1643412;2;https://www.yelp.com/biz/cvs-pharmacy-miami-11
+Walgreens;614;11;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.0;4010 Sw 137Th Ave Miami, FL 33175;25.730756;-80.416281;2;https://www.yelp.com/biz/walgreens-miami-74
+Publix;615;7;Drugstores,Grocery,Health Markets;3.5;4901 Volunteer Rd Southwest Ranches, FL 33330;26.0598496;-80.3481037;3;https://www.yelp.com/biz/publix-southwest-ranches
+Publix;616;7;Drugstores;4.0;19441 Sheridan St Hollywood, FL 33019;26.031335;-80.407673;2;https://www.yelp.com/biz/publix-hollywood-4
+Specialty Pharmacy and Discount;617;;Drugstores;0;4501 Palm Ave Hialeah, FL 33012;25.8634647;-80.2826856;0;https://www.yelp.com/biz/specialty-pharmacy-and-discount-hialeah
+Pasteur Medical Pharmacy;618;;Drugstores;0;1233 W 44th Pl Hialeah, FL 33012;25.8625546;-80.30734;0;https://www.yelp.com/biz/pasteur-medical-pharmacy-hialeah
+Walgreens;619;5;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;4473 Weston Rd Weston, FL 33331;26.0687725;-80.3632021;2;https://www.yelp.com/biz/walgreens-weston-5
+Cvs Pharmacy;620;4;Drugstores;4.0;2599 SW 147th Ave Miami, FL 33185;25.7436559;-80.4315538;2;https://www.yelp.com/biz/cvs-pharmacy-miami-27
+Publix At Westlake Commons;621;4;Beer, Wine & Spirits,Drugstores,Grocery;2.0;1700 Sheridan St Hollywood, FL 33020;26.032677;-80.139893;2;https://www.yelp.com/biz/publix-at-westlake-commons-hollywood
+Pasteur Pharmacy;622;;Drugstores;0;4544 W 12th Ave Hialeah, FL 33012;25.8632138;-80.3067594;0;https://www.yelp.com/biz/pasteur-pharmacy-hialeah
+Publix Super Markets;623;7;Drugstores,Grocery;4.5;4567 Weston Rd Weston, FL 33331;26.0650486;-80.3646442;2;https://www.yelp.com/biz/publix-super-markets-weston-5
+Walgreens;624;1;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;5.0;18300 Nw 37Th Ave Miami Gardens, FL 33056;25.9409462;-80.261913;2;https://www.yelp.com/biz/walgreens-miami-gardens
+Medcare Infusion Services;625;1;Drugstores;1.0;3085 West 80th St Hialeah, FL 33018;25.8955536;-80.3458948;0;https://www.yelp.com/biz/medcare-infusion-services-hialeah
+Walgreens;626;4;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;15701 Sw 72Nd St Miami, FL 33185;25.713889;-80.447689;2;https://www.yelp.com/biz/walgreens-miami-69
+Ulrici Distributors;627;;Drugstores;0;Hialeah, FL 33002;25.8665814;-80.3043337;0;https://www.yelp.com/biz/ulrici-distributors-hialeah
+Mery Pharmacy;628;;Drugstores;0;347 E 49th St Hialeah, FL 33013;25.8671921;-80.2757251;0;https://www.yelp.com/biz/mery-pharmacy-hialeah
+Prescribit Rx;629;;Drugstores;0;975 W 49th St Hialeah, FL 33012;25.8670516;-80.3027945;0;https://www.yelp.com/biz/prescribit-rx-hialeah
+Publix;630;64;Drugstores,Grocery,Health Markets;3.0;6876 Collins Ave Miami Beach, FL 33141;25.8531124503015;-80.1206238870778;2;https://www.yelp.com/biz/publix-miami-beach-2
+Cvs Pharmacy;631;2;Drugstores;2.5;19800 NW 2nd Ave Miami, FL 33169;25.9566006;-80.2065654;2;https://www.yelp.com/biz/cvs-pharmacy-miami-3
+Fantasy Pharmacy;632;;Drugstores;0;461 E 49th St Hialeah, FL 33013;25.8675551;-80.2734633;0;https://www.yelp.com/biz/fantasy-pharmacy-hialeah
+La Perla Pharmacy;633;;Drugstores;0;11180 W Flagler St Miami, FL 33174;25.7679564;-80.3764139;0;https://www.yelp.com/biz/la-perla-pharmacy-miami
+Cvs Pharmacy;634;5;Drugstores;3.0;10201 Hammocks Blvd Miami, FL 33196;25.6716959;-80.4419358;1;https://www.yelp.com/biz/cvs-pharmacy-miami-47
+Coto’s Pharmacy;635;;Drugstores;0;4982 W 12th Ave Hialeah, FL 33012;25.867437;-80.307272;0;https://www.yelp.com/biz/cotos-pharmacy-hialeah
+Publix;636;33;Grocery,Drugstores,Health Markets;3.5;601 S Andrews Ave Fort Lauderdale, FL 33301;26.1142411;-80.143866;2;https://www.yelp.com/biz/publix-fort-lauderdale-3
+Navarro Discount Pharmacy;637;2;Drugstores;2.5;13796 SW 152nd St Miami, FL 33177;25.6257027;-80.4169614;0;https://www.yelp.com/biz/navarro-discount-pharmacy-miami
+Nela Pharmacy Discount and Medical Supplies;638;;Drugstores;0;2640 SW 137th Ave Miami, FL 33175;25.7423615;-80.4163088;0;https://www.yelp.com/biz/nela-pharmacy-discount-and-medical-supplies-miami
+Moreno’s Universal Art Pharmacy;639;;Drugstores;0;1550 W 84th St Hialeah, FL 33014;25.8977156;-80.3152905;0;https://www.yelp.com/biz/morenos-universal-art-pharmacy-hialeah
+Prescribit Rx;640;;Drugstores;0;2475 E 5th Ave Hialeah, FL 33013;25.8444553;-80.2717374;0;https://www.yelp.com/biz/prescribit-rx-hialeah-2
+Mare Pharmacy & Discount;641;;Drugstores;0;5350 Palm Avenue Hialeah, FL 33012;25.8714838;-80.2832382;0;https://www.yelp.com/biz/mare-pharmacy-and-discount-hialeah
+Harlem Discount Drug;642;;Drugstores;0;4930 NW 7th Ave Miami, FL 33127;25.8207944;-80.2080218;0;https://www.yelp.com/biz/harlem-discount-drug-miami
+Florida Pharmarcy;643;;Drugstores;0;5366 W 12th Ave Hialeah, FL 33012;25.8711581;-80.3069865;0;https://www.yelp.com/biz/florida-pharmarcy-hialeah
+Atlantic Biologicals;644;;Drugstores;0;16000 NW 49th Ave Hialeah, FL 33014;25.919183;-80.281116;0;https://www.yelp.com/biz/atlantic-biologicals-hialeah
+Publix;645;8;Grocery,Drugstores,Health Markets;3.5;18341 Pines Blvd Pembroke Pines, FL 33029;26.0093181;-80.3914776;2;https://www.yelp.com/biz/publix-pembroke-pines-4
+Cvs Pharmacy;646;1;Drugstores;1.0;600 NE 128th St North Miami, FL 33161;25.8926946;-80.1863581;0;https://www.yelp.com/biz/cvs-pharmacy-north-miami-2
+Cvs;647;;Drugstores;0;600 NE 128th St North Miami, FL 33161;25.8926946;-80.1863581;1;https://www.yelp.com/biz/cvs-north-miami
+Publix Super Markets;648;10;Grocery,Drugstores;3.0;8842 W State Rd 84 Davie, FL 33324;26.1009083;-80.2667584;2;https://www.yelp.com/biz/publix-super-markets-davie-2
+Publix Super Markets;649;20;Drugstores,Beer, Wine & Spirits,Grocery;3.5;2950 NE 8th St Homestead, FL 33033;25.4753114589319;-80.4341083823399;2;https://www.yelp.com/biz/publix-super-markets-homestead-4
+Dania Rexall Pharmacy;650;2;Drugstores;2.0;16-18 S Federal Hwy Dania Beach, FL 33004;26.0529496;-80.1435471;1;https://www.yelp.com/biz/dania-rexall-pharmacy-dania-beach
+Publix Supermarket;651;1;Drugstores,Grocery;4.0;5656 S Flamingo Rd Cooper City, FL 33330;26.0464302443237;-80.3110295698247;0;https://www.yelp.com/biz/publix-supermarket-cooper-city
+Cvs Pharmacy;652;1;Drugstores;2.0;5710 S Flamingo Rd Cooper City, FL 33330;26.0514292;-80.3130885;0;https://www.yelp.com/biz/cvs-pharmacy-cooper-city-2
+Prescription Drug Foundation;653;2;Drugstores;3.0;1777 NE 163rd St North Miami Beach, FL 33162;25.9260048;-80.1644367;2;https://www.yelp.com/biz/prescription-drug-foundation-north-miami-beach
+Winn-Dixie;654;13;Drugstores;3.5;15450 NW 77th Ct Miami Lake, FL 33016;25.9148553007665;-80.3281570729239;2;https://www.yelp.com/biz/winn-dixie-miami-lake
+I Mark Imports;655;;Drugstores;0;16497 NW 49th Ave Miami Gardens, FL 33014;25.9230194;-80.2806141;0;https://www.yelp.com/biz/i-mark-imports-miami-gardens
+Medzdirect Pharmacy;656;;Drugstores;0;1065 NE 125th St North Miami, FL 33161;25.8908732;-80.1770563;0;https://www.yelp.com/biz/medzdirect-pharmacy-north-miami
+Costco;657;;Drugstores;0;16580 NW 59th Ave Hialeah, FL 33014;25.9230291652171;-80.2987581118941;2;https://www.yelp.com/biz/costco-hialeah-2
+Walgreens;658;4;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.0;6817 Taft St Hollywood, FL 33024;26.0251976;-80.2248497;2;https://www.yelp.com/biz/walgreens-hollywood-9
+Walgreens;659;1;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.0;15900 Nw 27Th Ave Opa Locka, FL 33054;25.9195278;-80.2449518;0;https://www.yelp.com/biz/walgreens-opa-locka-2
+Allay Pharmaceuticals;660;;Drugstores;0;16600 NW 54th Ave Hialeah, FL 33014;25.9242583;-80.2893795;0;https://www.yelp.com/biz/allay-pharmaceuticals-hialeah
+Cvs Pharmacy;661;8;Drugstores;2.5;24799 SW 112th Ave Homestead, FL 33032;25.5377202;-80.3715004;2;https://www.yelp.com/biz/cvs-pharmacy-homestead-2
+Cvs Pharmacy;662;1;Drugstores;3.0;7155 W Broward Blvd Plantation, FL 33317;26.1215554;-80.2438936;2;https://www.yelp.com/biz/cvs-pharmacy-plantation-3
+Publix;663;21;Drugstores,Grocery,Health Markets;3.0;1700 NE Miami Gardens Dr Miami, FL 33179;25.9458158;-80.167646;2;https://www.yelp.com/biz/publix-miami-21
+Walgreens;664;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.5;15701 SW 56th St Miami, FL 33185;25.7137490059515;-80.4475767760542;3;https://www.yelp.com/biz/walgreens-miami-82
+Walgreens;665;5;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;19935 Nw 2Nd Ave Miami, FL 33169;25.9578522;-80.2032737;1;https://www.yelp.com/biz/walgreens-miami-14
+Malecon Pharmacy;666;;Drugstores;0;5966 W 16th Ave Hialeah, FL 33012;25.8766649;-80.3158372;0;https://www.yelp.com/biz/malecon-pharmacy-hialeah
+Cvs Pharmacy 2895;667;1;Drugstores;2.0;19800 NW 2nd Ave Miami, FL 33169;25.9566006;-80.2065654;1;https://www.yelp.com/biz/cvs-pharmacy-2895-miami
+Walgreens;668;;Drugstores;0;2000 Normandy Dr Miami Beach, FL 33141;25.851665;-80.1420512;0;https://www.yelp.com/biz/walgreens-miami-beach-15
+CVS Pharmacy;669;3;Drugstores;3.5;1600 S Federal Hwy Hollywood, FL 33020;25.997203;-80.143276;2;https://www.yelp.com/biz/cvs-pharmacy-hollywood-9
+Cvs Pharmacy;670;6;Drugstores;3.0;324 Indian Trce Weston, FL 33326;26.1183424;-80.3932364;2;https://www.yelp.com/biz/cvs-pharmacy-weston-3
+New Hope Pharmacy;671;;Drugstores;0;1920 E 4th Ave Hialeah, FL 33010;25.8394478;-80.2740109;0;https://www.yelp.com/biz/new-hope-pharmacy-hialeah
+Healthplus Pharmacy;672;;Drugstores;0;16519 NW 27th Ave Opa Locka, FL 33054;25.9245715;-80.244464;0;https://www.yelp.com/biz/healthplus-pharmacy-opa-locka
+Cali Pharmacy & Discount;673;;Drugstores;0;1924-26 West 60th Street Hialeah, FL 33012;25.8771197;-80.2840202;0;https://www.yelp.com/biz/cali-pharmacy-and-discount-hialeah
+Winn-Dixie;674;5;Drugstores,Grocery;3.0;2581 N Hiatus Rd Hollywood, FL 33026;26.0311076;-80.2950032;2;https://www.yelp.com/biz/winn-dixie-hollywood
+Universal Arts Pharmacy;675;;Drugstores;0;6500 W 4th Ave Hialeah, FL 33012;25.8818472;-80.2923071;0;https://www.yelp.com/biz/universal-arts-pharmacy-hialeah
+Publix;676;17;Drugstores,Grocery,Health Markets;2.5;19955 NW 2nd Ave Miami, FL 33169;25.9581863;-80.2032658;2;https://www.yelp.com/biz/publix-miami-20
+Morales Discount and Pharmacy;677;;Drugstores;0;5945 W 25th Ct Hialeah, FL 33016;25.8761569;-80.3337682;0;https://www.yelp.com/biz/morales-discount-and-pharmacy-hialeah
+Morales Pharmacy 2 At Popular Discount;678;;Drugstores;0;2416 W 60th St Hialeah, FL 33016;25.8769526;-80.3319123;0;https://www.yelp.com/biz/morales-pharmacy-2-at-popular-discount-hialeah
+Publix;679;9;Drugstores,Grocery,Health Markets;3.0;850 N Miami Beach Blvd North Miami Beach, FL 33162;25.9265539;-80.1836428;2;https://www.yelp.com/biz/publix-north-miami-beach
+CVS;680;4;Drugstores;2.0;7199 SW 117th Ave Kendall, FL 33183;25.7011330814178;-80.3816556896572;2;https://www.yelp.com/biz/cvs-kendall
+Navarro Discount Pharmacies;681;5;Drugstores;1.5;629 71st St Miami Beach, FL 33141;25.8560161;-80.1244479;1;https://www.yelp.com/biz/navarro-discount-pharmacies-miami-beach
+CVS Pharmacy;682;7;Drugstores;2.0;12401 Miramar Pkwy Miramar, FL 33027;25.9795434;-80.3122863;2;https://www.yelp.com/biz/cvs-pharmacy-miramar-2
+Complete Pharmacy & Medical Solutions;683;1;Drugstores;1.0;6157 NW 167th St Hialeah, FL 33015;25.9262836;-80.301935;0;https://www.yelp.com/biz/complete-pharmacy-and-medical-solutions-hialeah
+Walgreens;684;;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;0;11398 Quail Roost Dr Miami, FL 33157;25.5924796;-80.3776875;1;https://www.yelp.com/biz/walgreens-miami-31
+Santos Suarez Pharmacy;685;;Drugstores;0;11300 NW 87th Ct Hialeah Gardens, FL 33018;25.8766375;-80.3409986;0;https://www.yelp.com/biz/santos-suarez-pharmacy-hialeah-gardens
+Martha Farmacia & Discount;686;;Drugstores;0;6871 West 4th Avenue Hialeah, FL 33014;25.885695;-80.290894;0;https://www.yelp.com/biz/martha-farmacia-and-discount-hialeah
+CVS Pharmacy;687;8;Drugstores;2.0;1200 W 68th St Hialeah, FL 33012;25.884188;-80.308131;2;https://www.yelp.com/biz/cvs-pharmacy-hialeah-8
+Sedano’s Pharmacy and Discount;688;;Drugstores;0;1700 W 68th St Hialeah, FL 33014;25.883504;-80.318236;0;https://www.yelp.com/biz/sedanos-pharmacy-and-discount-hialeah-4
+Tech Pharmaceuticals;689;;Drugstores;0;1800 W 68th St Hialeah, FL 33014;25.8831123;-80.3205754;0;https://www.yelp.com/biz/tech-pharmaceuticals-hialeah
+CVS Health;690;2;Drugstores;1.5;13749 SW 152nd St Miami, FL 33177;25.6273954;-80.4163087;2;https://www.yelp.com/biz/cvs-health-miami
+Pharmal Source Dme;691;;Drugstores;0;14045 W Dixie Hwy North Miami, FL 33161;25.9050079;-80.1732879;0;https://www.yelp.com/biz/pharmal-source-dme-north-miami
+Walgreens;692;4;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;509 W Hallandale Beach Blvd Hallandale Beach, FL 33009;25.9849097;-80.153671;2;https://www.yelp.com/biz/walgreens-hallandale-beach-3
+Walgreens;693;1;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.0;14901 Ne 6Th Ave North Miami, FL 33161;25.9127932;-80.1870522;0;https://www.yelp.com/biz/walgreens-north-miami-4
+Eckerd Drugs;694;;Drugstores;0;7400 Collins Ave Miami Beach, FL 33141;25.8597475;-80.1213325;0;https://www.yelp.com/biz/eckerd-drugs-miami-beach-2
+Eckerd Express Photo;695;;Drugstores;0;7400 Collins Ave Miami Beach, FL 33141;25.8597475;-80.1213325;0;https://www.yelp.com/biz/eckerd-express-photo-miami-beach-2
+Publix;696;6;Drugstores,Grocery,Health Markets;3.5;15801 Sheridan St Fort Lauderdale, FL 33331;26.0309996;-80.3579379;2;https://www.yelp.com/biz/publix-fort-lauderdale-6
+Cvs Pharmacy;697;3;Drugstores;2.5;3700 NW 199th St Miami Gardens, FL 33055;25.9542902;-80.2627017;4;https://www.yelp.com/biz/cvs-pharmacy-miami-gardens-2
+Great Care Pharmacy;698;;Drugstores;0;17560 NW 27 Ave Miami Gardens, FL 33056;25.9348272;-80.2455931;0;https://www.yelp.com/biz/great-care-pharmacy-miami-gardens
+Walmart Supercenter;699;25;Grocery,Drugstores,Discount Store;2.5;3200 NW 79th St Miami Northside, FL 33147;25.8435049;-80.2513075;1;https://www.yelp.com/biz/walmart-supercenter-miami-northside
+Cvs Pharmacy;700;2;Drugstores;1.0;18478 NW 67th Ave Hialeah, FL 33015;25.941101;-80.3082796;2;https://www.yelp.com/biz/cvs-pharmacy-hialeah-6
+Walmart Neighborhood Market;701;8;Drugstores,Grocery;3.5;400 W 49th St Hialeah, FL 33012;25.865883;-80.292046;1;https://www.yelp.com/biz/walmart-neighborhood-market-hialeah-2
+Pill Box Pharmacy & Medical;702;2;Drugstores;2.5;1932 Weston Rd Weston, FL 33326;26.0942594;-80.3691635;2;https://www.yelp.com/biz/pill-box-pharmacy-and-medical-weston
+Publix Super Markets;703;13;Grocery,Drugstores;4.0;14375 Miramar Pkwy Miramar, FL 33027;25.9805349155012;-80.3374693236083;2;https://www.yelp.com/biz/publix-super-markets-miramar-4
+Isabel Pharmacy;704;;Drugstores;0;2360 W 68th St Hialeah, FL 33016;25.8834664;-80.3307132;0;https://www.yelp.com/biz/isabel-pharmacy-hialeah
+Cvs;705;11;Drugstores;1.5;20345 Old Cutler Rd Cutler Bay, FL 33189;25.5781626;-80.3358439;2;https://www.yelp.com/biz/cvs-cutler-bay-2
+Max Drugs;706;7;Drugstores,Orthotics;5.0;4519 Hollywood Blvd Hollywood, FL 33021;26.0106517;-80.1888438;2;https://www.yelp.com/biz/max-drugs-hollywood
+Publix Super Markets;707;7;Drugstores,Grocery;3.0;1601 Promenade Blvd Weston, FL 33326;26.0982651677494;-80.3808965130672;3;https://www.yelp.com/biz/publix-super-markets-weston-4
+Nobis Pharmacy;708;;Drugstores;0;65 NW 167th St North Miami Beach, FL 33169;25.928355;-80.2017149;0;https://www.yelp.com/biz/nobis-pharmacy-north-miami-beach
+Prestige Pharmacy & Medical Supplies;709;;Drugstores;0;2150 W 76th St Hialeah, FL 33016;25.8912499;-80.3268204;0;https://www.yelp.com/biz/prestige-pharmacy-and-medical-supplies-hialeah
+Jimenez Pharmacy and Discount;710;;Drugstores;0;9160 NW 122nd St Hialeah, FL 33018;25.8840554;-80.3509804;0;https://www.yelp.com/biz/jimenez-pharmacy-and-discount-hialeah
+Albe Pharmacy;711;;Drugstores;0;6900 W 32nd Ave Hialeah, FL 33018;25.8852682;-80.3481741;0;https://www.yelp.com/biz/albe-pharmacy-hialeah
+Publix;712;5;Drugstores,Grocery,Health Markets;3.0;2414 W 60th St Hialeah, FL 33016;25.8757514;-80.332015;2;https://www.yelp.com/biz/publix-hialeah-3
+Viragen;713;;Drugstores;0;2343 W 76th St Hialeah, FL 33016;25.8915295;-80.3310506;0;https://www.yelp.com/biz/viragen-hialeah
+Winn-Dixie;714;10;Grocery,Drugstores;2.5;18300 SW 137th Ave Miami, FL 33177;25.5979272;-80.4149106;2;https://www.yelp.com/biz/winn-dixie-miami-32
+Publix;715;35;Grocery,Drugstores,Health Markets;2.5;9050 Biscayne Blvd Miami Shores, FL 33138;25.8587396;-80.1845128;2;https://www.yelp.com/biz/publix-miami-shores
+Express Pharmacy Discount;716;;Drugstores;0;301 NE 167th St North Miami Beach, FL 33162;25.9286144;-80.1941016;0;https://www.yelp.com/biz/express-pharmacy-discount-north-miami-beach
+Surfmed Pharmacy;717;;Drugstores;0;7430 Collins Avenue Miami Beach, FL 33141;25.8601606;-80.1213212;1;https://www.yelp.com/biz/surfmed-pharmacy-miami-beach-2
+Cvs Pharmacy;718;;Drugstores;0;11227 SW 152nd St Miami, FL 33157;25.6277045;-80.3760684;0;https://www.yelp.com/biz/cvs-pharmacy-miami-21
+CVS Pharmacy;719;15;Drugstores;3.0;19198 S Dixie Hwy Miami, FL 33176;25.5897538;-80.3597887;1;https://www.yelp.com/biz/cvs-pharmacy-miami-7
+Cvs Pharmacy;720;;Drugstores;0;8641 NW 186th St Hialeah, FL 33015;25.9438448;-80.341768;0;https://www.yelp.com/biz/cvs-pharmacy-hialeah-5
+Abys Pharmacy and Discount;721;;Drugstores;0;7751 W 28th Ave Hialeah, FL 33016;25.8928108;-80.3395267;0;https://www.yelp.com/biz/abys-pharmacy-and-discount-hialeah
+Cvs Pharmacy;722;;Drugstores;0;850 Ives Dairy Rd Miami, FL 33179;25.9607035;-80.1863235;0;https://www.yelp.com/biz/cvs-pharmacy-miami-31
+Rubio Pharmacy and Discount;723;;Drugstores;0;18600 NW 87th Ave Hialeah, FL 33015;25.944417;-80.344166;0;https://www.yelp.com/biz/rubio-pharmacy-and-discount-hialeah
+Walmart Pharmacy;724;;Drugstores;0;21151 S. Dixie Hwy Goulds, FL 33170;25.570722;-80.375746;2;https://www.yelp.com/biz/walmart-pharmacy-goulds
+Northstar Pharmacy;725;;Drugstores;0;8090 W 23rd Ave Hialeah, FL 33016;25.8961586;-80.3306071;0;https://www.yelp.com/biz/northstar-pharmacy-hialeah
+Pharma Natural;726;;Drugstores;0;2431 W 80th St Hialeah, FL 33016;25.8955987;-80.3329152;0;https://www.yelp.com/biz/pharma-natural-hialeah
+Cvs Pharmacy;727;3;Drugstores;2.0;28740 S Dixie Hwy Homestead, FL 33033;25.4998263;-80.446622;2;https://www.yelp.com/biz/cvs-pharmacy-homestead-5
+CVS;728;1;Drugstores;1.0;15055 SW 138th Pl Miami, FL 33186;25.6272384654065;-80.4172800409666;2;https://www.yelp.com/biz/cvs-miami-34
+Eckerd Drugs;729;;Drugstores;0;9578 Harding Ave Surfside, FL 33154;25.8867629;-80.1239125;0;https://www.yelp.com/biz/eckerd-drugs-surfside
+Walgreens;730;8;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;4895 Palm Ave Hialeah, FL 33012;25.8664344;-80.2825696;2;https://www.yelp.com/biz/walgreens-hialeah-10
+Sedano’s Pharmacy and Discount;731;;Drugstores;0;6410 NW 186th St Hialeah, FL 33015;25.9417275;-80.3046336;0;https://www.yelp.com/biz/sedanos-pharmacy-and-discount-hialeah
+Navarro Discount Pharmacies;732;;Drugstores;0;366 E 4th Ave Hialeah, FL 33010;25.8251347;-80.2740491;1;https://www.yelp.com/biz/navarro-discount-pharmacies-hialeah-6
+CVS/Pharmacy;733;1;Drugstores;1.0;101 Hialeah Dr Hialeah, FL 33010;25.8232263;-80.2785348;0;https://www.yelp.com/biz/cvs-pharmacy-hialeah-7
+Navarro Discount Pharmacies;734;3;Drugstores;3.0;4410 W 16th Ave Hialeah, FL 33012;25.8614723;-80.3161187;2;https://www.yelp.com/biz/navarro-discount-pharmacies-hialeah
+Winn-Dixie;735;3;Drugstores;1.0;1100 NW 54th St Miami, FL 33127;25.8243601;-80.2144432;3;https://www.yelp.com/biz/winn-dixie-miami-24
+CVS Pharmacy;736;11;Drugstores;2.5;4599 Sheridan St Hollywood, FL 33021;26.0335602;-80.1897242;2;https://www.yelp.com/biz/cvs-pharmacy-hollywood-10
+A Plus;737;3;Medical Supplies,Drugstores;2.5;1303 SE 17th St Fort Lauderdale, FL 33316;26.101065179546;-80.1303954296387;0;https://www.yelp.com/biz/a-plus-fort-lauderdale
+Cvs Pharmacy;738;7;Drugstores;1.5;2780 SE 8th St Homestead, FL 33033;25.4774004;-80.4373116;2;https://www.yelp.com/biz/cvs-pharmacy-homestead-3
+CVS;739;3;Drugstores;1.5;13779 SW 152nd St Miami, FL 33186;25.6273156159822;-80.415953326605;1;https://www.yelp.com/biz/cvs-miami-40
+Palm Lakes Pharamacy;740;;Drugstores;0;3300 W 84th St Hialeah, FL 33018;25.8973605;-80.3494644;0;https://www.yelp.com/biz/palm-lakes-pharamacy-hialeah
+Yune Yanet Pharmacy;741;;Drugstores;0;8200 W 33rd Ave Hialeah, FL 33018;25.8970872;-80.3520498;0;https://www.yelp.com/biz/yune-yanet-pharmacy-hialeah
+Asc Pharmacy;742;;Drugstores;0;3416 W 84th St Hialeah, FL 33018;25.8977341;-80.3530625;0;https://www.yelp.com/biz/asc-pharmacy-hialeah
+Walgreens;743;5;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;18410 Pines Blvd Pembroke Pines, FL 33029;26.0071134445498;-80.3930851269232;2;https://www.yelp.com/biz/walgreens-pembroke-pines-8
+Cvs Pharmacy;744;9;Drugstores;2.0;11100 Pines Blvd Pembroke Pines, FL 33026;26.007113;-80.294661;1;https://www.yelp.com/biz/cvs-pharmacy-pembroke-pines-2
+Walgreens;745;3;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.5;791 Ne 167Th St North Miami Beach, FL 33162;25.9288395;-80.1844996;2;https://www.yelp.com/biz/walgreens-north-miami-beach-4
+Pills Plus Pharmacy;746;;Drugstores;0;7801 NW 146th St Miami Lakes, FL 33016;25.907024;-80.327343;0;https://www.yelp.com/biz/pills-plus-pharmacy-miami-lakes
+Walgreens;747;4;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;1480 Ne Miami Gardens Dr North Miami Beach, FL 33179;25.9447979;-80.1714193;2;https://www.yelp.com/biz/walgreens-north-miami-beach-2
+Eckerd Drugs;748;;Drugstores;0;13840 SW 88th St Miami, FL 33186;25.6840366;-80.4195351;0;https://www.yelp.com/biz/eckerd-drugs-miami-34
+Diplomat Specialty Pharmacy;749;;Drugstores;0;500 SE 15th St Fort Lauderdale, FL 33316;26.1026929;-80.1377241;0;https://www.yelp.com/biz/diplomat-specialty-pharmacy-fort-lauderdale
+Cvs Pharmacy;750;8;Drugstores;1.5;20345 Old Cutler Rd Cutler Bay, FL 33189;25.5781626;-80.3358439;1;https://www.yelp.com/biz/cvs-pharmacy-cutler-bay-2
+Redondo Pharmacy;751;;Drugstores;0;19533 NW 57th Ave Miami Gardens, FL 33055;25.9526;-80.2943568;0;https://www.yelp.com/biz/redondo-pharmacy-miami-gardens
+Hollywood Discount Pharmacy;752;8;Drugstores;4.0;1150 North 35th Avenue Suite 105 Hollywood, FL 33021;26.0203017;-80.1791715;2;https://www.yelp.com/biz/hollywood-discount-pharmacy-hollywood
+Florida Pharmacy;753;;Drugstores;0;4633 NW 199th St Miami Gardens, FL 33055;25.9542157;-80.2776322;0;https://www.yelp.com/biz/florida-pharmacy-miami-gardens
+Medstar Pharmacy;754;;Drugstores;0;9843 SW 184th St Palmetto Bay, FL 33157;25.598702;-80.3512486;0;https://www.yelp.com/biz/medstar-pharmacy-palmetto-bay
+Publix;755;10;Grocery,Drugstores,Health Markets;3.5;9951 Miramar Pkwy Miramar, FL 33025;25.9822745;-80.2777762;2;https://www.yelp.com/biz/publix-miramar-2
+Syncor International;756;;Drugstores;0;5829 NW 158th St Hialeah, FL 33014;25.9169657;-80.2956938;0;https://www.yelp.com/biz/syncor-international-hialeah
+CVS Pharmacy;757;6;Drugstores;2.0;901 N Federal Hwy Hollywood, FL 33020;26.0195167;-80.1426889;2;https://www.yelp.com/biz/cvs-pharmacy-hollywood
+Walgreens;758;13;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;2855 Stirling Rd Fort Lauderdale, FL 33312;26.0484316;-80.1803494;1;https://www.yelp.com/biz/walgreens-fort-lauderdale-13
+Walgreens;759;3;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;4451 W 12Th Ave Hialeah, FL 33012;25.8621179;-80.3060452;1;https://www.yelp.com/biz/walgreens-hialeah-4
+Cvs Pharmacy;760;3;Drugstores;2.0;3501 W Davie Blvd Fort Lauderdale, FL 33312;26.1050273;-80.1937735;2;https://www.yelp.com/biz/cvs-pharmacy-fort-lauderdale-2
+CVS Pharmacy;761;;Drugstores;0;855 E 8th Ave Hialeah, FL 33010;25.8301164;-80.2648855;1;https://www.yelp.com/biz/cvs-pharmacy-hialeah-4
+Walgreens;762;;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;0;770 W 29Th St Hialeah, FL 33012;25.8474024;-80.2977455;2;https://www.yelp.com/biz/walgreens-hialeah-8
+Dixie Drugs;763;;Drugstores;0;13222 W Dixie Hwy North Miami, FL 33161;25.8973662;-80.1808341;0;https://www.yelp.com/biz/dixie-drugs-north-miami-2
+La Cachita Pharmacy Discount;764;;Drugstores;0;4254 W 12th Ave Hialeah, FL 33012;25.8607342;-80.3066938;0;https://www.yelp.com/biz/la-cachita-pharmacy-discount-hialeah
+Walmart Pharmacy;765;;Drugstores;0;3791 NW 167th St Miami Gardens, FL 33055;25.926447;-80.262157;0;https://www.yelp.com/biz/walmart-pharmacy-miami-gardens
+Walgreens;766;6;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;3895 W Broward Blvd Fort Lauderdale, FL 33312;26.1215665;-80.2005104;1;https://www.yelp.com/biz/walgreens-fort-lauderdale-6
+Walgreens;767;10;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.5;20340 Old Cutler Rd Cutler Bay, FL 33189;25.5780965;-80.338163;1;https://www.yelp.com/biz/walgreens-cutler-bay
+Walmart Neighborhood Market;768;8;Drugstores,Grocery;3.5;1499 South Dixie Hwy Homestead, FL 33033;25.4838999788004;-80.4599102879217;1;https://www.yelp.com/biz/walmart-neighborhood-market-homestead
+Central Express Pharmacy;769;;Drugstores;0;8301 Florida Dr Pembroke Pines, FL 33025;26.0001581;-80.2516913;0;https://www.yelp.com/biz/central-express-pharmacy-pembroke-pines
+Xpress Pharmacy;770;;Drugstores;0;8301 Florida Dr Pembroke Pines, FL 33025;26.0001581;-80.2516913;0;https://www.yelp.com/biz/xpress-pharmacy-pembroke-pines
+Walgreens;771;9;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;5701 Nw 183Rd St Hialeah, FL 33015;25.9399851;-80.2946633;2;https://www.yelp.com/biz/walgreens-hialeah-13
+Madahima Pharmacy;772;;Drugstores;0;8129 W 8th Ave Hialeah, FL 33014;25.8964287;-80.3000616;0;https://www.yelp.com/biz/madahima-pharmacy-hialeah
+CVS Pharmacy;773;5;Drugstores;2.5;1698 S Palm Ave Pembroke Pines, FL 33025;25.9943805860965;-80.2800842901109;2;https://www.yelp.com/biz/cvs-pharmacy-pembroke-pines-5
+Navarro Discount Pharmacies;774;1;Drugstores;3.0;3141 W 76th St Hialeah, FL 33018;25.8921508;-80.3467867;1;https://www.yelp.com/biz/navarro-discount-pharmacies-hialeah-2
+Publix;775;16;Drugstores,Health Markets;3.5;170 S Flamingo Rd Pembroke Pines, FL 33027;26.0051950181677;-80.3141129787368;2;https://www.yelp.com/biz/publix-pembroke-pines-3
+Publix;776;7;Drugstores,Grocery,Cosmetics & Beauty Supply;4.5;5630 S Flamingo Rd Cooper City, FL 33330;26.047475;-80.310806;2;https://www.yelp.com/biz/publix-cooper-city
+GoodPill Pharmacy and Medical Supply;777;4;Drugstores;5.0;17177 Pines Blvd Pembroke Pines, FL 33027;26.0077535;-80.3767702;2;https://www.yelp.com/biz/goodpill-pharmacy-and-medical-supply-pembroke-pines
+CVS Pharmacy;778;1;Drugstores;1.0;8901 Miramar Pkwy Miramar, FL 33025;25.9816007;-80.2636723;2;https://www.yelp.com/biz/cvs-pharmacy-miramar-4
+Giveaway Discount Drugs;779;;Drugstores;0;1401 Washington Ave Miami Beach, FL 33139;25.7855078;-80.1317312;0;https://www.yelp.com/biz/giveaway-discount-drugs-miami-beach
+Publix;780;25;Grocery,Drugstores,Health Markets;4.0;5211 Sheridan St Hollywood, FL 33021;26.0343601002222;-80.1971577058569;2;https://www.yelp.com/biz/publix-hollywood
+Vida Pharmacy;781;;Drugstores;0;70 West 49th Street Hialeah, FL 33012;25.8667578;-80.2847312;0;https://www.yelp.com/biz/vida-pharmacy-hialeah
+Walgreens;782;;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;0;6812 Miramar Pkwy Miramar, FL 33023;25.9811787;-80.223796;2;https://www.yelp.com/biz/walgreens-miramar-7
+Universal Arts Pharmacy;783;;Drugstores;0;1550 W 84th St Hialeah, FL 33014;25.8982069;-80.3155022;0;https://www.yelp.com/biz/universal-arts-pharmacy-hialeah-2
+CVS Pharmacy;784;10;Drugstores;1.0;7400 Collins Ave Miami Beach, FL 33141;25.8597475;-80.1213325;3;https://www.yelp.com/biz/cvs-pharmacy-miami-beach-5
+Ultra Medical Services;785;;Hospitals,Drugstores;0;17601 NW 78th Ave Hialeah, FL 33015;25.9335824;-80.3265911;0;https://www.yelp.com/biz/ultra-medical-services-hialeah
+Rx Drugs;786;;Drugstores;0;9593 Harding Ave Surfside, FL 33154;25.8869093;-80.1236708;0;https://www.yelp.com/biz/rx-drugs-surfside
+Family Pharmacy & Discount;787;;Drugstores;0;17690 NW 78th Ave Hialeah, FL 33015;25.9342733;-80.3275476;0;https://www.yelp.com/biz/family-pharmacy-and-discount-hialeah
+Cvs Pharmacy;788;4;Drugstores;3.0;11890 Biscayne Blvd North Miami, FL 33181;25.8856215;-80.1647919;2;https://www.yelp.com/biz/cvs-pharmacy-north-miami-3
+A&A Family Pharmacy;789;;Drugstores;0;7938 Pines Blvd Pembroke Pines, FL 33024;26.0090907;-80.245957;0;https://www.yelp.com/biz/a-and-a-family-pharmacy-pembroke-pines-2
+Cvs Pharmacy;790;1;Photography Stores & Services,Drugstores;4.0;6890 Miramar Pkwy Miramar, FL 33023;25.9810058;-80.2254163;1;https://www.yelp.com/biz/cvs-pharmacy-miramar-3
+Cvs Pharmacy;791;4;Photography Stores & Services,Drugstores;4.5;70 N University Dr Pembroke Pines, FL 33024;26.0097639;-80.24933;2;https://www.yelp.com/biz/cvs-pharmacy-pembroke-pines
+Publix;792;27;Drugstores,Grocery,Health Markets;2.5;1400 E Hallandale Bch Blvd Hallandale Beach, FL 33009;25.9845769;-80.1335254;2;https://www.yelp.com/biz/publix-hallandale-beach
+Publix;793;10;Drugstores,Grocery,Health Markets;2.5;891 N Homestead Blvd Homestead, FL 33030;25.47831;-80.4625865;2;https://www.yelp.com/biz/publix-homestead
+Healthplus Pharmacy;794;;Drugstores;0;8820 Miramar Pkwy Miramar, FL 33025;25.9810362;-80.2609923;0;https://www.yelp.com/biz/healthplus-pharmacy-miramar
+Cvs Pharmacy 2893;795;;Drugstores;0;4040 Prairie Ave Miami Beach, FL 33140;25.8136154;-80.1308818;0;https://www.yelp.com/biz/cvs-pharmacy-2893-miami-beach
+Winn-Dixie;796;1;Drugstores;3.0;6301 County Line Rd Hollywood, FL 33023;25.973483;-80.211303;2;https://www.yelp.com/biz/winn-dixie-hollywood-5
+Navarro Discount Pharmacies;797;1;Drugstores;4.0;16901 NW 67th Ave Hialeah, FL 33015;25.9261993;-80.3093664;2;https://www.yelp.com/biz/navarro-discount-pharmacies-hialeah-3
+Martnicks Pharmacy & Discount;798;;Drugstores;0;6783 Stirling Rd Davie, FL 33314;26.0459285;-80.2359027;0;https://www.yelp.com/biz/martnicks-pharmacy-and-discount-davie
+Walmart Neighborhood Market;799;7;Drugstores,Discount Store,Grocery;4.0;401 E Sheridan St Dania Beach, FL 33004;26.0350691;-80.1364017;2;https://www.yelp.com/biz/walmart-neighborhood-market-dania-beach
+Walgreens;800;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;3.0;1501 Ne 163Rd St North Miami Beach, FL 33162;25.926184;-80.169464;2;https://www.yelp.com/biz/walgreens-north-miami-beach-3
+Post Haste Pharmacy;801;16;Drugstores;2.5;4401 Sheridan St Hollywood, FL 33021;26.0334189;-80.1889506;2;https://www.yelp.com/biz/post-haste-pharmacy-hollywood
+Winn-Dixie;802;2;Drugstores;1.5;3260 Davie Blvd Fort Lauderdale, FL 33312;26.1050154;-80.1888504;2;https://www.yelp.com/biz/winn-dixie-fort-lauderdale
+Tmf;803;;Drugstores;0;1250 E Hallandale Beach Blvd Hallandale Beach, FL 33009;25.9852428;-80.1357073;0;https://www.yelp.com/biz/tmf-hallandale-beach
+Pharmago;804;;Drugstores;0;1959 S State Rd 7 West Park, FL 33023;25.9940252715907;-80.206310749054;0;https://www.yelp.com/biz/pharmago-west-park-2
+Walgreens;805;4;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.0;10181 W Broward Blvd Plantation, FL 33324;26.1215971;-80.2847139;2;https://www.yelp.com/biz/walgreens-plantation
+Cvs;806;2;Drugstores;2.5;1247 W 68th St Hialeah, FL 33014;25.8853369;-80.3085961;1;https://www.yelp.com/biz/cvs-hialeah-4
+Walgreens;807;8;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.0;11204 W State Road 84 Davie, FL 33325;26.1088695;-80.2986159;1;https://www.yelp.com/biz/walgreens-davie
+Publix;808;16;Drugstores,Grocery,Health Markets;3.5;6525 Nova Dr Davie, FL 33317;26.0872498;-80.2307702;2;https://www.yelp.com/biz/publix-davie-2
+Walgreens;809;;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;0;500B W 49Th St Hialeah, FL 33012;25.8657024;-80.2930528;0;https://www.yelp.com/biz/walgreens-hialeah-3
+Navarro Discount Pharmacy;810;2;Drugstores;3.5;13250 Biscayne Blvd North Miami, FL 33181;25.8971356797601;-80.1620489358902;1;https://www.yelp.com/biz/navarro-discount-pharmacy-north-miami
+Pharmco;811;;Drugstores;0;901 N Miami Beach Blvd North Miami Beach, FL 33162;25.92861;-80.181644;0;https://www.yelp.com/biz/pharmco-north-miami-beach
+CVS Express Photo;812;1;Drugstores;1.0;4599 Sheridan St Hollywood, FL 33021;26.0335602;-80.1897242;2;https://www.yelp.com/biz/cvs-express-photo-hollywood
+Publix;813;8;Grocery,Drugstores,Health Markets;4.0;1657 N Hiatus Rd Pembroke Pines, FL 33026;26.021463;-80.298579;2;https://www.yelp.com/biz/publix-pembroke-pines-2
+Sunscript Pharmacy;814;;Drugstores;0;7869 Pines Boulevard Pembroke Pines, FL 33024;26.0093209;-80.246016;0;https://www.yelp.com/biz/sunscript-pharmacy-pembroke-pines
+Publix Super Markets;815;17;Grocery,Drugstores;3.0;11000 Pembroke Rd Miramar, FL 33025;25.9914296;-80.2943486;2;https://www.yelp.com/biz/publix-super-markets-miramar-5
+Winn-Dixie;816;5;Drugstores;2.5;7139 W Broward Blvd Plantation, FL 33317;26.1209404;-80.2426242;2;https://www.yelp.com/biz/winn-dixie-plantation-3
+Bravo Drugs Pharmacy;817;;Drugstores;0;3009 Johnson St Hollywood, FL 33021;26.0184443;-80.1679297;0;https://www.yelp.com/biz/bravo-drugs-pharmacy-hollywood
+Cvs Store Front;818;;Drugstores;0;1571 W 49th St Hialeah, FL 33012;25.8666524;-80.3140628;2;https://www.yelp.com/biz/cvs-store-front-hialeah
+Publix;819;;Drugstores;0;15729 Pines Blvd Pembroke Pines, FL 33027;26.0081422;-80.356204;0;https://www.yelp.com/biz/publix-pembroke-pines-6
+Okeechobee Discount Pharmacy;820;;Drugstores;0;1545 W Okeechobee Rd Hialeah, FL 33010;25.8354559;-80.297416;0;https://www.yelp.com/biz/okeechobee-discount-pharmacy-hialeah
+Maggie’s Pharmacy;821;;Drugstores;0;7590 NW 186th St Hialeah, FL 33015;25.9418194;-80.3245439;0;https://www.yelp.com/biz/maggies-pharmacy-hialeah
+Pill Box Pharmacy & Medical Supply;822;3;Drugstores;3.0;601 N Flamingo Rd Pembroke Pines, FL 33028;26.0121269;-80.3105702;0;https://www.yelp.com/biz/pill-box-pharmacy-and-medical-supply-pembroke-pines-2
+Mug & Mortar;823;;Drugstores,Convenience Stores;0;13460 SW 10th St Pembroke Pines, FL 33027;25.9990174;-80.3253401;0;https://www.yelp.com/biz/mug-and-mortar-pembroke-pines
+Target;824;40;Drugstores,Department Stores;3.0;14075 Biscayne Blvd North Miami Beach, FL 33181;25.9058264834048;-80.158052444458;2;https://www.yelp.com/biz/target-north-miami-beach
+CVS Pharmacy;825;12;Drugstores;1.5;6690 Eagle Nest Ln Miami Lakes, FL 33014;25.9098187;-80.3080751;1;https://www.yelp.com/biz/cvs-pharmacy-miami-lakes
+Walmart Pharmacy;826;;Drugstores;0;13600 SW 288th St Homestead, FL 33030;25.4995684;-80.4108549;2;https://www.yelp.com/biz/walmart-pharmacy-homestead-2
+CVS;827;;Drugstores;0;1600 S Federal Hwy Hollywood, FL 33020;25.997203;-80.143276;0;https://www.yelp.com/biz/cvs-hollywood-4
+Cvs;828;;Drugstores;0;447 Hollywood Mall Hollywood, FL 33021;26.0141416;-80.1737647;0;https://www.yelp.com/biz/cvs-hollywood-3
+Publix Pharmacy;829;;Drugstores;0;10018 Griffin Rd Cooper City, FL 33328;26.063989251852;-80.2817767113447;0;https://www.yelp.com/biz/publix-pharmacy-cooper-city
+Winn-Dixie;830;14;Drugstores;3.0;3805 NE 163rd St North Miami Beach, FL 33160;25.9299572;-80.1325203;2;https://www.yelp.com/biz/winn-dixie-north-miami-beach
+Walmart Pharmacy;831;;Drugstores;0;1499 South Dixie Hwy Homestead, FL 33033;25.491385;-80.433848;2;https://www.yelp.com/biz/walmart-pharmacy-homestead
+Prescribit Rx;832;;Drugstores;0;10214 Usa Today Way Miramar, FL 33025;25.976597;-80.2807523;0;https://www.yelp.com/biz/prescribit-rx-miramar-2
+Walgreens;833;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.5;13800 Pines Blvd Pembroke Pines, FL 33027;26.0070296;-80.331726;0;https://www.yelp.com/biz/walgreens-pembroke-pines-6
+Radiant Care Pharmacy & Compounding;834;1;Drugstores;5.0;5779 S University Dr Davie, FL 33328;26.0494656;-80.2518744;1;https://www.yelp.com/biz/radiant-care-pharmacy-and-compounding-davie
+Fielder & Brooks Pharmacy;835;;Drugstores;0;180 NW 183rd St Miami Gardens, FL 33169;25.9415171;-80.2041987;0;https://www.yelp.com/biz/fielder-and-brooks-pharmacy-miami-gardens
+A Plus Pharmacy Nutrition & Medical Supply;836;;Medical Supplies,Vitamins & Supplements,Drugstores;0;1303 SE 17th St Fort Lauderdale, FL 33316;26.1010754836327;-80.1303937805649;0;https://www.yelp.com/biz/a-plus-pharmacy-nutrition-and-medical-supply-fort-lauderdale
+Healthlink Institute Corporate Office;837;;Drugstores;0;5400 S University Dr Davie, FL 33328;26.0529903;-80.2507232;0;https://www.yelp.com/biz/healthlink-institute-corporate-office-davie
+Cvs Pharmacy;838;;Drugstores;0;4701 S Flamingo Rd Cooper City, FL 33330;26.06274;-80.3145127;2;https://www.yelp.com/biz/cvs-pharmacy-cooper-city
+Cvs Pharmacy Store 7933;839;1;Drugstores;1.0;4701 S Flamingo Rd Cooper City, FL 33330;26.06274;-80.3145127;0;https://www.yelp.com/biz/cvs-pharmacy-store-7933-cooper-city
+Davie Blvd Drugs;840;;Drugstores;0;2629 Davie Blvd Fort Lauderdale, FL 33312;26.1065363;-80.1766959;0;https://www.yelp.com/biz/davie-blvd-drugs-fort-lauderdale
+Cvs Pharmacy;841;;Drugstores;0;909 N Homestead Blvd Homestead, FL 33030;25.4792247;-80.4622158;0;https://www.yelp.com/biz/cvs-pharmacy-homestead-4
+Family Physicians Rx;842;;Drugstores;0;6191 Orange Dr Davie, FL 33314;26.066154;-80.229213;0;https://www.yelp.com/biz/family-physicians-rx-davie
+Medical Arts Pharmacy & Optical;843;;Drugstores;0;944 N Krome Ave Homestead, FL 33030;25.479252;-80.477798;2;https://www.yelp.com/biz/medical-arts-pharmacy-and-optical-homestead
+Walgreens;844;5;Cosmetics & Beauty Supply,Drugstores,Convenience Stores;4.0;1820 North Canal Dr. Homestead, FL 33035;25.462109;-80.451593;2;https://www.yelp.com/biz/walgreens-homestead-2
+Paragon Enterprises Inc.;845;;Drugstores;0;3300 Corporate Ave Weston, FL 33331;26.07611;-80.367107;0;https://www.yelp.com/biz/paragon-enterprises-inc-weston
+Navarro Discount Pharmacies;846;3;Drugstores;2.5;18500 Collins Ave Sunny Isl Bch, FL 33160;25.9477677;-80.1213141;2;https://www.yelp.com/biz/navarro-discount-pharmacies-sunny-isl-bch
+Aids Healthcare Foundation;847;;Drugstores;0;4101 Ravenswood Rd Fort Lauderdale, FL 33312;26.0715785;-80.169762;0;https://www.yelp.com/biz/aids-healthcare-foundation-fort-lauderdale-2
+Las Villas Pharmacy Discount And Medical Supplies;848;;Drugstores;0;716 West 29th Street Hialeah, FL 33012;25.8477934;-80.2967357;0;https://www.yelp.com/biz/las-villas-pharmacy-discount-and-medical-supplies-hialeah
+Navarro Discount Pharmacies;849;1;Drugstores;1.0;775 W 49th St Hialeah, FL 33012;25.8671778;-80.2971052;2;https://www.yelp.com/biz/navarro-discount-pharmacies-hialeah-4
+Publix Super Markets;850;15;Grocery,Drugstores;3.0;9050 Biscayne Blvd Miami Shores, FL 33138;25.8587026;-80.1844189;2;https://www.yelp.com/biz/publix-super-markets-miami-shores-2
+Ffp;851;;Drugstores;0;951 Shotgun Rd Sunrise, FL 33326;26.109582;-80.3524599;0;https://www.yelp.com/biz/ffp-sunrise
+Pharma Express;852;;Drugstores;0;777 Shotgun Rd Sunrise, FL 33326;26.110305;-80.3516;0;https://www.yelp.com/biz/pharma-express-sunrise
+El Palenque Farmacia;853;;Drugstores;0;1133 W 29th St Hialeah, FL 33012;25.8480145;-80.3049058;0;https://www.yelp.com/biz/el-palenque-farmacia-hialeah
+Eckerd Express Photo;854;;Drugstores;0;1421 Alton Rd Miami Beach, FL 33139;25.7858658;-80.1406713;0;https://www.yelp.com/biz/eckerd-express-photo-miami-beach
+Walgreens;855;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;2499 Sw 101St Ave Miramar, FL 33025;25.987008;-80.278316;2;https://www.yelp.com/biz/walgreens-miramar-2
+Rxperts Pharmacy Services;856;;Drugstores;0;4032 N 29th Ave Hollywood, FL 33020;26.0446331;-80.1662472;0;https://www.yelp.com/biz/rxperts-pharmacy-services-hollywood
+Care Pharmacy;857;1;Drugstores;1.0;1631 NE 8th St Homestead, FL 33033;25.4774264;-80.4542088;0;https://www.yelp.com/biz/care-pharmacy-homestead
+Cvs Pharmacy Store;858;3;Drugstores;3.0;10001 Sheridan St Cooper City, FL 33024;26.030783;-80.279949;0;https://www.yelp.com/biz/cvs-pharmacy-store-cooper-city-2
+Walgreens;859;7;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;861 Ne 8Th St Homestead, FL 33030;25.477691;-80.4655998;2;https://www.yelp.com/biz/walgreens-homestead-7
+Savealot Pharmacy;860;;Drugstores;0;2488 N University Dr Pembroke Pines, FL 33024;26.0307114;-80.2493866;0;https://www.yelp.com/biz/savealot-pharmacy-pembroke-pines
+Cvs Pharmacy;861;2;Photography Stores & Services,Drugstores;3.0;6665 Taft St Hollywood, FL 33024;26.0258999;-80.2223321;2;https://www.yelp.com/biz/cvs-pharmacy-hollywood-6
+Simfa Rose Pharmaceutical;862;;Drugstores;0;10000 Stirling Rd Hollywood, FL 33024;26.0440643;-80.2798479;0;https://www.yelp.com/biz/simfa-rose-pharmaceutical-hollywood
+Walgreens;863;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.0;7605 W 33Rd Ct Hialeah, FL 33018;25.8921223;-80.3505109;1;https://www.yelp.com/biz/walgreens-hialeah-2
+Herbmor Compounding Pharmacy;864;;Drugstores;0;9111 Pembroke Rd Pembroke Pines, FL 33025;25.9941672;-80.2663309;0;https://www.yelp.com/biz/herbmor-compounding-pharmacy-pembroke-pines
+Royal Palm - My Pharmacy;865;;Drugstores,Medical Supplies;0;806 N Krome Ave Homestead, FL 33030;25.477414;-80.477796;0;https://www.yelp.com/biz/royal-palm-my-pharmacy-homestead
+Cvs Store Front;866;;Drugstores;0;2391 W 68th St Hialeah, FL 33016;25.884747;-80.331237;2;https://www.yelp.com/biz/cvs-store-front-hialeah-2
+Walgreens;867;3;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;4.0;5999 Pembroke Rd Hollywood, FL 33023;25.9958737;-80.2064046;2;https://www.yelp.com/biz/walgreens-hollywood-8
+Winn-Dixie;868;5;Drugstores;3.0;5850 NW 183rd St Hialeah, FL 33015;25.9375552;-80.2977951;2;https://www.yelp.com/biz/winn-dixie-hialeah-4
+Walgreens;869;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.0;28875 S Dixie Hwy Homestead, FL 33033;25.4986295;-80.4461105;2;https://www.yelp.com/biz/walgreens-homestead-5
+Cvs;870;3;Drugstores;1.0;11890 Biscayne Blvd North Miami, FL 33181;25.8856215;-80.1647919;0;https://www.yelp.com/biz/cvs-north-miami-2
+Bader Pharmacy;871;;Drugstores;0;1380 Weston Rd Weston, FL 33326;26.1029745;-80.3663525;0;https://www.yelp.com/biz/bader-pharmacy-weston
+The Village Pharmacy;872;;Drugstores;0;13460 SW 10th St Pembroke Pines, FL 33027;25.9990171;-80.3253402;0;https://www.yelp.com/biz/the-village-pharmacy-pembroke-pines
+Walgreens;873;6;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.5;1610 W 49Th St Hialeah, FL 33012;25.8658387;-80.3151995;2;https://www.yelp.com/biz/walgreens-hialeah-6
+Cvs;874;2;Drugstores;1.5;909 N Homestead Blvd Homestead, FL 33030;25.4792247;-80.4622158;2;https://www.yelp.com/biz/cvs-homestead
+Publix Super Markets;875;5;Drugstores,Grocery;4.5;3060 NE 41st Terrance Homestead, FL 33033;25.4982348;-80.4144322;2;https://www.yelp.com/biz/publix-super-markets-homestead-3
+Walgreens;876;3;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;6800 W 28Th Ave Hialeah, FL 33018;25.8847899;-80.3402301;1;https://www.yelp.com/biz/walgreens-hialeah-11
+Walgreens;877;;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;0;890 N State Road 7 Hollywood, FL 33021;26.0171637;-80.2087218;0;https://www.yelp.com/biz/walgreens-hollywood-10
+41 Pharmacy Discoount;878;;Drugstores;0;820 E 41st St Hialeah, FL 33013;25.859561;-80.266109;0;https://www.yelp.com/biz/41-pharmacy-discoount-hialeah
+Walgreens;879;;Drugstores;0;14501 Miramar Pkwy Miramar, FL 33027;25.9793553;-80.3405783;2;https://www.yelp.com/biz/walgreens-miramar-3
+Simfarose Pharmacy;880;;Drugstores;0;10016 Pines Boulevard Pembroke Pines, FL 33024;26.0082211;-80.2766101;0;https://www.yelp.com/biz/simfarose-pharmacy-pembroke-pines
+Walgreens;881;;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;0;8001 Miramar Pkwy Miramar, FL 33025;25.9823835;-80.2478616;2;https://www.yelp.com/biz/walgreens-miramar-8
+Proxy Care;882;;Drugstores;0;4700 SW 51st St Davie, FL 33314;26.0587951;-80.2099714;0;https://www.yelp.com/biz/proxy-care-davie
+Publix;883;10;Drugstores,Grocery,Health Markets;2.5;12850 Biscayne Blvd North Miami, FL 33181;25.8951122;-80.1634402;2;https://www.yelp.com/biz/publix-north-miami-2
+Americana Discount Pharmacy;884;;Drugstores;0;713 N State Road 7 Hollywood, FL 33021;26.0043668;-80.2074183;0;https://www.yelp.com/biz/americana-discount-pharmacy-hollywood
+Medicap Pharmacy;885;;Drugstores;0;9920 NW 6th Ct Pembroke Pines, FL 33024;26.0144371;-80.2431268;0;https://www.yelp.com/biz/medicap-pharmacy-pembroke-pines
+Pillstore Pharmacy;886;;Drugstores;0;645 W Hallandale Bch Blvd Hallandale Beach, FL 33009;25.985055;-80.155948;2;https://www.yelp.com/biz/pillstore-pharmacy-hallandale-beach
+CVS Pharmacy;887;2;Drugstores;1.0;3395 West 68th St Hialeah, FL 33018;25.8840949;-80.349985;2;https://www.yelp.com/biz/cvs-pharmacy-hialeah-10
+Generic Depot;888;;Drugstores,Cards & Stationery;0;1461 N Palm Ave Pembroke Pines, FL 33026;26.0190891;-80.2801894;0;https://www.yelp.com/biz/generic-depot-pembroke-pines
+Publix Pharmacy;889;2;Drugstores;3.0;5997 Stirling Rd Davie, FL 33314;26.0474014;-80.2256861;0;https://www.yelp.com/biz/publix-pharmacy-davie
+CVS;890;;Drugstores;0;1600 S Federal Hwy Hollywood, FL 33020;25.997203;-80.143276;2;https://www.yelp.com/biz/cvs-hollywood-5
+Navarro Discount Pharmacies;891;;Drugstores;0;2323 N State Road 7 Hollywood, FL 33021;26.0310612;-80.2083378;0;https://www.yelp.com/biz/navarro-discount-pharmacies-hollywood
+Intramed Pharmacy;892;;Drugstores;0;4350 Sheridan St Hollywood, FL 33021;26.0323471;-80.1874605;0;https://www.yelp.com/biz/intramed-pharmacy-hollywood
+Cvs Pharmacy;893;5;Drugstores;2.0;2300 N Flamingo Rd Pembroke Pines, FL 33028;26.0287638;-80.3136768;2;https://www.yelp.com/biz/cvs-pharmacy-pembroke-pines-3
+Accu-Med Billing;894;;Drugstores;0;5400 S University Dr Davie, FL 33328;26.0528878;-80.2507005;0;https://www.yelp.com/biz/accu-med-billing-davie
+Winn-Dixie;895;4;Drugstores;2.0;2750 W 68th St Hialeah, FL 33016;25.8839042849616;-80.3380253354653;1;https://www.yelp.com/biz/winn-dixie-hialeah-6
+Bradys Pharmacy;896;;Drugstores;0;6810 Stirling Rd Hollywood, FL 33024;26.0461071;-80.225352;0;https://www.yelp.com/biz/bradys-pharmacy-hollywood
+RxPro Pharmacy and Compounding;897;;Drugstores;0;936 W Hallandale Beach Blvd Hallandale Beach, FL 33009;25.985194;-80.1610573;0;https://www.yelp.com/biz/rxpro-pharmacy-and-compounding-hallandale-beach-2
+Miramar Pharmacy;898;;Drugstores;0;1951 SW 172nd Ave Miramar, FL 33029;25.9902328;-80.3732222;0;https://www.yelp.com/biz/miramar-pharmacy-miramar
+Publix;899;6;Drugstores,Grocery,Health Markets;2.5;18496 NW 67th Ave Hialeah, FL 33015;25.9410348;-80.3090057;2;https://www.yelp.com/biz/publix-hialeah-5
+Alpine Circuits;900;;Drugstores;0;4801 S University Dr Davie, FL 33328;26.0609137;-80.2533908;0;https://www.yelp.com/biz/alpine-circuits-davie
+Winn-Dixie;901;18;Drugstores;3.0;1515 E Hallandale Beach Blvd Hallandale Beach, FL 33009;25.9870092;-80.1320728;2;https://www.yelp.com/biz/winn-dixie-hallandale-beach-3
+CVS Pharmacy;902;4;Drugstores;2.5;4700 NW 183rd St Miami Gardens, FL 33055;25.9391585;-80.2778831;2;https://www.yelp.com/biz/cvs-pharmacy-miami-gardens
+Care Chronic Pharmaceutical Service;903;;Drugstores;0;6361 SW 38th Ct Davie, FL 33314;26.07421;-80.231841;0;https://www.yelp.com/biz/care-chronic-pharmaceutical-service-davie
+Proscript Pharmacy;904;;Drugstores;0;3732 SW 64th Ave Davie, FL 33314;26.0760009;-80.2320509;0;https://www.yelp.com/biz/proscript-pharmacy-davie
+Proscript Pharmacy Service;905;;Drugstores;0;3732 SW 64th Ave Davie, FL 33314;26.0760482;-80.2320374;0;https://www.yelp.com/biz/proscript-pharmacy-service-davie
+Walgreens;906;3;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;3705 Hollywood Blvd Hollywood, FL 33021;26.0111971294732;-80.1803520643856;2;https://www.yelp.com/biz/walgreens-hollywood-5
+Lifemed Pharmacy;907;;Drugstores;0;1960 N Commerce Pkwy Weston, FL 33326;26.0935793;-80.3644952;0;https://www.yelp.com/biz/lifemed-pharmacy-weston
+Discount Pharmacy;908;;Drugstores;0;12201 Pembroke Rd Pembroke Pines, FL 33025;25.9933022;-80.3082262;0;https://www.yelp.com/biz/discount-pharmacy-pembroke-pines
+Pharmco Pharmaceuticals;909;;Drugstores;0;3100 S Andrews Ave Fort Lauderdale, FL 33316;26.086048;-80.138716;0;https://www.yelp.com/biz/pharmco-pharmaceuticals-fort-lauderdale
+Pharmax;910;;Drugstores;0;3250 N 29th Ave Hollywood, FL 33020;26.038969;-80.166443;0;https://www.yelp.com/biz/pharmax-hollywood
+Riverland Pharmacy Services;911;;Drugstores;0;2790 Davie Blvd Fort Lauderdale, FL 33312;26.1061955;-80.1794366;0;https://www.yelp.com/biz/riverland-pharmacy-services-fort-lauderdale
+Actavis South Atlantic;912;;Drugstores;0;13800 NW 2nd St Sunrise, FL 33325;26.1229249;-80.3360074;0;https://www.yelp.com/biz/actavis-south-atlantic-sunrise
+Kiskeya Pharmacy;913;;Drugstores;0;3880 W Broward Blvd Fort Lauderdale, FL 33312;26.120711;-80.20056;0;https://www.yelp.com/biz/kiskeya-pharmacy-fort-lauderdale
+Walgreens;914;7;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;201 N Hiatus Rd Pembroke Pines, FL 33026;26.0098529;-80.2956287;2;https://www.yelp.com/biz/walgreens-pembroke-pines-10
+Walgreens;915;2;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.0;8625 Stirling Rd Cooper City, FL 33328;26.045689;-80.260374;2;https://www.yelp.com/biz/walgreens-cooper-city-2
+Walmart Pharmacy;916;;Drugstores;0;2500 W. Broward Blvd. Ft. Lauderdale, FL 33312;26.1215625;-80.1749972;0;https://www.yelp.com/biz/walmart-pharmacy-ft-lauderdale
+Broward County Pharmacists Association;917;;Drugstores;0;4909 Adams St Hollywood, FL 33021;26.003914;-80.192641;0;https://www.yelp.com/biz/broward-county-pharmacists-association-hollywood
+Walmart Pharmacy;918;;Drugstores;0;101 State Rd 7 Hollywood, FL 33023;26.0087519;-80.206474;0;https://www.yelp.com/biz/walmart-pharmacy-hollywood
+Cvs Pharmacy 3756;919;4;Drugstores;1.0;2391 W 68th St Hialeah, FL 33016;25.884747;-80.331237;2;https://www.yelp.com/biz/cvs-pharmacy-3756-hialeah
+Cvs Front Store;920;;Drugstores;0;1698 SW 101st Ave Hollywood, FL 33019;26.0299648;-80.280415;0;https://www.yelp.com/biz/cvs-front-store-hollywood
+Walgreens;921;26;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;1.5;1300 E Hallandale Beach Blvd Hallandale Beach, FL 33009;25.985155;-80.1348827;2;https://www.yelp.com/biz/walgreens-hallandale-beach-2
+Publix;922;10;Grocery,Drugstores;3.5;6890 Miramar Pkwy Miramar, FL 33023;25.9810251;-80.2253362;2;https://www.yelp.com/biz/publix-miramar
+Wellcare Diabetics;923;;Drugstores;0;28400 S Dixie Hwy Homestead, FL 33033;25.5034235;-80.442941;0;https://www.yelp.com/biz/wellcare-diabetics-homestead
+Eckerd Drugs;924;;Drugstores;0;28740 S Dixie Hwy Homestead, FL 33033;25.4998103;-80.4466225;0;https://www.yelp.com/biz/eckerd-drugs-homestead
+Clinical Solutions of South Florida;925;;Drugstores;0;21011 Johnson St Pembroke Pines, FL 33029;26.015983;-80.430808;0;https://www.yelp.com/biz/clinical-solutions-of-south-florida-pembroke-pines
+Procare Pharmacy Care;926;;Drugstores;0;3891 Commerce Pkwy Miramar, FL 33025;25.9770384;-80.2813465;2;https://www.yelp.com/biz/procare-pharmacy-care-miramar
+Prescription Care Pharmacy;927;;Drugstores;0;5820 Stirling Rd Hollywood, FL 33021;26.0467838;-80.20546;0;https://www.yelp.com/biz/prescription-care-pharmacy-hollywood
+Target;928;45;Department Stores,Drugstores;3.5;5800 S University Dr Davie, FL 33328;26.0471742;-80.2482364;2;https://www.yelp.com/biz/target-davie
+Pro Med Pharmacy;929;;Drugstores;0;26059 S Dixie Hwy Homestead, FL 33032;25.4818798;-80.4629313;0;https://www.yelp.com/biz/pro-med-pharmacy-homestead
+Walmart Pharmacy;930;1;Drugstores;1.0;401 E Sheridan St Dania Beach, FL 33004;26.0350691;-80.1364017;0;https://www.yelp.com/biz/walmart-pharmacy-dania-beach
+Atenda Specialty Infusion Pharmacy;931;;Drugstores;0;15712 SW 41st St Davie, FL 33331;26.0672995;-80.3588041;0;https://www.yelp.com/biz/atenda-specialty-infusion-pharmacy-davie
+Neighborhood Drugs;932;1;Drugstores;5.0;8844 West State Road 84 Davie, FL 33324;26.1030788;-80.2685761;0;https://www.yelp.com/biz/neighborhood-drugs-davie
+Ambient Healthcare of S Florida;933;;Drugstores;0;15951 SW 41st St Davie, FL 33331;26.069234;-80.360798;0;https://www.yelp.com/biz/ambient-healthcare-of-s-florida-davie
+Farmacia Managua;934;;Drugstores;0;248 Washington Ave Homestead, FL 33030;25.4725201;-80.4765437;0;https://www.yelp.com/biz/farmacia-managua-homestead
+Plexiflo - the Anesthesia Co;935;;Drugstores;0;398 E Dania Beach Blvd Dania Beach, FL 33004;26.0523103;-80.1365579;0;https://www.yelp.com/biz/plexiflo-the-anesthesia-co-dania-beach-2
+Matrix Health;936;;Drugstores;0;3300 Corporate Ave Weston, FL 33331;26.07611;-80.367107;0;https://www.yelp.com/biz/matrix-health-weston
+Caremark Rx;937;;Drugstores;0;3250 Meridian Pkwy Weston, FL 33331;26.0769786;-80.3673377;0;https://www.yelp.com/biz/caremark-rx-weston
+Caremark Prescription Service;938;;Drugstores;0;3250 Meridian Pkwy Weston, FL 33331;26.0769786;-80.3673377;0;https://www.yelp.com/biz/caremark-prescription-service-weston
+United States Pharmaceutical Group;939;;Drugstores;0;2955 W Corporate Lakes Blvd Weston, FL 33331;26.080245;-80.3703759;0;https://www.yelp.com/biz/united-states-pharmaceutical-group-weston
+Martin Luther King Pharmacy;940;;Drugstores;0;810 W Mowry Dr Homestead, FL 33030;25.469157;-80.4874789;0;https://www.yelp.com/biz/martin-luther-king-pharmacy-homestead
+Pharmacy Pill Store;941;;Drugstores;0;645 W Hallandale Bch Blvd Hallandale Beach, FL 33009;25.985055;-80.155948;0;https://www.yelp.com/biz/pharmacy-pill-store-hallandale-beach
+Scott Drugs;942;;Drugstores;0;2790 Davie Blvd Fort Lauderdale, FL 33312;26.1061955;-80.1794366;0;https://www.yelp.com/biz/scott-drugs-fort-lauderdale
+Pines Discount Pharmacy;943;;Drugstores;0;631 NW 100th Pl Pembroke Pines, FL 33024;26.0142908;-80.2794487;0;https://www.yelp.com/biz/pines-discount-pharmacy-pembroke-pines
+Smith Community Mental Health;944;;Drugstores;0;601 S State Road 7 Plantation, FL 33317;26.1139025;-80.2020877;0;https://www.yelp.com/biz/smith-community-mental-health-plantation
+Publix Super Markets;945;12;Drugstores,Beer, Wine & Spirits,Grocery;3.0;10018 Griffin Rd Cooper City, FL 33328;26.0629397;-80.2815363;2;https://www.yelp.com/biz/publix-super-markets-cooper-city-2
+Alpha Touch Pharmacy;946;;Drugstores;0;12141 Pembroke Rd Pembroke Pines, FL 33025;25.9933023;-80.3081781;0;https://www.yelp.com/biz/alpha-touch-pharmacy-pembroke-pines
+Walgreens;947;1;Cosmetics & Beauty Supply,Drugstores,Convenience Stores;4.0;3090 Ne 43Rd Ave Homestead, FL 33033;25.4988958;-80.4129006;3;https://www.yelp.com/biz/walgreens-homestead-6
+Surfmed Pharmacy 2;948;;Drugstores;0;4302 Alton Rd Miami Beach, FL 33140;25.8143275;-80.1397853;0;https://www.yelp.com/biz/surfmed-pharmacy-2-miami-beach
+Prescribit Rx;949;;Drugstores;0;10749 Marks Way Miramar, FL 33025;25.9763246;-80.2912206;0;https://www.yelp.com/biz/prescribit-rx-miramar
+Sky Pharmacy & Discount Corp;950;;Drugstores;0;2414 Sheridan St Hollywood, FL 33020;26.0332897;-80.1558067;1;https://www.yelp.com/biz/sky-pharmacy-and-discount-corp-hollywood
+Publix;951;27;Grocery,Drugstores,Health Markets;4.0;600 N University Dr Pembroke Pines, FL 33024;26.0136798;-80.2515697;2;https://www.yelp.com/biz/publix-pembroke-pines
+Cvs;952;4;Drugstores;1.5;8641 NW 186th St Hialeah, FL 33015;25.9438448;-80.341768;2;https://www.yelp.com/biz/cvs-hialeah-2
+Walgreens;953;7;Drugstores,Cosmetics & Beauty Supply,Convenience Stores;2.5;11105 Stirling Rd Cooper City, FL 33328;26.0447278;-80.2963715;1;https://www.yelp.com/biz/walgreens-cooper-city
+Publix;954;11;Drugstores,Grocery,Health Markets;3.5;9359 Sheridan St Hollywood, FL 33024;26.032159;-80.266342;2;https://www.yelp.com/biz/publix-hollywood-7
+Prescription Direct;955;;Drugstores;0;412 S Dixie Hwy Hallandale Beach, FL 33009;25.980397;-80.148499;0;https://www.yelp.com/biz/prescription-direct-hallandale-beach
+Prescription Care Pharmacy;956;;Drugstores;0;5890 Stirling Rd Hollywood, FL 33021;26.0464113;-80.2067093;0;https://www.yelp.com/biz/prescription-care-pharmacy-hollywood-2
+Rose Pharmacy;957;1;Drugstores;1.0;100 NW 82nd Ave Plantation, FL 33324;26.1225757;-80.2578391;0;https://www.yelp.com/biz/rose-pharmacy-plantation
+Cvs Pharmacy;958;6;Drugstores;2.5;10241 W Broward Blvd Plantation, FL 33324;26.1211853;-80.2859815;2;https://www.yelp.com/biz/cvs-pharmacy-plantation-2
+Nova Southeastern University Health Professns Dvsn;959;2;Drugstores;3.5;3200 S University Dr Davie, FL 33328;26.081743;-80.249743;4;https://www.yelp.com/biz/nova-southeastern-university-health-professns-dvsn-davie
+Walgreens;960;1;Cosmetics & Beauty Supply,Drugstores,Convenience Stores;1.0;2790 N University Dr Hollywood, FL 33024;26.0357144;-80.248774;1;https://www.yelp.com/biz/walgreens-hollywood-7
+EZ Care Pharmacy;961;;Drugstores;0;3353 Sheridan St Hollywood, FL 33021;26.0333327;-80.1765306;0;https://www.yelp.com/biz/ez-care-pharmacy-hollywood
+Cvs Pharmacy;962;;Drugstores;0;1825 NE Miami Gardens Dr North Miami Beach, FL 33179;25.9464232;-80.1643412;2;https://www.yelp.com/biz/cvs-pharmacy-north-miami-beach
+Target;963;1;Department Stores,Drugstores;1.0;5900 S State Rd 7 West Palm Beach, FL 33401;26.0464367;-80.2090348;0;https://www.yelp.com/biz/target-west-palm-beach-2
+I.V. & Pulmonary Prescription Providers;964;;Drugstores;0;3129 W Hallandale Beach Blvd Hallandale, FL 33009;25.9865403;-80.1685367;0;https://www.yelp.com/biz/i-v-and-pulmonary-prescription-providers-hallandale
+Personal Bottoms;965;;Drugstores,Health & Medical;0;800 E Hallandale Beach Blvd Hallandale Beach, FL 33009;25.9848929;-80.1398366;0;https://www.yelp.com/biz/personal-bottoms-hallandale-beach
+Sterling Drug #19;966;;Drugstores;0;901 Phippen Waiters Rd Dania, FL 33004;26.03937;-80.15023;0;https://www.yelp.com/biz/sterling-drug-19-dania
+South Broward Medical Arts Pharmacy;967;;Drugstores;0;599 S Federal Hwy Dania, FL 33004;26.0421076;-80.1431065;0;https://www.yelp.com/biz/south-broward-medical-arts-pharmacy-dania
+Intramed;968;;Drugstores;0;11 SW 12th Ave Dania, FL 33004;26.0510618;-80.1523255;0;https://www.yelp.com/biz/intramed-dania
+Cvs Pharmacy;969;9;Drugstores;2.0;16001 Miramar Pkwy Miramar, FL 33027;25.979324;-80.3603553;2;https://www.yelp.com/biz/cvs-pharmacy-miramar
+Direct Meds of Florida;970;;Drugstores;0;800 E Hallandale Beach Blvd Hallandale, FL 33009;25.9850479;-80.1398234;0;https://www.yelp.com/biz/direct-meds-of-florida-hallandale
+Town Drug of Hollywood, Inc;971;;Drugstores;0;2730 Hollywood Blvd Hollywood, FL 33020;26.0109594;-80.1619932;0;https://www.yelp.com/biz/town-drug-of-hollywood-inc-hollywood
+Cvs Pharmacy;972;8;Drugstores;1.5;1701 N University Dr Hollywood, FL 33024;26.0244011;-80.2474348;2;https://www.yelp.com/biz/cvs-pharmacy-hollywood-2
+Publix Super Markets;973;9;Grocery,Drugstores;2.0;1400 E Hallandale Beach Blvd Hallandale Beach, FL 33009;25.9845529;-80.1335971;2;https://www.yelp.com/biz/publix-super-markets-hallandale-beach-2
+Hudson News;974;8;Drugstores;2.5;100 Aviation Blvd Fort Lauderdale, FL 33315;26.0675465;-80.1405904;2;https://www.yelp.com/biz/hudson-news-fort-lauderdale

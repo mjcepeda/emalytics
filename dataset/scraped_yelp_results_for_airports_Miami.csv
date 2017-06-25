@@ -1,0 +1,23 @@
+business_name;rank;review_count;categories;rating;address;longitude;latitude;price_range;url
+Miami International Airport - MIA;1;1708;Airports;2.5;2100 NW 42nd Ave Miami, FL 33126;25.794693981789;-80.276871577362;0;https://www.yelp.com/biz/miami-international-airport-mia-miami
+Miami International Airport - Concourse D;2;5;Airport Terminals;3.5;NW 36th St Miami, FL 33126;25.8095066069424;-80.2615398628906;0;https://www.yelp.com/biz/miami-international-airport-concourse-d-miami
+Fort Lauderdale-Hollywood International Airport - FLL;3;1399;Airports;3.0;100 Terminal Dr Fort Lauderdale, FL 33315;26.072989;-80.143361;0;https://www.yelp.com/biz/fort-lauderdale-hollywood-international-airport-fll-fort-lauderdale-2
+Providenciales International Airport;4;1;Airports;4.0;Airport Rd Miami, FL;25.7616463;-80.1917875;0;https://www.yelp.com/biz/providenciales-international-airport-miami
+Miami International Airport;5;2;Airports;2.5;711 NW 72nd Ave Miami, FL 33126;25.7783793;-80.3095423;0;https://www.yelp.com/biz/miami-international-airport-miami-5
+Miami-Opa locka Executive Airport;6;1;Airports;5.0;14201 NW 42nd Ave Opa-locka, FL 33054;25.9103811;-80.2675522;0;https://www.yelp.com/biz/miami-opa-locka-executive-airport-opa-locka
+Miami Executive Airport;7;2;Airports;3.0;12800 SW 145th Ave Miami, FL 33186;25.6489220361678;-80.4290781762432;0;https://www.yelp.com/biz/miami-executive-airport-miami
+Dade Aviation Consultants Miami International Airport;8;;Airports;0;4200 NW 36th St Miami, FL 33166;25.806727;-80.2653498;0;https://www.yelp.com/biz/dade-aviation-consultants-miami-international-airport-miami
+Miami International Airport;9;;Airport Terminals;0;2100 NW 42nd Ave Miami, FL 33126;25.7950665;-80.2786931;0;https://www.yelp.com/biz/miami-international-airport-miami-6
+MIAVIP Services;10;;Airport Terminals;0;2100 NW 42nd Ave Miami, FL 33126;25.7950665;-80.2786931;0;https://www.yelp.com/biz/miavip-services-miami
+Global Entry Enrollment Center;11;;Airports;0;4200 NW 21st St Miami, FL 33122;25.7970602;-80.2751916;0;https://www.yelp.com/biz/global-entry-enrollment-center-miami
+FLL Park Safe;12;84;Parking,Airports;4.5;1101 Old Griffin Rd Dania Beach, FL 33004;26.0589175;-80.1511487;0;https://www.yelp.com/biz/fll-park-safe-dania-beach
+Signature Flight Support;13;1;Airport Terminals;5.0;5700 NW 36th St Miami, FL 33166;25.8064257461362;-80.2897274313776;0;https://www.yelp.com/biz/signature-flight-support-miami-2
+Homestead General Aviation Airport;14;1;Airports;4.0;28700 SW 217th Ave Homestead, FL 33030;25.4971017;-80.542494;0;https://www.yelp.com/biz/homestead-general-aviation-airport-homestead
+Sion Air;15;;Airports;0;7323 NW 79th Ter Medley, FL 33166;25.8457185;-80.3170527;0;https://www.yelp.com/biz/sion-air-medley
+North Perry Airport of Broward County;16;2;Airports;2.5;101 SW 77th Way Pembroke Pines, FL 33024;26.010145;-80.241774;0;https://www.yelp.com/biz/north-perry-airport-of-broward-county-pembroke-pines
+Signature Flight Support;17;;Travel Services,Airports;0;15001 NW 42nd Ave Opa-locka, FL 33054;25.9050545;-80.2728938;0;https://www.yelp.com/biz/signature-flight-support-opa-locka
+Terminal C - Fort Lauderdale-Hollywood International Airport;18;;Airport Terminals;0;100 Terminal Dr Fort Lauderdale, FL 33315;26.0733108844526;-80.1406764239073;0;https://www.yelp.com/biz/terminal-c-fort-lauderdale-hollywood-international-airport-fort-lauderdale
+Sheltair Aviation;19;5;Airport Terminals;4.0;1100 Lee Wagener Blvd Fort Lauderdale, FL 33315;26.0702251;-80.1561409;0;https://www.yelp.com/biz/sheltair-aviation-fort-lauderdale
+The Fuel Depot;20;;Airports;0;603 SW 77th Way Pembroke Pines, FL 33023;26.0045854;-80.2410225;0;https://www.yelp.com/biz/the-fuel-depot-pembroke-pines
+National Jets;21;;Electronics,Airports;0;3495 SW 9th Ave Fort Lauderdale, FL 33315;26.0799449;-80.1531185;0;https://www.yelp.com/biz/national-jets-fort-lauderdale
+National Air Ambulance;22;;Electronics,Airports;0;3495 SW 9th Ave Fort Lauderdale, FL 33315;26.0799449;-80.1531185;0;https://www.yelp.com/biz/national-air-ambulance-fort-lauderdale-2

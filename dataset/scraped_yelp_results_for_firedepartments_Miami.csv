@@ -1,0 +1,8 @@
+business_name;rank;review_count;categories;rating;address;longitude;latitude;price_range;url
+City of Miami Depatment of Fire Rescue;1;;Fire Departments;0;2975 Oak Ave Miami, FL 33133;25.730218;-80.241006;0;https://www.yelp.com/biz/city-of-miami-depatment-of-fire-rescue-miami
+Miami Dade Fire Rescue HQ;2;1;Fire Departments;5.0;9300 NW 41st St Doral, FL 33178;25.8099751;-80.3487682;0;https://www.yelp.com/biz/miami-dade-fire-rescue-hq-doral
+City of Miami Beach Fire Department - Fire Station 2;3;1;Fire Departments;4.0;2300 Pinetree Dr Miami Beach, FL 33140;25.7996205;-80.1303951;0;https://www.yelp.com/biz/city-of-miami-beach-fire-department-fire-station-2-miami-beach
+Metro-Dade Firefighters Local 1403;4;;Fire Departments;0;8000 NW 21st St Miami, FL 33122;25.7931761;-80.3255953;0;https://www.yelp.com/biz/metro-dade-firefighters-local-1403-miami
+Miami Lakes Fire Rescue Station;5;1;Fire Departments;5.0;15320 Palmetto Frontage Rd Miami Lakes, FL 33016;25.9119919332431;-80.3279019892216;0;https://www.yelp.com/biz/miami-lakes-fire-rescue-station-miami-lakes
+ProTech Fire - Fire Extinguisher Company;6;1;Fire Departments;5.0;2950 W 84th St Hialeah, FL 33018;25.8974451;-80.3438771;0;https://www.yelp.com/biz/protech-fire-fire-extinguisher-company-hialeah-2
+Miramar Fire-Rescue Department;7;;Fire Departments;0;14801 SW 27th St Miramar, FL 33027;25.9851517071383;-80.3441605344415;0;https://www.yelp.com/biz/miramar-fire-rescue-department-miramar
