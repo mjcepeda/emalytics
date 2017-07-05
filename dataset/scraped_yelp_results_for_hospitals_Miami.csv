@@ -1,0 +1,247 @@
+business_name;rank;review_count;categories;rating;address;longitude;latitude;price_range;url
+South Miami Hospital;1;50;Hospitals,Addiction Medicine;3.5;6200 SW 73rd St South Miami, FL 33143;25.701598;-80.294685;0;https://www.yelp.com/biz/south-miami-hospital-south-miami-2
+Mercy Hospital;2;61;Hospitals;2.5;3663 S Miami Ave Miami, FL 33133;25.7400472;-80.2138245;0;https://www.yelp.com/biz/mercy-hospital-miami-3
+Baptist Hospital of Miami;3;91;Hospitals;3.0;8900 N Kendall Dr Miami, FL 33176;25.6830929;-80.3403287;0;https://www.yelp.com/biz/baptist-hospital-of-miami-miami
+Doctors Hospital;4;25;Hospitals;4.0;5000 University Dr Coral Gables, FL 33146;25.7242943;-80.2742206;0;https://www.yelp.com/biz/doctors-hospital-coral-gables
+Coral Gables Hospital;5;56;Hospitals;3.0;3100 S Douglas Rd Coral Gables, FL 33134;25.7434563175079;-80.2547659816147;0;https://www.yelp.com/biz/coral-gables-hospital-coral-gables
+West Kendall Baptist Hospital;6;51;Hospitals;3.5;9555 SW 162nd Ave Miami, FL 33196;25.6784009662727;-80.4560029506683;0;https://www.yelp.com/biz/west-kendall-baptist-hospital-miami
+Jackson Memorial Hospital;7;61;Hospitals;2.0;1809 NW 9th St Miami, FL 33125;25.7820502;-80.2255327;0;https://www.yelp.com/biz/jackson-memorial-hospital-miami
+Kendall Regional Medical Center;8;72;Hospitals;2.0;11750 SW 40th St Miami, FL 33175;25.7307897;-80.3853026;0;https://www.yelp.com/biz/kendall-regional-medical-center-miami
+Jackson South Community Hospital;9;32;Hospitals;2.0;9333 SW 152nd St Miami, FL 33157;25.6298076;-80.3446013;0;https://www.yelp.com/biz/jackson-south-community-hospital-miami
+Nicklaus Children’s Hospital;10;58;Hospitals,Pediatricians;3.0;3100 SW 62nd Ave Miami, FL 33155;25.7412636;-80.2940297;0;https://www.yelp.com/biz/nicklaus-childrens-hospital-miami-2
+Holtz Children’s Hospital;11;4;Hospitals;4.0;1611 NW 12th Ave Miami, FL 33136;25.7914269;-80.212494;0;https://www.yelp.com/biz/holtz-childrens-hospital-miami
+Memorial Hospital Miramar;12;47;Hospitals;3.5;1901 SW 172nd Ave Miramar, FL 33029;25.9908868;-80.3728387;0;https://www.yelp.com/biz/memorial-hospital-miramar-miramar-3
+Hialeah Hospital;13;20;Hospitals;1.0;651 E 25th St Hialeah, FL 33013;25.8452013;-80.2684301;0;https://www.yelp.com/biz/hialeah-hospital-hialeah
+Westchester General Hospital;14;5;Hospitals;2.0;2500 SW 75th Ave Miami, FL 33155;25.7473744;-80.3145294;0;https://www.yelp.com/biz/westchester-general-hospital-miami-2
+University of Miami Hospital;15;5;Hospitals;1.0;1400 NW 12th Ave Miami, FL 33136;25.8552328500829;-80.1963917315128;0;https://www.yelp.com/biz/university-of-miami-hospital-miami-2
+Metropolitan Hospital;17;1;Hospitals;1.0;5959 NW 7th St Miami, FL 33126;25.778391;-80.29358;0;https://www.yelp.com/biz/metropolitan-hospital-miami-2
+Westchester Hospital;18;1;Hospitals;1.0;2500 SW 75th Ave Miami, FL 33155;25.7474336;-80.317674;0;https://www.yelp.com/biz/westchester-hospital-miami
+Memorial Hospital West;19;40;Hospitals;3.0;703 N Flamingo Rd Pembroke Pines, FL 33028;26.012964403207;-80.310686792745;0;https://www.yelp.com/biz/memorial-hospital-west-pembroke-pines
+Palmetto General Hospital;20;42;Hospitals;1.5;2001 W 68th St Hialeah, FL 33016;25.8847648;-80.3285197;0;https://www.yelp.com/biz/palmetto-general-hospital-hialeah
+Larkin General Hospital;21;1;Hospitals;5.0;7031 SW 62nd Ave South Miami, FL 33143;25.705576;-80.2931119;0;https://www.yelp.com/biz/larkin-general-hospital-south-miami
+Homestead Hospital;22;38;Hospitals;2.0;975 Baptist Way Homestead, FL 33030;25.4792269;-80.4304752;0;https://www.yelp.com/biz/homestead-hospital-homestead
+Miami VA Healthcare System;23;14;Hospitals;3.0;1201 NW 16th St Miami, FL 33125;25.791515;-80.217124;0;https://www.yelp.com/biz/miami-va-healthcare-system-miami
+Broward Health Medical Center;24;44;Medical Centers,Emergency Rooms,Hospitals;3.0;1600 S Andrews Ave Fort Lauderdale, FL 33316;26.1020436;-80.1407874;0;https://www.yelp.com/biz/broward-health-medical-center-fort-lauderdale-5
+Fairland Community Hospital;25;;Hospitals;0;13500 N Kendall Dr Miami, FL 33186;25.6847864;-80.4139285;0;https://www.yelp.com/biz/fairland-community-hospital-miami
+Aventura Hospital & Medical Center;26;74;Medical Centers,Hospitals;2.0;20900 Biscayne Blvd Aventura, FL 33180;25.96994;-80.14533;0;https://www.yelp.com/biz/aventura-hospital-and-medical-center-aventura
+Miami Children’s Hospital Ambulatory Surgery Center;27;2;Hospitals;5.0;800 SW 108th Ave Miami, FL 33174;25.7608344485669;-80.3716791625376;0;https://www.yelp.com/biz/miami-childrens-hospital-ambulatory-surgery-center-miami
+Memorial Regional Hospital;28;64;Hospitals;2.5;3501 Johnson St Hollywood, FL 33021;26.0189172;-80.1797209;0;https://www.yelp.com/biz/memorial-regional-hospital-hollywood-3
+Larkin Community Hospital Palm Springs Campus;29;9;Hospitals;2.5;1475 W 49th St Hialeah, FL 33012;25.868555;-80.312223;0;https://www.yelp.com/biz/larkin-community-hospital-palm-springs-campus-hialeah
+Memorial Regional Hospital South;30;7;Hospitals;3.5;3600 Washington St Hollywood, FL 33021;26.0020233;-80.179854;0;https://www.yelp.com/biz/memorial-regional-hospital-south-hollywood
+Kindred Hospital South Florida - Coral Gables;31;2;Hospitals,Occupational Therapy,Physical Therapy;1.5;5190 SW Eighth St Coral Gables, FL 33134;25.763645;-80.278789;0;https://www.yelp.com/biz/kindred-hospital-south-florida-coral-gables-coral-gables
+Jackson Memorial;32;;Hospitals;0;50 NE 9th St Miami, FL 33132;25.78236;-80.193053;0;https://www.yelp.com/biz/jackson-memorial-miami-2
+Mercy Cardiovascular Institute;33;1;Hospitals;5.0;3663 S Miami Ave Miami, FL 33133;25.7400472;-80.2138245;0;https://www.yelp.com/biz/mercy-cardiovascular-institute-miami
+Memorial Hospital Pembroke;34;16;Hospitals;3.0;7800 Sheridan St Pembroke Pines, FL 33024;26.0296726;-80.2456615;0;https://www.yelp.com/biz/memorial-hospital-pembroke-pembroke-pines
+Mercy Outpatient Center;35;1;Hospitals;4.0;3641 S Miami Ave Miami, FL 33133;25.7413912;-80.2143364;0;https://www.yelp.com/biz/mercy-outpatient-center-miami
+Baptist Health South Florida;36;2;Hospitals;2.5;6200 SW 73rd St South Miami, FL 33143;25.7035412;-80.293897;0;https://www.yelp.com/biz/baptist-health-south-florida-south-miami
+UHealth Sports Medicine;37;2;Hospitals;1.0;1400 NW 12th Ave First Fl Miami, FL 33125;25.790502;-80.21209;0;https://www.yelp.com/biz/uhealth-sports-medicine-miami
+Palmetto General Hospital;38;1;Hospitals;1.0;7160 NW 20th Ave Miami, FL 33147;25.8401559;-80.2303433;0;https://www.yelp.com/biz/palmetto-general-hospital-miami
+Lactation Center;39;2;Hospitals;4.0;3659 S Miami Ave Miami, FL 33133;25.7410969;-80.2132014;0;https://www.yelp.com/biz/lactation-center-miami
+Jackson Memorial Mental Health;40;1;Hospitals;5.0;1695 NW 9th Ave Miami, FL 33136;25.790743;-80.2095083;0;https://www.yelp.com/biz/jackson-memorial-mental-health-miami
+Pharm-Pacc;41;;Hospitals;0;135 San Lorenzo Ave Coral Gables, FL 33146;25.7319712;-80.2575257;0;https://www.yelp.com/biz/pharm-pacc-coral-gables
+Jackson Memorial Hospital-Public Health Trust;42;;Hospitals;0;155 S Miami Ave Miami, FL 33130;25.7727364;-80.1933207;0;https://www.yelp.com/biz/jackson-memorial-hospital-public-health-trust-miami-5
+Mercy Hospital Medical Partners;43;;Hospitals,Doctors;0;3663 S Miami Ave Miami, FL 33133;25.7406654;-80.2124435;0;https://www.yelp.com/biz/mercy-hospital-medical-partners-miami
+University of Miami Hospital;44;;Hospitals;0;1400 NW 12th Ave Miami, FL 33136;25.8552328500829;-80.1963917315128;0;https://www.yelp.com/biz/university-of-miami-hospital-miami-3
+Larkin Community Hospital;45;8;Hospitals;2.5;7031 SW 62nd Ave South Miami, FL 33143;25.7055657;-80.2930992;0;https://www.yelp.com/biz/larkin-community-hospital-south-miami
+Joe DiMaggio Children’s Hospital;46;24;Hospitals;4.5;1005 Joe Dimaggio Dr Hollywood, FL 33021;26.0193039951586;-80.1784398523468;0;https://www.yelp.com/biz/joe-dimaggio-childrens-hospital-hollywood-2
+Baptist Health South Florida;47;;Hospitals;0;6855 Red Rd Coral Gables, FL 33143;25.7056047;-80.2851344;0;https://www.yelp.com/biz/baptist-health-south-florida-coral-gables-2
+UHZ Sports Medicine;48;2;Orthopedists,Hospitals,Sports Medicine;5.0;15955 SW 96th St Miami, FL 33196;25.6781979;-80.4558957;0;https://www.yelp.com/biz/uhz-sports-medicine-miami
+Select Specialty Hospital-Miami;49;3;Hospitals;3.5;955 NW 3rd St Miami, FL 33128;25.777005;-80.2108496;0;https://www.yelp.com/biz/select-specialty-hospital-miami-miami
+Jackson Memorial Hospital-Public Health Trust;50;;Hospitals;0;1695 NW 9th Ave Miami, FL 33136;25.790743;-80.2095083;0;https://www.yelp.com/biz/jackson-memorial-hospital-public-health-trust-miami-6
+Specialty Telehealth Services;51;;Hospitals;0;1951 NW 7th Ave Miami, FL 33136;25.7946314;-80.206686;0;https://www.yelp.com/biz/specialty-telehealth-services-miami
+Jackson Memorial Hospital-Public Health Trust;52;1;Hospitals;5.0;7867 N Kendall Dr Miami, FL 33156;25.6887333;-80.3205551;0;https://www.yelp.com/biz/jackson-memorial-hospital-public-health-trust-miami-4
+Ultrasound and Hospital Service;53;;Hospitals;0;7919 NW 64th St Miami, FL 33166;25.8316708;-80.3260089;0;https://www.yelp.com/biz/ultrasound-and-hospital-service-miami
+Healthsouth Doctors’ Hospital;54;;Hospitals;0;15520 NW 2nd Ave Miami, FL 33169;25.91723;-80.2042716;0;https://www.yelp.com/biz/healthsouth-doctors-hospital-miami-2
+Baptist Hospital of Miami;55;3;Hospitals;2.0;9035 SW 72nd St Miami, FL 33173;25.702319;-80.34086;0;https://www.yelp.com/biz/baptist-hospital-of-miami-miami-3
+Baptist Children’s Hospital;56;;Hospitals;0;9035 SW 72nd St Miami, FL 33173;25.702319;-80.34086;0;https://www.yelp.com/biz/baptist-childrens-hospital-miami-2
+Miami Children’s Hospital Early Intervention Prgrm;57;2;Hospitals;5.0;17615 Franjo Rd Palmetto Bay, FL 33157;25.605985;-80.347429;0;https://www.yelp.com/biz/miami-childrens-hospital-early-intervention-prgrm-palmetto-bay
+Jackson Memorial Hospital-Public Health Trust;58;;Hospitals;0;1100 NW 71st St Miami, FL 33150;25.8383665;-80.2137154;0;https://www.yelp.com/biz/jackson-memorial-hospital-public-health-trust-miami-3
+Bush Nacera MD;59;;Podiatrists,Hospitals,Medical Centers;0;1000 Park Centre Blvd Miami, FL 33169;25.929025;-80.2184599;0;https://www.yelp.com/biz/bush-nacera-md-miami
+The Emergency Center in Davie;60;4;Emergency Rooms,Hospitals;3.5;10230 W State Rd 84 Davie, FL 33324;26.105898;-80.285331;0;https://www.yelp.com/biz/the-emergency-center-in-davie-davie
+Jmh Health Plan;61;;Hospitals;0;155 S Miami Ave Miami, FL 33130;25.7727364;-80.1933207;0;https://www.yelp.com/biz/jmh-health-plan-miami-2
+Miami Cardiac & Vascular Institute;62;;Hospitals,Cardiologists;0;6200 SW 73rd St South Miami, FL 33143;25.7032786;-80.2939055;0;https://www.yelp.com/biz/miami-cardiac-and-vascular-institute-south-miami
+Baptist-South Miami Diabetes Care Centers;63;;Hospitals;0;6200 SW 73rd St South Miami, FL 33143;25.7032786;-80.2939055;0;https://www.yelp.com/biz/baptist-south-miami-diabetes-care-centers-south-miami
+Children’s Psychiatric Center;64;;Hospitals;0;15490 NW 7th Ave Miami, FL 33169;25.9162694;-80.2122539;0;https://www.yelp.com/biz/childrens-psychiatric-center-miami
+Doctors Hospital;65;;Sports Medicine,Hospitals;0;1150 Campo Sano Ave Miami, FL 33146;25.7244098;-80.2747463;0;https://www.yelp.com/biz/doctors-hospital-miami-3
+Sprung Charles MD;66;;Doctors,Hospitals;0;1201 NW 16th St Miami, FL 33125;25.7914998;-80.2162924;0;https://www.yelp.com/biz/sprung-charles-md-miami
+The Center for Arthritis & Rheumatic Diseases;67;;Hospitals;0;7190 SW 87th Ave Miami, FL 33173;25.7024222865249;-80.3342090182834;0;https://www.yelp.com/biz/the-center-for-arthritis-and-rheumatic-diseases-miami
+Jackson Mental Health Hospital;68;;Hospitals;0;1695 NW 9th Ave Miami, FL 33136;25.790599;-80.209437;0;https://www.yelp.com/biz/jackson-mental-health-hospital-miami
+Baptist Health Systems;69;;Hospitals;0;5000 University Dr Miami, FL 33146;25.7242938;-80.2742209;0;https://www.yelp.com/biz/baptist-health-systems-miami
+Jackson Memeriol Hospital;70;1;Hospitals;4.0;1611 NW 12th Ave Miami, FL 33136;25.7917989;-80.212638;0;https://www.yelp.com/biz/jackson-memeriol-hospital-miami
+South Shore Hospital;71;;Hospitals;0;600 Alton Rd Miami Beach, FL 33139;25.775854;-80.1409489;0;https://www.yelp.com/biz/south-shore-hospital-miami-beach
+Ameri-Medical Solutions;72;;Hospitals;0;10131 SW 118th Ct Miami, FL 33186;25.673888;-80.387306;0;https://www.yelp.com/biz/ameri-medical-solutions-miami
+Miami Cardiac & Vascular Institute;73;;Hospitals,Cardiologists;0;8900 N Kendall Dr Miami, FL 33176;25.6830596;-80.3404522;0;https://www.yelp.com/biz/miami-cardiac-and-vascular-institute-miami
+Cheung Herman PHD;74;;Doctors,Hospitals;0;1201 NW 16th St Miami, FL 33125;25.7914998;-80.2162924;0;https://www.yelp.com/biz/cheung-herman-phd-miami
+Aventura Breast Diagnostic Center;75;6;Hospitals;3.5;20950 NE 27th Ct Miami, FL 33180;25.9701488;-80.1469513;0;https://www.yelp.com/biz/aventura-breast-diagnostic-center-miami
+Maher Kevin J PHD;76;;Doctors,Hospitals;0;1201 NW 16th St Miami, FL 33125;25.7914998;-80.2162924;0;https://www.yelp.com/biz/maher-kevin-j-phd-miami
+Diabetes Care Center At Baptist Hospital;77;;Hospitals;0;8940 N Kendall Dr Miami, FL 33176;25.6849503;-80.3411237;0;https://www.yelp.com/biz/diabetes-care-center-at-baptist-hospital-miami
+Miami Vascular Institute At Baptist Hospital;78;1;Hospitals;5.0;8900 N Kendall Dr Miami, FL 33176;25.6830596;-80.3404522;0;https://www.yelp.com/biz/miami-vascular-institute-at-baptist-hospital-miami
+Altman Donald H MD;79;;Doctors,Hospitals;0;3100 SW 62nd Ave Miami, FL 33155;25.7414669;-80.2940652;0;https://www.yelp.com/biz/altman-donald-h-md-miami
+Diabetes Treatment Center At Mercy Hospital;80;;Hospitals;0;3663 S Miami Ave Miami, FL 33133;25.7399069626058;-80.213925;0;https://www.yelp.com/biz/diabetes-treatment-center-at-mercy-hospital-miami
+Accountable Care Medical Group;81;;Hospitals;0;6355 NW 36th St Miami, FL 33166;25.8077281;-80.3002757;0;https://www.yelp.com/biz/accountable-care-medical-group-miami-3
+Universty of Mmi Hsptl & Clncs Sylvstr Cmprhnsve C;82;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/universty-of-mmi-hsptl-and-clncs-sylvstr-cmprhnsve-c-miami
+Baptist Health-Ams;83;;Hospitals;0;8940 N Kendall Dr Miami, FL 33176;25.688044;-80.338238;0;https://www.yelp.com/biz/baptist-health-ams-miami-2
+Jackson Memorial Foundation;84;;Hospitals;0;901 NW 17th St Miami, FL 33136;25.7919208;-80.2107188;0;https://www.yelp.com/biz/jackson-memorial-foundation-miami
+Worton Stanley I MD;85;;Doctors,Hospitals;0;1400 NW 12th Ave Miami, FL 33136;25.7885031;-80.2158347;0;https://www.yelp.com/biz/worton-stanley-i-md-miami
+Orthopedic Center at Jackson South;86;;Hospitals;0;9380 SW 150th St Miami, FL 33176;25.6303666;-80.3457383;0;https://www.yelp.com/biz/orthopedic-center-at-jackson-south-miami
+Peter Garnet MD;87;;Doctors,Hospitals;0;1201 NW 16th St Miami, FL 33125;25.7914998;-80.2162924;0;https://www.yelp.com/biz/peter-garnet-md-miami
+Alsac St Jude’s Children Research Hospital;88;;Hospitals;0;5201 Blue Lagoon Dr Miami, FL 33126;25.7832273;-80.2814105;0;https://www.yelp.com/biz/alsac-st-judes-children-research-hospital-miami
+Jackson South Communtiy Hospital;89;1;Hospitals;1.0;9333 SW 152nd St Palmetto Bay, FL 33157;25.6298076;-80.3446013;0;https://www.yelp.com/biz/jackson-south-communtiy-hospital-palmetto-bay
+Anne Bates Leach Eye Hospital;90;;Hospitals;0;900 NW 17th St Miami, FL 33136;25.7909979;-80.2106781;0;https://www.yelp.com/biz/anne-bates-leach-eye-hospital-miami
+South Miami Hospital Out-Patient Pharmacy;91;;Hospitals;0;6200 SW 73rd St South Miami, FL 33143;25.7032786;-80.2939055;0;https://www.yelp.com/biz/south-miami-hospital-out-patient-pharmacy-south-miami
+Krauthamer Dan MD Faac;92;;Hospitals;0;7400 SW 62nd Ave Miami, FL 33143;25.701502;-80.294517;0;https://www.yelp.com/biz/krauthamer-dan-md-faac-miami
+Benedetto Pasquale MD;93;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/benedetto-pasquale-md-miami
+First Capital Hospital;94;;Hospitals;0;1111 Lincoln Rd Miami Beach, FL 33139;25.7903731;-80.1409938;0;https://www.yelp.com/biz/first-capital-hospital-miami-beach
+Pan American Hospital;95;;Hospitals;0;599 NW 7th St Miami, FL 33136;25.7799483;-80.2108976;0;https://www.yelp.com/biz/pan-american-hospital-miami-3
+Baptist Hospital Physician Referral Service;96;;Doctors,Hospitals;0;8900 N Kendall Dr Miami, FL 33176;25.6830596;-80.3404522;0;https://www.yelp.com/biz/baptist-hospital-physician-referral-service-miami
+Highland Park Pavilin Jcksn Mmrl Mntl Hlth Hsptl C;97;1;Hospitals;1.0;1660 NW 7th Ct Miami, FL 33136;25.7911289;-80.2083449;0;https://www.yelp.com/biz/highland-park-pavilin-jcksn-mmrl-mntl-hlth-hsptl-c-miami
+Healthier Florida;98;;Hospitals;0;7867 N Kendall Dr Miami, FL 33156;25.6887333;-80.3205551;0;https://www.yelp.com/biz/healthier-florida-miami
+Green Barth A MD;99;;Hospitals;0;1095 NW 14th Ter Miami, FL 33136;25.7887365;-80.2121459;0;https://www.yelp.com/biz/green-barth-a-md-miami
+Lundy Donna S MA Ccc;100;;Hospitals;0;1666 NW 10th Ave Miami, FL 33136;25.7901038;-80.2111453;0;https://www.yelp.com/biz/lundy-donna-s-ma-ccc-miami
+Hca Highland Park General Hospital;101;;Hospitals;0;1660 NW 7th Ct Miami, FL 33136;25.7911289;-80.2083449;0;https://www.yelp.com/biz/hca-highland-park-general-hospital-miami
+Jackson Memorial Hospital-Public Health Trust;102;;Hospitals;0;14701 NW 27th Ave Opa Locka, FL 33054;25.90846;-80.2431189;0;https://www.yelp.com/biz/jackson-memorial-hospital-public-health-trust-opa-locka
+Kindred Hospital South Florida - Hollywood;103;12;Hospitals,Occupational Therapy,Physical Therapy;2.0;1859 Van Buren St Hollywood, FL 33020;26.009877;-80.1443479;0;https://www.yelp.com/biz/kindred-hospital-south-florida-hollywood-hollywood
+Diaz Ernesto MD;104;;Doctors,Hospitals;0;2210 NW 4th Ter Miami, FL 33125;25.7772845;-80.2313372;0;https://www.yelp.com/biz/diaz-ernesto-md-miami
+Wolfe S Anthony MD;105;;Doctors,Hospitals;0;3100 SW 62nd Ave Miami, FL 33155;25.7414669;-80.2940652;0;https://www.yelp.com/biz/wolfe-s-anthony-md-miami-2
+Child Neurology Associates;106;;Hospitals;0;3200 SW 60th Ct Miami, FL 33155;25.7412059;-80.294507;0;https://www.yelp.com/biz/child-neurology-associates-miami
+Interamerican Hotels;107;;Hospitals;0;270 NE 4th St Miami, FL 33132;25.7781134;-80.1887275;0;https://www.yelp.com/biz/interamerican-hotels-miami
+Bermudez Ovidio MD Faap;108;;Hospitals;0;3200 SW 60th Ct Miami, FL 33155;25.7408367;-80.2941564;0;https://www.yelp.com/biz/bermudez-ovidio-md-faap-miami
+Baptist Health;109;1;Hospitals;1.0;8900 N Kendall Dr Miami, FL 33176;25.6852022747331;-80.33933070064;0;https://www.yelp.com/biz/baptist-health-miami
+Fox Jeffrey DO;110;;Hospitals,Cardiologists;0;2500 SW 75th Ave Miami, FL 33155;25.7473439;-80.3176469;0;https://www.yelp.com/biz/fox-jeffrey-do-miami
+Fox M S Dr Phys;111;;Hospitals,Cardiologists;0;2500 SW 75th Ave Miami, FL 33155;25.7473439;-80.3176469;0;https://www.yelp.com/biz/fox-m-s-dr-phys-miami-2
+Spine Center of Miami;112;;Hospitals;0;4720 Le Jeune Rd Coral Gables, FL 33146;25.7283514;-80.2619789;0;https://www.yelp.com/biz/spine-center-of-miami-coral-gables-2
+Vencor;113;;Hospitals;0;5190 SW 8th St Coral Gables, FL 33134;25.763645;-80.278789;0;https://www.yelp.com/biz/vencor-coral-gables
+St John Bosco Clinic;114;;Hospitals;0;1301 W Flagler St Miami, FL 33135;25.7734825;-80.216357;0;https://www.yelp.com/biz/st-john-bosco-clinic-miami
+Select Medical;115;;Hospitals;0;955 NW 3rd St Miami, FL 33128;25.777005;-80.2108496;0;https://www.yelp.com/biz/select-medical-miami-2
+Cooper Dianne Wade Ms Ccc-A;116;;Hospitals;0;1666 NW 10th Ave Miami, FL 33136;25.7901038;-80.2111453;0;https://www.yelp.com/biz/cooper-dianne-wade-ms-ccc-a-miami
+Tidwell Michael MD;117;;Hospitals;0;8950 N Kendall Dr Miami, FL 33176;25.6842387;-80.3387723;0;https://www.yelp.com/biz/tidwell-michael-md-miami-2
+Baptist Pediatric Orthopedic;118;;Hospitals;0;8950 N Kendall Dr Miami, FL 33176;25.6842387;-80.3387723;0;https://www.yelp.com/biz/baptist-pediatric-orthopedic-miami
+King-Skinner Peggy J MD;119;;Hospitals;0;8755 SW 94th St Miami, FL 33176;25.6829799;-80.3374543;0;https://www.yelp.com/biz/king-skinner-peggy-j-md-miami
+Baptist-South Miami Diabetes Care Centers;120;;Hospitals;0;8940 N Kendall Dr Miami, FL 33176;25.6849503;-80.3411237;0;https://www.yelp.com/biz/baptist-south-miami-diabetes-care-centers-miami-2
+Pediatric Emergency Consultants;121;;Hospitals;0;8900 N Kendall Dr Miami, FL 33176;25.6830929;-80.3403287;0;https://www.yelp.com/biz/pediatric-emergency-consultants-miami
+Scheduling Ctr;122;;Hospitals;0;8900 N Kendall Dr Miami, FL 33176;25.6830596;-80.3404522;0;https://www.yelp.com/biz/scheduling-ctr-miami
+Aero-Med Helicopter Ambulance;123;;Hospitals;0;8900 N Kendall Dr Miami, FL 33176;25.6830596;-80.3404522;0;https://www.yelp.com/biz/aero-med-helicopter-ambulance-miami
+Baptist-South Miami Diabetes Care Centers;124;;Hospitals;0;151 NW 11th St Miami, FL 33136;25.7846627;-80.1974782;0;https://www.yelp.com/biz/baptist-south-miami-diabetes-care-centers-miami
+Nursing Staffing;125;;Hospitals;0;3663 S Miami Ave Miami, FL 33133;25.7400472;-80.2138245;0;https://www.yelp.com/biz/nursing-staffing-miami
+Ssj Mercy Health System;126;;Hospitals;0;3663 S Miami Ave Miami, FL 33133;25.7400472;-80.2138245;0;https://www.yelp.com/biz/ssj-mercy-health-system-miami
+Wound Care Center;127;;Hospitals;0;11750 SW 40th St Miami, FL 33175;25.7307897;-80.3853026;0;https://www.yelp.com/biz/wound-care-center-miami-2
+Ronquillo Aida MD;128;;Doctors,Hospitals;0;1400 NW 12th Ave Miami, FL 33136;25.7885031;-80.2158347;0;https://www.yelp.com/biz/ronquillo-aida-md-miami
+Seckinger Daniel L III MD;129;;Doctors,Hospitals;0;1400 NW 12th Ave Miami, FL 33136;25.7885031;-80.2158347;0;https://www.yelp.com/biz/seckinger-daniel-l-iii-md-miami
+Layton Robert MD;130;;Doctors,Hospitals;0;1400 NW 12th Ave Miami, FL 33136;25.7885031;-80.2158347;0;https://www.yelp.com/biz/layton-robert-md-miami
+Pomper Mark E MD;131;;Doctors,Hospitals;0;1400 NW 12th Ave Miami, FL 33136;25.7885031;-80.2158347;0;https://www.yelp.com/biz/pomper-mark-e-md-miami
+Columbia Cedars Medical Appointment Service;132;;Hospitals;0;1400 NW 12th Ave Miami, FL 33136;25.7885031;-80.2158347;0;https://www.yelp.com/biz/columbia-cedars-medical-appointment-service-miami
+Eidson Margaret S MD;133;;Hospitals,Doctors;0;1601 NW 12th Ave Miami, FL 33136;25.7901533;-80.214243;0;https://www.yelp.com/biz/eidson-margaret-s-md-miami
+University Family Planning;134;;Hospitals;0;1611 NW 12th Ave Miami, FL 33136;25.7918359;-80.2127959;0;https://www.yelp.com/biz/university-family-planning-miami
+Zilleruelo Gaston MD;135;;Hospitals,Doctors;0;1611 NW 12th Ave Miami, FL 33136;25.7917988;-80.2126381;0;https://www.yelp.com/biz/zilleruelo-gaston-md-miami-3
+Miller Morgan G Ms Ccc-A;136;;Hospitals;0;1666 NW 10th Ave Miami, FL 33136;25.7901038;-80.2111453;0;https://www.yelp.com/biz/miller-morgan-g-ms-ccc-a-miami
+South Miami Hospital Physician Referral Service;137;;Doctors,Hospitals;0;6200 SW 73rd St South Miami, FL 33143;25.7032786;-80.2939055;0;https://www.yelp.com/biz/south-miami-hospital-physician-referral-service-south-miami
+South Miami Hospital Rehabilitation Services;138;;Hospitals;0;6200 SW 73rd St South Miami, FL 33143;25.7032786;-80.2939055;0;https://www.yelp.com/biz/south-miami-hospital-rehabilitation-services-south-miami
+Diabetes Care Center At South Miami Hospital;139;;Hospitals;0;6200 SW 73rd St South Miami, FL 33143;25.7032786;-80.2939055;0;https://www.yelp.com/biz/diabetes-care-center-at-south-miami-hospital-south-miami
+Silva Orlando MD;140;1;Hospitals;5.0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/silva-orlando-md-miami
+Grant Center At Jackson South Community Hospital;141;;Hospitals;0;9333 SW 152nd St Palmetto Bay, FL 33157;25.6298076;-80.3446013;0;https://www.yelp.com/biz/grant-center-at-jackson-south-community-hospital-palmetto-bay
+Feun Lynn MD;142;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/feun-lynn-md-miami
+Harrington William J MD;143;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/harrington-william-j-md-miami-2
+Ardalan Bach MD;144;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/ardalan-bach-md-miami
+Center For Blood Diseases;145;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/center-for-blood-diseases-miami
+Miami Heart Research Institute;146;;Hospitals;0;801 NW 41st St Miami, FL 33127;25.813931;-80.210269;0;https://www.yelp.com/biz/miami-heart-research-institute-miami
+Byrnes John J MD;147;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/byrnes-john-j-md-miami
+Tang Shou-Ching MD;148;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/tang-shou-ching-md-miami
+Shonukan Oluwatoyin MD;149;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/shonukan-oluwatoyin-md-miami
+Ahn Yeon S MD;150;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/ahn-yeon-s-md-miami
+Raez Luis MD;151;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/raez-luis-md-miami
+Jackson Memorial Hospital-Public Health Trust;152;;Hospitals;0;7900 NW 27th Ave Miami, FL 33147;25.8480991;-80.2435006;0;https://www.yelp.com/biz/jackson-memorial-hospital-public-health-trust-miami
+Goodman Mark MD;153;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/goodman-mark-md-miami
+Richman Stephen P MD;154;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/richman-stephen-p-md-miami
+Franco Sandra X MD;155;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/franco-sandra-x-md-miami
+Rosenblatt Joseph MD;156;;Hospitals;0;1475 NW 12th Ave Miami, FL 33136;25.7888532;-80.2141799;0;https://www.yelp.com/biz/rosenblatt-joseph-md-miami
+Levi Allan DO;157;;Hospitals;0;1095 NW 14th Ter Miami, FL 33136;25.7887365;-80.2121459;0;https://www.yelp.com/biz/levi-allan-do-miami
+Razack Nizam MD;158;1;Hospitals;2.0;1095 NW 14th Ter Miami, FL 33136;25.7887365;-80.2121459;0;https://www.yelp.com/biz/razack-nizam-md-miami
+Psychic Luna;159;;Hospitals;0;N/A Hialeah, FL 33016;25.8925211;-80.3352364;0;https://www.yelp.com/biz/psychic-luna-hialeah
+HealthSouth Rehabilitation Hospital of Miami;160;8;Hospitals;2.5;20601 Old Cutler Rd Cutler Bay, FL 33189;25.5748582962915;-80.340980501178;0;https://www.yelp.com/biz/healthsouth-rehabilitation-hospital-of-miami-cutler-bay
+Laboratory Associates;161;;Hospitals;0;3663 S Miami Ave Miami, FL 33133;25.7400472;-80.2138245;0;https://www.yelp.com/biz/laboratory-associates-miami
+Headache Treatment Center At Cedars;162;;Hospitals;0;1295 NW 14th St Ofc Miami, FL 33125;25.7616798;-80.1917902;0;https://www.yelp.com/biz/headache-treatment-center-at-cedars-miami
+Amt Transcription Services;163;;Hospitals;0;7150 NW 20th Ave Miami, FL 33147;25.8401451;-80.2303431;0;https://www.yelp.com/biz/amt-transcription-services-miami
+Optifast;164;;Hospitals;0;160 NW 170th St North Miami Beach, FL 33169;25.9303951;-80.2035787;0;https://www.yelp.com/biz/optifast-north-miami-beach
+Va Primary Care Clinic;165;1;Hospitals;4.0;950 N Krome Ave Homestead, FL 33030;25.4796638;-80.4777634;0;https://www.yelp.com/biz/va-primary-care-clinic-homestead
+Fox Susan DO Phys;166;;Hospitals,Cardiologists;0;606 W Flagler St Miami, FL 33130;25.773556;-80.204606;0;https://www.yelp.com/biz/fox-susan-do-phys-miami
+Wound Care Center;167;;Hospitals;0;9380 SW 150th St Miami, FL 33176;25.6300243;-80.3455293;0;https://www.yelp.com/biz/wound-care-center-miami
+Stein Gerontological Institute;168;;Hospitals;0;5200 NE 2nd Ave Miami, FL 33137;25.822989;-80.192308;0;https://www.yelp.com/biz/stein-gerontological-institute-miami
+Jmh Managed Care;169;;Hospitals;0;155 S Miami Ave Miami, FL 33130;25.7727364;-80.1933207;0;https://www.yelp.com/biz/jmh-managed-care-miami
+Rolnick Murray S, MD;170;;Doctors,Hospitals;0;20601 Old Cutler Rd Miami, FL 33189;25.574861;-80.341021;0;https://www.yelp.com/biz/rolnick-murray-s-md-miami
+Memorial Cancer Institute;171;2;Oncologist,Hospitals;3.0;1150 North 35th Ave, Ste 330 Hollywood, FL 33021;26.0204249;-80.1792113;0;https://www.yelp.com/biz/memorial-cancer-institute-hollywood
+North Miami Beach Surgical Center;172;;Hospitals;0;120 NE 167th St Miami, FL 33162;25.927695;-80.197839;0;https://www.yelp.com/biz/north-miami-beach-surgical-center-miami
+Millennium Pediatrics;173;;Hospitals;0;13155 SW 42nd St Miami, FL 33175;25.7298918;-80.4070352;0;https://www.yelp.com/biz/millennium-pediatrics-miami-2
+Jackson Memorial Hospital-Public Health Trust;174;;Hospitals;0;16555 NW 25th Ave Hialeah, FL 33015;25.9249406;-80.242615;0;https://www.yelp.com/biz/jackson-memorial-hospital-public-health-trust-hialeah
+Southern Winds Hospital;175;;Hospitals;0;4225 W 20th Ave Hialeah, FL 33012;25.860313;-80.321654;0;https://www.yelp.com/biz/southern-winds-hospital-hialeah
+Manatee Memorial Hospital;176;;Hospitals;0;206 2nd St E Bradenton, FL 34208;25.7761890255675;-80.1902277420978;0;https://www.yelp.com/biz/manatee-memorial-hospital-bradenton-7
+Diabetes Living Better Program of Hialeah Hospital;177;;Hospitals;0;651 E 25th St Hialeah, FL 33013;25.8452013;-80.2684301;0;https://www.yelp.com/biz/diabetes-living-better-program-of-hialeah-hospital-hialeah
+Kindred Hospital South Florida - Ft. Lauderdale;178;6;Hospitals,Occupational Therapy,Physical Therapy;2.0;1516 East Las Olas Blvd Ft. Lauderdale, FL 33301;26.118855;-80.127715;0;https://www.yelp.com/biz/kindred-hospital-south-florida-ft-lauderdale-ft-lauderdale-2
+Maternity Care Center of Ami Palmetto;179;;Hospitals;0;2001 W 68th St Hialeah, FL 33016;25.8857768;-80.3264966;0;https://www.yelp.com/biz/maternity-care-center-of-ami-palmetto-hialeah
+Fort Lauderdale Hospital Cpc;180;2;Hospitals;2.5;1601 E Las Olas Blvd Fort Lauderdale, FL 33301;26.11962;-80.1267359;0;https://www.yelp.com/biz/fort-lauderdale-hospital-cpc-fort-lauderdale
+St. Catherine’s Rehabilitation Hospital;181;2;Hospitals,Retirement Homes,Rehabilitation Center;3.0;1050 NE 125th St North Miami, FL 33161;25.8898973;-80.1772428;0;https://www.yelp.com/biz/st-catherines-rehabilitation-hospital-north-miami
+Ross Medical Group;182;;Hospitals;0;8200 SW 117th Ave Kendall, FL 33183;25.6915088;-80.3824941;0;https://www.yelp.com/biz/ross-medical-group-kendall
+Biomimetics Innovation;183;;Hospitals;0;7950 NW 53rd St Medley, FL 33166;25.8211197;-80.3265651;0;https://www.yelp.com/biz/biomimetics-innovation-medley
+Clinica De Los Pies;184;;Hospitals;0;4930 Palm Ave Hialeah, FL 33012;25.867159;-80.283317;0;https://www.yelp.com/biz/clinica-de-los-pies-hialeah-2
+Life Imaging Inc;185;2;Hospitals,Diagnostic Imaging;5.0;302 NW 179th Ave Pembroke Pines, FL 33026;26.0087598860264;-80.3850658982992;0;https://www.yelp.com/biz/life-imaging-inc-pembroke-pines-2
+South Florida Multi Specialty Assc;186;;Hospitals;0;2845 Aventura Blvd Miami, FL 33180;25.9611868;-80.1445838;0;https://www.yelp.com/biz/south-florida-multi-specialty-assc-miami
+Palmetto Health;187;;Hospitals;0;6750 W 22nd Ct Hialeah, FL 33016;25.883602;-80.328897;0;https://www.yelp.com/biz/palmetto-health-hialeah
+Memorial Hospital Primary Care Center At Miramar;188;;Hospitals;0;6700 Miramar Pkwy Miramar, FL 33023;25.9815506;-80.2199812;0;https://www.yelp.com/biz/memorial-hospital-primary-care-center-at-miramar-miramar
+Aventura Comprehensive Cancer Center;189;;Hospitals;0;20950 NE 27th Ct Miami, FL 33180;25.9701488;-80.1469513;0;https://www.yelp.com/biz/aventura-comprehensive-cancer-center-miami
+Jackson Memorial Hospital-Public Health Trust;190;;Hospitals;0;16555 NW 25th Ave Opa Locka, FL 33054;25.9250716;-80.2410654;0;https://www.yelp.com/biz/jackson-memorial-hospital-public-health-trust-opa-locka-2
+Aventura Hospital Pain Care Center;191;;Hospitals;0;20900 Biscayne Blvd Miami, FL 33180;25.96994;-80.14533;0;https://www.yelp.com/biz/aventura-hospital-pain-care-center-miami
+John A Serpa MD, PA;192;;Hospitals,Anesthesiologists;0;1800 W 68th St Hialeah, FL 33014;25.8831123;-80.3205754;0;https://www.yelp.com/biz/john-a-serpa-md-pa-hialeah-2
+Hale Michael K MD;193;;Doctors,Hospitals;0;2001 W 68th St Hialeah, FL 33016;25.8857768;-80.3264966;0;https://www.yelp.com/biz/hale-michael-k-md-hialeah
+Alvarez Luis O MD;194;;Doctors,Hospitals;0;2001 W 68th St Hialeah, FL 33016;25.8857768;-80.3264966;0;https://www.yelp.com/biz/alvarez-luis-o-md-hialeah
+Hecht Sidney K MD;195;;Doctors,Hospitals;0;2001 W 68th St Hialeah, FL 33016;25.8857768;-80.3264966;0;https://www.yelp.com/biz/hecht-sidney-k-md-hialeah
+R & M Resource Centers;196;;Hospitals;0;113 SW 1st St Dania Beach, FL 33004;26.0504525;-80.1450401;0;https://www.yelp.com/biz/r-and-m-resource-centers-dania-beach
+Homestead Hospital Medical Plaza;197;;Hospitals;0;151 NW 11th St Homestead, FL 33030;25.4813679;-80.4807177;0;https://www.yelp.com/biz/homestead-hospital-medical-plaza-homestead
+Ballinger J R MD;198;;Doctors,Hospitals;0;2001 W 68th St Hialeah, FL 33016;25.8857768;-80.3264966;0;https://www.yelp.com/biz/ballinger-j-r-md-hialeah
+Hollywood Medical Center Rehabilitation Program;199;;Hospitals;0;3600 Washington St Hollywood, FL 33021;26.002091;-80.179912;0;https://www.yelp.com/biz/hollywood-medical-center-rehabilitation-program-hollywood
+Ultra Medical Services;200;;Hospitals,Drugstores;0;17601 NW 78th Ave Hialeah, FL 33015;25.9335824;-80.3265911;0;https://www.yelp.com/biz/ultra-medical-services-hialeah
+Miami Blue Heath;201;;Hospitals;0;7150 W 20th Ave Hialeah, FL 33016;25.8866507;-80.3252863;0;https://www.yelp.com/biz/miami-blue-heath-hialeah-2
+Memorial Hospital;202;;Hospitals;0;801 S Douglas Rd Pembroke Pines, FL 33025;26.003438;-80.262376;0;https://www.yelp.com/biz/memorial-hospital-pembroke-pines
+Urgent Care & Walk-In Center of Silver Lakes;203;5;Hospitals,Urgent Care,Medical Centers;3.0;17901 NW 5th St Pembroke Pines, FL 33029;26.0094175;-80.3850591;0;https://www.yelp.com/biz/urgent-care-and-walk-in-center-of-silver-lakes-pembroke-pines
+Godinez Juan MD;204;;Hospitals,Doctors;0;4306 Alton Rd Miami Beach, FL 33140;25.8153982;-80.1382667;0;https://www.yelp.com/biz/godinez-juan-md-miami-beach
+Cleveland Clinic - Krupa Center;205;1;Hospitals;5.0;3250 Meridian Pkwy Weston, FL 33331;26.0769786;-80.3673377;0;https://www.yelp.com/biz/cleveland-clinic-krupa-center-weston
+Toonkel Leonard M MD;206;;Doctors,Hospitals;0;4300 Alton Rd Miami Beach, FL 33140;25.8131597;-80.1401152;0;https://www.yelp.com/biz/toonkel-leonard-m-md-miami-beach
+Stolzenberg Jerry MD;207;;Hospitals,Doctors;0;4701 N Meridian Ave Miami Beach, FL 33140;25.8229922;-80.1314324;0;https://www.yelp.com/biz/stolzenberg-jerry-md-miami-beach
+Jacobson Lawrence MD;208;;Hospitals,Doctors;0;4300 Alton Rd Miami Beach, FL 33140;25.8131597;-80.1401152;0;https://www.yelp.com/biz/jacobson-lawrence-md-miami-beach
+Blach Laurie MD;209;;Doctors,Hospitals;0;4300 Alton Rd Miami Beach, FL 33140;25.8131597;-80.1401152;0;https://www.yelp.com/biz/blach-laurie-md-miami-beach
+Orthosensor;210;;Hospitals,Orthopedists;0;1855 Griffin Rd Dania Beach, FL 33004;26.0596589;-80.1615187;0;https://www.yelp.com/biz/orthosensor-dania-beach
+Memorial Hospital Walk-In Medical Center;211;1;Hospitals;2.0;801 S Douglas Rd Pembroke Pines, FL 33025;26.003438;-80.262376;0;https://www.yelp.com/biz/memorial-hospital-walk-in-medical-center-pembroke-pines
+Hollywood Medical Center Breast Care Center;212;;Hospitals;0;3600 Washington St Hollywood, FL 33021;26.002091;-80.179912;0;https://www.yelp.com/biz/hollywood-medical-center-breast-care-center-hollywood
+Chris Evert Children’s Hospital At Broward General;213;;Hospitals;0;1600 S Andrews Ave Fort Lauderdale, FL 33316;26.1020436;-80.1407874;0;https://www.yelp.com/biz/chris-evert-childrens-hospital-at-broward-general-fort-lauderdale
+Miami Heart Research Institute;214;;Hospitals;0;801 Arthur Godfrey Rd Miami Beach, FL 33140;25.8141167;-80.133725;0;https://www.yelp.com/biz/miami-heart-research-institute-miami-beach
+Pizza Hut;215;3;Hospitals,Chicken Wings,Pizza;1.5;28640 S Dixie Hwy Homestead, FL 33033;25.5007467;-80.4453473;0;https://www.yelp.com/biz/pizza-hut-homestead-5
+Center For Foot Surgery;216;1;Podiatrists,Hospitals;5.0;201 N University Dr Plantation, FL 33324;26.1231055;-80.2551838;0;https://www.yelp.com/biz/center-for-foot-surgery-plantation
+Pain Center;217;;Hospitals;0;4300 Alton Rd Miami Beach, FL 33140;25.8131597;-80.1401152;0;https://www.yelp.com/biz/pain-center-miami-beach
+North Broward Hospital District;218;;Hospitals;0;303 SE 17th St Fort Lauderdale, FL 33316;26.101307;-80.1395363;0;https://www.yelp.com/biz/north-broward-hospital-district-fort-lauderdale-6
+Kindred Hospital South Florida - Hollywood Subacute Unit;219;;Hospitals;0;1859 Van Buren St Hollywood, FL 33020;26.0098825;-80.1442108;0;https://www.yelp.com/biz/kindred-hospital-south-florida-hollywood-subacute-unit-hollywood-5
+Homestead Hospital Physician Referral Service;220;;Doctors,Hospitals;0;160 NW 13th St Homestead, FL 33030;25.4825823;-80.4807768;0;https://www.yelp.com/biz/homestead-hospital-physician-referral-service-homestead
+Memorial Hospital Share Program;221;;Hospitals;0;3400 N 29th Ave Hollywood, FL 33020;26.0398749;-80.1663375;0;https://www.yelp.com/biz/memorial-hospital-share-program-hollywood
+Hollywood Medical Center;222;;Hospitals;0;3600 Washington St Hollywood, FL 33021;26.002091;-80.179912;0;https://www.yelp.com/biz/hollywood-medical-center-hollywood
+Chris Evert Children’s Hospital;223;;Hospitals;0;1600 S Andrews Ave Fort Lauderdale, FL 33316;26.1020436;-80.1407874;0;https://www.yelp.com/biz/chris-evert-childrens-hospital-fort-lauderdale
+North Broward Hospital District;224;;Hospitals;0;910 SE 17th St Fort Lauderdale, FL 33316;26.0998191;-80.1332433;0;https://www.yelp.com/biz/north-broward-hospital-district-fort-lauderdale-10
+IVFMD;225;2;Hospitals,Fertility;3.0;9900 Stirling Rd Hollywood, FL 33024;26.0441557;-80.2781544;0;https://www.yelp.com/biz/ivfmd-hollywood
+Hospice by the Sea;226;;Hospitals;0;3600 Washington St Hollywood, FL 33021;26.002091;-80.179912;0;https://www.yelp.com/biz/hospice-by-the-sea-hollywood
+Bgmc Childrens Hospital Thrift Shop;227;;Hospitals;0;1507 S Andrews Ave Fort Lauderdale, FL 33316;26.1029517;-80.1428567;0;https://www.yelp.com/biz/bgmc-childrens-hospital-thrift-shop-fort-lauderdale
+Counterpoint Center of Cpc Ft Lauderdale Hospital;228;;Hospitals;0;1601 E Las Olas Blvd Fort Lauderdale, FL 33301;26.11962;-80.1267359;0;https://www.yelp.com/biz/counterpoint-center-of-cpc-ft-lauderdale-hospital-fort-lauderdale
+Asf;229;;Hospitals,Doctors;0;4470 Sheridan St Hollywood, FL 33021;26.0314242;-80.1893582;0;https://www.yelp.com/biz/asf-hollywood
+North Broward Hospital District;230;;Hospitals;0;1101 NW 1st St Fort Lauderdale, FL 33311;26.1230779;-80.1565218;0;https://www.yelp.com/biz/north-broward-hospital-district-fort-lauderdale-4
+North Broward Hospital District;231;;Hospitals;0;1401 S Federal Hwy Fort Lauderdale, FL 33316;26.10441;-80.137567;0;https://www.yelp.com/biz/north-broward-hospital-district-fort-lauderdale-2
+South Florida Hospital & Healthcare Association;232;;Hospitals;0;6030 Hollywood Blvd Hollywood, FL 33024;26.0094907;-80.2092528;0;https://www.yelp.com/biz/south-florida-hospital-and-healthcare-association-hollywood-2
+Larkin Community Hospital;233;1;Hospitals;1.0;1201 North 37th Ave Hollywood, FL 33021;26.0211773;-80.1806619;0;https://www.yelp.com/biz/larkin-community-hospital-hollywood
+DrHQ.com Doctor Headquarters;234;;Hospitals,Medical Centers;0;3900 Hollywood Blvd Hollywood, FL 33021;26.008894;-80.184132;0;https://www.yelp.com/biz/drhq-com-doctor-headquarters-hollywood
+Suncoastl Hospitality;235;;Hospitals;0;2520 Stirling Rd Hollywood, FL 33020;26.046996;-80.158518;0;https://www.yelp.com/biz/suncoastl-hospitality-hollywood
+Samuels Mitchell J DO;236;;Hospitals;0;1051 N 35th Ave Hollywood, FL 33021;26.019817;-80.178334;0;https://www.yelp.com/biz/samuels-mitchell-j-do-hollywood
+Aventura Hospital Outpatint Rhblttn and Ostprss Cn;237;;Hospitals;0;1110 E Hallandale Bch Blvd Hallandale Beach, FL 33009;25.9852937;-80.1363029;0;https://www.yelp.com/biz/aventura-hospital-outpatint-rhblttn-and-ostprss-cn-hallandale-beach
+North Broward Hospital District;238;;Hospitals;0;12 NE 12th Ave Fort Lauderdale, FL 33301;26.1232849;-80.1311286;0;https://www.yelp.com/biz/north-broward-hospital-district-fort-lauderdale-7
+Memorial Primary Care Center-Dania Beach;239;;Hospitals;0;140 S Federal Hwy Dania, FL 33004;26.0489556;-80.1439038;0;https://www.yelp.com/biz/memorial-primary-care-center-dania-beach-dania
+The Village Voice;240;;Home Health Care,Hospitals,Home Cleaning;0;;26.0024871419458;-80.33203125;0;https://www.yelp.com/biz/the-village-voice-pembroke-pines-2
+Diabetes Program at Aventura Hospital & Medical Center;241;;Hospitals;0;20900 Biscayne Blvd Aventura, FL 33180;25.96994;-80.14533;0;https://www.yelp.com/biz/diabetes-program-at-aventura-hospital-and-medical-center-aventura
+Memorial Senior Resource Center-Hollywood;242;;Hospitals;0;7031 Taft St Hollywood, FL 33024;26.0243488;-80.228954;0;https://www.yelp.com/biz/memorial-senior-resource-center-hollywood-hollywood
+Universal Hospital Services;243;;Hospitals;0;7060 W State Road 84 Davie, FL 33317;26.0929734;-80.2406978;0;https://www.yelp.com/biz/universal-hospital-services-davie
+Magnus Jacinta C MD;244;;Hospitals;0;1051 N 35th Ave Hollywood, FL 33021;26.019817;-80.178334;0;https://www.yelp.com/biz/magnus-jacinta-c-md-hollywood
+Iglesia Luterana El Hospital Del Alma;245;;Hospitals;0;29501 SW 152nd Ave Homestead, FL 33033;25.492505;-80.436159;0;https://www.yelp.com/biz/iglesia-luterana-el-hospital-del-alma-homestead
+Vencor Hospital Ft Lauerdale;246;;Hospitals;0;1516 E Las Olas Blvd Fort Lauderdale, FL 33301;26.118855;-80.127715;0;https://www.yelp.com/biz/vencor-hospital-ft-lauerdale-fort-lauderdale
+James A. Krisel;247;;Hospitals;0;6795 Stirling Rd Davie, FL 33314;26.0459386557341;-80.236941576004;0;https://www.yelp.com/biz/james-a-krisel-davie
